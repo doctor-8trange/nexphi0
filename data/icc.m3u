@@ -1,3 +1,35 @@
 #EXTM3U
-#DATE:- 29-04-2026 16:18
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- 29-04-2026 16:27
+#ICC LIVE STREAMS
+#EXTINF:-1 tvg-id="118b8c81-c501-47a1-a37a-d41f9e408b2d" tvg-name="Nepal v Oman (2nd Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fmhnmhdnunobnte5f8dn" group-title="ICC LIVE",Nepal v Oman (2nd Innings) (NEPALI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777485399~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cb27aedc2781bab86e0ba9d4a6a77265497875755db20591471646201ac176c8/manifest.mpd?vcfilter=118b8c81-c501-47a1-a37a-d41f9e408b2d&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com
+#EXTINF:-1 tvg-id="37306d3f-9acb-4f1f-9edc-14a20ff2bb70" tvg-name="Nepal v Oman (2nd Innings) (ENGLISH)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bpuuejhkbcqugtcedvyt" group-title="ICC LIVE",Nepal v Oman (2nd Innings) (ENGLISH)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777485402~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0324e31256d66a3dca2b387f4f7b2167bb4b21c1fffac6a22d89fac5a702ecd0/manifest.mpd?vcfilter=37306d3f-9acb-4f1f-9edc-14a20ff2bb70&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com
+#EXTINF:-1 tvg-id="d958eb1e-3262-470c-9467-8bcfd53e4bdf" tvg-name="USA v Italy" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sjfqojnwcjo7ascjuyxk" group-title="ICC UPCOMING",USA v Italy
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="724bddf9-86c1-4374-bdfe-86f0043d3761" tvg-name="Nepal v Vanuatu" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d0bctv3fbwcgjmtjttz7" group-title="ICC UPCOMING",Nepal v Vanuatu
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="6be31acb-1dca-43f6-b572-d0d286d50be3" tvg-name="United Arab Emirates v Nepal (1st Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vgtuktl4qquskgpftcyc" group-title="ICC UPCOMING",United Arab Emirates v Nepal (1st Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="bf961348-fa75-41af-a3e3-19eb1acdd61f" tvg-name="USA v Rwanda" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lz5zjhtu0xuqd4aabgej" group-title="ICC UPCOMING",USA v Rwanda
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="47c7cdcb-8715-430d-96e8-76083de0c8b4" tvg-name="United Arab Emirates v Nepal (2nd Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lemqrhh1lw71zpcgnld1" group-title="ICC UPCOMING",United Arab Emirates v Nepal (2nd Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="f49cafcd-8abe-40a2-9759-4594165cc732" tvg-name="United Arab Emirates v Nepal (2nd Innings) (ENGLISH)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v4fyc9rbeey4yl0yzg31" group-title="ICC UPCOMING",United Arab Emirates v Nepal (2nd Innings) (ENGLISH)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="db1118d5-4662-4134-80db-c9f5a749731c" tvg-name="Nepal v Italy" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o" group-title="ICC UPCOMING",Nepal v Italy
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="158e5ab1-9185-4eea-acc5-1c6e08bbcc0b" tvg-name="Oman v United Arab Emirates (1st Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzh3tg0rlktn4efegaqe" group-title="ICC UPCOMING",Oman v United Arab Emirates (1st Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="10314736-4815-458d-8adf-4865c1ea64ee" tvg-name="Oman v United Arab Emirates (2nd Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf" group-title="ICC UPCOMING",Oman v United Arab Emirates (2nd Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="5e0d2c5f-1930-4789-98e9-da6f6cb3fc14" tvg-name="Oman v United Arab Emirates (2nd Innings) (ENGLISH)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff" group-title="ICC UPCOMING",Oman v United Arab Emirates (2nd Innings) (ENGLISH)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="e73354bf-0870-44f2-8359-0ea4d8f9eda8" tvg-name="Oman v Nepal (1st Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ven8vmsdzhnqrchxlhvu" group-title="ICC UPCOMING",Oman v Nepal (1st Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="df050451-54a1-449f-836e-2d72de477345" tvg-name="Oman v Nepal (1st Innings) (ENGLISH)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4cep8zuxukrgzkrfap" group-title="ICC UPCOMING",Oman v Nepal (1st Innings) (ENGLISH)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="1560578d-1d8b-44a1-9876-9b88f61fb60f" tvg-name="Oman v Nepal (2nd Innings) (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gdwurzsa1p3ibbegvw54" group-title="ICC UPCOMING",Oman v Nepal (2nd Innings) (NEPALI)
+#NO_PLAYBACK_AVAILABLE
+#EXTINF:-1 tvg-id="7dca3ec0-365b-459e-94e7-192a640b748e" tvg-name="Oman v Nepal (2nd Innings) (ENGLISH)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ojddxbhyi9pmo6jydlym" group-title="ICC UPCOMING",Oman v Nepal (2nd Innings) (ENGLISH)
+#NO_PLAYBACK_AVAILABLE
