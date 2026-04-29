@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ICC Live Matches API",
-  "last_updated": "04:41:37 PM 29-04-2026",
+  "last_updated": "04:46:47 PM 29-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "MULTI_CDN": "OFF",
@@ -1701,7 +1701,7 @@
   ],
   "response": {
     "status": "success",
-    "generated_at": "2026-04-29T16:41:37+05:30",
+    "generated_at": "2026-04-29T16:46:47+05:30",
     "live_matches": [
       {
         "type": "customentity",
