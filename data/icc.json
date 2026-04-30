@@ -1,0 +1,4823 @@
+{
+  "Author": "DOCTOR STRANGE",
+  "Telegram": "https://t.me/jitendraunatti_github",
+  "name": "ICC Live Matches API",
+  "last_updated": "30-04-2026 15:20",
+  "app_settings": {
+    "PROXY": "ON",
+    "MULTI_CDN": "OFF",
+    "Debugging": "ON",
+    "SUB_TYPE": "FREEMIUM",
+    "RECIVER": "OFF",
+    "REALTIME": "ON",
+    "REPLACEMENT": "OFF",
+    "ALL_IN_ONE": "ON",
+    "SERVER_STATUS": "NORMAL"
+  },
+  "live": [],
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "201d81c9-45dd-40db-a7dc-ccd38571e4be",
+      "_entityId": "78ed32e0-ffb5-4a68-882c-3d96215e1a62",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-vanuatu",
+      "slug": "nepal-v-vanuatu",
+      "title": "Nepal v Vanuatu",
+      "tags": [
+        {
+          "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+          "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+          "title": "ICC Women's T20I Challenge Trophy, 2026",
+          "slug": "tournament-15516",
+          "neutralSlug": "tournament-15516",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15516",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15516",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "29b1b835-a0df-4743-bb3b-bc378365e265",
+          "_entityId": "6cbb11ca-ffed-40b3-b1d1-29e7052adcae",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270511",
+          "title": "Nepal vs Vanuatu - Match 18 - 4/30/2026",
+          "slug": "match-270511",
+          "neutralSlug": "match-270511",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270511",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270511",
+            "teamA": "Nepal",
+            "teamB": "Vanuatu",
+            "teamAid": "1535",
+            "teamBid": "1722",
+            "teamAshort": "NEP",
+            "teamBshort": "VAN",
+            "stage": "League",
+            "matchDateLocal": "4/30/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 18",
+            "seriesId": "15516",
+            "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12496",
+            "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "nepal-vs-vanuatu",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "724bddf9-86c1-4374-bdfe-86f0043d3761",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-04-30T11:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-18T07:00:00.82Z",
+      "contentDate": "2026-04-10T11:45:09.444Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Challenge_Match18",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d0bctv3fbwcgjmtjttz7",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d0bctv3fbwcgjmtjttz7",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-challenge-match18",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match18"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "7ec6f496-e37d-42c4-b42c-d852ea533a47",
+      "_entityId": "cbdc7865-0c03-42ea-8d16-5cbd23e052c9",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-1st-innings-nepali",
+      "slug": "united-arab-emirates-v-nepal-1st-innings-nepali",
+      "title": "United Arab Emirates v Nepal (1st Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+          "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+          "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+          "slug": "match-270457",
+          "neutralSlug": "match-270457",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270457",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270457",
+            "teamA": "Nepal",
+            "teamB": "United Arab Emirates",
+            "teamAid": "637",
+            "teamBid": "21",
+            "teamAshort": "NEP",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 101",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "6be31acb-1dca-43f6-b572-d0d286d50be3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T03:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:47:56.213Z",
+      "contentDate": "2026-04-23T09:46:54.016Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match4.1(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vgtuktl4qquskgpftcyc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vgtuktl4qquskgpftcyc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match4-1-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match4-1-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "590a5e0b-4381-4f37-8b4b-1c02491ca477",
+      "_entityId": "c120e100-226c-42e6-9ff6-0be74c888c36",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-rwanda",
+      "slug": "usa-v-rwanda",
+      "title": "USA v Rwanda",
+      "tags": [
+        {
+          "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+          "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+          "title": "ICC Women's T20I Challenge Trophy, 2026",
+          "slug": "tournament-15516",
+          "neutralSlug": "tournament-15516",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15516",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15516",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "da8bed48-6a54-42f5-abeb-15b8aa985c58",
+          "_entityId": "40f78d4b-e250-4b8e-926e-e08b46eb35e1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270512",
+          "title": "Rwanda vs USA - Match 19 - 5/1/2026",
+          "slug": "match-270512",
+          "neutralSlug": "match-270512",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270512",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270512",
+            "teamA": "Rwanda",
+            "teamB": "USA",
+            "teamAid": "1758",
+            "teamBid": "1725",
+            "teamAshort": "RWA",
+            "teamBshort": "USA",
+            "stage": "League",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 19",
+            "seriesId": "15516",
+            "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12496",
+            "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "rwanda-vs-usa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "bf961348-fa75-41af-a3e3-19eb1acdd61f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T07:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-18T07:00:21.151Z",
+      "contentDate": "2026-04-10T11:53:52.82Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Challenge_Match19",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lz5zjhtu0xuqd4aabgej",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lz5zjhtu0xuqd4aabgej",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-challenge-match19",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match19"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c9277007-8615-445c-936e-7c4f9dc8f894",
+      "_entityId": "23a5b979-8a62-402d-afe0-c1684c16dc89",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-2nd-innings-nepali",
+      "slug": "united-arab-emirates-v-nepal-2nd-innings-nepali",
+      "title": "United Arab Emirates v Nepal (2nd Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+          "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+          "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+          "slug": "match-270457",
+          "neutralSlug": "match-270457",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270457",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270457",
+            "teamA": "Nepal",
+            "teamB": "United Arab Emirates",
+            "teamAid": "637",
+            "teamBid": "21",
+            "teamAshort": "NEP",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 101",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "47c7cdcb-8715-430d-96e8-76083de0c8b4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:48:21.364Z",
+      "contentDate": "2026-04-23T09:47:28.989Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match4.2(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lemqrhh1lw71zpcgnld1",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lemqrhh1lw71zpcgnld1",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match4-2-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match4-2-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3170dd6c-d93a-40bd-9036-8bd5c04bf2bf",
+      "_entityId": "3e14ef58-49c7-4f1b-a32c-37aa0c1e6850",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-2nd-innings",
+      "slug": "united-arab-emirates-v-nepal-2nd-innings",
+      "title": "United Arab Emirates v Nepal (2nd Innings) (ENGLISH)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+          "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+          "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+          "slug": "match-270457",
+          "neutralSlug": "match-270457",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270457",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270457",
+            "teamA": "Nepal",
+            "teamB": "United Arab Emirates",
+            "teamAid": "637",
+            "teamBid": "21",
+            "teamAshort": "NEP",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 101",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "f49cafcd-8abe-40a2-9759-4594165cc732",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-23T09:32:47.067Z",
+      "contentDate": "2026-04-20T10:59:03.132Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2_Match6.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v4fyc9rbeey4yl0yzg31",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v4fyc9rbeey4yl0yzg31",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-match6-2-x2263",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match6-2-x2263"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3b2767bc-6d34-4c15-9fb3-a1a7d7cce6c1",
+      "_entityId": "d1a7afac-c81f-4565-83d5-9c40280c84d1",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-t20i-germany-v-austria",
+      "slug": "1st-t20i-germany-v-austria",
+      "title": "1st T20I: Germany v Austria",
+      "tags": [
+        {
+          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+          "title": "Austria in Germany, 5 T20I Series, 2026",
+          "slug": "tournament-15540",
+          "neutralSlug": "tournament-15540",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15540",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15540",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9e0ff838-03ad-4e16-b714-43f159acc4ec",
+          "_entityId": "668ca03b-ecbf-48fd-ac14-0236480079a1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270726",
+          "title": "Germany vs Austria - 1st T20I - 5/1/2026",
+          "slug": "match-270726",
+          "neutralSlug": "match-270726",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270726",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270726",
+            "teamA": "Germany",
+            "teamB": "Austria",
+            "teamAid": "1822",
+            "teamBid": "1723",
+            "teamAshort": "GER",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "T20",
+            "matchNumber": "1st T20I",
+            "seriesId": "15540",
+            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12517",
+            "tourName": "Austria tour of Germany, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "germany-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3d88f577-f414-4f00-abaf-9da7c6098816",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "DE"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:15:25.021Z",
+      "contentDate": "2026-04-30T08:15:25.021Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "1st T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/eblibjzk13sa0rvrxbda",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/eblibjzk13sa0rvrxbda",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "1st-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "f5810bdd-ec4b-4208-bbb5-18a9797ff50d",
+      "_entityId": "3174b24a-fbc0-47ec-81b4-db5f6b228422",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-italy",
+      "slug": "nepal-v-italy",
+      "title": "Nepal v Italy",
+      "tags": [
+        {
+          "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+          "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+          "title": "ICC Women's T20I Challenge Trophy, 2026",
+          "slug": "tournament-15516",
+          "neutralSlug": "tournament-15516",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15516",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15516",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7ff3812f-f354-4c6b-9c1b-f00a5607df68",
+          "_entityId": "76573c8c-37f8-48c4-8463-b7bff00d62d1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270513",
+          "title": "Italy vs Nepal - Match 20 - 5/1/2026",
+          "slug": "match-270513",
+          "neutralSlug": "match-270513",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270513",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270513",
+            "teamA": "Italy",
+            "teamB": "Nepal",
+            "teamAid": "1802",
+            "teamBid": "1535",
+            "teamAshort": "ITA",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 20",
+            "seriesId": "15516",
+            "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12496",
+            "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "italy-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "db1118d5-4662-4134-80db-c9f5a749731c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T11:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-18T07:00:37.216Z",
+      "contentDate": "2026-04-10T11:49:30.861Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Challenge_Match20",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vyxue58fuxoiwarzoq7o",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-challenge-match20",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match20"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "320a2b08-e813-4717-b3b7-b8dbb5473be1",
+      "_entityId": "f61a7f2c-872a-42a6-a39d-81c6ee919e94",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-t20i-germany-v-austria",
+      "slug": "2nd-t20i-germany-v-austria",
+      "title": "2nd T20I: Germany v Austria",
+      "tags": [
+        {
+          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+          "title": "Austria in Germany, 5 T20I Series, 2026",
+          "slug": "tournament-15540",
+          "neutralSlug": "tournament-15540",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15540",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15540",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8e216210-3520-4eb3-baac-6f59c41dbaf3",
+          "_entityId": "2797133e-7c85-4c56-986b-84478fe67656",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270732",
+          "title": "Germany vs Austria - 2nd T20I - 5/1/2026",
+          "slug": "match-270732",
+          "neutralSlug": "match-270732",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270732",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270732",
+            "teamA": "Germany",
+            "teamB": "Austria",
+            "teamAid": "1822",
+            "teamBid": "1723",
+            "teamAshort": "GER",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "5/1/2026",
+            "matchType": "T20",
+            "matchNumber": "2nd T20I",
+            "seriesId": "15540",
+            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12517",
+            "tourName": "Austria tour of Germany, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "germany-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "b1450df7-9f8c-43aa-ab39-ad883116378e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-01T13:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "DE"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:15:43.716Z",
+      "contentDate": "2026-04-30T08:15:43.716Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "2nd T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/z0fuupeq7e7aavy3y9ie",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z0fuupeq7e7aavy3y9ie",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "2nd-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "39c806d5-c231-457c-bd47-934d0d4ce892",
+      "_entityId": "665ad9f4-6eb1-4152-9e51-a5cbc280d19a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-kansai",
+      "slug": "east-kanto-v-kansai",
+      "title": "East Kanto v Kansai",
+      "tags": [],
+      "fields": {
+        "videoId": "b4de478d-f059-4b04-be60-ce609359e1f1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T01:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:33:02.899Z",
+      "contentDate": "2026-04-30T08:33:02.899Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "2nd match - East Kanto vs Kansai",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bhtl8rb5x4ptv7rgeayb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhtl8rb5x4ptv7rgeayb",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "2nd-match-east-kanto-vs-kansai",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-match-east-kanto-vs-kansai"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8f8d3fbf-d16a-4600-bd6c-6c1aaef97299",
+      "_entityId": "f7827a13-33d1-4db8-bd97-bc0aade5cc94",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-south-kanto",
+      "slug": "north-kanto-v-south-kanto",
+      "title": "North Kanto v South Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "f02d7e9d-5ce8-4d56-ac9a-e67aae91c7dc",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T01:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:31:41.54Z",
+      "contentDate": "2026-04-30T08:31:41.54Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "1st match - north ka to vs south ka to",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/syb6wsoq6ja2otd4jstx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/syb6wsoq6ja2otd4jstx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "1st-match-north-ka-to-vs-south-ka-to",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-match-north-ka-to-vs-south-ka-to"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "1acf9f9d-017b-4ac8-a503-ef8934ed56fb",
+      "_entityId": "a9a4eac1-8ee2-4725-8572-2b2ded6bcd93",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-north-kanto",
+      "slug": "east-kanto-v-north-kanto",
+      "title": "East Kanto v North Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "5965f1e2-b9be-4fc3-a0f6-840bc139584e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:34:07.641Z",
+      "contentDate": "2026-04-30T08:34:07.641Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "4th Match - East Kanto vs North Kanto",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/j5lu4qp67zuwbiclmcdm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j5lu4qp67zuwbiclmcdm",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "4th-match-east-kanto-vs-north-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-match-east-kanto-vs-north-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "2533b246-14a6-4cd6-8a62-a173178a23e3",
+      "_entityId": "44a18c33-6419-4928-86b7-a3da0bda6677",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/west-kanto-v-kansai",
+      "slug": "west-kanto-v-kansai",
+      "title": "West Kanto v Kansai",
+      "tags": [],
+      "fields": {
+        "videoId": "b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:33:39.871Z",
+      "contentDate": "2026-04-30T08:33:39.871Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd match - West Kanto vs Kansai ",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rmg6j0suaubh6jhxjwjn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rmg6j0suaubh6jhxjwjn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "3rd-match-west-kanto-vs-kansai",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-match-west-kanto-vs-kansai"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "767fa07b-7c66-490e-a5e8-722aa9d522e1",
+      "_entityId": "832abef9-2a0c-4e79-91f9-8eb69316a7b6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-germany-v-austria",
+      "slug": "3rd-t20i-germany-v-austria",
+      "title": "3rd T20I: Germany v Austria",
+      "tags": [
+        {
+          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+          "title": "Austria in Germany, 5 T20I Series, 2026",
+          "slug": "tournament-15540",
+          "neutralSlug": "tournament-15540",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15540",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15540",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9cd81f93-dc13-40fc-8fd1-2a77615b7e7a",
+          "_entityId": "0ed128ab-50d9-404f-bee6-74af82d7fdf0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270733",
+          "title": "Germany vs Austria - 3rd T20I - 5/2/2026",
+          "slug": "match-270733",
+          "neutralSlug": "match-270733",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270733",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270733",
+            "teamA": "Germany",
+            "teamB": "Austria",
+            "teamAid": "1822",
+            "teamBid": "1723",
+            "teamAshort": "GER",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "5/2/2026",
+            "matchType": "T20",
+            "matchNumber": "3rd T20I",
+            "seriesId": "15540",
+            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12517",
+            "tourName": "Austria tour of Germany, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "germany-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a4def50c-d8ff-406d-88ac-8a29a78f33db",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "DE"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:15:56.519Z",
+      "contentDate": "2026-04-30T08:15:56.519Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqfvlwjupkl2svkmsvm0",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqfvlwjupkl2svkmsvm0",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "3rd-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "1a39b6b2-22ba-4dee-9a12-d2bfa593bacc",
+      "_entityId": "59d7cc7d-a92a-44dd-8705-64d1af47d610",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-t20i-germany-v-austria",
+      "slug": "4th-t20i-germany-v-austria",
+      "title": "4th T20I: Germany v Austria",
+      "tags": [
+        {
+          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+          "title": "Austria in Germany, 5 T20I Series, 2026",
+          "slug": "tournament-15540",
+          "neutralSlug": "tournament-15540",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15540",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15540",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b2cd7459-1972-4f6a-a55d-b11ec3da1439",
+          "_entityId": "b4e6eb1c-3e2c-4e5c-a66b-45f7d27dd467",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270735",
+          "title": "Germany vs Austria - 4th T20I - 5/2/2026",
+          "slug": "match-270735",
+          "neutralSlug": "match-270735",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270735",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270735",
+            "teamA": "Germany",
+            "teamB": "Austria",
+            "teamAid": "1822",
+            "teamBid": "1723",
+            "teamAshort": "GER",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "5/2/2026",
+            "matchType": "T20",
+            "matchNumber": "4th T20I",
+            "seriesId": "15540",
+            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12517",
+            "tourName": "Austria tour of Germany, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "germany-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "bee01225-504e-42b7-9fd9-5939c27726a1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-02T13:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "DE"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:16:13.331Z",
+      "contentDate": "2026-04-30T08:16:13.331Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "4th T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/k9ncli2aysnmxk3rx0qw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/k9ncli2aysnmxk3rx0qw",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "4th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ec249bdd-3008-40fd-8011-bf77ce558fa5",
+      "_entityId": "4f199921-deb0-4b37-9334-23f90bd03a6b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kansai-v-south-kanto",
+      "slug": "kansai-v-south-kanto",
+      "title": "Kansai v South Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "26637a94-58e8-4362-a7f6-dad0711f6b35",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T01:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:35:08.474Z",
+      "contentDate": "2026-04-30T08:35:08.474Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "6th Match - Kansai vs South Kanto",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ipflblozqpcxvjdwo5um",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ipflblozqpcxvjdwo5um",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "6th-match-kansai-vs-south-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/6th-match-kansai-vs-south-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3399558e-6836-4585-b07e-f13dbebf6504",
+      "_entityId": "b0d24afb-d35c-4985-bbde-568c38568141",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/west-kanto-v-east-kanto",
+      "slug": "west-kanto-v-east-kanto",
+      "title": "West Kanto v East Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "cbf1a0d7-5944-42f4-a0f6-5314062808d2",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T01:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:34:41.58Z",
+      "contentDate": "2026-04-30T08:34:41.58Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "5th match - West Kanto vs East Kanto ",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/scavdg1c3i2typ6dlsfz",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scavdg1c3i2typ6dlsfz",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "5th-match-west-kanto-vs-east-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-match-west-kanto-vs-east-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "abd3d9c6-4b6c-42ed-8588-e7190278183d",
+      "_entityId": "07cac20e-cba4-41c0-836d-fdd7f982a8c8",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings-nepali",
+      "slug": "oman-v-united-arab-emirates-1st-innings-nepali",
+      "title": "Oman v United Arab Emirates (1st Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+          "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+          "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+          "slug": "match-270458",
+          "neutralSlug": "match-270458",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270458",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270458",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 102",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "158e5ab1-9185-4eea-acc5-1c6e08bbcc0b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T03:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:49:38.67Z",
+      "contentDate": "2026-04-23T09:49:29.115Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match5.1(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hzh3tg0rlktn4efegaqe",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzh3tg0rlktn4efegaqe",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match5-1-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-1-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ed54c141-7be0-44f7-b874-18b4b1644ebd",
+      "_entityId": "51339d15-9234-4256-a69c-8eb21465bbcb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-kanto-v-west-kanto",
+      "slug": "south-kanto-v-west-kanto",
+      "title": "South Kanto v West Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "383130af-6fb4-4b3b-8413-03feb4bdb4fc",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:36:25.281Z",
+      "contentDate": "2026-04-30T08:36:25.281Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "8th Match - South Kanto vs West Kanto",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qy6wgv9szbgfyu7fofpx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qy6wgv9szbgfyu7fofpx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "8th-match-south-kanto-vs-west-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/8th-match-south-kanto-vs-west-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a47bcff7-4a7b-4a08-b811-0d52d5e647e9",
+      "_entityId": "31238943-f250-4855-ac86-270350c5b7c4",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kansai-v-north-kanto",
+      "slug": "kansai-v-north-kanto",
+      "title": "Kansai v North Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "cc6f09d9-0ee5-4c2d-bb1d-a579fa628093",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:35:59.666Z",
+      "contentDate": "2026-04-30T08:35:59.666Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "7th Match - Kansai vs North Kanto",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ae5witsxehdzj42kd4q8",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ae5witsxehdzj42kd4q8",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "7th-match-kansai-vs-north-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-match-kansai-vs-north-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "453987c1-b150-46de-b58d-b782727fb2cb",
+      "_entityId": "977b05d7-7df0-4115-9d81-a6b4a90ddd68",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings-nepali",
+      "slug": "oman-v-united-arab-emirates-2nd-innings-nepali",
+      "title": "Oman v United Arab Emirates (2nd Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+          "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+          "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+          "slug": "match-270458",
+          "neutralSlug": "match-270458",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270458",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270458",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 102",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "10314736-4815-458d-8adf-4865c1ea64ee",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:50:03.355Z",
+      "contentDate": "2026-04-23T09:49:57.349Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match5.2(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/clz6tufof1fdxwiydunf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match5-2-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-2-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "2cd082cd-acc2-4026-8bdd-6bc246624235",
+      "_entityId": "7fd603da-a8bb-487e-bc94-60ba27e2a4e6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
+      "slug": "oman-v-united-arab-emirates-2nd-innings",
+      "title": "Oman v United Arab Emirates (2nd Innings) (ENGLISH)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+          "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+          "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+          "slug": "match-270458",
+          "neutralSlug": "match-270458",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270458",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270458",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 102",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5e0d2c5f-1930-4789-98e9-da6f6cb3fc14",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-23T09:34:01.694Z",
+      "contentDate": "2026-04-20T11:09:24.05Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2_Match2.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bdxazlxd5iaonirvnpff",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-match2-2-x9476",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match2-2-x9476"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "67541d16-6021-4ecc-8002-312893ccc4cf",
+      "_entityId": "e7a130cd-fa84-4848-83fd-519b9d2092b8",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-t20i-germany-v-austria",
+      "slug": "5th-t20i-germany-v-austria",
+      "title": "5th T20I: Germany v Austria",
+      "tags": [
+        {
+          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+          "title": "Austria in Germany, 5 T20I Series, 2026",
+          "slug": "tournament-15540",
+          "neutralSlug": "tournament-15540",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15540",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15540",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "aaea4244-0e0f-4f22-bfb9-5159ce37c0a1",
+          "_entityId": "659a6430-545f-4ae5-b381-3ec4af1e458a",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270736",
+          "title": "Germany vs Austria - 5th T20I - 5/3/2026",
+          "slug": "match-270736",
+          "neutralSlug": "match-270736",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270736",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270736",
+            "teamA": "Germany",
+            "teamB": "Austria",
+            "teamAid": "1822",
+            "teamBid": "1723",
+            "teamAshort": "GER",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "5/3/2026",
+            "matchType": "T20",
+            "matchNumber": "5th T20I",
+            "seriesId": "15540",
+            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12517",
+            "tourName": "Austria tour of Germany, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "germany-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "4d19aa3d-2e4b-4c6e-b843-fd50a400cede",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-03T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "DE"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:16:23.929Z",
+      "contentDate": "2026-04-30T08:16:23.929Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "5th T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/n3pp29pirsumdxmjmxkp",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n3pp29pirsumdxmjmxkp",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "5th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6cd6b8d5-bf74-4a58-b730-8f35d46347ad",
+      "_entityId": "e6c25dba-2787-4407-bc4f-95e50df2a585",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-west-kanto",
+      "slug": "north-kanto-v-west-kanto",
+      "title": "North Kanto v West Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "511333d1-a75c-4916-8b58-2241c33ca6fd",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T01:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:37:30.635Z",
+      "contentDate": "2026-04-30T08:37:30.635Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "10th Match - North Kanto vs West Kanto ",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nl5hwix0nip73demncfy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nl5hwix0nip73demncfy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "10th-match-north-kanto-vs-west-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/10th-match-north-kanto-vs-west-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4a01c49f-02d2-4f73-81c3-fb1cbec0a482",
+      "_entityId": "41abbb0c-1960-4849-90d8-7abccfaa5443",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-kanto-v-east-kanto",
+      "slug": "south-kanto-v-east-kanto",
+      "title": "South Kanto v East Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "78b82138-2e3d-42e6-acae-e8828598079d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T01:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:36:58.825Z",
+      "contentDate": "2026-04-30T08:36:58.825Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "9th Match - South Kanto vs East Kanto",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/emeqv2hxd9h2gtxzhdwi",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/emeqv2hxd9h2gtxzhdwi",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "9th-match-south-kanto-vs-east-kanto",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/9th-match-south-kanto-vs-east-kanto"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "93b515b5-2233-4431-8449-a4719035e0ce",
+      "_entityId": "171ae094-00e5-463c-99e1-521b69fe9656",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-place-playoff-3rd-v-4th",
+      "slug": "3rd-place-playoff-3rd-v-4th",
+      "title": "3rd Place Playoff: 3rd v 4th",
+      "tags": [],
+      "fields": {
+        "videoId": "5a846c86-4a24-48ec-b82b-ded21f1db910",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:38:34.737Z",
+      "contentDate": "2026-04-30T08:38:34.737Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "file_00000000bb7c720bbe6547edea01c967",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvagv7gdvgbrwnsdk9fk",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvagv7gdvgbrwnsdk9fk",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "file-00000000bb7c720bbe6547edea01c967",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/file-00000000bb7c720bbe6547edea01c967"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4cf70077-d4a7-41b8-8496-808a4bd7e979",
+      "_entityId": "fd03ecca-eeb4-414c-9ee5-9f6785e51893",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final-1st-v-2nd",
+      "slug": "final-1st-v-2nd",
+      "title": "Final: 1st v 2nd",
+      "tags": [],
+      "fields": {
+        "videoId": "8ba882db-5e88-4bbf-bb94-7c6614e2ee1e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-04-30T08:38:48.896Z",
+      "contentDate": "2026-04-30T08:37:56.652Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "IMG-20260429-WA0052",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dly15zu0lms2zdvpgyst",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dly15zu0lms2zdvpgyst",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "img-20260429-wa0052",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/img-20260429-wa0052"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "2a6287b5-a1c1-4650-b655-3776e7cfc586",
+      "_entityId": "77549193-7080-467d-95fa-33a85b814ba3",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-1st-innings-nepali",
+      "slug": "oman-v-nepal-1st-innings-nepali",
+      "title": "Oman v Nepal (1st Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+          "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+          "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+          "slug": "match-270459",
+          "neutralSlug": "match-270459",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270459",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270459",
+            "teamA": "Nepal",
+            "teamB": "Oman",
+            "teamAid": "637",
+            "teamBid": "28",
+            "teamAshort": "NEP",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 103",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e73354bf-0870-44f2-8359-0ea4d8f9eda8",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-05T03:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:51:41.466Z",
+      "contentDate": "2026-04-23T09:51:21.448Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match6.1(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ven8vmsdzhnqrchxlhvu",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ven8vmsdzhnqrchxlhvu",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match6-1-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match6-1-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "953a4a34-53e2-416f-9eca-0d9ccc9f4f1a",
+      "_entityId": "17c1d5d8-e667-423b-afe4-04bb060ff449",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-1st-innings",
+      "slug": "oman-v-nepal-1st-innings",
+      "title": "Oman v Nepal (1st Innings) (ENGLISH)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+          "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+          "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+          "slug": "match-270459",
+          "neutralSlug": "match-270459",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270459",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270459",
+            "teamA": "Nepal",
+            "teamB": "Oman",
+            "teamAid": "637",
+            "teamBid": "28",
+            "teamAshort": "NEP",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 103",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "df050451-54a1-449f-836e-2d72de477345",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-05T03:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-04-23T09:34:54.524Z",
+      "contentDate": "2026-04-20T11:18:25.05Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2_Match1.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yn4cep8zuxukrgzkrfap",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4cep8zuxukrgzkrfap",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-match1-1-x4104",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match1-1-x4104"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "bfd765a1-2c34-4382-bb26-a7e75af70079",
+      "_entityId": "a47dda32-7d5a-4ae5-b68d-a0defe4eaa9d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-2nd-innings-nepali",
+      "slug": "oman-v-nepal-2nd-innings-nepali",
+      "title": "Oman v Nepal (2nd Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+          "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+          "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+          "slug": "match-270459",
+          "neutralSlug": "match-270459",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270459",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270459",
+            "teamA": "Nepal",
+            "teamB": "Oman",
+            "teamAid": "637",
+            "teamBid": "28",
+            "teamAshort": "NEP",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 103",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1560578d-1d8b-44a1-9876-9b88f61fb60f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-05T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:52:41.336Z",
+      "contentDate": "2026-04-23T09:52:22.738Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP_Match6.2(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gdwurzsa1p3ibbegvw54",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gdwurzsa1p3ibbegvw54",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-match6-2-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match6-2-nep"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "f51d16c1-43ba-4903-aad3-ba279f406d69",
+      "_entityId": "c439f3cb-48c8-44e4-9c65-8610aba85b26",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-2nd-innings",
+      "slug": "oman-v-nepal-2nd-innings",
+      "title": "Oman v Nepal (2nd Innings) (ENGLISH)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+          "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+          "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+          "slug": "match-270459",
+          "neutralSlug": "match-270459",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270459",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270459",
+            "teamA": "Nepal",
+            "teamB": "Oman",
+            "teamAid": "637",
+            "teamBid": "28",
+            "teamAshort": "NEP",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "5/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 103",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7dca3ec0-365b-459e-94e7-192a640b748e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-05T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-04-23T09:56:11.539Z",
+      "contentDate": "2026-04-20T11:18:53.499Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2_Match1.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ojddxbhyi9pmo6jydlym",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ojddxbhyi9pmo6jydlym",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-match1-2-x8229",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match1-2-x8229"
+      },
+      "entityCode": "video"
+    }
+  ],
+  "response": {
+    "status": "success",
+    "generated_at": "2026-04-30T15:20:03+05:30",
+    "live_matches": [],
+    "upcoming_matches": [
+      {
+        "type": "customentity",
+        "_translationId": "201d81c9-45dd-40db-a7dc-ccd38571e4be",
+        "_entityId": "78ed32e0-ffb5-4a68-882c-3d96215e1a62",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-vanuatu",
+        "slug": "nepal-v-vanuatu",
+        "title": "Nepal v Vanuatu",
+        "tags": [
+          {
+            "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+            "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+            "title": "ICC Women's T20I Challenge Trophy, 2026",
+            "slug": "tournament-15516",
+            "neutralSlug": "tournament-15516",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15516",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15516",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "29b1b835-a0df-4743-bb3b-bc378365e265",
+            "_entityId": "6cbb11ca-ffed-40b3-b1d1-29e7052adcae",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270511",
+            "title": "Nepal vs Vanuatu - Match 18 - 4/30/2026",
+            "slug": "match-270511",
+            "neutralSlug": "match-270511",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270511",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270511",
+              "teamA": "Nepal",
+              "teamB": "Vanuatu",
+              "teamAid": "1535",
+              "teamBid": "1722",
+              "teamAshort": "NEP",
+              "teamBshort": "VAN",
+              "stage": "League",
+              "matchDateLocal": "4/30/2026",
+              "matchType": "T20",
+              "matchNumber": "Match 18",
+              "seriesId": "15516",
+              "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesType": "Tournament",
+              "tourId": "12496",
+              "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "seoName": "nepal-vs-vanuatu",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "724bddf9-86c1-4374-bdfe-86f0043d3761",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-04-30T11:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-18T07:00:00.82Z",
+        "contentDate": "2026-04-10T11:45:09.444Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_Womens-Challenge_Match18",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d0bctv3fbwcgjmtjttz7",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d0bctv3fbwcgjmtjttz7",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-womens-challenge-match18",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match18"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "7ec6f496-e37d-42c4-b42c-d852ea533a47",
+        "_entityId": "cbdc7865-0c03-42ea-8d16-5cbd23e052c9",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-1st-innings-nepali",
+        "slug": "united-arab-emirates-v-nepal-1st-innings-nepali",
+        "title": "United Arab Emirates v Nepal (1st Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+            "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+            "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+            "slug": "match-270457",
+            "neutralSlug": "match-270457",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270457",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270457",
+              "teamA": "Nepal",
+              "teamB": "United Arab Emirates",
+              "teamAid": "637",
+              "teamBid": "21",
+              "teamAshort": "NEP",
+              "teamBshort": "UAE",
+              "stage": "League",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 101",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-united-arab-emirates",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "6be31acb-1dca-43f6-b572-d0d286d50be3",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T03:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:47:56.213Z",
+        "contentDate": "2026-04-23T09:46:54.016Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match4.1(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vgtuktl4qquskgpftcyc",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vgtuktl4qquskgpftcyc",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match4-1-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match4-1-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "590a5e0b-4381-4f37-8b4b-1c02491ca477",
+        "_entityId": "c120e100-226c-42e6-9ff6-0be74c888c36",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-rwanda",
+        "slug": "usa-v-rwanda",
+        "title": "USA v Rwanda",
+        "tags": [
+          {
+            "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+            "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+            "title": "ICC Women's T20I Challenge Trophy, 2026",
+            "slug": "tournament-15516",
+            "neutralSlug": "tournament-15516",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15516",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15516",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "da8bed48-6a54-42f5-abeb-15b8aa985c58",
+            "_entityId": "40f78d4b-e250-4b8e-926e-e08b46eb35e1",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270512",
+            "title": "Rwanda vs USA - Match 19 - 5/1/2026",
+            "slug": "match-270512",
+            "neutralSlug": "match-270512",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270512",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270512",
+              "teamA": "Rwanda",
+              "teamB": "USA",
+              "teamAid": "1758",
+              "teamBid": "1725",
+              "teamAshort": "RWA",
+              "teamBshort": "USA",
+              "stage": "League",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "T20",
+              "matchNumber": "Match 19",
+              "seriesId": "15516",
+              "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesType": "Tournament",
+              "tourId": "12496",
+              "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "seoName": "rwanda-vs-usa",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "bf961348-fa75-41af-a3e3-19eb1acdd61f",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T07:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-18T07:00:21.151Z",
+        "contentDate": "2026-04-10T11:53:52.82Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_Womens-Challenge_Match19",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lz5zjhtu0xuqd4aabgej",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lz5zjhtu0xuqd4aabgej",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-womens-challenge-match19",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match19"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "c9277007-8615-445c-936e-7c4f9dc8f894",
+        "_entityId": "23a5b979-8a62-402d-afe0-c1684c16dc89",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-2nd-innings-nepali",
+        "slug": "united-arab-emirates-v-nepal-2nd-innings-nepali",
+        "title": "United Arab Emirates v Nepal (2nd Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+            "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+            "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+            "slug": "match-270457",
+            "neutralSlug": "match-270457",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270457",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270457",
+              "teamA": "Nepal",
+              "teamB": "United Arab Emirates",
+              "teamAid": "637",
+              "teamBid": "21",
+              "teamAshort": "NEP",
+              "teamBshort": "UAE",
+              "stage": "League",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 101",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-united-arab-emirates",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "47c7cdcb-8715-430d-96e8-76083de0c8b4",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:48:21.364Z",
+        "contentDate": "2026-04-23T09:47:28.989Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match4.2(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lemqrhh1lw71zpcgnld1",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lemqrhh1lw71zpcgnld1",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match4-2-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match4-2-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "3170dd6c-d93a-40bd-9036-8bd5c04bf2bf",
+        "_entityId": "3e14ef58-49c7-4f1b-a32c-37aa0c1e6850",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-nepal-2nd-innings",
+        "slug": "united-arab-emirates-v-nepal-2nd-innings",
+        "title": "United Arab Emirates v Nepal (2nd Innings) (ENGLISH)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "910f24fd-f337-4be8-be92-3a651515336c",
+            "_entityId": "4fe59e1a-4afa-4ad7-bbf6-9f629a18c3c6",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270457",
+            "title": "Nepal vs United Arab Emirates - Match 101 - 5/1/2026",
+            "slug": "match-270457",
+            "neutralSlug": "match-270457",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270457",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270457",
+              "teamA": "Nepal",
+              "teamB": "United Arab Emirates",
+              "teamAid": "637",
+              "teamBid": "21",
+              "teamAshort": "NEP",
+              "teamBshort": "UAE",
+              "stage": "League",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 101",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-united-arab-emirates",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "f49cafcd-8abe-40a2-9759-4594165cc732",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-23T09:32:47.067Z",
+        "contentDate": "2026-04-20T10:59:03.132Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2_Match6.2",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v4fyc9rbeey4yl0yzg31",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v4fyc9rbeey4yl0yzg31",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-match6-2-x2263",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match6-2-x2263"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "3b2767bc-6d34-4c15-9fb3-a1a7d7cce6c1",
+        "_entityId": "d1a7afac-c81f-4565-83d5-9c40280c84d1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-t20i-germany-v-austria",
+        "slug": "1st-t20i-germany-v-austria",
+        "title": "1st T20I: Germany v Austria",
+        "tags": [
+          {
+            "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+            "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+            "title": "Austria in Germany, 5 T20I Series, 2026",
+            "slug": "tournament-15540",
+            "neutralSlug": "tournament-15540",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15540",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15540",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "9e0ff838-03ad-4e16-b714-43f159acc4ec",
+            "_entityId": "668ca03b-ecbf-48fd-ac14-0236480079a1",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270726",
+            "title": "Germany vs Austria - 1st T20I - 5/1/2026",
+            "slug": "match-270726",
+            "neutralSlug": "match-270726",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270726",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270726",
+              "teamA": "Germany",
+              "teamB": "Austria",
+              "teamAid": "1822",
+              "teamBid": "1723",
+              "teamAshort": "GER",
+              "teamBshort": "AUT",
+              "stage": "Series",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "T20",
+              "matchNumber": "1st T20I",
+              "seriesId": "15540",
+              "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+              "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+              "seriesType": "Series",
+              "tourId": "12517",
+              "tourName": "Austria tour of Germany, 2026",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "seoName": "germany-vs-austria",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "3d88f577-f414-4f00-abaf-9da7c6098816",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T08:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "DE"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:15:25.021Z",
+        "contentDate": "2026-04-30T08:15:25.021Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "1st T20I",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/eblibjzk13sa0rvrxbda",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/eblibjzk13sa0rvrxbda",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "1st-t20i",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-t20i"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "f5810bdd-ec4b-4208-bbb5-18a9797ff50d",
+        "_entityId": "3174b24a-fbc0-47ec-81b4-db5f6b228422",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-italy",
+        "slug": "nepal-v-italy",
+        "title": "Nepal v Italy",
+        "tags": [
+          {
+            "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
+            "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
+            "title": "ICC Women's T20I Challenge Trophy, 2026",
+            "slug": "tournament-15516",
+            "neutralSlug": "tournament-15516",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15516",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15516",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "7ff3812f-f354-4c6b-9c1b-f00a5607df68",
+            "_entityId": "76573c8c-37f8-48c4-8463-b7bff00d62d1",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270513",
+            "title": "Italy vs Nepal - Match 20 - 5/1/2026",
+            "slug": "match-270513",
+            "neutralSlug": "match-270513",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270513",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270513",
+              "teamA": "Italy",
+              "teamB": "Nepal",
+              "teamAid": "1802",
+              "teamBid": "1535",
+              "teamAshort": "ITA",
+              "teamBshort": "NEP",
+              "stage": "League",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "T20",
+              "matchNumber": "Match 20",
+              "seriesId": "15516",
+              "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
+              "seriesType": "Tournament",
+              "tourId": "12496",
+              "tourName": "ICC Women's T20I Challenge Trophy, 2026",
+              "competitionType": "T20 International - w",
+              "competitionTypeId": "13",
+              "seoName": "italy-vs-nepal",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "db1118d5-4662-4134-80db-c9f5a749731c",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T11:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-18T07:00:37.216Z",
+        "contentDate": "2026-04-10T11:49:30.861Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_Womens-Challenge_Match20",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vyxue58fuxoiwarzoq7o",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-womens-challenge-match20",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match20"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "320a2b08-e813-4717-b3b7-b8dbb5473be1",
+        "_entityId": "f61a7f2c-872a-42a6-a39d-81c6ee919e94",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-t20i-germany-v-austria",
+        "slug": "2nd-t20i-germany-v-austria",
+        "title": "2nd T20I: Germany v Austria",
+        "tags": [
+          {
+            "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+            "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+            "title": "Austria in Germany, 5 T20I Series, 2026",
+            "slug": "tournament-15540",
+            "neutralSlug": "tournament-15540",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15540",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15540",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "8e216210-3520-4eb3-baac-6f59c41dbaf3",
+            "_entityId": "2797133e-7c85-4c56-986b-84478fe67656",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270732",
+            "title": "Germany vs Austria - 2nd T20I - 5/1/2026",
+            "slug": "match-270732",
+            "neutralSlug": "match-270732",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270732",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270732",
+              "teamA": "Germany",
+              "teamB": "Austria",
+              "teamAid": "1822",
+              "teamBid": "1723",
+              "teamAshort": "GER",
+              "teamBshort": "AUT",
+              "stage": "Series",
+              "matchDateLocal": "5/1/2026",
+              "matchType": "T20",
+              "matchNumber": "2nd T20I",
+              "seriesId": "15540",
+              "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+              "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+              "seriesType": "Series",
+              "tourId": "12517",
+              "tourName": "Austria tour of Germany, 2026",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "seoName": "germany-vs-austria",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "b1450df7-9f8c-43aa-ab39-ad883116378e",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-01T13:15:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "DE"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:15:43.716Z",
+        "contentDate": "2026-04-30T08:15:43.716Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "2nd T20I",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/z0fuupeq7e7aavy3y9ie",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z0fuupeq7e7aavy3y9ie",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "2nd-t20i",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-t20i"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "39c806d5-c231-457c-bd47-934d0d4ce892",
+        "_entityId": "665ad9f4-6eb1-4152-9e51-a5cbc280d19a",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-kansai",
+        "slug": "east-kanto-v-kansai",
+        "title": "East Kanto v Kansai",
+        "tags": [],
+        "fields": {
+          "videoId": "b4de478d-f059-4b04-be60-ce609359e1f1",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T01:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:33:02.899Z",
+        "contentDate": "2026-04-30T08:33:02.899Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "2nd match - East Kanto vs Kansai",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bhtl8rb5x4ptv7rgeayb",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhtl8rb5x4ptv7rgeayb",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "2nd-match-east-kanto-vs-kansai",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-match-east-kanto-vs-kansai"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "8f8d3fbf-d16a-4600-bd6c-6c1aaef97299",
+        "_entityId": "f7827a13-33d1-4db8-bd97-bc0aade5cc94",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-south-kanto",
+        "slug": "north-kanto-v-south-kanto",
+        "title": "North Kanto v South Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "f02d7e9d-5ce8-4d56-ac9a-e67aae91c7dc",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T01:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:31:41.54Z",
+        "contentDate": "2026-04-30T08:31:41.54Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "1st match - north ka to vs south ka to",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/syb6wsoq6ja2otd4jstx",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/syb6wsoq6ja2otd4jstx",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "1st-match-north-ka-to-vs-south-ka-to",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-match-north-ka-to-vs-south-ka-to"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "1acf9f9d-017b-4ac8-a503-ef8934ed56fb",
+        "_entityId": "a9a4eac1-8ee2-4725-8572-2b2ded6bcd93",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-north-kanto",
+        "slug": "east-kanto-v-north-kanto",
+        "title": "East Kanto v North Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "5965f1e2-b9be-4fc3-a0f6-840bc139584e",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T05:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:34:07.641Z",
+        "contentDate": "2026-04-30T08:34:07.641Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "4th Match - East Kanto vs North Kanto",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/j5lu4qp67zuwbiclmcdm",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j5lu4qp67zuwbiclmcdm",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "4th-match-east-kanto-vs-north-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-match-east-kanto-vs-north-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "2533b246-14a6-4cd6-8a62-a173178a23e3",
+        "_entityId": "44a18c33-6419-4928-86b7-a3da0bda6677",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/west-kanto-v-kansai",
+        "slug": "west-kanto-v-kansai",
+        "title": "West Kanto v Kansai",
+        "tags": [],
+        "fields": {
+          "videoId": "b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T05:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:33:39.871Z",
+        "contentDate": "2026-04-30T08:33:39.871Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "3rd match - West Kanto vs Kansai ",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rmg6j0suaubh6jhxjwjn",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rmg6j0suaubh6jhxjwjn",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "3rd-match-west-kanto-vs-kansai",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-match-west-kanto-vs-kansai"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "767fa07b-7c66-490e-a5e8-722aa9d522e1",
+        "_entityId": "832abef9-2a0c-4e79-91f9-8eb69316a7b6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-germany-v-austria",
+        "slug": "3rd-t20i-germany-v-austria",
+        "title": "3rd T20I: Germany v Austria",
+        "tags": [
+          {
+            "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+            "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+            "title": "Austria in Germany, 5 T20I Series, 2026",
+            "slug": "tournament-15540",
+            "neutralSlug": "tournament-15540",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15540",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15540",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "9cd81f93-dc13-40fc-8fd1-2a77615b7e7a",
+            "_entityId": "0ed128ab-50d9-404f-bee6-74af82d7fdf0",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270733",
+            "title": "Germany vs Austria - 3rd T20I - 5/2/2026",
+            "slug": "match-270733",
+            "neutralSlug": "match-270733",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270733",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270733",
+              "teamA": "Germany",
+              "teamB": "Austria",
+              "teamAid": "1822",
+              "teamBid": "1723",
+              "teamAshort": "GER",
+              "teamBshort": "AUT",
+              "stage": "Series",
+              "matchDateLocal": "5/2/2026",
+              "matchType": "T20",
+              "matchNumber": "3rd T20I",
+              "seriesId": "15540",
+              "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+              "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+              "seriesType": "Series",
+              "tourId": "12517",
+              "tourName": "Austria tour of Germany, 2026",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "seoName": "germany-vs-austria",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "a4def50c-d8ff-406d-88ac-8a29a78f33db",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T08:30:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "DE"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:15:56.519Z",
+        "contentDate": "2026-04-30T08:15:56.519Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "3rd T20I",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqfvlwjupkl2svkmsvm0",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqfvlwjupkl2svkmsvm0",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "3rd-t20i",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-t20i"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "1a39b6b2-22ba-4dee-9a12-d2bfa593bacc",
+        "_entityId": "59d7cc7d-a92a-44dd-8705-64d1af47d610",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-t20i-germany-v-austria",
+        "slug": "4th-t20i-germany-v-austria",
+        "title": "4th T20I: Germany v Austria",
+        "tags": [
+          {
+            "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+            "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+            "title": "Austria in Germany, 5 T20I Series, 2026",
+            "slug": "tournament-15540",
+            "neutralSlug": "tournament-15540",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15540",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15540",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "b2cd7459-1972-4f6a-a55d-b11ec3da1439",
+            "_entityId": "b4e6eb1c-3e2c-4e5c-a66b-45f7d27dd467",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270735",
+            "title": "Germany vs Austria - 4th T20I - 5/2/2026",
+            "slug": "match-270735",
+            "neutralSlug": "match-270735",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270735",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270735",
+              "teamA": "Germany",
+              "teamB": "Austria",
+              "teamAid": "1822",
+              "teamBid": "1723",
+              "teamAshort": "GER",
+              "teamBshort": "AUT",
+              "stage": "Series",
+              "matchDateLocal": "5/2/2026",
+              "matchType": "T20",
+              "matchNumber": "4th T20I",
+              "seriesId": "15540",
+              "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+              "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+              "seriesType": "Series",
+              "tourId": "12517",
+              "tourName": "Austria tour of Germany, 2026",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "seoName": "germany-vs-austria",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "bee01225-504e-42b7-9fd9-5939c27726a1",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-02T13:15:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "DE"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:16:13.331Z",
+        "contentDate": "2026-04-30T08:16:13.331Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "4th T20I",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/k9ncli2aysnmxk3rx0qw",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/k9ncli2aysnmxk3rx0qw",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "4th-t20i",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-t20i"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "ec249bdd-3008-40fd-8011-bf77ce558fa5",
+        "_entityId": "4f199921-deb0-4b37-9334-23f90bd03a6b",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kansai-v-south-kanto",
+        "slug": "kansai-v-south-kanto",
+        "title": "Kansai v South Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "26637a94-58e8-4362-a7f6-dad0711f6b35",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T01:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:35:08.474Z",
+        "contentDate": "2026-04-30T08:35:08.474Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "6th Match - Kansai vs South Kanto",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ipflblozqpcxvjdwo5um",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ipflblozqpcxvjdwo5um",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "6th-match-kansai-vs-south-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/6th-match-kansai-vs-south-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "3399558e-6836-4585-b07e-f13dbebf6504",
+        "_entityId": "b0d24afb-d35c-4985-bbde-568c38568141",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/west-kanto-v-east-kanto",
+        "slug": "west-kanto-v-east-kanto",
+        "title": "West Kanto v East Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "cbf1a0d7-5944-42f4-a0f6-5314062808d2",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T01:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:34:41.58Z",
+        "contentDate": "2026-04-30T08:34:41.58Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "5th match - West Kanto vs East Kanto ",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/scavdg1c3i2typ6dlsfz",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scavdg1c3i2typ6dlsfz",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "5th-match-west-kanto-vs-east-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-match-west-kanto-vs-east-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "abd3d9c6-4b6c-42ed-8588-e7190278183d",
+        "_entityId": "07cac20e-cba4-41c0-836d-fdd7f982a8c8",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings-nepali",
+        "slug": "oman-v-united-arab-emirates-1st-innings-nepali",
+        "title": "Oman v United Arab Emirates (1st Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+            "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+            "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+            "slug": "match-270458",
+            "neutralSlug": "match-270458",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270458",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270458",
+              "teamA": "United Arab Emirates",
+              "teamB": "Oman",
+              "teamAid": "21",
+              "teamBid": "28",
+              "teamAshort": "UAE",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/3/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 102",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "united-arab-emirates-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "158e5ab1-9185-4eea-acc5-1c6e08bbcc0b",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T03:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:49:38.67Z",
+        "contentDate": "2026-04-23T09:49:29.115Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match5.1(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hzh3tg0rlktn4efegaqe",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzh3tg0rlktn4efegaqe",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match5-1-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-1-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "ed54c141-7be0-44f7-b874-18b4b1644ebd",
+        "_entityId": "51339d15-9234-4256-a69c-8eb21465bbcb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-kanto-v-west-kanto",
+        "slug": "south-kanto-v-west-kanto",
+        "title": "South Kanto v West Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "383130af-6fb4-4b3b-8413-03feb4bdb4fc",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T05:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:36:25.281Z",
+        "contentDate": "2026-04-30T08:36:25.281Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "8th Match - South Kanto vs West Kanto",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qy6wgv9szbgfyu7fofpx",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qy6wgv9szbgfyu7fofpx",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "8th-match-south-kanto-vs-west-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/8th-match-south-kanto-vs-west-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "a47bcff7-4a7b-4a08-b811-0d52d5e647e9",
+        "_entityId": "31238943-f250-4855-ac86-270350c5b7c4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kansai-v-north-kanto",
+        "slug": "kansai-v-north-kanto",
+        "title": "Kansai v North Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "cc6f09d9-0ee5-4c2d-bb1d-a579fa628093",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T05:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:35:59.666Z",
+        "contentDate": "2026-04-30T08:35:59.666Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "7th Match - Kansai vs North Kanto",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ae5witsxehdzj42kd4q8",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ae5witsxehdzj42kd4q8",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "7th-match-kansai-vs-north-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-match-kansai-vs-north-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "453987c1-b150-46de-b58d-b782727fb2cb",
+        "_entityId": "977b05d7-7df0-4115-9d81-a6b4a90ddd68",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings-nepali",
+        "slug": "oman-v-united-arab-emirates-2nd-innings-nepali",
+        "title": "Oman v United Arab Emirates (2nd Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+            "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+            "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+            "slug": "match-270458",
+            "neutralSlug": "match-270458",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270458",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270458",
+              "teamA": "United Arab Emirates",
+              "teamB": "Oman",
+              "teamAid": "21",
+              "teamBid": "28",
+              "teamAshort": "UAE",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/3/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 102",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "united-arab-emirates-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "10314736-4815-458d-8adf-4865c1ea64ee",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:50:03.355Z",
+        "contentDate": "2026-04-23T09:49:57.349Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match5.2(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/clz6tufof1fdxwiydunf",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match5-2-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-2-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "2cd082cd-acc2-4026-8bdd-6bc246624235",
+        "_entityId": "7fd603da-a8bb-487e-bc94-60ba27e2a4e6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
+        "slug": "oman-v-united-arab-emirates-2nd-innings",
+        "title": "Oman v United Arab Emirates (2nd Innings) (ENGLISH)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
+            "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
+            "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
+            "slug": "match-270458",
+            "neutralSlug": "match-270458",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270458",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270458",
+              "teamA": "United Arab Emirates",
+              "teamB": "Oman",
+              "teamAid": "21",
+              "teamBid": "28",
+              "teamAshort": "UAE",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/3/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 102",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "united-arab-emirates-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "5e0d2c5f-1930-4789-98e9-da6f6cb3fc14",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-23T09:34:01.694Z",
+        "contentDate": "2026-04-20T11:09:24.05Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2_Match2.2",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bdxazlxd5iaonirvnpff",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-match2-2-x9476",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match2-2-x9476"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "67541d16-6021-4ecc-8002-312893ccc4cf",
+        "_entityId": "e7a130cd-fa84-4848-83fd-519b9d2092b8",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-t20i-germany-v-austria",
+        "slug": "5th-t20i-germany-v-austria",
+        "title": "5th T20I: Germany v Austria",
+        "tags": [
+          {
+            "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
+            "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
+            "title": "Austria in Germany, 5 T20I Series, 2026",
+            "slug": "tournament-15540",
+            "neutralSlug": "tournament-15540",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-15540",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "15540",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "aaea4244-0e0f-4f22-bfb9-5159ce37c0a1",
+            "_entityId": "659a6430-545f-4ae5-b381-3ec4af1e458a",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270736",
+            "title": "Germany vs Austria - 5th T20I - 5/3/2026",
+            "slug": "match-270736",
+            "neutralSlug": "match-270736",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270736",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270736",
+              "teamA": "Germany",
+              "teamB": "Austria",
+              "teamAid": "1822",
+              "teamBid": "1723",
+              "teamAshort": "GER",
+              "teamBshort": "AUT",
+              "stage": "Series",
+              "matchDateLocal": "5/3/2026",
+              "matchType": "T20",
+              "matchNumber": "5th T20I",
+              "seriesId": "15540",
+              "seriesName": "Austria in Germany, 5 T20I Series, 2026",
+              "seriesShortName": "AUT in GER, 5 T20Is, 2026",
+              "seriesType": "Series",
+              "tourId": "12517",
+              "tourName": "Austria tour of Germany, 2026",
+              "competitionType": "T20 International - m",
+              "competitionTypeId": "3",
+              "seoName": "germany-vs-austria",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "4d19aa3d-2e4b-4c6e-b843-fd50a400cede",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-03T09:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "DE"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:16:23.929Z",
+        "contentDate": "2026-04-30T08:16:23.929Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "5th T20I",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/n3pp29pirsumdxmjmxkp",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n3pp29pirsumdxmjmxkp",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "5th-t20i",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-t20i"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "6cd6b8d5-bf74-4a58-b730-8f35d46347ad",
+        "_entityId": "e6c25dba-2787-4407-bc4f-95e50df2a585",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-west-kanto",
+        "slug": "north-kanto-v-west-kanto",
+        "title": "North Kanto v West Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "511333d1-a75c-4916-8b58-2241c33ca6fd",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-04T01:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:37:30.635Z",
+        "contentDate": "2026-04-30T08:37:30.635Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "10th Match - North Kanto vs West Kanto ",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nl5hwix0nip73demncfy",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nl5hwix0nip73demncfy",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "10th-match-north-kanto-vs-west-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/10th-match-north-kanto-vs-west-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "4a01c49f-02d2-4f73-81c3-fb1cbec0a482",
+        "_entityId": "41abbb0c-1960-4849-90d8-7abccfaa5443",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-kanto-v-east-kanto",
+        "slug": "south-kanto-v-east-kanto",
+        "title": "South Kanto v East Kanto",
+        "tags": [],
+        "fields": {
+          "videoId": "78b82138-2e3d-42e6-acae-e8828598079d",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-04T01:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:36:58.825Z",
+        "contentDate": "2026-04-30T08:36:58.825Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "9th Match - South Kanto vs East Kanto",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/emeqv2hxd9h2gtxzhdwi",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/emeqv2hxd9h2gtxzhdwi",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "9th-match-south-kanto-vs-east-kanto",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/9th-match-south-kanto-vs-east-kanto"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "93b515b5-2233-4431-8449-a4719035e0ce",
+        "_entityId": "171ae094-00e5-463c-99e1-521b69fe9656",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-place-playoff-3rd-v-4th",
+        "slug": "3rd-place-playoff-3rd-v-4th",
+        "title": "3rd Place Playoff: 3rd v 4th",
+        "tags": [],
+        "fields": {
+          "videoId": "5a846c86-4a24-48ec-b82b-ded21f1db910",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-04T05:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:38:34.737Z",
+        "contentDate": "2026-04-30T08:38:34.737Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "file_00000000bb7c720bbe6547edea01c967",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvagv7gdvgbrwnsdk9fk",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvagv7gdvgbrwnsdk9fk",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "file-00000000bb7c720bbe6547edea01c967",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/file-00000000bb7c720bbe6547edea01c967"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "4cf70077-d4a7-41b8-8496-808a4bd7e979",
+        "_entityId": "fd03ecca-eeb4-414c-9ee5-9f6785e51893",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final-1st-v-2nd",
+        "slug": "final-1st-v-2nd",
+        "title": "Final: 1st v 2nd",
+        "tags": [],
+        "fields": {
+          "videoId": "8ba882db-5e88-4bbf-bb94-7c6614e2ee1e",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-04T05:00:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN",
+              "BD",
+              "BT",
+              "NP",
+              "LK",
+              "MV",
+              "JP"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Pranay Ruparelia",
+        "lastUpdatedDate": "2026-04-30T08:38:48.896Z",
+        "contentDate": "2026-04-30T08:37:56.652Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "IMG-20260429-WA0052",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dly15zu0lms2zdvpgyst",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dly15zu0lms2zdvpgyst",
+          "format": "jpg",
+          "overriddenFormats": [],
+          "slug": "img-20260429-wa0052",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/img-20260429-wa0052"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "2a6287b5-a1c1-4650-b655-3776e7cfc586",
+        "_entityId": "77549193-7080-467d-95fa-33a85b814ba3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-1st-innings-nepali",
+        "slug": "oman-v-nepal-1st-innings-nepali",
+        "title": "Oman v Nepal (1st Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+            "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+            "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+            "slug": "match-270459",
+            "neutralSlug": "match-270459",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270459",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270459",
+              "teamA": "Nepal",
+              "teamB": "Oman",
+              "teamAid": "637",
+              "teamBid": "28",
+              "teamAshort": "NEP",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/5/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 103",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "e73354bf-0870-44f2-8359-0ea4d8f9eda8",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-05T03:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:51:41.466Z",
+        "contentDate": "2026-04-23T09:51:21.448Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match6.1(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ven8vmsdzhnqrchxlhvu",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ven8vmsdzhnqrchxlhvu",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match6-1-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match6-1-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "953a4a34-53e2-416f-9eca-0d9ccc9f4f1a",
+        "_entityId": "17c1d5d8-e667-423b-afe4-04bb060ff449",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-1st-innings",
+        "slug": "oman-v-nepal-1st-innings",
+        "title": "Oman v Nepal (1st Innings) (ENGLISH)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+            "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+            "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+            "slug": "match-270459",
+            "neutralSlug": "match-270459",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270459",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270459",
+              "teamA": "Nepal",
+              "teamB": "Oman",
+              "teamAid": "637",
+              "teamBid": "28",
+              "teamAshort": "NEP",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/5/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 103",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "df050451-54a1-449f-836e-2d72de477345",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-05T03:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedDate": "2026-04-23T09:34:54.524Z",
+        "contentDate": "2026-04-20T11:18:25.05Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2_Match1.1",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yn4cep8zuxukrgzkrfap",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4cep8zuxukrgzkrfap",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-match1-1-x4104",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match1-1-x4104"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "bfd765a1-2c34-4382-bb26-a7e75af70079",
+        "_entityId": "a47dda32-7d5a-4ae5-b68d-a0defe4eaa9d",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-2nd-innings-nepali",
+        "slug": "oman-v-nepal-2nd-innings-nepali",
+        "title": "Oman v Nepal (2nd Innings) (NEPALI)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+            "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+            "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+            "slug": "match-270459",
+            "neutralSlug": "match-270459",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270459",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270459",
+              "teamA": "Nepal",
+              "teamB": "Oman",
+              "teamAid": "637",
+              "teamBid": "28",
+              "teamAshort": "NEP",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/5/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 103",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "1560578d-1d8b-44a1-9876-9b88f61fb60f",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-05T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:52:41.336Z",
+        "contentDate": "2026-04-23T09:52:22.738Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2-NEP_Match6.2(NEP)",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gdwurzsa1p3ibbegvw54",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gdwurzsa1p3ibbegvw54",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-nep-match6-2-nep",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match6-2-nep"
+        },
+        "entityCode": "video"
+      },
+      {
+        "type": "customentity",
+        "_translationId": "f51d16c1-43ba-4903-aad3-ba279f406d69",
+        "_entityId": "c439f3cb-48c8-44e4-9c65-8610aba85b26",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-2nd-innings",
+        "slug": "oman-v-nepal-2nd-innings",
+        "title": "Oman v Nepal (2nd Innings) (ENGLISH)",
+        "tags": [
+          {
+            "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+            "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+            "title": "ICC CWC League 2, 2023-27",
+            "slug": "tournament-6156",
+            "neutralSlug": "tournament-6156",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "tournament-6156",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "tournamentId": "6156",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "externalTagType": "tournament"
+            },
+            "fields": []
+          },
+          {
+            "_translationId": "b06f94b0-5b4e-443d-9df7-a8b8f2baf64b",
+            "_entityId": "9cfa60c4-0cc4-4dff-90a1-f604bac6b6dc",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270459",
+            "title": "Nepal vs Oman - Match 103 - 5/5/2026",
+            "slug": "match-270459",
+            "neutralSlug": "match-270459",
+            "externalSourceName": "cricket",
+            "externalSourceReference": {
+              "SourceId": "match-270459",
+              "SourceName": "cricket"
+            },
+            "extraData": {
+              "matchId": "270459",
+              "teamA": "Nepal",
+              "teamB": "Oman",
+              "teamAid": "637",
+              "teamBid": "28",
+              "teamAshort": "NEP",
+              "teamBshort": "OMA",
+              "stage": "League",
+              "matchDateLocal": "5/5/2026",
+              "matchType": "ODI",
+              "matchNumber": "Match 103",
+              "seriesId": "6156",
+              "seriesName": "ICC CWC League 2, 2023-27",
+              "seriesShortName": "ICC CWC League 2, 2023-27",
+              "seriesType": "Tournament",
+              "tourId": "4689",
+              "tourName": "ICC CWC League 2, 2023-27",
+              "competitionType": "ODI International - m",
+              "competitionTypeId": "2",
+              "seoName": "nepal-vs-oman",
+              "championshipId": "",
+              "championshipName": "",
+              "externalTagType": "match"
+            },
+            "fields": []
+          }
+        ],
+        "fields": {
+          "videoId": "7dca3ec0-365b-459e-94e7-192a640b748e",
+          "workflow": "LIVE",
+          "videoStatus": "Scheduled",
+          "videoEstimatedDuration": "14400000",
+          "v_has_data": true,
+          "scheduledStartTime": "2026-05-05T07:45:00Z",
+          "offer": "Registered",
+          "type": "Event",
+          "countryRestrictions": {
+            "listType": "blacklist",
+            "countries": [
+              "IN"
+            ]
+          }
+        },
+        "createdBy": "icc-forge-diva-connector-worker-client",
+        "lastUpdatedBy": "Ninad Jadhav",
+        "lastUpdatedDate": "2026-04-23T09:56:11.539Z",
+        "contentDate": "2026-04-20T11:18:53.499Z",
+        "featured": 0,
+        "thumbnail": {
+          "title": "ICC26_CWC-L2_Match1.2",
+          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ojddxbhyi9pmo6jydlym",
+          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ojddxbhyi9pmo6jydlym",
+          "format": "png",
+          "overriddenFormats": [],
+          "slug": "icc26-cwc-l2-match1-2-x8229",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match1-2-x8229"
+        },
+        "entityCode": "video"
+      }
+    ]
+  }
+}
