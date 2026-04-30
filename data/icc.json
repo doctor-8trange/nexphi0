@@ -2,122 +2,20 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "30-04-2026 15:20",
+  "last_updated": "30-04-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "MULTI_CDN": "OFF",
     "Debugging": "ON",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
   "live": [],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "201d81c9-45dd-40db-a7dc-ccd38571e4be",
-      "_entityId": "78ed32e0-ffb5-4a68-882c-3d96215e1a62",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-vanuatu",
-      "slug": "nepal-v-vanuatu",
-      "title": "Nepal v Vanuatu",
-      "tags": [
-        {
-          "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
-          "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
-          "title": "ICC Women's T20I Challenge Trophy, 2026",
-          "slug": "tournament-15516",
-          "neutralSlug": "tournament-15516",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15516",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15516",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "29b1b835-a0df-4743-bb3b-bc378365e265",
-          "_entityId": "6cbb11ca-ffed-40b3-b1d1-29e7052adcae",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270511",
-          "title": "Nepal vs Vanuatu - Match 18 - 4/30/2026",
-          "slug": "match-270511",
-          "neutralSlug": "match-270511",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270511",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270511",
-            "teamA": "Nepal",
-            "teamB": "Vanuatu",
-            "teamAid": "1535",
-            "teamBid": "1722",
-            "teamAshort": "NEP",
-            "teamBshort": "VAN",
-            "stage": "League",
-            "matchDateLocal": "4/30/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 18",
-            "seriesId": "15516",
-            "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
-            "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12496",
-            "tourName": "ICC Women's T20I Challenge Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "nepal-vs-vanuatu",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "724bddf9-86c1-4374-bdfe-86f0043d3761",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-04-30T11:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-04-18T07:00:00.82Z",
-      "contentDate": "2026-04-10T11:45:09.444Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Challenge_Match18",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d0bctv3fbwcgjmtjttz7",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d0bctv3fbwcgjmtjttz7",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-challenge-match18",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match18"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "7ec6f496-e37d-42c4-b42c-d852ea533a47",
@@ -2417,111 +2315,9 @@
   ],
   "response": {
     "status": "success",
-    "generated_at": "2026-04-30T15:20:03+05:30",
+    "generated_at": "2026-04-30T19:40:03+05:30",
     "live_matches": [],
     "upcoming_matches": [
-      {
-        "type": "customentity",
-        "_translationId": "201d81c9-45dd-40db-a7dc-ccd38571e4be",
-        "_entityId": "78ed32e0-ffb5-4a68-882c-3d96215e1a62",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-vanuatu",
-        "slug": "nepal-v-vanuatu",
-        "title": "Nepal v Vanuatu",
-        "tags": [
-          {
-            "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
-            "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
-            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
-            "title": "ICC Women's T20I Challenge Trophy, 2026",
-            "slug": "tournament-15516",
-            "neutralSlug": "tournament-15516",
-            "externalSourceName": "cricket",
-            "externalSourceReference": {
-              "SourceId": "tournament-15516",
-              "SourceName": "cricket"
-            },
-            "extraData": {
-              "tournamentId": "15516",
-              "competitionType": "T20 International - w",
-              "competitionTypeId": "13",
-              "championshipId": "",
-              "championshipName": "",
-              "externalTagType": "tournament"
-            },
-            "fields": []
-          },
-          {
-            "_translationId": "29b1b835-a0df-4743-bb3b-bc378365e265",
-            "_entityId": "6cbb11ca-ffed-40b3-b1d1-29e7052adcae",
-            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270511",
-            "title": "Nepal vs Vanuatu - Match 18 - 4/30/2026",
-            "slug": "match-270511",
-            "neutralSlug": "match-270511",
-            "externalSourceName": "cricket",
-            "externalSourceReference": {
-              "SourceId": "match-270511",
-              "SourceName": "cricket"
-            },
-            "extraData": {
-              "matchId": "270511",
-              "teamA": "Nepal",
-              "teamB": "Vanuatu",
-              "teamAid": "1535",
-              "teamBid": "1722",
-              "teamAshort": "NEP",
-              "teamBshort": "VAN",
-              "stage": "League",
-              "matchDateLocal": "4/30/2026",
-              "matchType": "T20",
-              "matchNumber": "Match 18",
-              "seriesId": "15516",
-              "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
-              "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
-              "seriesType": "Tournament",
-              "tourId": "12496",
-              "tourName": "ICC Women's T20I Challenge Trophy, 2026",
-              "competitionType": "T20 International - w",
-              "competitionTypeId": "13",
-              "seoName": "nepal-vs-vanuatu",
-              "championshipId": "",
-              "championshipName": "",
-              "externalTagType": "match"
-            },
-            "fields": []
-          }
-        ],
-        "fields": {
-          "videoId": "724bddf9-86c1-4374-bdfe-86f0043d3761",
-          "workflow": "LIVE",
-          "videoStatus": "Scheduled",
-          "videoEstimatedDuration": "14400000",
-          "v_has_data": true,
-          "scheduledStartTime": "2026-04-30T11:00:00Z",
-          "offer": "Registered",
-          "type": "Event",
-          "countryRestrictions": {
-            "listType": "blacklist",
-            "countries": [
-              "IN"
-            ]
-          }
-        },
-        "createdBy": "icc-forge-diva-connector-worker-client",
-        "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-        "lastUpdatedDate": "2026-04-18T07:00:00.82Z",
-        "contentDate": "2026-04-10T11:45:09.444Z",
-        "featured": 0,
-        "thumbnail": {
-          "title": "ICC26_Womens-Challenge_Match18",
-          "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d0bctv3fbwcgjmtjttz7",
-          "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d0bctv3fbwcgjmtjttz7",
-          "format": "png",
-          "overriddenFormats": [],
-          "slug": "icc26-womens-challenge-match18",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match18"
-        },
-        "entityCode": "video"
-      },
       {
         "type": "customentity",
         "_translationId": "7ec6f496-e37d-42c4-b42c-d852ea533a47",
