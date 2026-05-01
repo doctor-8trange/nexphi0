@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:01:33 PM 01-05-2026",
+  "last_updated": "07:15:02 PM 01-05-2026",
   "total_matches": 24,
-  "live_matches_count": 2,
-  "upcoming_matches_count": 22,
+  "live_matches": 2,
+  "upcoming_matches": 22,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
