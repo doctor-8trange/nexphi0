@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 01-05-2026 18:45
+#DATE:- 01-05-2026 19:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="db1118d5-4662-4134-80db-c9f5a749731c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o" tvg-lang="Unknown" group-title="Cricket",Unknown | Nepal v Italy
+#EXTINF:-1 tvg-id="db1118d5-4662-4134-80db-c9f5a749731c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o" tvg-lang="English" group-title="Cricket",English | Nepal v Italy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777661112~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=282b80d040a8bdf03db02bdfb63970da6fdb36e12b6d3b68dd35a36a189420aa/manifest.mpd?vcfilter=db1118d5-4662-4134-80db-c9f5a749731c&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="b1450df7-9f8c-43aa-ab39-ad883116378e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z0fuupeq7e7aavy3y9ie" tvg-lang="Unknown" group-title="Cricket",Unknown | 2nd T20I: Germany v Austria
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777670933~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b200ab67a5d7e8fcc2460dd520c01251be5fdbc5d8be529f7dd6b736f0d882bb/manifest.mpd?vcfilter=db1118d5-4662-4134-80db-c9f5a749731c&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="b1450df7-9f8c-43aa-ab39-ad883116378e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z0fuupeq7e7aavy3y9ie" tvg-lang="English" group-title="Cricket",English | 2nd T20I: Germany v Austria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777669126~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e9ff48f22a4cd60b11416d4081db824f13098095d264bc6a03a2c5abe72bd458/manifest.mpd?vcfilter=b1450df7-9f8c-43aa-ab39-ad883116378e&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777670944~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2c1765cbb397f76bfe44a243ea341bdce34db6d5c27e5ab6ff7a1892a899e310/manifest.mpd?vcfilter=b1450df7-9f8c-43aa-ab39-ad883116378e&powered_by=jay_shree_ram
