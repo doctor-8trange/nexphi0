@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:45:01 PM 01-05-2026",
-  "total_matches": 24,
-  "live_matches": 2,
+  "last_updated": "08:00:02 PM 01-05-2026",
+  "total_matches": 23,
+  "live_matches": 1,
   "upcoming_matches": 22,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "f5810bdd-ec4b-4208-bbb5-18a9797ff50d",
-      "_entityId": "3174b24a-fbc0-47ec-81b4-db5f6b228422",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-italy",
-      "slug": "nepal-v-italy",
-      "title": "Nepal v Italy",
-      "tags": [
-        {
-          "_translationId": "eaee368b-f511-42d3-8fbf-d4f20a6b8ea6",
-          "_entityId": "815f4f13-6e7b-4d39-9b18-749280900c94",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15516",
-          "title": "ICC Women's T20I Challenge Trophy, 2026",
-          "slug": "tournament-15516",
-          "neutralSlug": "tournament-15516",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15516",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15516",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "7ff3812f-f354-4c6b-9c1b-f00a5607df68",
-          "_entityId": "76573c8c-37f8-48c4-8463-b7bff00d62d1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270513",
-          "title": "Italy vs Nepal - Match 20 - 5/1/2026",
-          "slug": "match-270513",
-          "neutralSlug": "match-270513",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270513",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270513",
-            "teamA": "Italy",
-            "teamB": "Nepal",
-            "teamAid": "1802",
-            "teamBid": "1535",
-            "teamAshort": "ITA",
-            "teamBshort": "NEP",
-            "stage": "League",
-            "matchDateLocal": "5/1/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 20",
-            "seriesId": "15516",
-            "seriesName": "ICC Women's T20I Challenge Trophy, 2026",
-            "seriesShortName": "ICC Women's T20I Challenge Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12496",
-            "tourName": "ICC Women's T20I Challenge Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "italy-vs-nepal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "db1118d5-4662-4134-80db-c9f5a749731c",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-01T11:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-01T10:40:30.785Z",
-      "contentDate": "2026-04-10T11:49:30.861Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Challenge_Match20",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vyxue58fuxoiwarzoq7o",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vyxue58fuxoiwarzoq7o",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-challenge-match20",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-challenge-match20"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 1, 2026, 6:58:48 PM",
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "expire_date": "Saturday, May 2, 2026, 2:58:53 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777670933~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b200ab67a5d7e8fcc2460dd520c01251be5fdbc5d8be529f7dd6b736f0d882bb/manifest.mpd?vcfilter=db1118d5-4662-4134-80db-c9f5a749731c&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "320a2b08-e813-4717-b3b7-b8dbb5473be1",
