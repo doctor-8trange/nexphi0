@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:02 PM 01-05-2026",
+  "last_updated": "08:30:02 PM 01-05-2026",
   "total_matches": 23,
   "live_matches": 1,
   "upcoming_matches": 22,
@@ -131,21 +131,21 @@
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Friday, May 1, 2026, 6:58:59 PM",
+        "create_date": "Friday, May 1, 2026, 8:28:15 PM",
+        "expire_date": "Saturday, May 2, 2026, 4:28:21 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
         "audioTracks": [
           {
             "id": "primary",
             "displayName": "English"
           }
         ],
-        "expire_date": "Saturday, May 2, 2026, 2:59:04 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777670944~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2c1765cbb397f76bfe44a243ea341bdce34db6d5c27e5ab6ff7a1892a899e310/manifest.mpd?vcfilter=b1450df7-9f8c-43aa-ab39-ad883116378e&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777676301~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4dc04cb42b97ef5663cf5f6ae38c368da01214b6a90b3dbd71eaefa3dcb13cdc/manifest.mpd?vcfilter=b1450df7-9f8c-43aa-ab39-ad883116378e&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
