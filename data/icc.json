@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:30:02 PM 02-05-2026",
-  "total_matches": 18,
-  "live_matches": 1,
+  "last_updated": "02-05-2026 17:45",
+  "total_matches": 17,
+  "live_matches": 0,
   "upcoming_matches": 17,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,147 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "767fa07b-7c66-490e-a5e8-722aa9d522e1",
-      "_entityId": "832abef9-2a0c-4e79-91f9-8eb69316a7b6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-germany-v-austria",
-      "slug": "3rd-t20i-germany-v-austria",
-      "title": "3rd T20I: Germany v Austria",
-      "tags": [
-        {
-          "_translationId": "0b49922e-fbf1-4cfd-bc53-3a6a833d931e",
-          "_entityId": "686ae0d3-d018-49ed-b6ef-fea56bd17bdc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15540",
-          "title": "Austria in Germany, 5 T20I Series, 2026",
-          "slug": "tournament-15540",
-          "neutralSlug": "tournament-15540",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15540",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15540",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "9cd81f93-dc13-40fc-8fd1-2a77615b7e7a",
-          "_entityId": "0ed128ab-50d9-404f-bee6-74af82d7fdf0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270733",
-          "title": "Germany vs Austria - 3rd T20I - 5/2/2026",
-          "slug": "match-270733",
-          "neutralSlug": "match-270733",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270733",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270733",
-            "teamA": "Germany",
-            "teamB": "Austria",
-            "teamAid": "1822",
-            "teamBid": "1723",
-            "teamAshort": "GER",
-            "teamBshort": "AUT",
-            "stage": "Series",
-            "matchDateLocal": "5/2/2026",
-            "matchType": "T20",
-            "matchNumber": "3rd T20I",
-            "seriesId": "15540",
-            "seriesName": "Austria in Germany, 5 T20I Series, 2026",
-            "seriesShortName": "AUT in GER, 5 T20Is, 2026",
-            "seriesType": "Series",
-            "tourId": "12517",
-            "tourName": "Austria tour of Germany, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "germany-vs-austria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a4def50c-d8ff-406d-88ac-8a29a78f33db",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-02T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "DE"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-02T08:10:55.091Z",
-      "contentDate": "2026-04-30T08:15:56.519Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "3rd T20I",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqfvlwjupkl2svkmsvm0",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqfvlwjupkl2svkmsvm0",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "3rd-t20i",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-t20i"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, May 2, 2026, 1:45:02 PM",
-        "expire_date": "Saturday, May 2, 2026, 9:45:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777738509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=70c1222bdebbea0d14ef5f92759c6d9ecf68f19acea21a3511948be3b86d8174/manifest.mpd?vcfilter=a4def50c-d8ff-406d-88ac-8a29a78f33db&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
