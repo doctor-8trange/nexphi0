@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01-05-2026 22:30",
-  "total_matches": 22,
-  "live_matches": 0,
-  "upcoming_matches": 22,
+  "last_updated": "10:45:13 AM 02-05-2026",
+  "total_matches": 20,
+  "live_matches": 2,
+  "upcoming_matches": 18,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,100 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "39c806d5-c231-457c-bd47-934d0d4ce892",
-      "_entityId": "665ad9f4-6eb1-4152-9e51-a5cbc280d19a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-kansai",
-      "slug": "east-kanto-v-kansai",
-      "title": "East Kanto v Kansai",
-      "tags": [],
-      "fields": {
-        "videoId": "b4de478d-f059-4b04-be60-ce609359e1f1",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-02T01:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:33:02.899Z",
-      "contentDate": "2026-04-30T08:33:02.899Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "2nd match - East Kanto vs Kansai",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bhtl8rb5x4ptv7rgeayb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhtl8rb5x4ptv7rgeayb",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "2nd-match-east-kanto-vs-kansai",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-match-east-kanto-vs-kansai"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "8f8d3fbf-d16a-4600-bd6c-6c1aaef97299",
-      "_entityId": "f7827a13-33d1-4db8-bd97-bc0aade5cc94",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-south-kanto",
-      "slug": "north-kanto-v-south-kanto",
-      "title": "North Kanto v South Kanto",
-      "tags": [],
-      "fields": {
-        "videoId": "f02d7e9d-5ce8-4d56-ac9a-e67aae91c7dc",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-02T01:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:31:41.54Z",
-      "contentDate": "2026-04-30T08:31:41.54Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "1st match - north ka to vs south ka to",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/syb6wsoq6ja2otd4jstx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/syb6wsoq6ja2otd4jstx",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "1st-match-north-ka-to-vs-south-ka-to",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-match-north-ka-to-vs-south-ka-to"
-      },
-      "entityCode": "video"
-    },
+  "live": [
     {
       "type": "customentity",
       "_translationId": "1acf9f9d-017b-4ac8-a503-ef8934ed56fb",
@@ -126,7 +33,7 @@
       "fields": {
         "videoId": "5965f1e2-b9be-4fc3-a0f6-840bc139584e",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-02T05:30:00Z",
@@ -146,8 +53,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:34:07.641Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-02T05:12:32.94Z",
       "contentDate": "2026-04-30T08:34:07.641Z",
       "featured": 0,
       "thumbnail": {
@@ -159,7 +66,38 @@
         "slug": "4th-match-east-kanto-vs-north-kanto",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-match-east-kanto-vs-north-kanto"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 2, 2026, 10:45:02 AM",
+        "expire_date": "Saturday, May 2, 2026, 6:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777727710~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=49a1288ed793e994af2608308287b3ec449245b4308270192e829c01a58be510/manifest.mpd?vcfilter=5965f1e2-b9be-4fc3-a0f6-840bc139584e&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -172,7 +110,7 @@
       "fields": {
         "videoId": "b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-02T05:30:00Z",
@@ -192,8 +130,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:33:39.871Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-02T05:12:26.214Z",
       "contentDate": "2026-04-30T08:33:39.871Z",
       "featured": 0,
       "thumbnail": {
@@ -205,8 +143,41 @@
         "slug": "3rd-match-west-kanto-vs-kansai",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-match-west-kanto-vs-kansai"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 2, 2026, 10:45:08 AM",
+        "expire_date": "Saturday, May 2, 2026, 6:45:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777727715~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6e5eadc1d877f21dede2cdfdc536cfebea8278190aad568c76b1455f30b75cee/manifest.mpd?vcfilter=b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "767fa07b-7c66-490e-a5e8-722aa9d522e1",
