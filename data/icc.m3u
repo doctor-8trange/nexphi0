@@ -1,3 +1,24 @@
 #EXTM3U
-#DATE:- 01-05-2026 22:30
+#DATE:- 02-05-2026 10:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="5965f1e2-b9be-4fc3-a0f6-840bc139584e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j5lu4qp67zuwbiclmcdm" tvg-lang="English" group-title="Cricket",English | East Kanto v North Kanto
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777727710~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=49a1288ed793e994af2608308287b3ec449245b4308270192e829c01a58be510/manifest.mpd?vcfilter=5965f1e2-b9be-4fc3-a0f6-840bc139584e&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rmg6j0suaubh6jhxjwjn" tvg-lang="English" group-title="Cricket",English | West Kanto v Kansai
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777727715~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6e5eadc1d877f21dede2cdfdc536cfebea8278190aad568c76b1455f30b75cee/manifest.mpd?vcfilter=b328cfbe-c03f-45f9-937c-3ed1a0e9fa2b&powered_by=jay_shree_ram
