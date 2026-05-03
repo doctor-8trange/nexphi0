@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:02 AM 03-05-2026",
+  "last_updated": "10:15:11 AM 03-05-2026",
   "total_matches": 15,
-  "live_matches": 2,
-  "upcoming_matches": 13,
+  "live_matches": 4,
+  "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -283,9 +283,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "ed54c141-7be0-44f7-b874-18b4b1644ebd",
@@ -297,7 +295,7 @@
       "fields": {
         "videoId": "383130af-6fb4-4b3b-8413-03feb4bdb4fc",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-03T05:00:00Z",
@@ -317,8 +315,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:36:25.281Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-03T04:41:18.27Z",
       "contentDate": "2026-04-30T08:36:25.281Z",
       "featured": 0,
       "thumbnail": {
@@ -330,7 +328,38 @@
         "slug": "8th-match-south-kanto-vs-west-kanto",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/8th-match-south-kanto-vs-west-kanto"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, May 3, 2026, 10:15:02 AM",
+        "expire_date": "Sunday, May 3, 2026, 6:15:09 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777812309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=60959ab50ba3cf3aee64b3a24d350837afa1e722d6a4c5c40937d63b7d6463ca/manifest.mpd?vcfilter=383130af-6fb4-4b3b-8413-03feb4bdb4fc&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -343,7 +372,7 @@
       "fields": {
         "videoId": "cc6f09d9-0ee5-4c2d-bb1d-a579fa628093",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-03T05:00:00Z",
@@ -363,8 +392,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:35:59.666Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-03T04:41:13.452Z",
       "contentDate": "2026-04-30T08:35:59.666Z",
       "featured": 0,
       "thumbnail": {
@@ -376,8 +405,41 @@
         "slug": "7th-match-kansai-vs-north-kanto",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-match-kansai-vs-north-kanto"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, May 3, 2026, 10:15:07 AM",
+        "expire_date": "Sunday, May 3, 2026, 6:15:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777812313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=524e9dbf96e194d16033dfbed89adc68374bd2bcbc20896d55ea112051fd1c63/manifest.mpd?vcfilter=cc6f09d9-0ee5-4c2d-bb1d-a579fa628093&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "453987c1-b150-46de-b58d-b782727fb2cb",
