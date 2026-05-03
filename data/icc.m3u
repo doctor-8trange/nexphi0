@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 03-05-2026 10:15
+#DATE:- 03-05-2026 13:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="158e5ab1-9185-4eea-acc5-1c6e08bbcc0b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzh3tg0rlktn4efegaqe" tvg-lang="English" group-title="Cricket",English | Oman v United Arab Emirates (1st Innings) (NEPALI)
@@ -22,16 +22,6 @@ https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777807925~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=69676cb3580ae9da6733fed67b4f3127bc3c5bdc308c2b81dc980bf156fa6a0c/manifest.mpd?vcfilter=fc689b4a-b7db-45f8-86ae-6ae218b681bf&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="383130af-6fb4-4b3b-8413-03feb4bdb4fc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qy6wgv9szbgfyu7fofpx" tvg-lang="English" group-title="Cricket",English | South Kanto v West Kanto
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777812309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=60959ab50ba3cf3aee64b3a24d350837afa1e722d6a4c5c40937d63b7d6463ca/manifest.mpd?vcfilter=383130af-6fb4-4b3b-8413-03feb4bdb4fc&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="cc6f09d9-0ee5-4c2d-bb1d-a579fa628093" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ae5witsxehdzj42kd4q8" tvg-lang="English" group-title="Cricket",English | Kansai v North Kanto
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,3 +32,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777812313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=524e9dbf96e194d16033dfbed89adc68374bd2bcbc20896d55ea112051fd1c63/manifest.mpd?vcfilter=cc6f09d9-0ee5-4c2d-bb1d-a579fa628093&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="4d19aa3d-2e4b-4c6e-b843-fd50a400cede" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n3pp29pirsumdxmjmxkp" tvg-lang="English" group-title="Cricket",English | 5th T20I: Germany v Austria
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1777824910~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=433ca316e73318425725ff8279246f633f83bf3f387e64fbe8c0e857b6c35efd/manifest.mpd?vcfilter=4d19aa3d-2e4b-4c6e-b843-fd50a400cede&powered_by=jay_shree_ram
