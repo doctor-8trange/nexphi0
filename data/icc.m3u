@@ -1,27 +1,7 @@
 #EXTM3U
-#DATE:- 03-05-2026 14:00
+#DATE:- 03-05-2026 18:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="10314736-4815-458d-8adf-4865c1ea64ee" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf" tvg-lang="English" group-title="Cricket",English | Oman v United Arab Emirates (2nd Innings) (NEPALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777825809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=006af095454f651ad7eb2c342e4e6dae99043a657a256a5e832f704a46610774/manifest.mpd?vcfilter=10314736-4815-458d-8adf-4865c1ea64ee&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="5e0d2c5f-1930-4789-98e9-da6f6cb3fc14" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff" tvg-lang="English" group-title="Cricket",English | Oman v United Arab Emirates (2nd Innings) (ENGLISH)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777825812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7fb4b6a30d152235e5d117156afc4bd379e2db3ea6bee4da425ab473865e7b33/manifest.mpd?vcfilter=5e0d2c5f-1930-4789-98e9-da6f6cb3fc14&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="4d19aa3d-2e4b-4c6e-b843-fd50a400cede" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n3pp29pirsumdxmjmxkp" tvg-lang="English" group-title="Cricket",English | 5th T20I: Germany v Austria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
