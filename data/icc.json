@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:45:07 PM 03-05-2026",
-  "total_matches": 14,
-  "live_matches": 4,
-  "upcoming_matches": 10,
+  "last_updated": "02:00:10 PM 03-05-2026",
+  "total_matches": 11,
+  "live_matches": 3,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "abd3d9c6-4b6c-42ed-8588-e7190278183d",
-      "_entityId": "07cac20e-cba4-41c0-836d-fdd7f982a8c8",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings-nepali",
-      "slug": "oman-v-united-arab-emirates-1st-innings-nepali",
-      "title": "Oman v United Arab Emirates (1st Innings) (NEPALI)",
+      "_translationId": "453987c1-b150-46de-b58d-b782727fb2cb",
+      "_entityId": "977b05d7-7df0-4115-9d81-a6b4a90ddd68",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings-nepali",
+      "slug": "oman-v-united-arab-emirates-2nd-innings-nepali",
+      "title": "Oman v United Arab Emirates (2nd Innings) (NEPALI)",
       "tags": [
         {
           "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
@@ -91,12 +91,12 @@
         }
       ],
       "fields": {
-        "videoId": "158e5ab1-9185-4eea-acc5-1c6e08bbcc0b",
+        "videoId": "10314736-4815-458d-8adf-4865c1ea64ee",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-03T03:45:00Z",
+        "scheduledStartTime": "2026-05-03T07:45:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -108,23 +108,23 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-03T03:29:34.127Z",
-      "contentDate": "2026-04-23T09:49:29.115Z",
+      "lastUpdatedDate": "2026-05-03T08:19:08.805Z",
+      "contentDate": "2026-04-23T09:49:57.349Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP_Match5.1(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hzh3tg0rlktn4efegaqe",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzh3tg0rlktn4efegaqe",
+        "title": "ICC26_CWC-L2-NEP_Match5.2(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/clz6tufof1fdxwiydunf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-match5-1-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-1-nep"
+        "slug": "icc26-cwc-l2-nep-match5-2-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-2-nep"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, May 3, 2026, 9:01:52 AM",
-        "expire_date": "Sunday, May 3, 2026, 5:02:00 PM",
+        "create_date": "Sunday, May 3, 2026, 2:00:02 PM",
+        "expire_date": "Sunday, May 3, 2026, 10:00:09 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
           "Referer: https://www.icc-cricket.com/",
@@ -137,7 +137,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777807920~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4cddbf7a6f7763455349201c21f345d5d697885716967c4c112854c2517cf188/manifest.mpd?vcfilter=158e5ab1-9185-4eea-acc5-1c6e08bbcc0b&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777825809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=006af095454f651ad7eb2c342e4e6dae99043a657a256a5e832f704a46610774/manifest.mpd?vcfilter=10314736-4815-458d-8adf-4865c1ea64ee&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -155,11 +155,11 @@
     },
     {
       "type": "customentity",
-      "_translationId": "8d10449c-cc20-49d6-b9da-7227f7640625",
-      "_entityId": "5b351666-87f3-4fd3-a9ef-9443c22138c0",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings",
-      "slug": "oman-v-united-arab-emirates-1st-innings",
-      "title": "Oman v United Arab Emirates (1st Innings) (ENGLISH)",
+      "_translationId": "2cd082cd-acc2-4026-8bdd-6bc246624235",
+      "_entityId": "7fd603da-a8bb-487e-bc94-60ba27e2a4e6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
+      "slug": "oman-v-united-arab-emirates-2nd-innings",
+      "title": "Oman v United Arab Emirates (2nd Innings) (ENGLISH)",
       "tags": [
         {
           "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
@@ -222,12 +222,12 @@
         }
       ],
       "fields": {
-        "videoId": "fc689b4a-b7db-45f8-86ae-6ae218b681bf",
+        "videoId": "5e0d2c5f-1930-4789-98e9-da6f6cb3fc14",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-03T03:45:00Z",
+        "scheduledStartTime": "2026-05-03T07:45:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -239,23 +239,23 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-03T03:29:32.819Z",
-      "contentDate": "2026-03-04T13:53:47.782Z",
+      "lastUpdatedDate": "2026-05-03T08:19:15.473Z",
+      "contentDate": "2026-04-20T11:09:24.05Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2_Match2.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/iijsvoixofjuxk5md2vq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/iijsvoixofjuxk5md2vq",
+        "title": "ICC26_CWC-L2_Match2.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bdxazlxd5iaonirvnpff",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-match2-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match2-1"
+        "slug": "icc26-cwc-l2-match2-2-x9476",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match2-2-x9476"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, May 3, 2026, 9:01:58 AM",
-        "expire_date": "Sunday, May 3, 2026, 5:02:05 PM",
+        "create_date": "Sunday, May 3, 2026, 2:00:07 PM",
+        "expire_date": "Sunday, May 3, 2026, 10:00:12 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
           "Referer: https://www.icc-cricket.com/",
@@ -268,84 +268,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777807925~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=69676cb3580ae9da6733fed67b4f3127bc3c5bdc308c2b81dc980bf156fa6a0c/manifest.mpd?vcfilter=fc689b4a-b7db-45f8-86ae-6ae218b681bf&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "a47bcff7-4a7b-4a08-b811-0d52d5e647e9",
-      "_entityId": "31238943-f250-4855-ac86-270350c5b7c4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kansai-v-north-kanto",
-      "slug": "kansai-v-north-kanto",
-      "title": "Kansai v North Kanto",
-      "tags": [],
-      "fields": {
-        "videoId": "cc6f09d9-0ee5-4c2d-bb1d-a579fa628093",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": false,
-        "scheduledStartTime": "2026-05-03T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arjun Singh",
-      "lastUpdatedDate": "2026-05-03T06:21:40.364Z",
-      "contentDate": "2026-04-30T08:35:59.666Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "7th Match - Kansai vs North Kanto",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ae5witsxehdzj42kd4q8",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ae5witsxehdzj42kd4q8",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "7th-match-kansai-vs-north-kanto",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-match-kansai-vs-north-kanto"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 3, 2026, 10:15:07 AM",
-        "expire_date": "Sunday, May 3, 2026, 6:15:13 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777812313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=524e9dbf96e194d16033dfbed89adc68374bd2bcbc20896d55ea112051fd1c63/manifest.mpd?vcfilter=cc6f09d9-0ee5-4c2d-bb1d-a579fa628093&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777825812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7fb4b6a30d152235e5d117156afc4bd379e2db3ea6bee4da425ab473865e7b33/manifest.mpd?vcfilter=5e0d2c5f-1930-4789-98e9-da6f6cb3fc14&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -502,206 +425,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "453987c1-b150-46de-b58d-b782727fb2cb",
-      "_entityId": "977b05d7-7df0-4115-9d81-a6b4a90ddd68",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings-nepali",
-      "slug": "oman-v-united-arab-emirates-2nd-innings-nepali",
-      "title": "Oman v United Arab Emirates (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
-          "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
-          "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
-          "slug": "match-270458",
-          "neutralSlug": "match-270458",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270458",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270458",
-            "teamA": "United Arab Emirates",
-            "teamB": "Oman",
-            "teamAid": "21",
-            "teamBid": "28",
-            "teamAshort": "UAE",
-            "teamBshort": "OMA",
-            "stage": "League",
-            "matchDateLocal": "5/3/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 102",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-oman",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "10314736-4815-458d-8adf-4865c1ea64ee",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-03T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-04-23T09:50:03.355Z",
-      "contentDate": "2026-04-23T09:49:57.349Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP_Match5.2(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/clz6tufof1fdxwiydunf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/clz6tufof1fdxwiydunf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-match5-2-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-match5-2-nep"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "2cd082cd-acc2-4026-8bdd-6bc246624235",
-      "_entityId": "7fd603da-a8bb-487e-bc94-60ba27e2a4e6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
-      "slug": "oman-v-united-arab-emirates-2nd-innings",
-      "title": "Oman v United Arab Emirates (2nd Innings) (ENGLISH)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "3f7c2996-9ed7-4a01-b457-47087defb8a8",
-          "_entityId": "9e06c3ff-335f-4346-a9ea-da4c3b6b7a15",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270458",
-          "title": "United Arab Emirates vs Oman - Match 102 - 5/3/2026",
-          "slug": "match-270458",
-          "neutralSlug": "match-270458",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270458",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270458",
-            "teamA": "United Arab Emirates",
-            "teamB": "Oman",
-            "teamAid": "21",
-            "teamBid": "28",
-            "teamAshort": "UAE",
-            "teamBshort": "OMA",
-            "stage": "League",
-            "matchDateLocal": "5/3/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 102",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-oman",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5e0d2c5f-1930-4789-98e9-da6f6cb3fc14",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-03T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-04-23T09:34:01.694Z",
-      "contentDate": "2026-04-20T11:09:24.05Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2_Match2.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bdxazlxd5iaonirvnpff",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bdxazlxd5iaonirvnpff",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-match2-2-x9476",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-match2-2-x9476"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "6cd6b8d5-bf74-4a58-b730-8f35d46347ad",
