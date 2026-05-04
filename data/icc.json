@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:11 AM 04-05-2026",
-  "total_matches": 10,
-  "live_matches": 2,
+  "last_updated": "04-05-2026 10:00",
+  "total_matches": 8,
+  "live_matches": 0,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,162 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "6cd6b8d5-bf74-4a58-b730-8f35d46347ad",
-      "_entityId": "e6c25dba-2787-4407-bc4f-95e50df2a585",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-west-kanto",
-      "slug": "north-kanto-v-west-kanto",
-      "title": "North Kanto v West Kanto",
-      "tags": [],
-      "fields": {
-        "videoId": "511333d1-a75c-4916-8b58-2241c33ca6fd",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-04T01:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-04T00:41:32.915Z",
-      "contentDate": "2026-04-30T08:37:30.635Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "10th Match - North Kanto vs West Kanto ",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nl5hwix0nip73demncfy",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nl5hwix0nip73demncfy",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "10th-match-north-kanto-vs-west-kanto",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/10th-match-north-kanto-vs-west-kanto"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, May 4, 2026, 6:15:02 AM",
-        "expire_date": "Monday, May 4, 2026, 2:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777884309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8aea10304b557bc9d6703bb5820e48434f778c1d267cbfb683b122bd33cc0f12/manifest.mpd?vcfilter=511333d1-a75c-4916-8b58-2241c33ca6fd&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "4a01c49f-02d2-4f73-81c3-fb1cbec0a482",
-      "_entityId": "41abbb0c-1960-4849-90d8-7abccfaa5443",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-kanto-v-east-kanto",
-      "slug": "south-kanto-v-east-kanto",
-      "title": "South Kanto v East Kanto",
-      "tags": [],
-      "fields": {
-        "videoId": "78b82138-2e3d-42e6-acae-e8828598079d",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-04T01:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-04T00:41:31.068Z",
-      "contentDate": "2026-04-30T08:36:58.825Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "9th Match - South Kanto vs East Kanto",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/emeqv2hxd9h2gtxzhdwi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/emeqv2hxd9h2gtxzhdwi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "9th-match-south-kanto-vs-east-kanto",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/9th-match-south-kanto-vs-east-kanto"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, May 4, 2026, 6:15:07 AM",
-        "expire_date": "Monday, May 4, 2026, 2:15:13 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777884313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d90e767cc005fe3a48eef8b55099f4fb590f453157ad3d84411f3ed7154e6212/manifest.mpd?vcfilter=78b82138-2e3d-42e6-acae-e8828598079d&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
