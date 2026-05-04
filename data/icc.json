@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03-05-2026 18:45",
-  "total_matches": 8,
-  "live_matches": 0,
+  "last_updated": "06:15:11 AM 04-05-2026",
+  "total_matches": 10,
+  "live_matches": 2,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "6cd6b8d5-bf74-4a58-b730-8f35d46347ad",
@@ -34,7 +33,7 @@
       "fields": {
         "videoId": "511333d1-a75c-4916-8b58-2241c33ca6fd",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-04T01:00:00Z",
@@ -54,8 +53,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:37:30.635Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-04T00:41:32.915Z",
       "contentDate": "2026-04-30T08:37:30.635Z",
       "featured": 0,
       "thumbnail": {
@@ -67,7 +66,38 @@
         "slug": "10th-match-north-kanto-vs-west-kanto",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/10th-match-north-kanto-vs-west-kanto"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, May 4, 2026, 6:15:02 AM",
+        "expire_date": "Monday, May 4, 2026, 2:15:09 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1777884309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8aea10304b557bc9d6703bb5820e48434f778c1d267cbfb683b122bd33cc0f12/manifest.mpd?vcfilter=511333d1-a75c-4916-8b58-2241c33ca6fd&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -80,7 +110,7 @@
       "fields": {
         "videoId": "78b82138-2e3d-42e6-acae-e8828598079d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-04T01:00:00Z",
@@ -100,8 +130,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:36:58.825Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-04T00:41:31.068Z",
       "contentDate": "2026-04-30T08:36:58.825Z",
       "featured": 0,
       "thumbnail": {
@@ -112,6 +142,131 @@
         "overriddenFormats": [],
         "slug": "9th-match-south-kanto-vs-east-kanto",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/9th-match-south-kanto-vs-east-kanto"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, May 4, 2026, 6:15:07 AM",
+        "expire_date": "Monday, May 4, 2026, 2:15:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777884313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d90e767cc005fe3a48eef8b55099f4fb590f453157ad3d84411f3ed7154e6212/manifest.mpd?vcfilter=78b82138-2e3d-42e6-acae-e8828598079d&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "39c806d5-c231-457c-bd47-934d0d4ce892",
+      "_entityId": "665ad9f4-6eb1-4152-9e51-a5cbc280d19a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/east-kanto-v-kansai",
+      "slug": "east-kanto-v-kansai",
+      "title": "East Kanto v Kansai",
+      "tags": [],
+      "fields": {
+        "videoId": "b4de478d-f059-4b04-be60-ce609359e1f1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-03T15:20:31.861Z",
+      "contentDate": "2026-04-30T08:33:02.899Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "WhatsApp Image 2026-05-03 at 8.45.50 PM (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gckyvxejxjd9va8i17vx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gckyvxejxjd9va8i17vx",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "whatsapp-image-2026-05-03-at-8-45-50-pm-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/whatsapp-image-2026-05-03-at-8-45-50-pm-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8f8d3fbf-d16a-4600-bd6c-6c1aaef97299",
+      "_entityId": "f7827a13-33d1-4db8-bd97-bc0aade5cc94",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/north-kanto-v-south-kanto",
+      "slug": "north-kanto-v-south-kanto",
+      "title": "North Kanto v South Kanto",
+      "tags": [],
+      "fields": {
+        "videoId": "f02d7e9d-5ce8-4d56-ac9a-e67aae91c7dc",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "BD",
+            "BT",
+            "NP",
+            "LK",
+            "MV",
+            "JP"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-03T15:19:54.48Z",
+      "contentDate": "2026-04-30T08:31:41.54Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "WhatsApp Image 2026-05-03 at 8.45.50 PM",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gel547iybueunownybrn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gel547iybueunownybrn",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "whatsapp-image-2026-05-03-at-8-45-50-pm",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/whatsapp-image-2026-05-03-at-8-45-50-pm"
       },
       "entityCode": "video"
     },
@@ -129,7 +284,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "scheduledStartTime": "2026-05-05T01:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -147,17 +302,17 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:38:34.737Z",
+      "lastUpdatedDate": "2026-05-03T15:34:18.738Z",
       "contentDate": "2026-04-30T08:38:34.737Z",
       "featured": 0,
       "thumbnail": {
-        "title": "file_00000000bb7c720bbe6547edea01c967",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvagv7gdvgbrwnsdk9fk",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvagv7gdvgbrwnsdk9fk",
-        "format": "png",
+        "title": "WhatsApp Image 2026-05-03 at 8.58.35 PM",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kwz4k7xvaf9ngdc5sxl1",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kwz4k7xvaf9ngdc5sxl1",
+        "format": "jpg",
         "overriddenFormats": [],
-        "slug": "file-00000000bb7c720bbe6547edea01c967",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/file-00000000bb7c720bbe6547edea01c967"
+        "slug": "whatsapp-image-2026-05-03-at-8-58-35-pm",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/whatsapp-image-2026-05-03-at-8-58-35-pm"
       },
       "entityCode": "video"
     },
@@ -175,7 +330,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-04T05:00:00Z",
+        "scheduledStartTime": "2026-05-05T01:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -193,17 +348,17 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-04-30T08:38:48.896Z",
+      "lastUpdatedDate": "2026-05-03T15:34:46.86Z",
       "contentDate": "2026-04-30T08:37:56.652Z",
       "featured": 0,
       "thumbnail": {
-        "title": "IMG-20260429-WA0052",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dly15zu0lms2zdvpgyst",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dly15zu0lms2zdvpgyst",
+        "title": "WhatsApp Image 2026-05-03 at 8.58.36 PM",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sxkyeaxncz6k9inr5mui",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sxkyeaxncz6k9inr5mui",
         "format": "jpg",
         "overriddenFormats": [],
-        "slug": "img-20260429-wa0052",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/img-20260429-wa0052"
+        "slug": "whatsapp-image-2026-05-03-at-8-58-36-pm",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/whatsapp-image-2026-05-03-at-8-58-36-pm"
       },
       "entityCode": "video"
     },
@@ -292,8 +447,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-04-23T09:51:41.466Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-03T15:31:00.036Z",
       "contentDate": "2026-04-23T09:51:21.448Z",
       "featured": 0,
       "thumbnail": {
@@ -492,8 +647,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-04-23T09:52:41.336Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-03T15:31:09.093Z",
       "contentDate": "2026-04-23T09:52:22.738Z",
       "featured": 0,
       "thumbnail": {
