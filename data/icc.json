@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:13 AM 05-05-2026",
-  "total_matches": 14,
-  "live_matches": 4,
+  "last_updated": "09:45:02 AM 05-05-2026",
+  "total_matches": 13,
+  "live_matches": 3,
   "upcoming_matches": 10,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,83 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "4cf70077-d4a7-41b8-8496-808a4bd7e979",
-      "_entityId": "fd03ecca-eeb4-414c-9ee5-9f6785e51893",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final-1st-v-2nd",
-      "slug": "final-1st-v-2nd",
-      "title": "Final: South Kanto v East Kanto",
-      "tags": [],
-      "fields": {
-        "videoId": "8ba882db-5e88-4bbf-bb94-7c6614e2ee1e",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-05T01:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "BD",
-            "BT",
-            "NP",
-            "LK",
-            "MV",
-            "JP"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-05-05T00:47:14.506Z",
-      "contentDate": "2026-05-05T00:47:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "WhatsApp Image 2026-05-03 at 8.58.36 PM",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sxkyeaxncz6k9inr5mui",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sxkyeaxncz6k9inr5mui",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "whatsapp-image-2026-05-03-at-8-58-36-pm",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/whatsapp-image-2026-05-03-at-8-58-36-pm"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 5, 2026, 6:15:08 AM",
-        "expire_date": "Tuesday, May 5, 2026, 2:15:16 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1777970716~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9691718d9ac526c03a3757c96af095f515c45898b4ee79cda20c90adaf8e877b/manifest.mpd?vcfilter=8ba882db-5e88-4bbf-bb94-7c6614e2ee1e&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "93b515b5-2233-4431-8449-a4719035e0ce",
@@ -625,8 +548,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-04-23T09:56:11.539Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-05-05T04:09:28.583Z",
       "contentDate": "2026-04-20T11:18:53.499Z",
       "featured": 0,
       "thumbnail": {
