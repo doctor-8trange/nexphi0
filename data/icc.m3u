@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 05-05-2026 10:00
+#DATE:- 05-05-2026 13:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="e73354bf-0870-44f2-8359-0ea4d8f9eda8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ven8vmsdzhnqrchxlhvu" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (1st Innings) (NEPALI)
+#EXTINF:-1 tvg-id="1560578d-1d8b-44a1-9876-9b88f61fb60f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gdwurzsa1p3ibbegvw54" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (2nd Innings) (NEPALI)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777980611~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d0399e40c7dd7d05e657ecbcec275d0bb171c51d8b13c4133e79b62dce582e9/manifest.mpd?vcfilter=e73354bf-0870-44f2-8359-0ea4d8f9eda8&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="df050451-54a1-449f-836e-2d72de477345" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4cep8zuxukrgzkrfap" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (1st Innings) (ENGLISH)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1777995010~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6ce369f68eb7af07ddcb718bbd464c7ac444b5062ce71d18e702cdfef2a6eece/manifest.mpd?vcfilter=1560578d-1d8b-44a1-9876-9b88f61fb60f&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="7dca3ec0-365b-459e-94e7-192a640b748e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ojddxbhyi9pmo6jydlym" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (2nd Innings) (ENGLISH)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777980616~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e7587bf45a0dc9dc25004b5ab51a6aeb3f106447eb8e4c724afc01f7908bb2e9/manifest.mpd?vcfilter=df050451-54a1-449f-836e-2d72de477345&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1777995014~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6074736e22319fcb54f432557b4cbcf07864c4420abf17b8110ae71a323ea29e/manifest.mpd?vcfilter=7dca3ec0-365b-459e-94e7-192a640b748e&powered_by=jay_shree_ram
