@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:02 AM 08-05-2026",
-  "total_matches": 32,
-  "live_matches": 1,
+  "last_updated": "08-05-2026 09:45",
+  "total_matches": 31,
+  "live_matches": 0,
   "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "1f221385-e0ae-4d3b-b06a-1569043b6105",
-      "_entityId": "ef0de167-8ea9-425f-a22d-174aa71a2965",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/fiji-v-vanuatu",
-      "slug": "fiji-v-vanuatu",
-      "title": "Fiji v Vanuatu",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "edf6d3f0-ef04-4e02-8177-3607fb44ccbb",
-          "_entityId": "c67dd65a-712a-49a5-9464-ee6e4d2b724d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270385",
-          "title": "Fiji vs Vanuatu - Match 2 - 5/8/2026",
-          "slug": "match-270385",
-          "neutralSlug": "match-270385",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270385",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270385",
-            "teamA": "Fiji",
-            "teamB": "Vanuatu",
-            "teamAid": "301",
-            "teamBid": "1720",
-            "teamAshort": "FIJ",
-            "teamBshort": "VAN",
-            "stage": "Group",
-            "matchDateLocal": "5/8/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "fiji-vs-vanuatu",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c39dfd54-59b8-4783-b284-c61df6db0970",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-08T00:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-08T00:17:27.318Z",
-      "contentDate": "2026-05-05T12:29:04.24Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nfai4w3w8rd9z67smplq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nfai4w3w8rd9z67smplq",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-2-x8482",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-2-x8482"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 8, 2026, 6:00:02 AM",
-        "expire_date": "Friday, May 8, 2026, 2:00:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778229010~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=70a78dcc72a48a936a15bb0756f99c1b4117a3ee0aa395a19d513bf88ce0ba0b/manifest.mpd?vcfilter=c39dfd54-59b8-4783-b284-c61df6db0970&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
