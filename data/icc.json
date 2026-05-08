@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:00:11 AM 08-05-2026",
-  "total_matches": 33,
-  "live_matches": 2,
+  "last_updated": "09:30:02 AM 08-05-2026",
+  "total_matches": 32,
+  "live_matches": 1,
   "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778229010~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=70a78dcc72a48a936a15bb0756f99c1b4117a3ee0aa395a19d513bf88ce0ba0b/manifest.mpd?vcfilter=c39dfd54-59b8-4783-b284-c61df6db0970&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "566baf02-c547-467a-a0cc-3727cbe110ef",
-      "_entityId": "44509e19-db41-44db-96f5-8b4689389ebb",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/philippines-v-indonesia",
-      "slug": "philippines-v-indonesia",
-      "title": "Philippines v Indonesia",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "dc13dbcd-e72c-4e72-ae6f-b994bcdaf530",
-          "_entityId": "bd6696b7-263e-4114-a82b-4eb68493a2c8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270384",
-          "title": "Philippines vs Indonesia - Match 1 - 5/8/2026",
-          "slug": "match-270384",
-          "neutralSlug": "match-270384",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270384",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270384",
-            "teamA": "Philippines",
-            "teamB": "Indonesia",
-            "teamAid": "1767",
-            "teamBid": "1809",
-            "teamAshort": "PHI",
-            "teamBshort": "INA",
-            "stage": "Group",
-            "matchDateLocal": "5/8/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 1",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "philippines-vs-indonesia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "cd8b82fd-8b9e-469d-aa3a-14dd5e9e0774",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-08T00:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-08T00:17:29.643Z",
-      "contentDate": "2026-05-04T13:37:13.636Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/koghe7qc7z6dfrasnity",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/koghe7qc7z6dfrasnity",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 8, 2026, 6:00:07 AM",
-        "expire_date": "Friday, May 8, 2026, 2:00:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778229014~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b4feb1278acf85fd4b3e92742b170b5ba52dbaf03aeb43920da248d4dc17f256/manifest.mpd?vcfilter=cd8b82fd-8b9e-469d-aa3a-14dd5e9e0774&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
