@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08-05-2026 12:45",
-  "total_matches": 30,
-  "live_matches": 0,
+  "last_updated": "05:45:12 AM 09-05-2026",
+  "total_matches": 32,
+  "live_matches": 2,
   "upcoming_matches": 30,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "a923bd4c-3976-4bdc-9bcd-9caadb2e1d8b",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "36bf2617-259e-4b7e-af08-1e2a2eff1995",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-09T00:30:00Z",
@@ -110,8 +109,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-07T08:43:26.681Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-09T00:13:19.852Z",
       "contentDate": "2026-05-04T13:46:42.789Z",
       "featured": 0,
       "thumbnail": {
@@ -123,7 +122,38 @@
         "slug": "icc26-mt20-28-eap-qual-5",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-5"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 9, 2026, 5:45:02 AM",
+        "expire_date": "Saturday, May 9, 2026, 1:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778314510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6171ae8085918851685f10a94e405b426924bb8eb562e2b9bec86d2df969fc0c/manifest.mpd?vcfilter=36bf2617-259e-4b7e-af08-1e2a2eff1995&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -198,6 +228,141 @@
       "fields": {
         "videoId": "fe9945ab-5e48-42cb-b3e8-32e291788ed2",
         "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-09T00:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-09T00:13:09.544Z",
+      "contentDate": "2026-05-04T13:45:49.751Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-EAP-Qual_4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ktfb0czmmcbsdpbegw95",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ktfb0czmmcbsdpbegw95",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-eap-qual-4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-4"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 9, 2026, 5:45:07 AM",
+        "expire_date": "Saturday, May 9, 2026, 1:45:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778314515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=03287ad65581cd9ac5f146d215fae40e2099620b1e2bec58f11eb7ebd540f5be/manifest.mpd?vcfilter=fe9945ab-5e48-42cb-b3e8-32e291788ed2&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "1a2c5f86-45a8-408b-bcad-dc52aaf179cb",
+      "_entityId": "c416b371-9d5d-44d4-bb5c-689f939e016f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/vanuatu-v-japan-japanese",
+      "slug": "vanuatu-v-japan-japanese",
+      "title": "Vanuatu v Japan (JAPANESE)",
+      "tags": [
+        {
+          "_translationId": "fa51b841-ae16-46a5-a46b-4e8c31030d3d",
+          "_entityId": "386fea5f-413c-4db0-9bcf-b970904ee7ca",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270387",
+          "title": "Japan vs Vanuatu - Match 5 - 5/9/2026",
+          "slug": "match-270387",
+          "neutralSlug": "match-270387",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270387",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270387",
+            "teamA": "Japan",
+            "teamB": "Vanuatu",
+            "teamAid": "1801",
+            "teamBid": "1720",
+            "teamAshort": "JPN",
+            "teamBshort": "VAN",
+            "stage": "Group",
+            "matchDateLocal": "5/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15509",
+            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12489",
+            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "japan-vs-vanuatu",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
+          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
+          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+          "slug": "tournament-15509",
+          "neutralSlug": "tournament-15509",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15509",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15509",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "fd96c3a9-454f-4e8a-b7c0-29ff774ba814",
+        "workflow": "LIVE",
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
@@ -212,18 +377,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-04T13:45:49.751Z",
-      "contentDate": "2026-05-04T13:45:49.751Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-08T07:25:24.847Z",
+      "contentDate": "2026-05-08T07:25:24.847Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_4",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ktfb0czmmcbsdpbegw95",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ktfb0czmmcbsdpbegw95",
+        "title": "ICC26_MT20-28-EAP-Qual_5_JPN",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ypbcl8cnc9epmhmzcb4q",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ypbcl8cnc9epmhmzcb4q",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-4",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-4"
+        "slug": "icc26-mt20-28-eap-qual-5-jpn",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-5-jpn"
       },
       "entityCode": "video"
     },
@@ -326,6 +491,108 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20-28-eap-qual-6",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-6"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "530a709b-86db-45ce-811c-37f9e9313816",
+      "_entityId": "9247dc95-d441-4aaa-b49a-2ddb54b57ea0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/japan-v-fiji-japanese",
+      "slug": "japan-v-fiji-japanese",
+      "title": "Japan v Fiji (JAPANESE)",
+      "tags": [
+        {
+          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
+          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
+          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+          "slug": "tournament-15509",
+          "neutralSlug": "tournament-15509",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15509",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15509",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "32fb1380-ec3c-439e-8ea5-b3488c0777a1",
+          "_entityId": "02d28b48-43aa-4778-845f-95dc0aae5984",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270391",
+          "title": "Japan vs Fiji - Match 8 - 5/10/2026",
+          "slug": "match-270391",
+          "neutralSlug": "match-270391",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270391",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270391",
+            "teamA": "Japan",
+            "teamB": "Fiji",
+            "teamAid": "1801",
+            "teamBid": "301",
+            "teamAshort": "JPN",
+            "teamBshort": "FIJ",
+            "stage": "Group",
+            "matchDateLocal": "5/10/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15509",
+            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12489",
+            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "japan-vs-fiji",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1306fcf1-17e0-497b-90be-f56a9b208d57",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-10T00:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-08T10:09:30.401Z",
+      "contentDate": "2026-05-08T07:27:34.343Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-EAP-Qual_8_JPN",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jdhh0zrwhbldbvcewlkh",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jdhh0zrwhbldbvcewlkh",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-eap-qual-8-jpn",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-8-jpn"
       },
       "entityCode": "video"
     },
