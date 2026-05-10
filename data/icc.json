@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:45:03 AM 10-05-2026",
-  "total_matches": 32,
-  "live_matches": 1,
+  "last_updated": "10-05-2026 09:15",
+  "total_matches": 31,
+  "live_matches": 0,
   "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,151 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "3c0035b6-a18d-414b-ac1a-8074c17d9c52",
-      "_entityId": "bb62eaad-976a-4758-a837-a9472a055b69",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/samoa-v-philippines",
-      "slug": "samoa-v-philippines",
-      "title": "Samoa v Philippines",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ca52cf88-51a8-4ca0-8b89-e952877c278b",
-          "_entityId": "8365c63e-c6b6-4e55-9d02-ad6612acca7c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270390",
-          "title": "Samoa vs Philippines - Match 7 - 5/10/2026",
-          "slug": "match-270390",
-          "neutralSlug": "match-270390",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270390",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270390",
-            "teamA": "Samoa",
-            "teamB": "Philippines",
-            "teamAid": "1753",
-            "teamBid": "1767",
-            "teamAshort": "SAM",
-            "teamBshort": "PHI",
-            "stage": "Group",
-            "matchDateLocal": "5/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 7",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "samoa-vs-philippines",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "46477939-f5c8-4c13-821b-f227eb9c9188",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-10T00:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-10T03:12:42.565Z",
-      "contentDate": "2026-05-10T03:12:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_7",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ftaehqnmpoeedzpbiniq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ftaehqnmpoeedzpbiniq",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-7",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-7"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 10, 2026, 5:45:12 AM",
-        "expire_date": "Sunday, May 10, 2026, 1:45:19 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778400919~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5c43f843b7439301afbdbd929287a89fade026bfee2e56f0240f605a0291cf75/manifest.mpd?vcfilter=46477939-f5c8-4c13-821b-f227eb9c9188&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
