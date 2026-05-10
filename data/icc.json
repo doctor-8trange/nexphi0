@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:15:07 AM 10-05-2026",
-  "total_matches": 31,
-  "live_matches": 1,
+  "last_updated": "10-05-2026 14:00",
+  "total_matches": 30,
+  "live_matches": 0,
   "upcoming_matches": 30,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,151 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "7a8af13e-77de-4b1a-ae62-6b1b65f62164",
-      "_entityId": "bfd9167d-2cfc-49f7-8388-790b2e8860e4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-cook-islands",
-      "slug": "papua-new-guinea-v-cook-islands",
-      "title": "Papua New Guinea v Cook Islands",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f3375453-e309-4a32-886a-9b36c97227a7",
-          "_entityId": "67ac5a6f-d1a1-406c-ae87-165d3724af33",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270392",
-          "title": "Papua New Guinea vs Cook Islands - Match 9 - 5/10/2026",
-          "slug": "match-270392",
-          "neutralSlug": "match-270392",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270392",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270392",
-            "teamA": "Papua New Guinea",
-            "teamB": "Cook Islands",
-            "teamAid": "750",
-            "teamBid": "1843",
-            "teamAshort": "PNG",
-            "teamBshort": "COK",
-            "stage": "Group",
-            "matchDateLocal": "5/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 9",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "papua-new-guinea-vs-cook-islands",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5c3fd8fc-0835-4f1c-ac59-2f908cada046",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-10T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "omkar patil",
-      "lastUpdatedDate": "2026-05-10T04:44:42.073Z",
-      "contentDate": "2026-05-04T13:49:38.065Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_9",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/aqcp5xwekkynzi7iiaer",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/aqcp5xwekkynzi7iiaer",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-9",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-9"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 10, 2026, 10:15:02 AM",
-        "expire_date": "Sunday, May 10, 2026, 6:15:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778417110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ad28e320d54cf6a8bdd925f62963a15bac5bb83fd1dce34b50e60e21b1f93edf/manifest.mpd?vcfilter=5c3fd8fc-0835-4f1c-ac59-2f908cada046&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
