@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:11 AM 12-05-2026",
-  "total_matches": 44,
-  "live_matches": 3,
+  "last_updated": "09:30:02 AM 12-05-2026",
+  "total_matches": 43,
+  "live_matches": 2,
   "upcoming_matches": 41,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "e6fb46fd-1c54-42b6-8938-1f0b43b2caf2",
-      "_entityId": "0612e58c-344b-45e1-b3f5-0f4dc33f1090",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/samoa-v-vanuatu",
-      "slug": "samoa-v-vanuatu",
-      "title": "Samoa v Vanuatu",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "08707d5b-ee37-4f2a-bda9-cde268914fb6",
-          "_entityId": "e31c8768-841c-42e4-aa89-c93cff056f39",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270393",
-          "title": "Samoa vs Vanuatu - Super Six - Match 1 - 5/12/2026",
-          "slug": "match-270393",
-          "neutralSlug": "match-270393",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270393",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270393",
-            "teamA": "Samoa",
-            "teamB": "Vanuatu",
-            "teamAid": "1753",
-            "teamBid": "1720",
-            "teamAshort": "SAM",
-            "teamBshort": "VAN",
-            "stage": "Super Six",
-            "matchDateLocal": "5/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Super Six - Match 1",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "samoa-vs-vanuatu",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5a2149ca-bbca-42d2-8b11-88de750af8c1",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-12T00:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Soumya Pratim Guha",
-      "lastUpdatedDate": "2026-05-12T01:02:33.37Z",
-      "contentDate": "2026-05-11T07:52:07.414Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_S6-1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dg59yxhnryrwkj5fwabb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dg59yxhnryrwkj5fwabb",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-s6-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-s6-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 12, 2026, 5:45:02 AM",
-        "expire_date": "Tuesday, May 12, 2026, 1:45:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778573711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1e55f0bb86fbf6f97efde87045d3dc1f31e2db2918fc3b022568e0d4a2404d7d/manifest.mpd?vcfilter=5a2149ca-bbca-42d2-8b11-88de750af8c1&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "2e8d81be-9ded-46f0-b3ad-f6eb02eca6f8",
