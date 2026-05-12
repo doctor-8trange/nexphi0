@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:15:02 PM 12-05-2026",
-  "total_matches": 42,
-  "live_matches": 2,
+  "last_updated": "12-05-2026 18:15",
+  "total_matches": 40,
+  "live_matches": 0,
   "upcoming_matches": 40,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,270 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "c454a020-9c35-42c7-bbd6-1edd468f31d3",
-      "_entityId": "f3f4a12b-108a-409f-8760-54fed4f5cf10",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-scotland-2nd-innings-english",
-      "slug": "nepal-v-scotland-2nd-innings-english",
-      "title": "Nepal v Scotland (2nd Innings) (ENGLISH)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c7a5cf3b-7cb4-4b14-be94-1466551c2d90",
-          "_entityId": "6d108fd9-f508-428b-9f72-577521d79b6d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270460",
-          "title": "Nepal vs Scotland - Match 104 - 5/12/2026",
-          "slug": "match-270460",
-          "neutralSlug": "match-270460",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270460",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270460",
-            "teamA": "Nepal",
-            "teamB": "Scotland",
-            "teamAid": "637",
-            "teamBid": "16",
-            "teamAshort": "NEP",
-            "teamBshort": "SCO",
-            "stage": "League",
-            "matchDateLocal": "5/12/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 104",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-scotland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "f6abfd9f-6d79-455b-990e-41b0cf2a50d5",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-12T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arjun Singh",
-      "lastUpdatedDate": "2026-05-12T09:52:40.523Z",
-      "contentDate": "2026-05-12T09:52:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match1.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mv3fj8p5ilbvmz8omvbk",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mv3fj8p5ilbvmz8omvbk",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match1-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match1-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 12, 2026, 1:30:06 PM",
-        "expire_date": "Tuesday, May 12, 2026, 9:30:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778601614~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3f7b9591cf90bd1ee120c234beb0637639ff624d6b7bcdfa7ae6ad518ca194c1/manifest.mpd?vcfilter=f6abfd9f-6d79-455b-990e-41b0cf2a50d5&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "c12d1ba4-281a-46b9-8404-e87b1dbbbc85",
-      "_entityId": "d21b2da3-cf91-4778-9085-716e79de1216",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-scotland-2nd-innings-nepali",
-      "slug": "nepal-v-scotland-2nd-innings-nepali",
-      "title": "Nepal v Scotland (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c7a5cf3b-7cb4-4b14-be94-1466551c2d90",
-          "_entityId": "6d108fd9-f508-428b-9f72-577521d79b6d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270460",
-          "title": "Nepal vs Scotland - Match 104 - 5/12/2026",
-          "slug": "match-270460",
-          "neutralSlug": "match-270460",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270460",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270460",
-            "teamA": "Nepal",
-            "teamB": "Scotland",
-            "teamAid": "637",
-            "teamBid": "16",
-            "teamAshort": "NEP",
-            "teamBshort": "SCO",
-            "stage": "League",
-            "matchDateLocal": "5/12/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 104",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-scotland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7cc7c743-82a0-4c91-a89f-de91dd4fdd1b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-12T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arjun Singh",
-      "lastUpdatedDate": "2026-05-12T09:52:54.657Z",
-      "contentDate": "2026-05-12T09:52:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match1.2(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b5ejbgdqin3voqwzbmvf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b5ejbgdqin3voqwzbmvf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match1-2-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match1-2-nep"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 12, 2026, 1:30:02 PM",
-        "expire_date": "Tuesday, May 12, 2026, 9:30:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1778601610~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6827bbef1356bdf69c3a64d539b85d14f1c83d2e6834d52c491edd20333f4405/manifest.mpd?vcfilter=7cc7c743-82a0-4c91-a89f-de91dd4fdd1b&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
@@ -373,9 +110,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T07:56:38.082Z",
-      "contentDate": "2026-05-11T07:56:38.082Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:10:06.724Z",
+      "contentDate": "2026-05-12T11:09:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-3",
@@ -475,9 +212,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T07:58:47.501Z",
-      "contentDate": "2026-05-11T07:58:47.501Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:11:57.836Z",
+      "contentDate": "2026-05-12T11:11:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-4",
@@ -1000,9 +737,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:01:04.938Z",
-      "contentDate": "2026-05-11T08:01:04.938Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:13:10.712Z",
+      "contentDate": "2026-05-12T11:12:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-5",
@@ -1302,9 +1039,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:03:12.333Z",
-      "contentDate": "2026-05-11T08:03:12.333Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:15:16.581Z",
+      "contentDate": "2026-05-12T11:15:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-6_JPN",
@@ -1404,9 +1141,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:01:52.7Z",
-      "contentDate": "2026-05-11T08:01:52.7Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:14:17.991Z",
+      "contentDate": "2026-05-12T11:14:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-6",
@@ -1707,8 +1444,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:04:15.971Z",
-      "contentDate": "2026-05-11T08:04:15.971Z",
+      "lastUpdatedDate": "2026-05-12T11:09:01.761Z",
+      "contentDate": "2026-05-12T11:08:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-7",
@@ -2009,8 +1746,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:06:49.09Z",
-      "contentDate": "2026-05-11T08:06:49.09Z",
+      "lastUpdatedDate": "2026-05-12T11:11:26.305Z",
+      "contentDate": "2026-05-12T11:11:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-8_JPN",
@@ -2111,8 +1848,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:05:21.443Z",
-      "contentDate": "2026-05-11T08:05:11.261Z",
+      "lastUpdatedDate": "2026-05-12T11:10:26.787Z",
+      "contentDate": "2026-05-12T11:10:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-8",
@@ -2836,8 +2573,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:32:21.301Z",
-      "contentDate": "2026-05-11T08:32:21.301Z",
+      "lastUpdatedDate": "2026-05-12T11:12:52.385Z",
+      "contentDate": "2026-05-12T11:12:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-9",
@@ -2938,8 +2675,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:09:44.413Z",
-      "contentDate": "2026-05-11T08:09:44.413Z",
+      "lastUpdatedDate": "2026-05-12T11:13:49.939Z",
+      "contentDate": "2026-05-12T11:13:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-10",
@@ -3040,8 +2777,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:10:50.809Z",
-      "contentDate": "2026-05-11T08:10:50.809Z",
+      "lastUpdatedDate": "2026-05-12T11:14:40.256Z",
+      "contentDate": "2026-05-12T11:14:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-11",
@@ -3341,9 +3078,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:13:04.53Z",
-      "contentDate": "2026-05-11T08:13:04.53Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T11:16:33.089Z",
+      "contentDate": "2026-05-12T11:16:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-12_JPN",
@@ -3444,8 +3181,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-11T08:11:45.516Z",
-      "contentDate": "2026-05-11T08:11:45.516Z",
+      "lastUpdatedDate": "2026-05-12T11:15:57.897Z",
+      "contentDate": "2026-05-12T11:15:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-EAP-Qual_S6-12",
