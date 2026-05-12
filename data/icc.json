@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:00:02 PM 12-05-2026",
-  "total_matches": 39,
+  "last_updated": "04:00:02 PM 12-05-2026",
+  "total_matches": 40,
   "live_matches": 2,
-  "upcoming_matches": 37,
+  "upcoming_matches": 38,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,137 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "c12d1ba4-281a-46b9-8404-e87b1dbbbc85",
-      "_entityId": "d21b2da3-cf91-4778-9085-716e79de1216",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-scotland-2nd-innings-nepali",
-      "slug": "nepal-v-scotland-2nd-innings-nepali",
-      "title": "Nepal v Scotland (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c7a5cf3b-7cb4-4b14-be94-1466551c2d90",
-          "_entityId": "6d108fd9-f508-428b-9f72-577521d79b6d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270460",
-          "title": "Nepal vs Scotland - Match 104 - 5/12/2026",
-          "slug": "match-270460",
-          "neutralSlug": "match-270460",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270460",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270460",
-            "teamA": "Nepal",
-            "teamB": "Scotland",
-            "teamAid": "637",
-            "teamBid": "16",
-            "teamAshort": "NEP",
-            "teamBshort": "SCO",
-            "stage": "League",
-            "matchDateLocal": "5/12/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 104",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-scotland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7cc7c743-82a0-4c91-a89f-de91dd4fdd1b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-12T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-12T07:48:48.142Z",
-      "contentDate": "2026-05-07T13:29:56.206Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match1.2(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b5ejbgdqin3voqwzbmvf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b5ejbgdqin3voqwzbmvf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match1-2-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match1-2-nep"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 12, 2026, 1:30:02 PM",
-        "expire_date": "Tuesday, May 12, 2026, 9:30:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1778601610~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6827bbef1356bdf69c3a64d539b85d14f1c83d2e6834d52c491edd20333f4405/manifest.mpd?vcfilter=7cc7c743-82a0-4c91-a89f-de91dd4fdd1b&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "c454a020-9c35-42c7-bbd6-1edd468f31d3",
@@ -238,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-12T07:48:48.103Z",
-      "contentDate": "2026-05-07T13:24:45.034Z",
+      "lastUpdatedBy": "Arjun Singh",
+      "lastUpdatedDate": "2026-05-12T09:52:40.523Z",
+      "contentDate": "2026-05-12T09:52:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match1.2",
@@ -269,6 +138,137 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778601614~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3f7b9591cf90bd1ee120c234beb0637639ff624d6b7bcdfa7ae6ad518ca194c1/manifest.mpd?vcfilter=f6abfd9f-6d79-455b-990e-41b0cf2a50d5&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c12d1ba4-281a-46b9-8404-e87b1dbbbc85",
+      "_entityId": "d21b2da3-cf91-4778-9085-716e79de1216",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-scotland-2nd-innings-nepali",
+      "slug": "nepal-v-scotland-2nd-innings-nepali",
+      "title": "Nepal v Scotland (2nd Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "c7a5cf3b-7cb4-4b14-be94-1466551c2d90",
+          "_entityId": "6d108fd9-f508-428b-9f72-577521d79b6d",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270460",
+          "title": "Nepal vs Scotland - Match 104 - 5/12/2026",
+          "slug": "match-270460",
+          "neutralSlug": "match-270460",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270460",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270460",
+            "teamA": "Nepal",
+            "teamB": "Scotland",
+            "teamAid": "637",
+            "teamBid": "16",
+            "teamAshort": "NEP",
+            "teamBshort": "SCO",
+            "stage": "League",
+            "matchDateLocal": "5/12/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 104",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-scotland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7cc7c743-82a0-4c91-a89f-de91dd4fdd1b",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-12T07:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arjun Singh",
+      "lastUpdatedDate": "2026-05-12T09:52:54.657Z",
+      "contentDate": "2026-05-12T09:52:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP-May_Match1.2(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b5ejbgdqin3voqwzbmvf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b5ejbgdqin3voqwzbmvf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-may-match1-2-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match1-2-nep"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, May 12, 2026, 1:30:02 PM",
+        "expire_date": "Tuesday, May 12, 2026, 9:30:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1778601610~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6827bbef1356bdf69c3a64d539b85d14f1c83d2e6834d52c491edd20333f4405/manifest.mpd?vcfilter=7cc7c743-82a0-4c91-a89f-de91dd4fdd1b&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -687,8 +687,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:51:59.138Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-12T10:01:14.904Z",
       "contentDate": "2026-05-09T10:23:59.839Z",
       "featured": 0,
       "thumbnail": {
@@ -898,9 +898,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:52:42.135Z",
-      "contentDate": "2026-05-09T10:23:59.843Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-12T10:04:32.393Z",
+      "contentDate": "2026-05-12T10:04:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_ICCtv_ENGvNZ_2nd-ODI.2",
@@ -1100,9 +1100,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:54:29.667Z",
-      "contentDate": "2026-05-07T13:42:35.288Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:10:40.74Z",
+      "contentDate": "2026-05-12T10:09:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match2.1(NEP)",
@@ -1200,8 +1200,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:55:26.055Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:08:49.623Z",
       "contentDate": "2026-05-07T13:40:44.494Z",
       "featured": 0,
       "thumbnail": {
@@ -1504,8 +1504,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:54:54.802Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:12:30.526Z",
       "contentDate": "2026-05-07T13:43:36.902Z",
       "featured": 0,
       "thumbnail": {
@@ -1604,8 +1604,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T10:55:56.07Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:08:17.558Z",
       "contentDate": "2026-05-07T13:40:14.821Z",
       "featured": 0,
       "thumbnail": {
@@ -1806,9 +1806,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:02:01.536Z",
-      "contentDate": "2026-05-07T13:46:54.685Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:15:59.328Z",
+      "contentDate": "2026-05-12T10:15:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match3.1(NEP)",
@@ -1906,9 +1906,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:04:29.436Z",
-      "contentDate": "2026-05-07T13:44:41.602Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:14:06.298Z",
+      "contentDate": "2026-05-12T10:13:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match3.1",
@@ -2210,9 +2210,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:02:40.14Z",
-      "contentDate": "2026-05-07T13:48:50.294Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:17:28.494Z",
+      "contentDate": "2026-05-12T10:17:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match3.2(NEP)",
@@ -2310,9 +2310,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:04:59.311Z",
-      "contentDate": "2026-05-07T13:46:00.166Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:15:06.181Z",
+      "contentDate": "2026-05-12T10:14:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match3.2",
@@ -2522,9 +2522,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:05:31.749Z",
-      "contentDate": "2026-05-09T10:24:23.851Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-12T10:08:23.845Z",
+      "contentDate": "2026-05-12T10:08:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_ICCtv_ENGvNZ_3rd-ODI.1",
@@ -2733,9 +2733,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-10T11:06:00.296Z",
-      "contentDate": "2026-05-09T10:24:23.846Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-12T10:09:16.719Z",
+      "contentDate": "2026-05-12T10:09:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_ICCtv_ENGvNZ_3rd-ODI.2",
@@ -3139,9 +3139,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:53:18.165Z",
-      "contentDate": "2026-05-07T13:53:18.165Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:22:01.208Z",
+      "contentDate": "2026-05-12T10:21:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match4.1(NEP)",
@@ -3239,9 +3239,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:51:52.181Z",
-      "contentDate": "2026-05-07T13:51:52.181Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:20:04.913Z",
+      "contentDate": "2026-05-12T10:19:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match4.1",
@@ -3543,9 +3543,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:54:04.535Z",
-      "contentDate": "2026-05-07T13:54:04.535Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:23:33.557Z",
+      "contentDate": "2026-05-12T10:23:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match4.2(NEP)",
@@ -3643,9 +3643,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:52:43.194Z",
-      "contentDate": "2026-05-07T13:52:12.757Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:21:08.579Z",
+      "contentDate": "2026-05-12T10:20:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match4.2",
@@ -3743,9 +3743,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:56:30.419Z",
-      "contentDate": "2026-05-07T13:56:30.419Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:26:46.349Z",
+      "contentDate": "2026-05-12T10:26:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match5.1(NEP)",
@@ -3843,9 +3843,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:54:58.373Z",
-      "contentDate": "2026-05-07T13:54:58.373Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:25:10.89Z",
+      "contentDate": "2026-05-12T10:24:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match5.1",
@@ -3943,9 +3943,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:56:59.728Z",
-      "contentDate": "2026-05-07T13:56:59.728Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:27:38.79Z",
+      "contentDate": "2026-05-12T10:27:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match5.2(NEP)",
@@ -4043,9 +4043,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:55:49.597Z",
-      "contentDate": "2026-05-07T13:55:49.597Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:26:00.943Z",
+      "contentDate": "2026-05-12T10:25:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match5.2",
@@ -4060,65 +4060,67 @@
     },
     {
       "type": "customentity",
-      "_translationId": "740f4765-7a56-495a-8637-5f924cc90fd4",
-      "_entityId": "f009123b-eeb9-4556-8b1f-b83b4d8a9d72",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-nepal-1st-innings-nepali",
-      "slug": "usa-v-nepal-1st-innings-nepali",
-      "title": "USA v Nepal (1st Innings) (NEPALI)",
+      "_translationId": "302b754d-7d78-4122-af10-81aaeb7f22f0",
+      "_entityId": "56698876-305c-4e2f-8092-41d2c79fd087",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-t20i-england-v-new-zealand",
+      "slug": "1st-t20i-england-v-new-zealand",
+      "title": "1st T20I: England v New Zealand",
       "tags": [
         {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
+          "_translationId": "f98bdd5d-8273-474f-8659-0f0a3f2f5033",
+          "_entityId": "34d45bb3-622b-48d5-95f8-771a70c50999",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-13262",
+          "title": "New Zealand Women in England, 3 T20I Series, 2026",
+          "slug": "tournament-13262",
+          "neutralSlug": "tournament-13262",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-6156",
+            "SourceId": "tournament-13262",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
+            "tournamentId": "13262",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
             "externalTagType": "tournament"
           },
           "fields": []
         },
         {
-          "_translationId": "ea9caa31-57d5-46e6-ad2c-d61c89d2d9ed",
-          "_entityId": "f79bd017-bccb-425d-9d68-9b0518531877",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270465",
-          "title": "Nepal vs USA - Match 109 - 5/22/2026",
-          "slug": "match-270465",
-          "neutralSlug": "match-270465",
+          "_translationId": "a37f5d83-80e3-476c-96aa-c09d3997d360",
+          "_entityId": "afa89475-bafa-44fc-adbe-7ded3e8deefc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-264897",
+          "title": "England vs New Zealand - 1st T20I - 5/20/2026",
+          "slug": "match-264897",
+          "neutralSlug": "match-264897",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-270465",
+            "SourceId": "match-264897",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "270465",
-            "teamA": "Nepal",
-            "teamB": "USA",
-            "teamAid": "637",
-            "teamBid": "22",
-            "teamAshort": "NEP",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/22/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 109",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-usa",
+            "matchId": "264897",
+            "teamA": "England",
+            "teamB": "New Zealand",
+            "teamAid": "1121",
+            "teamBid": "1129",
+            "teamAshort": "ENG",
+            "teamBshort": "NZ",
+            "stage": "Series",
+            "matchDateLocal": "5/20/2026",
+            "matchType": "T20",
+            "matchNumber": "1st T20I",
+            "seriesId": "13262",
+            "seriesName": "New Zealand Women in England, 3 T20I Series, 2026",
+            "seriesShortName": "NZ-W in ENG, 3 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "10009",
+            "tourName": "New Zealand Women tour of England, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "england-vs-new-zealand",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -4127,34 +4129,143 @@
         }
       ],
       "fields": {
-        "videoId": "a203fa40-bd95-4d40-b39c-6ceddb3e0eea",
+        "videoId": "06f7db6d-1014-41e0-945e-c47d49dcf425",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T03:45:00Z",
+        "scheduledStartTime": "2026-05-20T17:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
-          "listType": "blacklist",
+          "listType": "whitelist",
           "countries": [
-            "IN"
+            "AS",
+            "AQ",
+            "AR",
+            "SH",
+            "AZ",
+            "BZ",
+            "BO",
+            "BR",
+            "CL",
+            "CN",
+            "CX",
+            "CC",
+            "CO",
+            "CK",
+            "CR",
+            "TL",
+            "EC",
+            "SV",
+            "FK",
+            "FO",
+            "FJ",
+            "PF",
+            "TF",
+            "GU",
+            "GT",
+            "HN",
+            "IL",
+            "JP",
+            "KZ",
+            "KI",
+            "KG",
+            "MK",
+            "MH",
+            "MX",
+            "FM",
+            "MN",
+            "NR",
+            "NC",
+            "NI",
+            "NU",
+            "NF",
+            "KP",
+            "KR",
+            "MP",
+            "PW",
+            "PA",
+            "PG",
+            "PY",
+            "PE",
+            "PN",
+            "PR",
+            "WS",
+            "SB",
+            "GS",
+            "TJ",
+            "TK",
+            "TO",
+            "TM",
+            "TV",
+            "UY",
+            "UZ",
+            "VU",
+            "VE",
+            "WF",
+            "AL",
+            "AX",
+            "AD",
+            "AT",
+            "BY",
+            "BE",
+            "BA",
+            "BG",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EE",
+            "FI",
+            "FR",
+            "DE",
+            "GR",
+            "GG",
+            "HU",
+            "IS",
+            "IT",
+            "JE",
+            "XK",
+            "LV",
+            "LI",
+            "LT",
+            "LU",
+            "MT",
+            "MD",
+            "MC",
+            "ME",
+            "NL",
+            "NO",
+            "PL",
+            "PT",
+            "RO",
+            "SM",
+            "RS",
+            "SK",
+            "SI",
+            "ES",
+            "SJ",
+            "SE",
+            "CH",
+            "UA",
+            "VA"
           ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:59:02.525Z",
-      "contentDate": "2026-05-07T13:59:02.525Z",
+      "lastUpdatedDate": "2026-05-12T10:22:54.085Z",
+      "contentDate": "2026-05-12T10:11:15.691Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match6.1(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nseg8sd8ikjmyt15kona",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nseg8sd8ikjmyt15kona",
+        "title": "ICC26_ICCtv_ENGvNZ_1st-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vjw4mpazxwpusgt413bx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vjw4mpazxwpusgt413bx",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match6-1-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match6-1-nep"
+        "slug": "icc26-icctv-engvnz-1st-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-engvnz-1st-t20i"
       },
       "entityCode": "video"
     },
@@ -4243,9 +4354,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:57:59.205Z",
-      "contentDate": "2026-05-07T13:57:59.205Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:29:06.672Z",
+      "contentDate": "2026-05-12T10:28:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match6.1",
@@ -4255,6 +4366,67 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2-nep-may-match6-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match6-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "740f4765-7a56-495a-8637-5f924cc90fd4",
+      "_entityId": "f009123b-eeb9-4556-8b1f-b83b4d8a9d72",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-nepal-1st-innings-nepali",
+      "slug": "usa-v-nepal-1st-innings-nepali",
+      "title": "USA v Nepal (1st Innings) (NEPALI)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a203fa40-bd95-4d40-b39c-6ceddb3e0eea",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-22T03:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-12T10:27:57.707Z",
+      "contentDate": "2026-05-07T13:59:02.525Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NEP-May_Match6.1(NEP)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nseg8sd8ikjmyt15kona",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nseg8sd8ikjmyt15kona",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-nep-may-match6-1-nep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match6-1-nep"
       },
       "entityCode": "video"
     },
@@ -4285,45 +4457,6 @@
             "externalTagType": "tournament"
           },
           "fields": []
-        },
-        {
-          "_translationId": "ea9caa31-57d5-46e6-ad2c-d61c89d2d9ed",
-          "_entityId": "f79bd017-bccb-425d-9d68-9b0518531877",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270465",
-          "title": "Nepal vs USA - Match 109 - 5/22/2026",
-          "slug": "match-270465",
-          "neutralSlug": "match-270465",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270465",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270465",
-            "teamA": "Nepal",
-            "teamB": "USA",
-            "teamAid": "637",
-            "teamBid": "22",
-            "teamAshort": "NEP",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/22/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 109",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
         }
       ],
       "fields": {
@@ -4343,8 +4476,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:59:35.435Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-12T10:27:57.65Z",
       "contentDate": "2026-05-07T13:59:35.435Z",
       "featured": 0,
       "thumbnail": {
@@ -4443,8 +4576,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-07T13:58:28.364Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-12T10:30:00.888Z",
       "contentDate": "2026-05-07T13:58:28.364Z",
       "featured": 0,
       "thumbnail": {
