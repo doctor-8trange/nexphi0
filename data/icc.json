@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:15:02 PM 13-05-2026",
-  "total_matches": 59,
-  "live_matches": 1,
+  "last_updated": "13-05-2026 14:45",
+  "total_matches": 58,
+  "live_matches": 0,
   "upcoming_matches": 58,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "8bc530f4-3b98-494f-93ca-556215680ff4",
-      "_entityId": "8e303e1b-244d-4f3e-9fb3-d0f85a915b50",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/vanuatu-v-cook-islands",
-      "slug": "vanuatu-v-cook-islands",
-      "title": "Vanuatu v Cook Islands",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "386b1e1e-02d0-492d-b80d-647c0af0ad5d",
-          "_entityId": "2851f706-1a29-48ca-bcba-48dc68f96eaf",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270398",
-          "title": "Vanuatu vs Cook Islands - Super Six - Match 4 - 5/13/2026",
-          "slug": "match-270398",
-          "neutralSlug": "match-270398",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270398",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270398",
-            "teamA": "Vanuatu",
-            "teamB": "Cook Islands",
-            "teamAid": "1720",
-            "teamBid": "1843",
-            "teamAshort": "VAN",
-            "teamBshort": "COK",
-            "stage": "Super Six",
-            "matchDateLocal": "5/13/2026",
-            "matchType": "T20",
-            "matchNumber": "Super Six - Match 4",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "vanuatu-vs-cook-islands",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c38d52c5-1cfb-483f-8800-1df7b59b20bb",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-13T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arbaz Shaikh",
-      "lastUpdatedDate": "2026-05-13T05:07:08.062Z",
-      "contentDate": "2026-05-12T11:11:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_S6-4",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/n9jfu7xzmqyevijlscpb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n9jfu7xzmqyevijlscpb",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-s6-4",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-s6-4"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, May 13, 2026, 10:15:02 AM",
-        "expire_date": "Wednesday, May 13, 2026, 6:15:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778676311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b78052bb5f898a1dfd144ed42219947dfb43551e10ae7c03fb7c2391665889ed/manifest.mpd?vcfilter=c38d52c5-1cfb-483f-8800-1df7b59b20bb&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
