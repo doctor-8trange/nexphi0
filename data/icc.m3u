@@ -1,24 +1,3 @@
 #EXTM3U
-#DATE:- 14-05-2026 14:15
+#DATE:- 14-05-2026 18:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="41489a65-d30f-4618-9efa-e0f9684a0d1d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/iuxx8wqlw1svaw7ophyh" tvg-lang="English" group-title="Cricket",English | Scotland v USA (2nd Innings) (NEPALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1778777111~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7a9c251fedd5c4d16314dfc7bd446682e7e8a606aac92abee1ee0fe8815738dd/manifest.mpd?vcfilter=41489a65-d30f-4618-9efa-e0f9684a0d1d&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="c6fc51f6-327d-43a2-ac0e-6afc893affe8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gyajyias8difo9sxrxid" tvg-lang="English" group-title="Cricket",English | Scotland v USA (2nd Innings) (ENGLISH)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778777115~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=42d01809f5e3a9f7b8ca1058b09bce3e6bc4b37ce6e66aed20afc6870ac4ec75/manifest.mpd?vcfilter=c6fc51f6-327d-43a2-ac0e-6afc893affe8&powered_by=jay_shree_ram
