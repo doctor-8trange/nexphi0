@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 16-05-2026 14:30
+#DATE:- 16-05-2026 15:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="bff7ac7c-f418-491c-b80d-ab6412e1b164" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ucegeeruswj6gnyoxyme" tvg-lang="English" group-title="Cricket",English | Guernsey v Sweden
@@ -22,26 +22,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1778944515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9b47381e9809b0399d033daa66303fb675b40429137d86aa5b61f5252efe6a15/manifest.mpd?vcfilter=5d7fa2ea-c02a-4420-935e-a0b563907e6d&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="f726e70c-3217-4570-bb34-b3ecc94570e1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vqfpxcnzaukgohig5d2k" tvg-lang="English" group-title="Cricket",English | Nepal v USA (2nd Innings) (NEPALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1778944519~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2051befc0b940f333c6dc6640c0e46f03c78119550ec7c5f6ac6c4811b670cca/manifest.mpd?vcfilter=f726e70c-3217-4570-bb34-b3ecc94570e1&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="210bde79-9910-46ab-97b7-2b90ccff7eed" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j8om79pdfrmvorpyx3pg" tvg-lang="English" group-title="Cricket",English | Nepal v USA (2nd Innings) (ENGLISH)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1778944523~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2dfae59cbce50030b93c18a6ee3932427ffc4365514caaf5d3f0bb93dc073362/manifest.mpd?vcfilter=210bde79-9910-46ab-97b7-2b90ccff7eed&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="c5d636bc-d9f4-4acc-96f4-2bc2d972c47f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fss2dum2w0twfqdougsd" tvg-lang="English" group-title="Cricket",English | 3rd ODI: England v New Zealand (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
