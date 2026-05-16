@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:00:20 PM 16-05-2026",
+  "last_updated": "02:30:07 PM 16-05-2026",
   "total_matches": 44,
-  "live_matches": 4,
-  "upcoming_matches": 40,
+  "live_matches": 5,
+  "upcoming_matches": 39,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -583,9 +583,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "602b0aaa-3a9b-4d79-bfd0-b770e018722c",
@@ -659,7 +657,7 @@
       "fields": {
         "videoId": "c5d636bc-d9f4-4acc-96f4-2bc2d972c47f",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "16200000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-16T09:30:00Z",
@@ -784,7 +782,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-16T06:17:23.708Z",
+      "lastUpdatedDate": "2026-05-16T08:58:55.94Z",
       "contentDate": "2026-05-12T10:08:00Z",
       "featured": 0,
       "thumbnail": {
@@ -796,8 +794,41 @@
         "slug": "icc26-icctv-engvnz-3rd-odi-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-engvnz-3rd-odi-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 16, 2026, 2:30:02 PM",
+        "expire_date": "Saturday, May 16, 2026, 10:30:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1778950807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7d3ba0352ab7df290e91746b472a6874c69fd82c622a2602b1e14a8bb9938dd8/manifest.mpd?vcfilter=c5d636bc-d9f4-4acc-96f4-2bc2d972c47f&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "ccef3780-54f6-4058-8b54-57429c6cf6b9",
