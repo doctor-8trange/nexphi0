@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:18 PM 16-05-2026",
-  "total_matches": 46,
-  "live_matches": 6,
+  "last_updated": "02:00:20 PM 16-05-2026",
+  "total_matches": 44,
+  "live_matches": 4,
   "upcoming_matches": 40,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,292 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "165fc5aa-6f39-4607-b3a0-2050042eabb3",
-      "_entityId": "49f28377-567d-44e6-ac71-7e30a8f65e0e",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/japan-v-samoa-japanese",
-      "slug": "japan-v-samoa-japanese",
-      "title": "Japan v Samoa (JAPANESE)",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c2cb5a46-35a3-41c6-94d8-2691db9479ec",
-          "_entityId": "0d179352-0156-45a8-adaa-773aef8704fb",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270410",
-          "title": "Japan vs Samoa - Super Six - Match 8 - 5/16/2026",
-          "slug": "match-270410",
-          "neutralSlug": "match-270410",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270410",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270410",
-            "teamA": "Japan",
-            "teamB": "Samoa",
-            "teamAid": "1801",
-            "teamBid": "1753",
-            "teamAshort": "JPN",
-            "teamBshort": "SAM",
-            "stage": "Super Six",
-            "matchDateLocal": "5/16/2026",
-            "matchType": "T20",
-            "matchNumber": "Super Six - Match 8",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "japan-vs-samoa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "454fe561-3d3e-4bb0-ae37-e70532359a63",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-16T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-16T04:51:13.602Z",
-      "contentDate": "2026-05-12T11:11:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_S6-8_JPN",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/htyw2ee1xyndebwgdui5",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/htyw2ee1xyndebwgdui5",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-s6-8-jpn",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-s6-8-jpn"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, May 16, 2026, 10:15:02 AM",
-        "expire_date": "Saturday, May 16, 2026, 6:15:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1778935511~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=02b19b560fc85a4e671b259d85869523b296022f8f1319b4d6d16ff8c200e1d4/manifest.mpd?vcfilter=454fe561-3d3e-4bb0-ae37-e70532359a63&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "e0b7cac3-a7a7-48c2-8ca5-f9b2926e257e",
-      "_entityId": "bc3c1a5b-2f75-4be2-b81d-05d6e163a6ec",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/japan-v-samoa",
-      "slug": "japan-v-samoa",
-      "title": "Japan v Samoa",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c2cb5a46-35a3-41c6-94d8-2691db9479ec",
-          "_entityId": "0d179352-0156-45a8-adaa-773aef8704fb",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270410",
-          "title": "Japan vs Samoa - Super Six - Match 8 - 5/16/2026",
-          "slug": "match-270410",
-          "neutralSlug": "match-270410",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270410",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270410",
-            "teamA": "Japan",
-            "teamB": "Samoa",
-            "teamAid": "1801",
-            "teamBid": "1753",
-            "teamAshort": "JPN",
-            "teamBshort": "SAM",
-            "stage": "Super Six",
-            "matchDateLocal": "5/16/2026",
-            "matchType": "T20",
-            "matchNumber": "Super Six - Match 8",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "japan-vs-samoa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "eefdce22-e920-4008-b034-27578f3c1458",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-16T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-16T04:51:29.532Z",
-      "contentDate": "2026-05-12T11:10:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_S6-8",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fqye0ydhm0fua6bjknb4",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fqye0ydhm0fua6bjknb4",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-s6-8",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-s6-8"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, May 16, 2026, 10:15:06 AM",
-        "expire_date": "Saturday, May 16, 2026, 6:15:15 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1778935515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b16d24e9d50dbc2d18d1373b6fe341d79dedb24f88b6ff8db85cd6246a2cce92/manifest.mpd?vcfilter=eefdce22-e920-4008-b034-27578f3c1458&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "d196ee5d-3401-4fef-a729-b6bc1466d498",
@@ -337,6 +51,55 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
+        },
+        {
+          "_translationId": "b4bb1f12-9e00-432c-9aa8-abbe145b60e3",
+          "_entityId": "40e0512e-789a-4135-a93e-65b780d3ffb6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270768",
+          "title": "Guernsey vs Sweden - Match 2 - 5/16/2026",
+          "slug": "match-270768",
+          "neutralSlug": "match-270768",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270768",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270768",
+            "teamA": "Guernsey",
+            "teamB": "Sweden",
+            "teamAid": "1814",
+            "teamBid": "1733",
+            "teamAshort": "GSY",
+            "teamBshort": "SWE",
+            "stage": "Group",
+            "matchDateLocal": "5/16/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15543",
+            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC MT20 WC Europe Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12520",
+            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "guernsey-vs-sweden",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -350,8 +113,8 @@
         "type": "Event"
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-16T07:10:06.159Z",
+      "lastUpdatedBy": "karthik velayudam",
+      "lastUpdatedDate": "2026-05-16T07:23:38.959Z",
       "contentDate": "2026-05-13T06:21:31.884Z",
       "featured": 0,
       "thumbnail": {
@@ -464,6 +227,16 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
@@ -483,8 +256,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-16T07:10:02.001Z",
+      "lastUpdatedBy": "Sushant Chougule",
+      "lastUpdatedDate": "2026-05-16T07:19:14.021Z",
       "contentDate": "2026-05-13T06:20:58.037Z",
       "featured": 0,
       "thumbnail": {
@@ -595,6 +368,16 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
@@ -614,8 +397,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-16T07:10:24.338Z",
+      "lastUpdatedBy": "Arjun Singh",
+      "lastUpdatedDate": "2026-05-16T07:30:51.619Z",
       "contentDate": "2026-05-12T10:17:00Z",
       "featured": 0,
       "thumbnail": {
@@ -726,6 +509,16 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
@@ -745,8 +538,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-16T07:10:29.493Z",
+      "lastUpdatedBy": "Arjun Singh",
+      "lastUpdatedDate": "2026-05-16T07:30:06.191Z",
       "contentDate": "2026-05-12T10:14:00Z",
       "featured": 0,
       "thumbnail": {
