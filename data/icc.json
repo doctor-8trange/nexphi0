@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:45:08 AM 17-05-2026",
-  "total_matches": 36,
-  "live_matches": 1,
+  "last_updated": "17-05-2026 09:45",
+  "total_matches": 35,
+  "live_matches": 0,
   "upcoming_matches": 35,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,151 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "d7a1e785-0a1d-4442-952c-adc98e2bd38b",
-      "_entityId": "fceb7b35-7246-4906-94a1-eb8c8216dbc8",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/cook-islands-v-indonesia",
-      "slug": "cook-islands-v-indonesia",
-      "title": "Cook Islands v Indonesia",
-      "tags": [
-        {
-          "_translationId": "0664aac6-ae93-4875-9f40-e3b7e63eebdb",
-          "_entityId": "151763bf-9a40-4651-af5b-62442cbef40f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15509",
-          "title": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-          "slug": "tournament-15509",
-          "neutralSlug": "tournament-15509",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15509",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15509",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c5d19f94-dcd2-4d45-bc36-2d8cd74a9ce4",
-          "_entityId": "48babad5-0c36-45a3-9cb5-19ce9060eb76",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270486",
-          "title": "Cook Islands vs Indonesia - Super Six - Match 9 - 5/17/2026",
-          "slug": "match-270486",
-          "neutralSlug": "match-270486",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270486",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270486",
-            "teamA": "Cook Islands",
-            "teamB": "Indonesia",
-            "teamAid": "1843",
-            "teamBid": "1809",
-            "teamAshort": "COK",
-            "teamBshort": "INA",
-            "stage": "Super Six",
-            "matchDateLocal": "5/17/2026",
-            "matchType": "T20",
-            "matchNumber": "Super Six - Match 9",
-            "seriesId": "15509",
-            "seriesName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "seriesShortName": "ICC Men's T20 WC EAP Qualifier, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12489",
-            "tourName": "ICC Men's T20 World Cup East Asia Pacific Qualifier, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "cook-islands-vs-indonesia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "3827cb9f-4307-4dcb-9718-f2044b9172f5",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-17T00:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-17T00:11:05.859Z",
-      "contentDate": "2026-05-12T11:12:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-EAP-Qual_S6-9",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hosggeewknklem9xtdos",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hosggeewknklem9xtdos",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-eap-qual-s6-9-x1588",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-eap-qual-s6-9-x1588"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 17, 2026, 5:45:03 AM",
-        "expire_date": "Sunday, May 17, 2026, 1:45:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1779005707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d373fc55947c67f5123eac11a1777fbd1a776caf7a9dad7910bc5653879d7b09/manifest.mpd?vcfilter=3827cb9f-4307-4dcb-9718-f2044b9172f5&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
