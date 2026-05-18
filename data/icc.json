@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:00:05 PM 18-05-2026",
+  "last_updated": "12:15:02 PM 18-05-2026",
   "total_matches": 29,
   "live_matches": 4,
   "upcoming_matches": 25,
@@ -255,11 +255,12 @@
           "countries": [
             "IN"
           ]
-        }
+        },
+        "videoDuration": "PT2H55M27.839S"
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arjun Singh",
-      "lastUpdatedDate": "2026-05-18T03:42:59.706Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-18T06:44:42.735Z",
       "contentDate": "2026-05-12T10:19:00Z",
       "featured": 0,
       "thumbnail": {
@@ -664,9 +665,9 @@
         "videoId": "4c0d3b46-c8e8-4db5-9e9e-366cf47e6354",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-18T07:00:00Z",
+        "scheduledStartTime": "2026-05-18T06:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -678,7 +679,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-18T06:27:08.167Z",
+      "lastUpdatedDate": "2026-05-18T06:31:51.105Z",
       "contentDate": "2026-05-12T10:23:00Z",
       "featured": 0,
       "thumbnail": {
@@ -764,9 +765,9 @@
         "videoId": "7d253a89-43bb-4cab-ba2e-b5795a27b784",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-18T07:00:00Z",
+        "scheduledStartTime": "2026-05-18T06:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -778,7 +779,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-18T06:27:08.064Z",
+      "lastUpdatedDate": "2026-05-18T06:31:58.894Z",
       "contentDate": "2026-05-12T10:20:00Z",
       "featured": 0,
       "thumbnail": {
