@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:02 PM 19-05-2026",
-  "total_matches": 20,
-  "live_matches": 1,
+  "last_updated": "19-05-2026 21:45",
+  "total_matches": 19,
+  "live_matches": 0,
   "upcoming_matches": 19,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,151 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "51e2033d-55f3-4ef9-a23c-e7ca71e96415",
-      "_entityId": "265f2a60-4284-472d-85b1-eb342db71eb3",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/switzerland-v-croatia",
-      "slug": "switzerland-v-croatia",
-      "title": "Switzerland v Croatia",
-      "tags": [
-        {
-          "_translationId": "bbf48ff8-1bde-4180-9a61-1b934c36b6d5",
-          "_entityId": "3514c6e5-9eef-4a2e-9348-74b3e3d85ed2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15543",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15543",
-          "neutralSlug": "tournament-15543",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15543",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15543",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "eb713898-7f8a-40d5-ae82-f90fc7eeee53",
-          "_entityId": "0671ab91-3a76-45b9-8ffa-3ee351a4fef9",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270777",
-          "title": "Switzerland vs Croatia - Match 11 - 5/19/2026",
-          "slug": "match-270777",
-          "neutralSlug": "match-270777",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270777",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270777",
-            "teamA": "Switzerland",
-            "teamB": "Croatia",
-            "teamAid": "2833",
-            "teamBid": "1839",
-            "teamAshort": "CHE",
-            "teamBshort": "CRO",
-            "stage": "Group",
-            "matchDateLocal": "5/19/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 11",
-            "seriesId": "15543",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Europe Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12520",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "switzerland-vs-croatia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5cecbdfe-b41b-427c-bc60-abd47b094b38",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-19T12:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-05-19T12:12:02.848Z",
-      "contentDate": "2026-05-13T06:28:08.396Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualA_11",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vsbebjzwjlbui63pdgvp",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vsbebjzwjlbui63pdgvp",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-quala-11",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-11"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, May 19, 2026, 5:45:07 PM",
-        "expire_date": "Wednesday, May 20, 2026, 1:45:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779221711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8374f4b5ad3e41a8661a4e0d126111dce926eddfe7831adfd23850fa38bbf08f/manifest.mpd?vcfilter=5cecbdfe-b41b-427c-bc60-abd47b094b38&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
