@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:02 PM 20-05-2026",
-  "total_matches": 16,
-  "live_matches": 3,
+  "last_updated": "03:30:02 PM 20-05-2026",
+  "total_matches": 15,
+  "live_matches": 2,
   "upcoming_matches": 13,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -293,147 +293,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779290113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=75a190b79481924b5030cd4116ee56598f3fd038352494aec241e2f46ade0f83/manifest.mpd?vcfilter=22e472ad-ffb4-40d2-83a0-7a4e1c50a66d&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "892bc79d-9f2b-45c0-8575-643bb75d18f9",
-      "_entityId": "9a6993c4-3c6f-4e4a-b50d-a268ec23de2a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-scotland-2nd-innings-english",
-      "slug": "usa-v-scotland-2nd-innings-english",
-      "title": "USA v Scotland (2nd Innings) (ENGLISH)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "81201c7c-7f3f-4fb7-9b49-cab66ad21706",
-          "_entityId": "9435e2b7-c550-4d09-8972-00caa5be3c0a",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270464",
-          "title": "Scotland vs USA - Match 108 - 5/20/2026",
-          "slug": "match-270464",
-          "neutralSlug": "match-270464",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270464",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270464",
-            "teamA": "Scotland",
-            "teamB": "USA",
-            "teamAid": "16",
-            "teamBid": "22",
-            "teamAshort": "SCO",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/20/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 108",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "21157d56-e8ca-4dad-b13e-edf200257a66",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-20T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-20T07:42:44.008Z",
-      "contentDate": "2026-05-12T10:25:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match5.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cgwade1mrvqctyabx2oh",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cgwade1mrvqctyabx2oh",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match5-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match5-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, May 20, 2026, 1:00:02 PM",
-        "expire_date": "Wednesday, May 20, 2026, 9:00:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1779291008~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b4907e27c0701c4647b3970c6b5fdb694c7380687ca0b53a3caa01481bdf1d67/manifest.mpd?vcfilter=21157d56-e8ca-4dad-b13e-edf200257a66&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
