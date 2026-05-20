@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "19-05-2026 21:45",
+  "last_updated": "09:00:12 AM 20-05-2026",
   "total_matches": 19,
-  "live_matches": 0,
-  "upcoming_matches": 19,
+  "live_matches": 2,
+  "upcoming_matches": 17,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "50257270-3189-4709-91b1-abccce787d1a",
@@ -89,12 +88,22 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "9186f3e6-9613-45dc-bf46-5959ca253578",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-20T03:45:00Z",
@@ -108,8 +117,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-12T10:26:46.349Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-20T03:27:28.379Z",
       "contentDate": "2026-05-12T10:26:00Z",
       "featured": 0,
       "thumbnail": {
@@ -121,7 +130,38 @@
         "slug": "icc26-cwc-l2-nep-may-match5-1-nep",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match5-1-nep"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, May 20, 2026, 9:00:03 AM",
+        "expire_date": "Wednesday, May 20, 2026, 5:00:09 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1779276609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=08f644ba647fbe7f3d3e9b8e19debdc5490fdc4124f58dcc74105b9c93e35538/manifest.mpd?vcfilter=9186f3e6-9613-45dc-bf46-5959ca253578&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -189,12 +229,22 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "9ed77582-8fd5-4f35-9e15-8ed1d785901a",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-20T03:45:00Z",
@@ -208,8 +258,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-12T10:25:10.89Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-20T03:25:37.129Z",
       "contentDate": "2026-05-12T10:24:00Z",
       "featured": 0,
       "thumbnail": {
@@ -221,8 +271,41 @@
         "slug": "icc26-cwc-l2-nep-may-match5-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match5-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, May 20, 2026, 9:00:08 AM",
+        "expire_date": "Wednesday, May 20, 2026, 5:00:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1779276613~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9fdc5eaaaa16c83295e72f329f4f7ecb5927f532810fe9d83d17710119fad1aa/manifest.mpd?vcfilter=9ed77582-8fd5-4f35-9e15-8ed1d785901a&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "14b28890-991f-4aa9-b384-1d8f2e5e5edc",
