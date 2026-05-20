@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:12 AM 20-05-2026",
-  "total_matches": 19,
-  "live_matches": 2,
-  "upcoming_matches": 17,
+  "last_updated": "09:30:02 AM 20-05-2026",
+  "total_matches": 17,
+  "live_matches": 1,
+  "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,147 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "50257270-3189-4709-91b1-abccce787d1a",
-      "_entityId": "edbab740-ac34-444b-9b20-ad1a0c961d58",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-scotland-1st-innings-nepali",
-      "slug": "usa-v-scotland-1st-innings-nepali",
-      "title": "USA v Scotland (1st Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "81201c7c-7f3f-4fb7-9b49-cab66ad21706",
-          "_entityId": "9435e2b7-c550-4d09-8972-00caa5be3c0a",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270464",
-          "title": "Scotland vs USA - Match 108 - 5/20/2026",
-          "slug": "match-270464",
-          "neutralSlug": "match-270464",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270464",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270464",
-            "teamA": "Scotland",
-            "teamB": "USA",
-            "teamAid": "16",
-            "teamBid": "22",
-            "teamAshort": "SCO",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/20/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 108",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "9186f3e6-9613-45dc-bf46-5959ca253578",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-20T03:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-20T03:27:28.379Z",
-      "contentDate": "2026-05-12T10:26:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match5.1(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lvosn728oyeyb6monwfa",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lvosn728oyeyb6monwfa",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match5-1-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match5-1-nep"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, May 20, 2026, 9:00:03 AM",
-        "expire_date": "Wednesday, May 20, 2026, 5:00:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1779276609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=08f644ba647fbe7f3d3e9b8e19debdc5490fdc4124f58dcc74105b9c93e35538/manifest.mpd?vcfilter=9186f3e6-9613-45dc-bf46-5959ca253578&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "ac2bad4c-c3d2-4bd1-b001-ef8223ed62f1",
@@ -258,8 +117,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-20T03:25:37.129Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-05-20T03:33:11.135Z",
       "contentDate": "2026-05-12T10:24:00Z",
       "featured": 0,
       "thumbnail": {
@@ -507,106 +366,6 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20-europesubr-quala-13",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-13"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "23457d27-36e8-4128-9216-e4004ddd23fa",
-      "_entityId": "247e1c2f-ae9a-4802-a562-bf8269e3f861",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-scotland-2nd-innings-nepali",
-      "slug": "usa-v-scotland-2nd-innings-nepali",
-      "title": "USA v Scotland (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "81201c7c-7f3f-4fb7-9b49-cab66ad21706",
-          "_entityId": "9435e2b7-c550-4d09-8972-00caa5be3c0a",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270464",
-          "title": "Scotland vs USA - Match 108 - 5/20/2026",
-          "slug": "match-270464",
-          "neutralSlug": "match-270464",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270464",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270464",
-            "teamA": "Scotland",
-            "teamB": "USA",
-            "teamAid": "16",
-            "teamBid": "22",
-            "teamAshort": "SCO",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/20/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 108",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7bb1780e-d016-4b8a-b74d-60434547db89",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-20T07:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-12T10:27:38.79Z",
-      "contentDate": "2026-05-12T10:27:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match5.2(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bskbzqgrvou8xc6r9h4i",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bskbzqgrvou8xc6r9h4i",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match5-2-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match5-2-nep"
       },
       "entityCode": "video"
     },
