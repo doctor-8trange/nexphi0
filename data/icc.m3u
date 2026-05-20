@@ -1,3 +1,24 @@
 #EXTM3U
-#DATE:- 20-05-2026 16:45
+#DATE:- 20-05-2026 17:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="9fd5fc3a-c0fa-42c6-9e13-26f858581b73" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qihtwpcxcbjkskurnslt" tvg-lang="English" group-title="Cricket",English | Croatia v Jersey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779308108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=75f979d180d8a8ab2f4e4eeb2869e4ab506eac1c5ccd4527a40dee857eb8a178/manifest.mpd?vcfilter=9fd5fc3a-c0fa-42c6-9e13-26f858581b73&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="c2b80ceb-f048-4411-8d13-6baec3a9cd60" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rdgdysahy3yy4qhgba2n" tvg-lang="English" group-title="Cricket",English | Sweden v Malta
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779308112~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=97e36d286a8ba29a2e188a1c1b8fb6286042341ddbdd9763dc9191498a89e825/manifest.mpd?vcfilter=c2b80ceb-f048-4411-8d13-6baec3a9cd60&powered_by=jay_shree_ram
