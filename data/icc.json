@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:10 AM 22-05-2026",
+  "last_updated": "12:45:09 PM 22-05-2026",
   "total_matches": 31,
-  "live_matches": 2,
-  "upcoming_matches": 29,
+  "live_matches": 4,
+  "upcoming_matches": 27,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -108,8 +108,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-22T03:28:56.591Z",
-      "contentDate": "2026-05-22T03:28:00Z",
+      "lastUpdatedDate": "2026-05-22T03:53:05.108Z",
+      "contentDate": "2026-05-22T03:52:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match6.1(NEP)",
@@ -238,9 +238,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-22T03:26:23.562Z",
-      "contentDate": "2026-05-12T10:28:00Z",
+      "lastUpdatedBy": "Sushant Chougule",
+      "lastUpdatedDate": "2026-05-22T03:47:23.106Z",
+      "contentDate": "2026-05-22T03:47:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NEP-May_Match6.1",
@@ -283,9 +283,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "32719340-d011-47b4-ab07-63c6aec14ba2",
@@ -359,7 +357,7 @@
       "fields": {
         "videoId": "d0fa03d0-9d3f-4c83-bb49-eb367d08f8fc",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-22T07:30:00Z",
@@ -373,8 +371,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-13T06:32:26.773Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-22T07:10:42.959Z",
       "contentDate": "2026-05-13T06:32:26.773Z",
       "featured": 0,
       "thumbnail": {
@@ -386,7 +384,38 @@
         "slug": "icc26-mt20-europesubr-quala-18",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-18"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, May 22, 2026, 12:45:02 PM",
+        "expire_date": "Friday, May 22, 2026, 8:45:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779462907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b6c06cfcc975a03543fd09a67cd628772b6ec0009eb76ff6da1cc45c3db1e938/manifest.mpd?vcfilter=d0fa03d0-9d3f-4c83-bb49-eb367d08f8fc&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -461,7 +490,7 @@
       "fields": {
         "videoId": "b4999cf5-8728-4034-811e-0f3eab9403ee",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-22T07:30:00Z",
@@ -475,8 +504,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-13T06:32:04.123Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-22T07:10:29.924Z",
       "contentDate": "2026-05-13T06:32:04.123Z",
       "featured": 0,
       "thumbnail": {
@@ -488,8 +517,41 @@
         "slug": "icc26-mt20-europesubr-quala-17",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-17"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, May 22, 2026, 12:45:06 PM",
+        "expire_date": "Friday, May 22, 2026, 8:45:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779462911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=20668c3bdd5f89784e194178e3fee39282263ecc41833ae2b4cd1dd6a568c0ad/manifest.mpd?vcfilter=b4999cf5-8728-4034-811e-0f3eab9403ee&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "2a93e1fa-c8a2-4ba7-a439-93849c8a6f20",
@@ -562,9 +624,9 @@
         "videoId": "5c16ad5c-9251-4b58-95e1-0c10a9c2c395",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "13800000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T07:45:00Z",
+        "scheduledStartTime": "2026-05-22T07:55:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -575,8 +637,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-12T10:32:14.606Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-22T07:10:10.075Z",
       "contentDate": "2026-05-12T10:32:00Z",
       "featured": 0,
       "thumbnail": {
@@ -662,9 +724,9 @@
         "videoId": "0d4d07b3-0250-4f47-80be-7ce06123b23c",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "13800000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T07:45:00Z",
+        "scheduledStartTime": "2026-05-22T07:55:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -675,8 +737,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-05-12T10:30:16.954Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-22T07:10:21.69Z",
       "contentDate": "2026-05-12T10:30:00Z",
       "featured": 0,
       "thumbnail": {
