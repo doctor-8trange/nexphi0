@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:45:02 PM 22-05-2026",
-  "total_matches": 27,
-  "live_matches": 2,
+  "last_updated": "22-05-2026 17:30",
+  "total_matches": 25,
+  "live_matches": 0,
   "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,270 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "2a93e1fa-c8a2-4ba7-a439-93849c8a6f20",
-      "_entityId": "576ca9de-394b-4b36-a2ce-5973b6868639",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-nepal-2nd-innings-nepali",
-      "slug": "usa-v-nepal-2nd-innings-nepali",
-      "title": "USA v Nepal (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ea9caa31-57d5-46e6-ad2c-d61c89d2d9ed",
-          "_entityId": "f79bd017-bccb-425d-9d68-9b0518531877",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270465",
-          "title": "Nepal vs USA - Match 109 - 5/22/2026",
-          "slug": "match-270465",
-          "neutralSlug": "match-270465",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270465",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270465",
-            "teamA": "Nepal",
-            "teamB": "USA",
-            "teamAid": "637",
-            "teamBid": "22",
-            "teamAshort": "NEP",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/22/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 109",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5c16ad5c-9251-4b58-95e1-0c10a9c2c395",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "12300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T08:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-22T08:35:55.79Z",
-      "contentDate": "2026-05-22T08:35:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match6.2(NEP)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/biel9goloikkhbynrzm8",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/biel9goloikkhbynrzm8",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match6-2-nep",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match6-2-nep"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 22, 2026, 2:00:02 PM",
-        "expire_date": "Friday, May 22, 2026, 10:00:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1779467408~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=f82390660a03eaac576e0f100a8c8430eb67c9fc4fcff705274f1fe97e6184af/manifest.mpd?vcfilter=5c16ad5c-9251-4b58-95e1-0c10a9c2c395&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "a2d1c2ef-5e3d-4065-9cb7-633b4695618a",
-      "_entityId": "a2efe9c8-0222-4fc2-9d9c-b0581494c9fd",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-nepal-2nd-innings-english",
-      "slug": "usa-v-nepal-2nd-innings-english",
-      "title": "USA v Nepal (2nd Innings) (ENGLISH)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ea9caa31-57d5-46e6-ad2c-d61c89d2d9ed",
-          "_entityId": "f79bd017-bccb-425d-9d68-9b0518531877",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270465",
-          "title": "Nepal vs USA - Match 109 - 5/22/2026",
-          "slug": "match-270465",
-          "neutralSlug": "match-270465",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270465",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270465",
-            "teamA": "Nepal",
-            "teamB": "USA",
-            "teamAid": "637",
-            "teamBid": "22",
-            "teamAshort": "NEP",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "5/22/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 109",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0d4d07b3-0250-4f47-80be-7ce06123b23c",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "12300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T08:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Sushant Chougule",
-      "lastUpdatedDate": "2026-05-22T08:33:59.682Z",
-      "contentDate": "2026-05-22T08:33:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NEP-May_Match6.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ed1i7onkgjzqyb3yv1fa",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ed1i7onkgjzqyb3yv1fa",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-nep-may-match6-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-nep-may-match6-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 22, 2026, 2:00:06 PM",
-        "expire_date": "Friday, May 22, 2026, 10:00:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1779467411~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=aaf93cdbf92fb88bf842e243ff624b1aa24b73384f85795388003e63ffb6d821/manifest.mpd?vcfilter=0d4d07b3-0250-4f47-80be-7ce06123b23c&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
@@ -364,11 +101,17 @@
         "v_has_data": true,
         "scheduledStartTime": "2026-05-22T12:30:00Z",
         "offer": "Registered",
-        "type": "Event"
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-13T06:33:33.483Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-05-22T11:29:59.926Z",
       "contentDate": "2026-05-13T06:33:33.483Z",
       "featured": 0,
       "thumbnail": {
