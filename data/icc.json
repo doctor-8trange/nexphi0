@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:30:02 PM 22-05-2026",
-  "total_matches": 28,
-  "live_matches": 3,
+  "last_updated": "04:45:02 PM 22-05-2026",
+  "total_matches": 27,
+  "live_matches": 2,
   "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,149 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "88e008b2-5e33-4e2d-950c-e71e8847736e",
-      "_entityId": "fdfa3e29-99e1-47d8-8011-fc835d8c2ada",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/france-v-switzerland",
-      "slug": "france-v-switzerland",
-      "title": "France v Switzerland",
-      "tags": [
-        {
-          "_translationId": "bbf48ff8-1bde-4180-9a61-1b934c36b6d5",
-          "_entityId": "3514c6e5-9eef-4a2e-9348-74b3e3d85ed2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15543",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15543",
-          "neutralSlug": "tournament-15543",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15543",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15543",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "814d7b63-d1b1-4a7b-ac1f-9713075c3271",
-          "_entityId": "37181d35-1d85-40c6-9388-20d85f6ad8b7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270783",
-          "title": "France vs Switzerland - Match 17 - 5/22/2026",
-          "slug": "match-270783",
-          "neutralSlug": "match-270783",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270783",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270783",
-            "teamA": "France",
-            "teamB": "Switzerland",
-            "teamAid": "1826",
-            "teamBid": "2833",
-            "teamAshort": "FRA",
-            "teamBshort": "CHE",
-            "stage": "Group",
-            "matchDateLocal": "5/22/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 17",
-            "seriesId": "15543",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Europe Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12520",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "france-vs-switzerland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "b4999cf5-8728-4034-811e-0f3eab9403ee",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-22T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-05-22T07:36:08.325Z",
-      "contentDate": "2026-05-22T07:33:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualA_17",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ovmljycvvgux3jn0owh6",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ovmljycvvgux3jn0owh6",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-quala-17",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-17"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 22, 2026, 12:45:06 PM",
-        "expire_date": "Friday, May 22, 2026, 8:45:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779462911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=20668c3bdd5f89784e194178e3fee39282263ecc41833ae2b4cd1dd6a568c0ad/manifest.mpd?vcfilter=b4999cf5-8728-4034-811e-0f3eab9403ee&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "2a93e1fa-c8a2-4ba7-a439-93849c8a6f20",
