@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:15 PM 23-05-2026",
+  "last_updated": "05:45:11 PM 23-05-2026",
   "total_matches": 24,
-  "live_matches": 2,
-  "upcoming_matches": 22,
+  "live_matches": 4,
+  "upcoming_matches": 20,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "2788d144-cd95-479f-8e3f-04117c273afa",
-      "_entityId": "8520f417-dbd8-4666-9180-1feaa6b845e6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-mali",
-      "slug": "kenya-v-mali",
-      "title": "Kenya v Mali",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "29ab9e4f-6bd3-4130-aded-2283af80c2e9",
-          "_entityId": "6140f550-baf3-4dc7-bb3a-7e7e3d9c0f7d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271189",
-          "title": "Kenya vs Mali - Match 3 - 5/23/2026",
-          "slug": "match-271189",
-          "neutralSlug": "match-271189",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271189",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271189",
-            "teamA": "Kenya",
-            "teamB": "Mali",
-            "teamAid": "14",
-            "teamBid": "1787",
-            "teamAshort": "KEN",
-            "teamBshort": "MLI",
-            "stage": "League",
-            "matchDateLocal": "5/23/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "kenya-vs-mali",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "3d9633db-867e-4656-94f8-6ada691508a9",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-23T11:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-23T11:29:23.921Z",
-      "contentDate": "2026-05-21T12:13:16.987Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_3",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bgjuzrdliuwwfhyhs7lr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bgjuzrdliuwwfhyhs7lr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-3",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-3"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, May 23, 2026, 5:00:02 PM",
-        "expire_date": "Sunday, May 24, 2026, 1:00:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779564611~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6634061106d2e5273db9fab72a70380a9f707de73f4c629f7cb15bdb3eff21cb/manifest.mpd?vcfilter=3d9633db-867e-4656-94f8-6ada691508a9&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "86ae85f2-65ae-45c7-b283-2bd8b77d4122",
@@ -242,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-23T11:29:21.691Z",
-      "contentDate": "2026-05-21T12:13:15.508Z",
+      "lastUpdatedBy": "Nishant Malekar",
+      "lastUpdatedDate": "2026-05-23T11:34:35.124Z",
+      "contentDate": "2026-05-23T11:34:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_2",
@@ -287,9 +154,140 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
+    {
+      "type": "customentity",
+      "_translationId": "2788d144-cd95-479f-8e3f-04117c273afa",
+      "_entityId": "8520f417-dbd8-4666-9180-1feaa6b845e6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-mali",
+      "slug": "kenya-v-mali",
+      "title": "Kenya v Mali",
+      "tags": [
+        {
+          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
+          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15598",
+          "neutralSlug": "tournament-15598",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15598",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15598",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "29ab9e4f-6bd3-4130-aded-2283af80c2e9",
+          "_entityId": "6140f550-baf3-4dc7-bb3a-7e7e3d9c0f7d",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271189",
+          "title": "Kenya vs Mali - Match 3 - 5/23/2026",
+          "slug": "match-271189",
+          "neutralSlug": "match-271189",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271189",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271189",
+            "teamA": "Kenya",
+            "teamB": "Mali",
+            "teamAid": "14",
+            "teamBid": "1787",
+            "teamAshort": "KEN",
+            "teamBshort": "MLI",
+            "stage": "League",
+            "matchDateLocal": "5/23/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15598",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12560",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "kenya-vs-mali",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3d9633db-867e-4656-94f8-6ada691508a9",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-23T11:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-05-23T11:34:53.784Z",
+      "contentDate": "2026-05-23T11:34:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualA_3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bgjuzrdliuwwfhyhs7lr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bgjuzrdliuwwfhyhs7lr",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-quala-3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-3"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 23, 2026, 5:00:02 PM",
+        "expire_date": "Sunday, May 24, 2026, 1:00:11 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779564611~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6634061106d2e5273db9fab72a70380a9f707de73f4c629f7cb15bdb3eff21cb/manifest.mpd?vcfilter=3d9633db-867e-4656-94f8-6ada691508a9&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
     {
       "type": "customentity",
       "_translationId": "f93b9876-f452-4e67-82f9-448f4b58bf2f",
@@ -363,7 +361,7 @@
       "fields": {
         "videoId": "834dcdf6-3120-49be-a477-ecc2112b8bee",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-23T12:30:00Z",
@@ -377,8 +375,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-22T17:42:53.331Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-23T12:10:46.358Z",
       "contentDate": "2026-05-22T17:42:53.331Z",
       "featured": 0,
       "thumbnail": {
@@ -390,7 +388,38 @@
         "slug": "icc26-mt20-europesubr-quala-5thplace",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-5thplace"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 23, 2026, 5:45:02 PM",
+        "expire_date": "Sunday, May 24, 2026, 1:45:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779567309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=aa372f7a1b9b834e31598d45cda140bb15b9053a12aad62e42ebad54d25380af/manifest.mpd?vcfilter=834dcdf6-3120-49be-a477-ecc2112b8bee&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -465,7 +494,7 @@
       "fields": {
         "videoId": "f37ab91d-5c0c-46d0-b834-57950c02f29d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-23T12:30:00Z",
@@ -480,7 +509,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-23T08:12:55.869Z",
+      "lastUpdatedDate": "2026-05-23T12:11:33.843Z",
       "contentDate": "2026-05-22T17:42:16.674Z",
       "featured": 0,
       "thumbnail": {
@@ -492,8 +521,41 @@
         "slug": "icc26-mt20-europesubr-quala-final",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-final"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 23, 2026, 5:45:07 PM",
+        "expire_date": "Sunday, May 24, 2026, 1:45:13 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779567313~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d141dd807df3e5b4733171f6205ef055feab45759d5a38ab1d65815e5e327dd/manifest.mpd?vcfilter=f37ab91d-5c0c-46d0-b834-57950c02f29d&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "385b936e-4817-42e7-86ea-d2d1706a7340",
