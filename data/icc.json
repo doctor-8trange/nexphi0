@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:10 PM 23-05-2026",
+  "last_updated": "01:00:06 PM 23-05-2026",
   "total_matches": 27,
-  "live_matches": 2,
-  "upcoming_matches": 25,
+  "live_matches": 3,
+  "upcoming_matches": 24,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -28,7 +28,7 @@
       "_entityId": "cad066aa-b204-4478-9db5-32c3e898a4d0",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/switzerland-v-malta",
       "slug": "switzerland-v-malta",
-      "title": "Switzerland v Malta",
+      "title": "France v Sweden",
       "tags": [
         {
           "_translationId": "bbf48ff8-1bde-4180-9a61-1b934c36b6d5",
@@ -109,18 +109,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-23T07:11:39.141Z",
-      "contentDate": "2026-05-22T17:41:28.495Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-23T07:29:02.44Z",
+      "contentDate": "2026-05-23T07:23:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualA_7thplace",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ty9aimqf9ej4b3cg69sx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ty9aimqf9ej4b3cg69sx",
+        "title": "ICC26_MT20-EuropeSubR-QualA_3rdplace",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ay6xltqm1b8fwsytcojh",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ay6xltqm1b8fwsytcojh",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-quala-7thplace",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-7thplace"
+        "slug": "icc26-mt20-europesubr-quala-3rdplace",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-3rdplace"
       },
       "entityCode": "video",
       "playback": {
@@ -140,6 +140,100 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779549308~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=621cfa7da1cd001cd1b13be6d167e278b003fc7943a4b2d999d8442aa8559cb4/manifest.mpd?vcfilter=f9db58cf-f668-4dd0-ba39-b3d061a79fbd&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "cf49648a-00ab-4ae1-ae6f-6b3c39eebe72",
+      "_entityId": "73b84c98-36f6-4fae-8b7f-bbbe850efa52",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/france-v-sweden",
+      "slug": "france-v-sweden",
+      "title": "Switzerland v Malta",
+      "tags": [
+        {
+          "_translationId": "bbf48ff8-1bde-4180-9a61-1b934c36b6d5",
+          "_entityId": "3514c6e5-9eef-4a2e-9348-74b3e3d85ed2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15543",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15543",
+          "neutralSlug": "tournament-15543",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15543",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15543",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "0fa239b4-eb24-4e32-a8fb-3e096e986746",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-23T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-05-23T07:28:49.163Z",
+      "contentDate": "2026-05-23T07:22:30.688Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-EuropeSubR-QualA_7thplace",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ty9aimqf9ej4b3cg69sx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ty9aimqf9ej4b3cg69sx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-europesubr-quala-7thplace",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-7thplace"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 23, 2026, 1:00:02 PM",
+        "expire_date": "Saturday, May 23, 2026, 9:00:08 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779550208~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=caa731d190b97d9c7bbce666dd73a0f70be94bb642649dd7ad29b9e2f2bdc8da/manifest.mpd?vcfilter=0fa239b4-eb24-4e32-a8fb-3e096e986746&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -290,108 +384,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "9608081f-b319-4c5c-ba85-8583106adb9e",
-      "_entityId": "728fa330-cf41-4a8e-bc21-9824e2a37d98",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/france-v-sweden",
-      "slug": "france-v-sweden",
-      "title": "France v Sweden",
-      "tags": [
-        {
-          "_translationId": "bbf48ff8-1bde-4180-9a61-1b934c36b6d5",
-          "_entityId": "3514c6e5-9eef-4a2e-9348-74b3e3d85ed2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15543",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15543",
-          "neutralSlug": "tournament-15543",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15543",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15543",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f67f35d9-eea5-4ce8-a855-ca393ee0c3c6",
-          "_entityId": "ef297381-00a4-4067-a533-cfa8d71221b2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270787",
-          "title": "T.B.C. vs T.B.C. - 3rd Place Play-off - 5/23/2026",
-          "slug": "match-270787",
-          "neutralSlug": "match-270787",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270787",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270787",
-            "teamA": "T.B.C.",
-            "teamB": "T.B.C.",
-            "teamAid": "",
-            "teamBid": "",
-            "teamAshort": "TBC",
-            "teamBshort": "TBC",
-            "stage": "Playoffs",
-            "matchDateLocal": "5/23/2026",
-            "matchType": "T20",
-            "matchNumber": "3rd Place Play-off",
-            "seriesId": "15543",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Europe Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12520",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "t-b-c-vs-t-b-c-",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a0b9c7aa-691e-4505-971d-f2754ffdee81",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-23T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-23T06:56:09.445Z",
-      "contentDate": "2026-05-22T17:40:08.507Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualA_3rdplace",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ay6xltqm1b8fwsytcojh",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ay6xltqm1b8fwsytcojh",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-quala-3rdplace",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-quala-3rdplace"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "2788d144-cd95-479f-8e3f-04117c273afa",
