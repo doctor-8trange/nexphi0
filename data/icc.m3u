@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 23-05-2026 21:30
+#DATE:- 23-05-2026 22:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="aa654d0f-5bf3-4ee2-97a5-6178bbcd82d4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/im52dsrv7skn8xbnbwwa" tvg-lang="English" group-title="Cricket",English | 2nd T20I: England v New Zealand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1779569108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=58e47e70f03202e9bd670a60471b56829f92fdaf5931f921a805b0e854df9c58/manifest.mpd?vcfilter=aa654d0f-5bf3-4ee2-97a5-6178bbcd82d4&powered_by=jay_shree_ram
