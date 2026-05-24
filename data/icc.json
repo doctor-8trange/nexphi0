@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:45:02 PM 24-05-2026",
-  "total_matches": 17,
-  "live_matches": 1,
+  "last_updated": "24-05-2026 20:30",
+  "total_matches": 16,
+  "live_matches": 0,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "04b6b9f2-c469-4f9c-987f-a708a958655c",
-      "_entityId": "e6dc617b-6cea-4687-bbf9-2e97b3b32f79",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sierra-leone-v-cameroon",
-      "slug": "sierra-leone-v-cameroon",
-      "title": "Sierra Leone v Cameroon",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "04f7be18-9e79-4371-8fbc-7a94dfb4168a",
-          "_entityId": "034dbe7b-18eb-4323-a2d7-b43732fed8bf",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271192",
-          "title": "Sierra Leone vs Cameroon - Match 6 - 5/24/2026",
-          "slug": "match-271192",
-          "neutralSlug": "match-271192",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271192",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271192",
-            "teamA": "Sierra Leone",
-            "teamB": "Cameroon",
-            "teamAid": "1745",
-            "teamBid": "1857",
-            "teamAshort": "SRL",
-            "teamBshort": "CMR",
-            "stage": "League",
-            "matchDateLocal": "5/24/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "sierra-leone-vs-cameroon",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "b6018053-d402-48a9-bfaf-516c45cebe8c",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-24T11:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-24T11:38:22.618Z",
-      "contentDate": "2026-05-24T11:38:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pqmxpdfuctiz8tekzhpu",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pqmxpdfuctiz8tekzhpu",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 24, 2026, 5:00:02 PM",
-        "expire_date": "Monday, May 25, 2026, 1:00:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779651009~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cfac77cf3e6122fd6e82797734428e161823e51c3730b84f41775629dd8ac2c7/manifest.mpd?vcfilter=b6018053-d402-48a9-bfaf-516c45cebe8c&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
