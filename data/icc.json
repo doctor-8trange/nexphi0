@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:11 PM 24-05-2026",
-  "total_matches": 18,
-  "live_matches": 2,
+  "last_updated": "06:45:02 PM 24-05-2026",
+  "total_matches": 17,
+  "live_matches": 1,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -109,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-24T11:29:28.441Z",
-      "contentDate": "2026-05-21T12:13:17.089Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-05-24T11:38:22.618Z",
+      "contentDate": "2026-05-24T11:38:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_6",
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779651009~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cfac77cf3e6122fd6e82797734428e161823e51c3730b84f41775629dd8ac2c7/manifest.mpd?vcfilter=b6018053-d402-48a9-bfaf-516c45cebe8c&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "14149cfd-0d77-42e1-85e0-67969f79ec00",
-      "_entityId": "5674fdce-5a15-4fa7-bc22-fde8257a4a4c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/botswana-v-mali",
-      "slug": "botswana-v-mali",
-      "title": "Botswana v Mali",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ae2ef4c4-fd59-45c7-bf20-5761c14b5be2",
-          "_entityId": "0cb1c9c8-e248-45a1-bc38-04b420433f20",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271191",
-          "title": "Botswana vs Mali - Match 5 - 5/24/2026",
-          "slug": "match-271191",
-          "neutralSlug": "match-271191",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271191",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271191",
-            "teamA": "Botswana",
-            "teamB": "Mali",
-            "teamAid": "1863",
-            "teamBid": "1787",
-            "teamAshort": "BOT",
-            "teamBshort": "MLI",
-            "stage": "League",
-            "matchDateLocal": "5/24/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 5",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "botswana-vs-mali",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "159fab5b-4fbd-42f9-a6bc-ae468ef8a7b7",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-24T11:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-24T11:29:24.329Z",
-      "contentDate": "2026-05-21T12:13:15.164Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_5",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hjyzpj5bwpul5rxpe4jg",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hjyzpj5bwpul5rxpe4jg",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-5",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-5"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, May 24, 2026, 5:00:07 PM",
-        "expire_date": "Monday, May 25, 2026, 1:00:14 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1779651014~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e966ff32f5df4bed2243fb5c91835f47e0d3e899520b94215bad8152e99b3499/manifest.mpd?vcfilter=159fab5b-4fbd-42f9-a6bc-ae468ef8a7b7&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
