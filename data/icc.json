@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:11 PM 25-05-2026",
+  "last_updated": "02:30:02 PM 25-05-2026",
   "total_matches": 16,
   "live_matches": 2,
   "upcoming_matches": 14,
@@ -109,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-25T07:10:46.735Z",
-      "contentDate": "2026-05-21T12:13:15.175Z",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-05-25T07:17:12.386Z",
+      "contentDate": "2026-05-25T07:17:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_7",
@@ -242,9 +242,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-25T07:10:58.598Z",
-      "contentDate": "2026-05-21T12:13:14.607Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-05-25T07:16:00.523Z",
+      "contentDate": "2026-05-25T07:15:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_8",
@@ -466,9 +466,9 @@
         "videoId": "5ccac47c-f579-4fa1-9e21-a56a762b902f",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-25T13:30:00Z",
+        "scheduledStartTime": "2026-05-25T13:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -589,8 +589,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-12T10:43:28.031Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-25T08:50:53.056Z",
       "contentDate": "2026-05-12T10:43:28.031Z",
       "featured": 0,
       "thumbnail": {
