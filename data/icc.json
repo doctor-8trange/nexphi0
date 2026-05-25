@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "25-05-2026 16:30",
+  "last_updated": "05:15:06 PM 25-05-2026",
   "total_matches": 14,
-  "live_matches": 0,
-  "upcoming_matches": 14,
+  "live_matches": 1,
+  "upcoming_matches": 13,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "36c9efa8-3631-4856-8169-7c91e27d2209",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "53fb4626-0a92-4b19-b6f4-b685fe30632a",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-25T11:50:00Z",
@@ -110,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-21T12:31:06.629Z",
-      "contentDate": "2026-05-21T12:13:15.294Z",
+      "lastUpdatedBy": "Nishant Malekar",
+      "lastUpdatedDate": "2026-05-25T11:44:31.851Z",
+      "contentDate": "2026-05-25T11:44:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_9",
@@ -123,8 +122,41 @@
         "slug": "icc26-mt20-28-africassubr-quala-9",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-9"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, May 25, 2026, 5:15:02 PM",
+        "expire_date": "Tuesday, May 26, 2026, 1:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779738309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ed08f00cfd13f34270b594435a2b9df9044d8edf87fc010591a137f983e6bcb9/manifest.mpd?vcfilter=53fb4626-0a92-4b19-b6f4-b685fe30632a&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "03bcd57c-fc8f-49f1-9e52-0a1aa24a6272",
