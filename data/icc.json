@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "26-05-2026 21:00",
-  "total_matches": 12,
-  "live_matches": 0,
-  "upcoming_matches": 12,
+  "last_updated": "12:45:12 PM 28-05-2026",
+  "total_matches": 18,
+  "live_matches": 2,
+  "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "f2b34e93-d91e-4168-b377-417754afa4b6",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "f88e775a-1d7f-41f6-b26a-29f36a75e709",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-28T07:30:00Z",
@@ -110,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-21T12:35:09.879Z",
-      "contentDate": "2026-05-21T12:13:14.583Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-05-28T07:14:19.073Z",
+      "contentDate": "2026-05-28T07:14:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_13",
@@ -123,7 +122,38 @@
         "slug": "icc26-mt20-28-africassubr-quala-13",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-13"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, May 28, 2026, 12:45:02 PM",
+        "expire_date": "Thursday, May 28, 2026, 8:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1779981310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=be3e947bbe91391dc920600b37ee71d708c53a2b32140caf5f038c5c99a1d7e2/manifest.mpd?vcfilter=f88e775a-1d7f-41f6-b26a-29f36a75e709&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -198,7 +228,7 @@
       "fields": {
         "videoId": "cf428c7a-6d62-4650-b668-1b46b6e18ac1",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-28T07:30:00Z",
@@ -212,9 +242,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-21T12:36:10.834Z",
-      "contentDate": "2026-05-21T12:13:14.185Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-05-28T07:14:04.271Z",
+      "contentDate": "2026-05-28T07:13:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_14",
@@ -225,8 +255,41 @@
         "slug": "icc26-mt20-28-africassubr-quala-14",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-14"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, May 28, 2026, 12:45:07 PM",
+        "expire_date": "Thursday, May 28, 2026, 8:45:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1779981315~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fa0a671837d0fb15c870b757adc1ddeebbcf7740c7e4db860df582c047cda5c8/manifest.mpd?vcfilter=cf428c7a-6d62-4650-b668-1b46b6e18ac1&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "12b8e359-b7d6-4639-ae43-778e50c06bc5",
@@ -326,6 +389,109 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20-28-africassubr-quala-15",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-15"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "14631b21-ec99-4fac-9b6a-5066097b05d8",
+      "_entityId": "0e89c65e-feff-49fc-b51c-9c753bb0c738",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-t20i-ireland-v-west-indies",
+      "slug": "1st-t20i-ireland-v-west-indies",
+      "title": "1st T20I: Ireland v West Indies",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6d39e0f9-2af7-4333-b1e6-67195bd2c313",
+          "_entityId": "82a13192-c266-48e7-81a8-ad62dc3b3d7c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270211",
+          "title": "Ireland vs West Indies - Match 1 - 5/28/2026",
+          "slug": "match-270211",
+          "neutralSlug": "match-270211",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270211",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270211",
+            "teamA": "Ireland",
+            "teamB": "West Indies",
+            "teamAid": "1125",
+            "teamBid": "1135",
+            "teamAshort": "IRE",
+            "teamBshort": "WI",
+            "stage": "Series",
+            "matchDateLocal": "5/28/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "ireland-vs-west-indies",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "b082799c-d25f-4e95-9748-5ea64109e805",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-28T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:45:49.602Z",
+      "contentDate": "2026-05-27T11:42:42.222Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_1st-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jr7mghkipmpn5egyzh39",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jr7mghkipmpn5egyzh39",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-1st-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-1st-t20i"
       },
       "entityCode": "video"
     },
@@ -849,6 +1015,109 @@
     },
     {
       "type": "customentity",
+      "_translationId": "a9a734ca-ea5a-41c2-8dd1-1b25b7a71e82",
+      "_entityId": "d5e2410d-86b6-4219-ba1a-a1dac0bc0317",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-t20i-pakistan-v-west-indies",
+      "slug": "2nd-t20i-pakistan-v-west-indies",
+      "title": "2nd T20I: Pakistan v West Indies",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "abfe1a05-38f1-464f-b83a-f812ade3bd01",
+          "_entityId": "cf9437db-d54e-47ad-a92c-c004a86c649d",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270212",
+          "title": "Pakistan vs West Indies - Match 2 - 5/29/2026",
+          "slug": "match-270212",
+          "neutralSlug": "match-270212",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270212",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270212",
+            "teamA": "Pakistan",
+            "teamB": "West Indies",
+            "teamAid": "1130",
+            "teamBid": "1135",
+            "teamAshort": "PAK",
+            "teamBshort": "WI",
+            "stage": "Series",
+            "matchDateLocal": "5/29/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "pakistan-vs-west-indies",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "51cc92d5-0a24-466c-b890-dcf93fbe4e17",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-29T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:46:01.141Z",
+      "contentDate": "2026-05-27T11:43:22.165Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_2nd-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vezebpqbrxiezpqpqe54",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vezebpqbrxiezpqpqe54",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-2nd-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-2nd-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "568d968e-de81-428b-b4ad-3d34d39be764",
       "_entityId": "d7aa9edf-f3ba-4d86-ba1b-117874e26d9a",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/cote-d-ivoire-v-kenya",
@@ -1367,6 +1636,212 @@
     },
     {
       "type": "customentity",
+      "_translationId": "5c9bf06f-7e9e-4834-a8bb-dbb0bb1ff08b",
+      "_entityId": "fea413e0-d524-4012-a02b-b58b4db9519e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-ireland-v-pakistan",
+      "slug": "3rd-t20i-ireland-v-pakistan",
+      "title": "3rd T20I: Ireland v Pakistan",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d0a2232c-6974-44ca-af99-f6bc33044e5e",
+          "_entityId": "3a685434-867d-4a66-930b-a96250ac2bb7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270213",
+          "title": "Ireland vs Pakistan - Match 3 - 5/31/2026",
+          "slug": "match-270213",
+          "neutralSlug": "match-270213",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270213",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270213",
+            "teamA": "Ireland",
+            "teamB": "Pakistan",
+            "teamAid": "1125",
+            "teamBid": "1130",
+            "teamAshort": "IRE",
+            "teamBshort": "PAK",
+            "stage": "Series",
+            "matchDateLocal": "5/31/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "ireland-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "cc99cc65-ed73-48e9-a95e-51a1d2ffa486",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-31T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:46:11.83Z",
+      "contentDate": "2026-05-27T11:43:58.171Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_3rd-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/intwg6eiwhtdo0i2tu04",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/intwg6eiwhtdo0i2tu04",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-3rd-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-3rd-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c1ad8923-7f81-49dc-b635-4c9054a58a80",
+      "_entityId": "67099c20-af6b-475c-8526-d62af9007085",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-t20i-ireland-v-west-indies",
+      "slug": "4th-t20i-ireland-v-west-indies",
+      "title": "4th T20I: Ireland v West Indies",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "bbfd977c-fee4-43ed-b204-ecf116d8a03a",
+          "_entityId": "8f3cedbf-9057-4f18-ac61-b35a51e14d25",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270214",
+          "title": "Ireland vs West Indies - Match 4 - 6/1/2026",
+          "slug": "match-270214",
+          "neutralSlug": "match-270214",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270214",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270214",
+            "teamA": "Ireland",
+            "teamB": "West Indies",
+            "teamAid": "1125",
+            "teamBid": "1135",
+            "teamAshort": "IRE",
+            "teamBshort": "WI",
+            "stage": "Series",
+            "matchDateLocal": "6/1/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "ireland-vs-west-indies",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "0df2d619-f8ec-4333-8157-f920286f3451",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-01T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:46:22.608Z",
+      "contentDate": "2026-05-27T11:44:26.808Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_4th-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pxcwgfyg4jz263tvo5it",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pxcwgfyg4jz263tvo5it",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-4th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-4th-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "c4840a89-a1fc-4bff-86c7-cac1daa519f9",
       "_entityId": "5fa5ebaa-a3a2-4969-8a7b-0255a3770f4f",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-england-v-india",
@@ -1574,6 +2049,212 @@
         "overriddenFormats": [],
         "slug": "icc26-icctv-engvind-3rd-t20i",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-engvind-3rd-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ed192a96-8c2d-4c99-a641-0e06ca6f0c52",
+      "_entityId": "c30c1b7c-23b6-4500-90f4-9d184f6a27d2",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-t20i-pakistan-v-west-indies",
+      "slug": "5th-t20i-pakistan-v-west-indies",
+      "title": "5th T20I: Pakistan v West Indies",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "c16334bd-188c-41e9-abb0-ab5f695cebaf",
+          "_entityId": "a109d4aa-ff84-44f6-bd57-20bf2f144d61",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270215",
+          "title": "Pakistan vs West Indies - Match 5 - 6/3/2026",
+          "slug": "match-270215",
+          "neutralSlug": "match-270215",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270215",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270215",
+            "teamA": "Pakistan",
+            "teamB": "West Indies",
+            "teamAid": "1130",
+            "teamBid": "1135",
+            "teamAshort": "PAK",
+            "teamBshort": "WI",
+            "stage": "Series",
+            "matchDateLocal": "6/3/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "pakistan-vs-west-indies",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "41ca0642-ebcd-465b-b6fb-6192103418bf",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-03T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:46:36.306Z",
+      "contentDate": "2026-05-27T11:44:49.483Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_5th-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vowgbkyo09fn6sobytia",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vowgbkyo09fn6sobytia",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-5th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-5th-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4263bc01-9dca-465e-b88f-dd34716b8b2a",
+      "_entityId": "044805bd-ecf2-46e2-9f2b-30dbc2af1489",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/6th-t20i-ireland-v-pakistan",
+      "slug": "6th-t20i-ireland-v-pakistan",
+      "title": "6th T20I: Ireland v Pakistan",
+      "tags": [
+        {
+          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
+          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
+          "title": "Women's T20I Tri-Series in Ireland, 2026",
+          "slug": "tournament-15483",
+          "neutralSlug": "tournament-15483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15483",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8a0bca71-7f64-4bdb-9b95-b50b43e2cbe7",
+          "_entityId": "356bdaef-3d97-4b5b-8ff8-a88d91c84509",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270216",
+          "title": "Ireland vs Pakistan - Match 6 - 6/4/2026",
+          "slug": "match-270216",
+          "neutralSlug": "match-270216",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270216",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270216",
+            "teamA": "Ireland",
+            "teamB": "Pakistan",
+            "teamAid": "1125",
+            "teamBid": "1130",
+            "teamAshort": "IRE",
+            "teamBshort": "PAK",
+            "stage": "Series",
+            "matchDateLocal": "6/4/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15483",
+            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12471",
+            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "ireland-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "143a376b-168f-4f86-a557-dcb2adc6fc83",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-04T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN",
+            "PK"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-05-27T11:46:45.602Z",
+      "contentDate": "2026-05-27T11:45:21.828Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_IRE-Tri_Series_6th-T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/osloypxzfisvxrs89mhq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/osloypxzfisvxrs89mhq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-ire-tri-series-6th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-6th-t20i"
       },
       "entityCode": "video"
     }
