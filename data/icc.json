@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:12 PM 28-05-2026",
+  "last_updated": "02:30:02 PM 28-05-2026",
   "total_matches": 18,
   "live_matches": 2,
   "upcoming_matches": 16,
@@ -569,9 +569,9 @@
         "videoId": "d573cc17-fd60-43a1-b855-a1b12a4bbeca",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-05-28T17:30:00Z",
+        "scheduledStartTime": "2026-05-28T17:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -692,8 +692,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-05-25T14:15:04.293Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-28T08:35:38.679Z",
       "contentDate": "2026-05-25T13:48:47.591Z",
       "featured": 0,
       "thumbnail": {
