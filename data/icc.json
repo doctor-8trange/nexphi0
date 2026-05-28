@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:30:02 PM 28-05-2026",
-  "total_matches": 18,
-  "live_matches": 2,
+  "last_updated": "04:00:02 PM 28-05-2026",
+  "total_matches": 17,
+  "live_matches": 1,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "f2b34e93-d91e-4168-b377-417754afa4b6",
-      "_entityId": "f7f69c6d-91e6-4e9c-92aa-84751a7b3d88",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/botswana-v-cote-d-ivoire",
-      "slug": "botswana-v-cote-d-ivoire",
-      "title": "Botswana v Cote D'Ivoire",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "01092949-57b8-47b5-aeb7-5cccdac069f5",
-          "_entityId": "2ef8d9b7-6353-46d6-b64e-7b4aded72852",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271200",
-          "title": "Botswana vs Ivory Coast - Match 13 - 5/28/2026",
-          "slug": "match-271200",
-          "neutralSlug": "match-271200",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271200",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271200",
-            "teamA": "Botswana",
-            "teamB": "Ivory Coast",
-            "teamAid": "1863",
-            "teamBid": "4146",
-            "teamAshort": "BOT",
-            "teamBshort": "CIV",
-            "stage": "League",
-            "matchDateLocal": "5/28/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 13",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "botswana-vs-ivory-coast",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "f88e775a-1d7f-41f6-b26a-29f36a75e709",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-28T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-05-28T07:14:19.073Z",
-      "contentDate": "2026-05-28T07:14:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_13",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/p57kzplcavynlji0sdmd",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/p57kzplcavynlji0sdmd",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-13",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-13"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, May 28, 2026, 12:45:02 PM",
-        "expire_date": "Thursday, May 28, 2026, 8:45:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1779981310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=be3e947bbe91391dc920600b37ee71d708c53a2b32140caf5f038c5c99a1d7e2/manifest.mpd?vcfilter=f88e775a-1d7f-41f6-b26a-29f36a75e709&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "27ee7cce-2ef2-4d74-85c2-e41783d9f6c7",
