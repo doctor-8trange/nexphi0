@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:45:02 PM 29-05-2026",
-  "total_matches": 10,
-  "live_matches": 1,
+  "last_updated": "30-05-2026 00:00",
+  "total_matches": 9,
+  "live_matches": 0,
   "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,142 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "a9a734ca-ea5a-41c2-8dd1-1b25b7a71e82",
-      "_entityId": "d5e2410d-86b6-4219-ba1a-a1dac0bc0317",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-t20i-pakistan-v-west-indies",
-      "slug": "2nd-t20i-pakistan-v-west-indies",
-      "title": "2nd T20I: Pakistan v West Indies",
-      "tags": [
-        {
-          "_translationId": "b0ecdf00-aad2-450f-b2e2-3d9683e8a8a8",
-          "_entityId": "6b9b0315-f795-4714-a8cb-df171ccb010f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15483",
-          "title": "Women's T20I Tri-Series in Ireland, 2026",
-          "slug": "tournament-15483",
-          "neutralSlug": "tournament-15483",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15483",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15483",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "abfe1a05-38f1-464f-b83a-f812ade3bd01",
-          "_entityId": "cf9437db-d54e-47ad-a92c-c004a86c649d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270212",
-          "title": "Pakistan vs West Indies - Match 2 - 5/29/2026",
-          "slug": "match-270212",
-          "neutralSlug": "match-270212",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270212",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270212",
-            "teamA": "Pakistan",
-            "teamB": "West Indies",
-            "teamAid": "1130",
-            "teamBid": "1135",
-            "teamAshort": "PAK",
-            "teamBshort": "WI",
-            "stage": "Series",
-            "matchDateLocal": "5/29/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15483",
-            "seriesName": "Women's T20I Tri-Series in Ireland, 2026",
-            "seriesShortName": "Women's T20I Tri-Series in Ireland, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12471",
-            "tourName": "West Indies Women and Pakistan Women tour of Ireland, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "pakistan-vs-west-indies",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "51cc92d5-0a24-466c-b890-dcf93fbe4e17",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-29T15:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "PK"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-05-29T14:41:18.968Z",
-      "contentDate": "2026-05-29T14:41:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_ICCtv_IRE-Tri_Series_2nd-T20I",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vezebpqbrxiezpqpqe54",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vezebpqbrxiezpqpqe54",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-icctv-ire-tri-series-2nd-t20i",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-ire-tri-series-2nd-t20i"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 29, 2026, 8:15:02 PM",
-        "expire_date": "Saturday, May 30, 2026, 4:15:10 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1780094710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6afc43037827365c2fc8477c0fe7f74cf1100cdb7da1104f70d6071033093b87/manifest.mpd?vcfilter=51cc92d5-0a24-466c-b890-dcf93fbe4e17&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
