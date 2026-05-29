@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:06 PM 29-05-2026",
-  "total_matches": 11,
-  "live_matches": 2,
+  "last_updated": "08:45:02 PM 29-05-2026",
+  "total_matches": 10,
+  "live_matches": 1,
   "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,149 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "b104527a-0b05-487e-8ba0-38f12a6cf71d",
-      "_entityId": "a6ad446c-5e7a-46e2-9849-3e26f7d4e487",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/botswana-v-kenya",
-      "slug": "botswana-v-kenya",
-      "title": "Botswana v Kenya",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "99f68a30-f6ca-444c-8908-977c58b0d943",
-          "_entityId": "2601aa8a-38de-49cd-9cdc-b019bccdfcd9",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271206",
-          "title": "Botswana vs Kenya - Match 18 - 5/29/2026",
-          "slug": "match-271206",
-          "neutralSlug": "match-271206",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271206",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271206",
-            "teamA": "Botswana",
-            "teamB": "Kenya",
-            "teamAid": "1863",
-            "teamBid": "14",
-            "teamAshort": "BOT",
-            "teamBshort": "KEN",
-            "stage": "League",
-            "matchDateLocal": "5/29/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 18",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "botswana-vs-kenya",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
-          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
-          "title": "test",
-          "slug": "test",
-          "neutralSlug": "test",
-          "externalSourceReference": [],
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8dba8756-76e0-4e6d-a59a-13fcbe0f6e4b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-29T11:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-05-29T11:34:37.952Z",
-      "contentDate": "2026-05-29T11:25:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_18",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vhxekkqbl4eqrubhdw78",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vhxekkqbl4eqrubhdw78",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-18",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-18"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 29, 2026, 5:15:02 PM",
-        "expire_date": "Saturday, May 30, 2026, 1:15:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1780083911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3410746e8ad9c12ca3221378f2cead57257ac482dc113dc3a4682e3ad277445f/manifest.mpd?vcfilter=8dba8756-76e0-4e6d-a59a-13fcbe0f6e4b&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "a9a734ca-ea5a-41c2-8dd1-1b25b7a71e82",
