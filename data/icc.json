@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:10 PM 29-05-2026",
-  "total_matches": 13,
-  "live_matches": 2,
+  "last_updated": "03:30:25 PM 29-05-2026",
+  "total_matches": 12,
+  "live_matches": 1,
   "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -90,6 +90,16 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "e6700d62-9e18-4063-8ed2-676ccf649116",
+          "_entityId": "0fe7c386-a144-4645-8d42-e64c58a06744",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/test",
+          "title": "test",
+          "slug": "test",
+          "neutralSlug": "test",
+          "externalSourceReference": [],
+          "fields": []
         }
       ],
       "fields": {
@@ -109,8 +119,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-29T07:10:28.886Z",
+      "lastUpdatedBy": "Nishant Malekar",
+      "lastUpdatedDate": "2026-05-29T07:21:42.815Z",
       "contentDate": "2026-05-29T07:02:00Z",
       "featured": 0,
       "thumbnail": {
@@ -140,139 +150,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1780067710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c842c24ab76ab90919bb72d9edb7a7e2ff624923c06908e8a89e798ae7489db0/manifest.mpd?vcfilter=7a5efb63-35c1-491d-8a9e-2cb9c374b8bc&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "05834986-e486-4cfd-b290-16e3bb3c7cc8",
-      "_entityId": "64b80afc-ee9d-4a08-8d42-5a0e29845d5c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sierra-leone-v-cote-d-ivoire-x7645",
-      "slug": "sierra-leone-v-cote-d-ivoire-x7645",
-      "title": "Sierra Leone v Cote D'Ivoire",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "2dd260c6-85a0-41d3-90ac-a841c9769d20",
-          "_entityId": "d4f49489-dab8-4736-aec9-4377f9b69e20",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271205",
-          "title": "Sierra Leone vs Ivory Coast - Match 17 - 5/29/2026",
-          "slug": "match-271205",
-          "neutralSlug": "match-271205",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271205",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271205",
-            "teamA": "Sierra Leone",
-            "teamB": "Ivory Coast",
-            "teamAid": "1745",
-            "teamBid": "4146",
-            "teamAshort": "SRL",
-            "teamBshort": "CIV",
-            "stage": "League",
-            "matchDateLocal": "5/29/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 17",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "sierra-leone-vs-ivory-coast",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "e5d7bf88-eb6f-4aac-9c2e-51916705b5c5",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-29T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-29T07:10:25.242Z",
-      "contentDate": "2026-05-29T07:01:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_17",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vnndg5ispeu53vtwbziy",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vnndg5ispeu53vtwbziy",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-17",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-17"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, May 29, 2026, 12:45:06 PM",
-        "expire_date": "Friday, May 29, 2026, 8:45:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1780067714~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4affbee61991209e5a1b008624f2cedfc6d6ae15a09c65507f8a31c03545c6ff/manifest.mpd?vcfilter=e5d7bf88-eb6f-4aac-9c2e-51916705b5c5&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
