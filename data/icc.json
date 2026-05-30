@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "30-05-2026 00:00",
+  "last_updated": "12:45:11 PM 30-05-2026",
   "total_matches": 9,
-  "live_matches": 0,
-  "upcoming_matches": 9,
+  "live_matches": 2,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,110 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "568d968e-de81-428b-b4ad-3d34d39be764",
-      "_entityId": "d7aa9edf-f3ba-4d86-ba1b-117874e26d9a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/cote-d-ivoire-v-kenya",
-      "slug": "cote-d-ivoire-v-kenya",
-      "title": "Cote D'Ivoire v Kenya",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "309e9e1e-30e1-455e-9711-7ea0ffc39c2a",
-          "_entityId": "cc001888-242a-4df3-898a-6f9a186c37d4",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271208",
-          "title": "Ivory Coast vs Kenya - Match 20 - 5/30/2026",
-          "slug": "match-271208",
-          "neutralSlug": "match-271208",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271208",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271208",
-            "teamA": "Ivory Coast",
-            "teamB": "Kenya",
-            "teamAid": "4146",
-            "teamBid": "14",
-            "teamAshort": "CIV",
-            "teamBshort": "KEN",
-            "stage": "League",
-            "matchDateLocal": "5/30/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 20",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "ivory-coast-vs-kenya",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "fbce60dc-f0c8-416e-8ac9-f9d3c65f018d",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-30T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-21T12:41:50.732Z",
-      "contentDate": "2026-05-21T12:13:14.206Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_20",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uh88pszshbidw7aqahog",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uh88pszshbidw7aqahog",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-20",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-20"
-      },
-      "entityCode": "video"
-    },
+  "live": [
     {
       "type": "customentity",
       "_translationId": "f59f65b1-d9f9-466a-9026-ae9cc73d35af",
@@ -198,7 +95,7 @@
       "fields": {
         "videoId": "ca02ca18-3c82-44d1-8ded-d287c3617956",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-05-30T07:30:00Z",
@@ -212,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-05-21T12:41:07.074Z",
-      "contentDate": "2026-05-21T12:13:14.182Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-05-30T07:10:38.527Z",
+      "contentDate": "2026-05-30T07:10:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-28-AfricasSubR-QualA_19",
@@ -225,8 +122,174 @@
         "slug": "icc26-mt20-28-africassubr-quala-19",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-19"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 30, 2026, 12:45:02 PM",
+        "expire_date": "Saturday, May 30, 2026, 8:45:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1780154111~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6aea6e2b0ab6034b71183291d74191748a825ac4a5157f307877b8685aad73b7/manifest.mpd?vcfilter=ca02ca18-3c82-44d1-8ded-d287c3617956&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
+    {
+      "type": "customentity",
+      "_translationId": "568d968e-de81-428b-b4ad-3d34d39be764",
+      "_entityId": "d7aa9edf-f3ba-4d86-ba1b-117874e26d9a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/cote-d-ivoire-v-kenya",
+      "slug": "cote-d-ivoire-v-kenya",
+      "title": "Cote D'Ivoire v Kenya",
+      "tags": [
+        {
+          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
+          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15598",
+          "neutralSlug": "tournament-15598",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15598",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15598",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "309e9e1e-30e1-455e-9711-7ea0ffc39c2a",
+          "_entityId": "cc001888-242a-4df3-898a-6f9a186c37d4",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271208",
+          "title": "Ivory Coast vs Kenya - Match 20 - 5/30/2026",
+          "slug": "match-271208",
+          "neutralSlug": "match-271208",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271208",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271208",
+            "teamA": "Ivory Coast",
+            "teamB": "Kenya",
+            "teamAid": "4146",
+            "teamBid": "14",
+            "teamAshort": "CIV",
+            "teamBshort": "KEN",
+            "stage": "League",
+            "matchDateLocal": "5/30/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 20",
+            "seriesId": "15598",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12560",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "ivory-coast-vs-kenya",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "fbce60dc-f0c8-416e-8ac9-f9d3c65f018d",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-05-30T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-05-30T07:10:23.695Z",
+      "contentDate": "2026-05-30T07:09:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualA_20",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uh88pszshbidw7aqahog",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uh88pszshbidw7aqahog",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-quala-20",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-20"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, May 30, 2026, 12:45:07 PM",
+        "expire_date": "Saturday, May 30, 2026, 8:45:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1780154115~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fbff0756429c946942af3ac2ecd93331c70c9b997ddcb4e934171be816692f40/manifest.mpd?vcfilter=fbce60dc-f0c8-416e-8ac9-f9d3c65f018d&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "e3224140-e7b6-4fdf-a334-f8aafff1b034",
