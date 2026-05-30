@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:30:06 PM 30-05-2026",
-  "total_matches": 7,
-  "live_matches": 2,
+  "last_updated": "09:00:02 PM 30-05-2026",
+  "total_matches": 6,
+  "live_matches": 1,
   "upcoming_matches": 5,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "e3224140-e7b6-4fdf-a334-f8aafff1b034",
-      "_entityId": "e19e108e-0684-4383-984f-65e6110eda89",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/botswana-v-rwanda",
-      "slug": "botswana-v-rwanda",
-      "title": "Botswana v Rwanda",
-      "tags": [
-        {
-          "_translationId": "d7bf514e-f3d0-4c3b-a753-2faa037f6f4d",
-          "_entityId": "8f0089c7-533e-4323-8f2e-d759d98399c5",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15598",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15598",
-          "neutralSlug": "tournament-15598",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15598",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15598",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "49394503-2d19-4d31-be90-464bd8945efd",
-          "_entityId": "8cae3bba-9831-4c78-8b73-bc7c63835591",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271209",
-          "title": "Botswana vs Rwanda - Match 21 - 5/30/2026",
-          "slug": "match-271209",
-          "neutralSlug": "match-271209",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271209",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271209",
-            "teamA": "Botswana",
-            "teamB": "Rwanda",
-            "teamAid": "1863",
-            "teamBid": "1757",
-            "teamAshort": "BOT",
-            "teamBshort": "RWA",
-            "stage": "League",
-            "matchDateLocal": "5/30/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 21",
-            "seriesId": "15598",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC MT20 WC Africa Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12560",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "botswana-vs-rwanda",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2b56e53d-0e2e-4208-9624-e664562de0fd",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-05-30T11:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-05-30T11:34:37.839Z",
-      "contentDate": "2026-05-30T11:34:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualA_21",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rolfcnkh5gz2jtpfygch",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rolfcnkh5gz2jtpfygch",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-quala-21",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-quala-21"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, May 30, 2026, 5:15:02 PM",
-        "expire_date": "Sunday, May 31, 2026, 1:15:10 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1780170310~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a767f383712e4536b2b59c607a8586930e9395bb25e50b5469eda17880d53b78/manifest.mpd?vcfilter=2b56e53d-0e2e-4208-9624-e664562de0fd&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "72224957-6dec-4674-89e1-3cbfe72277c8",
@@ -352,9 +219,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-05-30T12:58:54.922Z",
-      "contentDate": "2026-05-25T13:50:32.824Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-05-30T13:01:12.76Z",
+      "contentDate": "2026-05-30T13:01:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_ICCtv_ENGvIND_2nd-T20I",
