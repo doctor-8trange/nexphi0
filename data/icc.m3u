@@ -1,3 +1,14 @@
 #EXTM3U
-#DATE:- 30-05-2026 22:30
+#DATE:- 31-05-2026 20:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="cc99cc65-ed73-48e9-a95e-51a1d2ffa486" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/intwg6eiwhtdo0i2tu04" tvg-lang="English" group-title="Cricket",English | 3rd T20I: Ireland v Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1780267511~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8cee13f38ab181811bd41aa4f3970173313f99c60be67e7a55b34e1fc5af9bcc/manifest.mpd?vcfilter=cc99cc65-ed73-48e9-a95e-51a1d2ffa486&powered_by=jay_shree_ram
