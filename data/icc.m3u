@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 03-06-2026 20:15
+#DATE:- 04-06-2026 00:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="41ca0642-ebcd-465b-b6fb-6192103418bf" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vowgbkyo09fn6sobytia" tvg-lang="English" group-title="Cricket",English | 5th T20I: Pakistan v West Indies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1780526708~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6c2b31f9ddd9849d232fd524173292498ce5a8417c4de89635f4e0f399a42367/manifest.mpd?vcfilter=41ca0642-ebcd-465b-b6fb-6192103418bf&powered_by=jay_shree_ram
