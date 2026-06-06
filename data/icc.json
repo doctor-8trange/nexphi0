@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:15:10 PM 06-06-2026",
+  "last_updated": "08:15:06 PM 06-06-2026",
   "total_matches": 28,
-  "live_matches": 2,
-  "upcoming_matches": 26,
+  "live_matches": 3,
+  "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,6 +22,149 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
+    {
+      "type": "customentity",
+      "_translationId": "fe66c8fd-0059-4adc-a70c-c608e924a231",
+      "_entityId": "98838484-c39f-4a29-b4d8-1446ddd48ff6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-sri-lanka-v-pakistan",
+      "slug": "wt20-warm-ups-sri-lanka-v-pakistan",
+      "title": "WT20 Warm-Ups: Sri Lanka v Pakistan",
+      "tags": [
+        {
+          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
+          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
+          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+          "slug": "tournament-15586",
+          "neutralSlug": "tournament-15586",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15586",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15586",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6e7f8125-58c6-4ea3-a38c-19edf91af1c6",
+          "_entityId": "54653904-f0e6-493e-a8f7-3494bdd72658",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271109",
+          "title": "Sri Lanka vs Pakistan - Match 3 - 6/6/2026",
+          "slug": "match-271109",
+          "neutralSlug": "match-271109",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271109",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271109",
+            "teamA": "Sri Lanka",
+            "teamB": "Pakistan",
+            "teamAid": "1133",
+            "teamBid": "1130",
+            "teamAshort": "SL",
+            "teamBshort": "PAK",
+            "stage": "League",
+            "matchDateLocal": "6/6/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15586",
+            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12551",
+            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "seoName": "sri-lanka-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "086fc2c9-6ff4-4135-be0a-029a6094a05d",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-06T13:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "thumbnail_3_4": [
+          {
+            "title": "Sri Lanka v Pakistan",
+            "slug": "sri-lanka-v-pakistan-x9131",
+            "format": "png",
+            "id": "78af26b9-0472-496e-ab64-c579d4325124",
+            "entityId": "afd3bcb0-1f0b-4390-b60b-1729d940ae00",
+            "stage": "png",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wbvej6xu4tqrihhogz0g",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/wbvej6xu4tqrihhogz0g"
+          }
+        ],
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Nishant Malekar",
+      "lastUpdatedDate": "2026-06-06T13:49:20.616Z",
+      "contentDate": "2026-06-06T13:49:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Sri Lanka v Pakistan",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qzxglffgvyfx0lpjvbv9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qzxglffgvyfx0lpjvbv9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "sri-lanka-v-pakistan",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/sri-lanka-v-pakistan"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, June 6, 2026, 7:15:06 PM",
+        "expire_date": "Sunday, June 7, 2026, 3:15:11 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780782311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=122e249e2fca75231aa419a307fe6aa5d099aff5bd104776246974d04f5ce8b2/manifest.mpd?vcfilter=086fc2c9-6ff4-4135-be0a-029a6094a05d&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
     {
       "type": "customentity",
       "_translationId": "0d605265-9f03-469b-b444-d47fb215385e",
@@ -167,151 +310,6 @@
     },
     {
       "type": "customentity",
-      "_translationId": "fe66c8fd-0059-4adc-a70c-c608e924a231",
-      "_entityId": "98838484-c39f-4a29-b4d8-1446ddd48ff6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-sri-lanka-v-pakistan",
-      "slug": "wt20-warm-ups-sri-lanka-v-pakistan",
-      "title": "WT20 Warm-Ups: Sri Lanka v Pakistan",
-      "tags": [
-        {
-          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
-          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
-          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-          "slug": "tournament-15586",
-          "neutralSlug": "tournament-15586",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15586",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15586",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "6e7f8125-58c6-4ea3-a38c-19edf91af1c6",
-          "_entityId": "54653904-f0e6-493e-a8f7-3494bdd72658",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271109",
-          "title": "Sri Lanka vs Pakistan - Match 3 - 6/6/2026",
-          "slug": "match-271109",
-          "neutralSlug": "match-271109",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271109",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271109",
-            "teamA": "Sri Lanka",
-            "teamB": "Pakistan",
-            "teamAid": "1133",
-            "teamBid": "1130",
-            "teamAshort": "SL",
-            "teamBshort": "PAK",
-            "stage": "League",
-            "matchDateLocal": "6/6/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15586",
-            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12551",
-            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "seoName": "sri-lanka-vs-pakistan",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "086fc2c9-6ff4-4135-be0a-029a6094a05d",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-06T13:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "thumbnail_3_4": [
-          {
-            "title": "Sri Lanka v Pakistan",
-            "slug": "sri-lanka-v-pakistan-x9131",
-            "format": "png",
-            "id": "78af26b9-0472-496e-ab64-c579d4325124",
-            "entityId": "afd3bcb0-1f0b-4390-b60b-1729d940ae00",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wbvej6xu4tqrihhogz0g",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/wbvej6xu4tqrihhogz0g"
-          }
-        ],
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-06T13:31:21.099Z",
-      "contentDate": "2026-06-05T16:35:24.745Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Sri Lanka v Pakistan",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qzxglffgvyfx0lpjvbv9",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qzxglffgvyfx0lpjvbv9",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "sri-lanka-v-pakistan",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/sri-lanka-v-pakistan"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, June 6, 2026, 7:15:06 PM",
-        "expire_date": "Sunday, June 7, 2026, 3:15:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780782311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=122e249e2fca75231aa419a307fe6aa5d099aff5bd104776246974d04f5ce8b2/manifest.mpd?vcfilter=086fc2c9-6ff4-4135-be0a-029a6094a05d&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "type": "customentity",
       "_translationId": "fa556bb6-4beb-43b0-93ce-3c65d8db1287",
       "_entityId": "1d5332a9-9309-47c9-89ea-9355e5d6a9a2",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-usa-1st-innings",
@@ -381,7 +379,7 @@
       "fields": {
         "videoId": "8a0895a9-751f-4e8d-8de2-7bf0fc10654c",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-06T15:00:00Z",
@@ -395,9 +393,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-05T13:33:18.007Z",
-      "contentDate": "2026-06-01T13:17:39.532Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-06-06T14:42:58.571Z",
+      "contentDate": "2026-06-06T14:42:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-CAN-JUN_Match1.1",
@@ -408,8 +406,41 @@
         "slug": "icc26-cwc-l2-can-jun-match1-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match1-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, June 6, 2026, 8:15:02 PM",
+        "expire_date": "Sunday, June 7, 2026, 4:15:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780785907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0c7103ba94a677196e88a3d174a1ff238d8359b6c6486d089af3b4140d99339/manifest.mpd?vcfilter=8a0895a9-751f-4e8d-8de2-7bf0fc10654c&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "761f9366-4d8b-47b3-9766-47cc9385458a",
