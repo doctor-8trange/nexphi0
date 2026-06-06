@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:15:02 AM 07-06-2026",
-  "total_matches": 26,
+  "last_updated": "02:30:06 AM 07-06-2026",
+  "total_matches": 25,
   "live_matches": 1,
-  "upcoming_matches": 25,
+  "upcoming_matches": 24,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "2f1245d7-ab55-4ef4-9c81-c0af8774b41d",
-      "_entityId": "687015af-11a9-4830-890a-45f47fd27bb6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-usa-1st-innings-2",
-      "slug": "canada-v-usa-1st-innings-2",
-      "title": "Canada v USA (1st Innings)/2",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c1fb566f-fbf7-4151-9f17-c50c4d734169",
-          "_entityId": "353c187b-0100-4371-b671-24c4bc618685",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271456",
-          "title": "Canada vs USA - Match 110 - 6/6/2026",
-          "slug": "match-271456",
-          "neutralSlug": "match-271456",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271456",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271456",
-            "teamA": "Canada",
-            "teamB": "USA",
-            "teamAid": "12",
-            "teamBid": "22",
-            "teamAshort": "CAN",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "6/6/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 110",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "canada-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5cc58cf6-4318-4f4c-b983-ad68a86a8b48",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-06T20:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-06-06T20:32:29.535Z",
-      "contentDate": "2026-06-06T20:32:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "image",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/r3zkzbuqzzarqclrjslv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r3zkzbuqzzarqclrjslv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "image-x8444",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/image-x8444"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, June 7, 2026, 2:00:02 AM",
-        "expire_date": "Sunday, June 7, 2026, 10:00:08 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780806608~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=883818c3f146d1a68bfa056653dc7c254a6d64762f7a2daf874506f9297744f2/manifest.mpd?vcfilter=5cc58cf6-4318-4f4c-b983-ad68a86a8b48&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "761f9366-4d8b-47b3-9766-47cc9385458a",
@@ -226,10 +93,10 @@
       "fields": {
         "videoId": "878f776f-0160-4237-98dd-232f717746ae",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "7200000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "7800000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-06T21:00:00Z",
+        "scheduledStartTime": "2026-06-06T20:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -241,7 +108,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-06T20:09:20.017Z",
+      "lastUpdatedDate": "2026-06-06T20:53:34.25Z",
       "contentDate": "2026-06-01T13:18:11.664Z",
       "featured": 0,
       "thumbnail": {
@@ -253,8 +120,41 @@
         "slug": "icc26-cwc-l2-can-jun-match1-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match1-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, June 7, 2026, 2:30:02 AM",
+        "expire_date": "Sunday, June 7, 2026, 10:30:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780808407~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=bc74cefb972cd01c162ad7696f62fc14da590801e5718e60c612b51fa8dbc0d0/manifest.mpd?vcfilter=878f776f-0160-4237-98dd-232f717746ae&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "368e2011-7bf4-4558-bdec-81689ba08e5d",
