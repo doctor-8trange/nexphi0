@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 07-06-2026 02:15
+#DATE:- 07-06-2026 02:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="5cc58cf6-4318-4f4c-b983-ad68a86a8b48" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r3zkzbuqzzarqclrjslv" tvg-lang="English" group-title="Cricket",English | Canada v USA (1st Innings)/2
+#EXTINF:-1 tvg-id="878f776f-0160-4237-98dd-232f717746ae" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/s8tkax6o8nuyyrmphrxm" tvg-lang="English" group-title="Cricket",English | Canada v USA (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780806608~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=883818c3f146d1a68bfa056653dc7c254a6d64762f7a2daf874506f9297744f2/manifest.mpd?vcfilter=5cc58cf6-4318-4f4c-b983-ad68a86a8b48&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780808407~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=bc74cefb972cd01c162ad7696f62fc14da590801e5718e60c612b51fa8dbc0d0/manifest.mpd?vcfilter=878f776f-0160-4237-98dd-232f717746ae&powered_by=jay_shree_ram
