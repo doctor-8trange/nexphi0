@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:15:08 PM 07-06-2026",
+  "last_updated": "07-06-2026 18:15",
   "total_matches": 25,
-  "live_matches": 1,
-  "upcoming_matches": 24,
+  "live_matches": 0,
+  "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,100 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "245688ff-2f79-430d-af84-1e92b80ac452",
-      "_entityId": "3235d99c-4175-448e-9bc9-11786b99e17a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-captains-carnival",
-      "slug": "wt20-captains-carnival",
-      "title": "WT20: Captains' Carnival",
-      "tags": [
-        {
-          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
-          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
-          "title": "ICC Women's T20 World Cup, 2026",
-          "slug": "tournament-12672",
-          "neutralSlug": "tournament-12672",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-12672",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "12672",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "000a76ae-1700-4d17-9720-27c55222a428",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "5400000",
-        "v_has_data": false,
-        "scheduledStartTime": "2026-06-07T11:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-06-07T10:40:31.282Z",
-      "contentDate": "2026-06-07T10:40:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_WT20-CaptainsCarnival_V3",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bhcfs7djuf6povn8iehu",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhcfs7djuf6povn8iehu",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-wt20-captainscarnival-v3",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-wt20-captainscarnival-v3"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, June 7, 2026, 4:15:02 PM",
-        "expire_date": "Monday, June 8, 2026, 12:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780857909~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7124df64df89786534f5407f87f2bf24c48cc8b5362fb9698b61d7addabbe717/manifest.mpd?vcfilter=000a76ae-1700-4d17-9720-27c55222a428&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
@@ -145,6 +52,28 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
+          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
+          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+          "slug": "tournament-15586",
+          "neutralSlug": "tournament-15586",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15586",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15586",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -162,8 +91,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-07T10:13:34.179Z",
+      "lastUpdatedBy": "Shobhit Asai",
+      "lastUpdatedDate": "2026-06-07T11:17:41.501Z",
       "contentDate": "2026-06-07T08:22:14.595Z",
       "featured": 0,
       "thumbnail": {
@@ -398,6 +327,106 @@
         "overriddenFormats": [],
         "slug": "england-v-australia-x4957",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/england-v-australia-x4957"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0b7fa32a-a84b-4705-95ff-97bee8c7cf49",
+      "_entityId": "1a92a43b-87c3-428c-a547-ee2061ba55cd",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-netherlands-1st-innings",
+      "slug": "usa-v-netherlands-1st-innings",
+      "title": "USA v Netherlands (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "191c2383-1aed-455f-9cd3-9104bf398621",
+          "_entityId": "be9746c9-00c6-46dc-8fc6-965faf14a1fe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271457",
+          "title": "Netherlands vs USA - Match 111 - 6/8/2026",
+          "slug": "match-271457",
+          "neutralSlug": "match-271457",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271457",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271457",
+            "teamA": "Netherlands",
+            "teamB": "USA",
+            "teamAid": "15",
+            "teamBid": "22",
+            "teamAshort": "NED",
+            "teamBshort": "USA",
+            "stage": "League",
+            "matchDateLocal": "6/8/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 111",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "netherlands-vs-usa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "04856faa-ad3d-41e8-8c4e-26474b827154",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-08T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-05T10:48:32.766Z",
+      "contentDate": "2026-06-01T13:18:33.716Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-CAN-JUN_Match2.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rce0hbbtdo9psqf2atbb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rce0hbbtdo9psqf2atbb",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-can-jun-match2-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match2-1"
       },
       "entityCode": "video"
     },
