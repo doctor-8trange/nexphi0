@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 07-06-2026 18:45
+#DATE:- 07-06-2026 20:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1bd07d3d-790f-4204-8864-ac45c454995f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bhcfs7djuf6povn8iehu" tvg-lang="English" group-title="Cricket",English | WT20: Captains' Carnival: Q&A Session
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780866909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2e5287b457962db357bbea61a41dd2d8224a9bfbafd464c8ce9833c5a9a06524/manifest.mpd?vcfilter=1bd07d3d-790f-4204-8864-ac45c454995f&powered_by=jay_shree_ram
