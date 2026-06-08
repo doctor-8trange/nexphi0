@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:15:07 PM 08-06-2026",
-  "total_matches": 11,
+  "last_updated": "07:30:03 PM 08-06-2026",
+  "total_matches": 10,
   "live_matches": 1,
-  "upcoming_matches": 10,
+  "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -167,118 +167,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "9f9586ec-1e4c-4f44-8bf6-9343d9830343",
-      "_entityId": "5a06ba68-c0ea-4dcb-a013-20db033e081d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-west-indies-v-australia",
-      "slug": "wt20-warm-ups-west-indies-v-australia",
-      "title": "WT20 Warm-Ups: West Indies v Australia",
-      "tags": [
-        {
-          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
-          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
-          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-          "slug": "tournament-15586",
-          "neutralSlug": "tournament-15586",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15586",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15586",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "275e9499-fef8-42a6-b6cb-69879e4d8813",
-          "_entityId": "dd527194-1f48-44df-9535-a0364702580c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271121",
-          "title": "West Indies vs Australia - Match 12 - 6/10/2026",
-          "slug": "match-271121",
-          "neutralSlug": "match-271121",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271121",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271121",
-            "teamA": "West Indies",
-            "teamB": "Australia",
-            "teamAid": "1135",
-            "teamBid": "1119",
-            "teamAshort": "WI",
-            "teamBshort": "AUS",
-            "stage": "League",
-            "matchDateLocal": "6/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 12",
-            "seriesId": "15586",
-            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12551",
-            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "seoName": "west-indies-vs-australia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "db9ba908-08f1-4056-b2d7-6a727f9edbfc",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-10T14:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "thumbnail_3_4": [
-          {
-            "title": "West Indies v Australia",
-            "slug": "west-indies-v-australia-x4048",
-            "format": "png",
-            "id": "fada1426-eb7a-4ffb-80f7-0a43dbd2b371",
-            "entityId": "c7ba99b0-7341-4d78-a3cd-3c82a65a1712",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/slmsbuq0cgjgxllet2v5",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/slmsbuq0cgjgxllet2v5"
-          }
-        ],
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-05T19:08:45.773Z",
-      "contentDate": "2026-06-05T16:40:11.452Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "West Indies v Australia",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ar3qdn5z854ithvukhhi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ar3qdn5z854ithvukhhi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "west-indies-v-australia",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/west-indies-v-australia"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "68e5587d-59f7-49ef-82d2-7114ea6aab75",
