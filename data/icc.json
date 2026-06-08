@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:30:07 AM 09-06-2026",
-  "total_matches": 10,
-  "live_matches": 1,
+  "last_updated": "09-06-2026 04:30",
+  "total_matches": 9,
+  "live_matches": 0,
   "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,139 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "2419baba-93d1-4028-8eeb-35014f151476",
-      "_entityId": "eae00c9c-b56e-49d6-ab71-927165e22d9f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-netherlands-2nd-innings",
-      "slug": "usa-v-netherlands-2nd-innings",
-      "title": "USA v Netherlands (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "191c2383-1aed-455f-9cd3-9104bf398621",
-          "_entityId": "be9746c9-00c6-46dc-8fc6-965faf14a1fe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271457",
-          "title": "Netherlands vs USA - Match 111 - 6/8/2026",
-          "slug": "match-271457",
-          "neutralSlug": "match-271457",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271457",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271457",
-            "teamA": "Netherlands",
-            "teamB": "USA",
-            "teamAid": "15",
-            "teamBid": "22",
-            "teamAshort": "NED",
-            "teamBshort": "USA",
-            "stage": "League",
-            "matchDateLocal": "6/8/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 111",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "netherlands-vs-usa",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "b40a161c-8da4-46d1-b27e-160d30d75a8f",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-08T18:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-06-08T18:58:42.367Z",
-      "contentDate": "2026-06-08T18:58:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-CAN-JUN_Match2.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vifsfkx96k7y8lebvemc",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vifsfkx96k7y8lebvemc",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-can-jun-match2-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match2-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, June 9, 2026, 12:30:02 AM",
-        "expire_date": "Tuesday, June 9, 2026, 8:30:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1780974009~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=75ba2329ca7fb7a883a1ea35597db07e715fc41a6e49d2c9211041dc773931f8/manifest.mpd?vcfilter=b40a161c-8da4-46d1-b27e-160d30d75a8f&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
