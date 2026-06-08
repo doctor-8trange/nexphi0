@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07-06-2026 20:30",
+  "last_updated": "02:15:07 PM 08-06-2026",
   "total_matches": 24,
-  "live_matches": 0,
-  "upcoming_matches": 24,
+  "live_matches": 1,
+  "upcoming_matches": 23,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "368e2011-7bf4-4558-bdec-81689ba08e5d",
@@ -96,10 +95,10 @@
       "fields": {
         "videoId": "41074ead-50f3-49fe-ab0f-76e9c23c7de4",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-08T09:00:00Z",
+        "scheduledStartTime": "2026-06-08T08:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "thumbnail_3_4": [
@@ -120,9 +119,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-05T19:07:53.239Z",
-      "contentDate": "2026-06-05T16:36:10.695Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-06-08T08:31:26.259Z",
+      "contentDate": "2026-06-08T08:31:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "West Indies v India",
@@ -133,8 +132,41 @@
         "slug": "west-indies-v-india-x3869",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/west-indies-v-india-x3869"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, June 8, 2026, 2:15:02 PM",
+        "expire_date": "Monday, June 8, 2026, 10:15:08 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780937108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=69e0a82dda321ee5cc89afb9c2f0cbccbfcc4a22e30f92a343abb5b6ec24b46c/manifest.mpd?vcfilter=41074ead-50f3-49fe-ab0f-76e9c23c7de4&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "0ef4c039-d7b8-4168-b4e6-7aec62c44363",
@@ -209,9 +241,9 @@
         "videoId": "1eccd0ba-05b4-4775-8ab5-6854208d34b6",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-08T14:00:00Z",
+        "scheduledStartTime": "2026-06-08T13:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "thumbnail_3_4": [
@@ -232,8 +264,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-05T19:03:12.771Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-08T08:18:06.69Z",
       "contentDate": "2026-06-05T16:36:33.503Z",
       "featured": 0,
       "thumbnail": {
