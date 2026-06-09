@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 09-06-2026 14:15
+#DATE:- 09-06-2026 17:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="e0cdc7e4-7717-4835-bbfd-8fb60a46080a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/enpq1h1ql83yo1djoxkn" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: Scotland v Pakistan
@@ -12,13 +12,3 @@
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781023509~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1c71d5fd31964f404cc7cc56526feeebd4f3e8a03ca179e7ad6b96e2552db0bf/manifest.mpd?vcfilter=e0cdc7e4-7717-4835-bbfd-8fb60a46080a&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="c828750a-2cec-43ac-8599-2348122e69d4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cvyxiwjrp6osrvhrohnx" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: Ireland v Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781023514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3ed8532e4f6f4824f509a565129af74c14a811b3232bbbd6bab1ec706ec4f7c4/manifest.mpd?vcfilter=c828750a-2cec-43ac-8599-2348122e69d4&powered_by=jay_shree_ram
