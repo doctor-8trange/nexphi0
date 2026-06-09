@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09-06-2026 04:30",
-  "total_matches": 9,
-  "live_matches": 0,
+  "last_updated": "02:15:12 PM 09-06-2026",
+  "total_matches": 11,
+  "live_matches": 2,
   "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,7 +21,294 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "3ce4b912-4c2b-4465-a6f1-5842925fc56e",
+      "_entityId": "8e698b1d-8ae6-46e6-b577-bebaeffe47fa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-scotland-v-pakistan",
+      "slug": "wt20-warm-ups-scotland-v-pakistan",
+      "title": "WT20 Warm-Ups: Scotland v Pakistan",
+      "tags": [
+        {
+          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
+          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
+          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+          "slug": "tournament-15586",
+          "neutralSlug": "tournament-15586",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15586",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15586",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6488b925-8fc8-4738-a5a3-972bc15168bd",
+          "_entityId": "ff1b7e6f-2025-4738-9a90-eb923cb18320",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271115",
+          "title": "Scotland vs Pakistan - Match 7 - 6/9/2026",
+          "slug": "match-271115",
+          "neutralSlug": "match-271115",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271115",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271115",
+            "teamA": "Scotland",
+            "teamB": "Pakistan",
+            "teamAid": "1132",
+            "teamBid": "1130",
+            "teamAshort": "SCO",
+            "teamBshort": "PAK",
+            "stage": "League",
+            "matchDateLocal": "6/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15586",
+            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12551",
+            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "seoName": "scotland-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e0cdc7e4-7717-4835-bbfd-8fb60a46080a",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-09T08:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "thumbnail_3_4": [
+          {
+            "title": "Scotland v Pakistan",
+            "slug": "scotland-v-pakistan-x9864",
+            "format": "png",
+            "id": "9d3f23a0-ee15-4707-8747-3a6fb4cfb26e",
+            "entityId": "76139cd2-5c26-40aa-a52b-956a39d0b98d",
+            "stage": "png",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fgo8rwi75mmn038y2snt",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/fgo8rwi75mmn038y2snt"
+          }
+        ],
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-06-09T08:32:06.381Z",
+      "contentDate": "2026-06-09T08:32:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Scotland v Pakistan",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/enpq1h1ql83yo1djoxkn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/enpq1h1ql83yo1djoxkn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "scotland-v-pakistan",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/scotland-v-pakistan"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 9, 2026, 2:15:02 PM",
+        "expire_date": "Tuesday, June 9, 2026, 10:15:09 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781023509~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1c71d5fd31964f404cc7cc56526feeebd4f3e8a03ca179e7ad6b96e2552db0bf/manifest.mpd?vcfilter=e0cdc7e4-7717-4835-bbfd-8fb60a46080a&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "1837a4f2-667d-4dc5-ba5a-2c8347093edc",
+      "_entityId": "61286c15-860d-49aa-bee3-c8d9c1b7d0bb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-ireland-v-bangladesh",
+      "slug": "wt20-warm-ups-ireland-v-bangladesh",
+      "title": "WT20 Warm-Ups: Ireland v Bangladesh",
+      "tags": [
+        {
+          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
+          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
+          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+          "slug": "tournament-15586",
+          "neutralSlug": "tournament-15586",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15586",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15586",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "ccc9870b-8b7e-4680-9a50-a8ea3b48488c",
+          "_entityId": "e75167d0-98fa-44fa-ad60-ed8fb6896e56",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271116",
+          "title": "Ireland vs Bangladesh - Match 8 - 6/9/2026",
+          "slug": "match-271116",
+          "neutralSlug": "match-271116",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271116",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271116",
+            "teamA": "Ireland",
+            "teamB": "Bangladesh",
+            "teamAid": "1125",
+            "teamBid": "1276",
+            "teamAshort": "IRE",
+            "teamBshort": "BAN",
+            "stage": "League",
+            "matchDateLocal": "6/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15586",
+            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12551",
+            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
+            "competitionType": "Warm-up T20 International - w",
+            "competitionTypeId": "53",
+            "seoName": "ireland-vs-bangladesh",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c828750a-2cec-43ac-8599-2348122e69d4",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-09T08:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "thumbnail_3_4": [
+          {
+            "title": "Ireland v Bangladesh",
+            "slug": "ireland-v-bangladesh-x8917",
+            "format": "png",
+            "id": "fec95dc9-bd38-4654-9eee-ab6afed93d3c",
+            "entityId": "2c6a93df-abc6-4c44-8cf4-6e2c63c729b2",
+            "stage": "png",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/txn89txyj6rr52ly7mul",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/txn89txyj6rr52ly7mul"
+          }
+        ],
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-06-09T08:32:19.951Z",
+      "contentDate": "2026-06-09T08:32:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Ireland v Bangladesh",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cvyxiwjrp6osrvhrohnx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cvyxiwjrp6osrvhrohnx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "ireland-v-bangladesh",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/ireland-v-bangladesh"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 9, 2026, 2:15:07 PM",
+        "expire_date": "Tuesday, June 9, 2026, 10:15:14 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781023514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3ed8532e4f6f4824f509a565129af74c14a811b3232bbbd6bab1ec706ec4f7c4/manifest.mpd?vcfilter=c828750a-2cec-43ac-8599-2348122e69d4&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
       "type": "customentity",
