@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:45:02 PM 10-06-2026",
+  "last_updated": "12:30:06 AM 11-06-2026",
   "total_matches": 11,
   "live_matches": 1,
   "upcoming_matches": 10,
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "7838039e-0904-4bea-8613-305a25e33e02",
-      "_entityId": "eaba141f-ac86-42a2-bd6a-8cf887141605",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-netherlands-1st-innings",
-      "slug": "canada-v-netherlands-1st-innings",
-      "title": "Canada v Netherlands (1st Innings)",
+      "_translationId": "99b994a9-afad-4495-b0a0-7776b1e412e4",
+      "_entityId": "5ba2381d-b111-4e02-8cb6-c5e763ce37da",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-netherlands-2nd-innings",
+      "slug": "canada-v-netherlands-2nd-innings",
+      "title": "Canada v Netherlands (2nd Innings)",
       "tags": [
         {
           "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
@@ -91,12 +91,12 @@
         }
       ],
       "fields": {
-        "videoId": "44e163d6-5556-49e5-a579-835c721680f6",
+        "videoId": "db762940-3a04-47cf-8f61-f673dffcd4c9",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-10T15:00:00Z",
+        "scheduledStartTime": "2026-06-10T18:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -107,24 +107,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-06-10T14:43:26.101Z",
-      "contentDate": "2026-06-10T14:43:00Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-10T18:59:58.196Z",
+      "contentDate": "2026-06-10T18:59:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-CAN-JUN_Match3.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yy80wxhddcl2cejp9mak",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yy80wxhddcl2cejp9mak",
+        "title": "ICC26_CWC-L2-CAN-JUN_Match3.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/torg5egum1kmkurdn3uv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/torg5egum1kmkurdn3uv",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-can-jun-match3-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match3-1"
+        "slug": "icc26-cwc-l2-can-jun-match3-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match3-2"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Wednesday, June 10, 2026, 8:15:02 PM",
-        "expire_date": "Thursday, June 11, 2026, 4:15:09 AM",
+        "create_date": "Thursday, June 11, 2026, 12:30:02 AM",
+        "expire_date": "Thursday, June 11, 2026, 8:30:09 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
           "Referer: https://www.icc-cricket.com/",
@@ -137,7 +137,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781131509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e22c91fb7fe7f66c2bca91f1ba99ff9e9b86ea952dcbe12c633e0081965300a7/manifest.mpd?vcfilter=44e163d6-5556-49e5-a579-835c721680f6&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781146809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=55b22679ead796e7f05134578110650c34dc2732ac48312dc6764ad31b4613bf/manifest.mpd?vcfilter=db762940-3a04-47cf-8f61-f673dffcd4c9&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
