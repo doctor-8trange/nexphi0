@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:07 PM 10-06-2026",
-  "total_matches": 4,
+  "last_updated": "09:30:02 PM 10-06-2026",
+  "total_matches": 8,
   "live_matches": 2,
-  "upcoming_matches": 2,
+  "upcoming_matches": 6,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -298,6 +298,158 @@
     }
   ],
   "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "20279531-1ee1-43b4-9266-78914c1cfacd",
+      "_entityId": "448a98c0-f725-4917-a247-20e014f19643",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sweden-v-norway",
+      "slug": "sweden-v-norway",
+      "title": "Sweden v Norway",
+      "tags": [],
+      "fields": {
+        "videoId": "6fdab7ca-79b8-4d88-a5be-a1b6210aa253",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-11T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T15:59:21.775Z",
+      "contentDate": "2026-06-10T15:40:07.318Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47217",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hcnz7fwxxgkstfjsbdn9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hcnz7fwxxgkstfjsbdn9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47217-x4301",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47217-x4301"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "789540ef-c038-4a34-8176-41c15bff7462",
+      "_entityId": "3021e579-52a9-477c-b5f8-7d52247b860a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-austria",
+      "slug": "finland-v-austria",
+      "title": "Finland v Austria",
+      "tags": [],
+      "fields": {
+        "videoId": "d6b3d143-9418-4882-8ca6-e69dd8e91712",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-11T12:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T15:59:31.482Z",
+      "contentDate": "2026-06-10T15:59:31.482Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47218",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lnst1fcmzu3f9ees4hwa",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lnst1fcmzu3f9ees4hwa",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47218-x5945",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47218-x5945"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "83b47e0a-673d-43c9-b379-37f17560dbfd",
+      "_entityId": "2bd4805a-2121-4e31-877a-b00ad7e3966a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-sweden",
+      "slug": "finland-v-sweden",
+      "title": "Finland v Sweden",
+      "tags": [],
+      "fields": {
+        "videoId": "ce20ae72-c2a4-4c07-8da6-2e4e7d60e624",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-12T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T15:59:58.577Z",
+      "contentDate": "2026-06-10T15:59:58.577Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47219",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b8e3p2jo3svnxmoclsdv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b8e3p2jo3svnxmoclsdv",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47219-x6631",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47219-x6631"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ee53f8a4-0767-4138-ab8b-6e206c87b01e",
+      "_entityId": "faede152-6250-4fe5-b686-f635c8efdf59",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/austria-v-norway",
+      "slug": "austria-v-norway",
+      "title": "Austria v Norway",
+      "tags": [],
+      "fields": {
+        "videoId": "a5484b45-1e4c-4fbd-83f6-b37f47edde19",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-12T12:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T15:59:45.212Z",
+      "contentDate": "2026-06-10T15:59:45.212Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47220",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/omqkdo6qonx3jsz9fkaf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/omqkdo6qonx3jsz9fkaf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47220-x6725",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47220-x6725"
+      },
+      "entityCode": "video"
+    },
     {
       "type": "customentity",
       "_translationId": "9502cd9f-c0f5-4489-9b94-c93f24e7ab8b",
