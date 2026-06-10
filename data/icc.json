@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:02 PM 10-06-2026",
-  "total_matches": 8,
-  "live_matches": 2,
-  "upcoming_matches": 6,
+  "last_updated": "10:45:02 PM 10-06-2026",
+  "total_matches": 11,
+  "live_matches": 1,
+  "upcoming_matches": 10,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,149 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "9f9586ec-1e4c-4f44-8bf6-9343d9830343",
-      "_entityId": "5a06ba68-c0ea-4dcb-a013-20db033e081d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-warm-ups-west-indies-v-australia",
-      "slug": "wt20-warm-ups-west-indies-v-australia",
-      "title": "WT20 Warm-Ups: West Indies v Australia",
-      "tags": [
-        {
-          "_translationId": "7ad05b3a-19b7-4440-841e-a558d2d0ebce",
-          "_entityId": "8564d367-13d3-4dd7-8020-e0c97b9726e8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15586",
-          "title": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-          "slug": "tournament-15586",
-          "neutralSlug": "tournament-15586",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15586",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15586",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "275e9499-fef8-42a6-b6cb-69879e4d8813",
-          "_entityId": "dd527194-1f48-44df-9535-a0364702580c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271121",
-          "title": "West Indies vs Australia - Match 12 - 6/10/2026",
-          "slug": "match-271121",
-          "neutralSlug": "match-271121",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271121",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271121",
-            "teamA": "West Indies",
-            "teamB": "Australia",
-            "teamAid": "1135",
-            "teamBid": "1119",
-            "teamAshort": "WI",
-            "teamBshort": "AUS",
-            "stage": "League",
-            "matchDateLocal": "6/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 12",
-            "seriesId": "15586",
-            "seriesName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "seriesShortName": "ICC WT20 World Cup Warm-up Matches, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12551",
-            "tourName": "ICC Women's T20 World Cup Warm-up Matches, 2026",
-            "competitionType": "Warm-up T20 International - w",
-            "competitionTypeId": "53",
-            "seoName": "west-indies-vs-australia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "db9ba908-08f1-4056-b2d7-6a727f9edbfc",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-10T13:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "thumbnail_3_4": [
-          {
-            "title": "West Indies v Australia",
-            "slug": "west-indies-v-australia-x4048",
-            "format": "png",
-            "id": "fada1426-eb7a-4ffb-80f7-0a43dbd2b371",
-            "entityId": "c7ba99b0-7341-4d78-a3cd-3c82a65a1712",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/slmsbuq0cgjgxllet2v5",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/slmsbuq0cgjgxllet2v5"
-          }
-        ],
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-06-10T13:40:19.795Z",
-      "contentDate": "2026-06-10T13:40:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "West Indies v Australia",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ar3qdn5z854ithvukhhi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ar3qdn5z854ithvukhhi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "west-indies-v-australia",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/west-indies-v-australia"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, June 10, 2026, 7:15:02 PM",
-        "expire_date": "Thursday, June 11, 2026, 3:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781127909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8fd1261ca8f98cab49a4ad4a8f695fe33af1160a29dfb9d7b6ea10263ae08ac4/manifest.mpd?vcfilter=db9ba908-08f1-4056-b2d7-6a727f9edbfc&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "7838039e-0904-4bea-8613-305a25e33e02",
@@ -447,6 +304,158 @@
         "overriddenFormats": [],
         "slug": "47220-x6725",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47220-x6725"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "50cd3ae2-bef0-4927-aeec-277b57aaf9a1",
+      "_entityId": "d1ca6e39-46de-4f8f-813d-6ac914d2266d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/norway-v-finland",
+      "slug": "norway-v-finland",
+      "title": "Norway v Finland",
+      "tags": [],
+      "fields": {
+        "videoId": "a547104a-cfd2-4dba-ae9b-e35290741e32",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-13T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T16:00:07.61Z",
+      "contentDate": "2026-06-10T16:00:07.61Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47221",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/r2mrhn9cdn3sdlbualrd",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r2mrhn9cdn3sdlbualrd",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47221-x5894",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47221-x5894"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c79cdd21-5368-4043-a1d6-788321d555a4",
+      "_entityId": "cca7486b-b7ed-4761-85d3-59641d8937a1",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sweden-v-austria",
+      "slug": "sweden-v-austria",
+      "title": "Sweden v Austria",
+      "tags": [],
+      "fields": {
+        "videoId": "1f29fece-03ad-44c1-a609-98af1b90847a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-13T12:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T16:00:18.319Z",
+      "contentDate": "2026-06-10T16:00:18.319Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47222",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/p4741l10jfsjx6s8tiw4",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/p4741l10jfsjx6s8tiw4",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47222-x9573",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47222-x9573"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a31ba655-e94a-4081-8883-e16814074678",
+      "_entityId": "5b77e7e7-7db4-4874-b61c-6b17a400f61b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-place-play-off",
+      "slug": "3rd-place-play-off",
+      "title": "3rd Place Play-off",
+      "tags": [],
+      "fields": {
+        "videoId": "4b47d32f-9466-40c0-bf6e-d6a81621987d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-14T06:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T16:00:28.818Z",
+      "contentDate": "2026-06-10T16:00:28.818Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47223",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/t7qge3vdljmztgoj2kjw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/t7qge3vdljmztgoj2kjw",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47223-x7127",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47223-x7127"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "09c9d327-e491-49a7-9b80-c2d518605543",
+      "_entityId": "9246a3c1-f1d6-4e6e-8e6d-e0c2f151854e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final",
+      "slug": "final",
+      "title": "Final",
+      "tags": [],
+      "fields": {
+        "videoId": "bf127e73-230a-4866-9fd6-49fde1f6304b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-14T10:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-10T16:00:39.316Z",
+      "contentDate": "2026-06-10T16:00:39.316Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "47224",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/thwoa3btvtaoc4ng7hj7",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/thwoa3btvtaoc4ng7hj7",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "47224-x0217",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47224-x0217"
       },
       "entityCode": "video"
     },
