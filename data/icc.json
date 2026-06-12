@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:45:02 AM 13-06-2026",
-  "total_matches": 8,
-  "live_matches": 1,
+  "last_updated": "13-06-2026 05:00",
+  "total_matches": 7,
+  "live_matches": 0,
   "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,139 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "630ff8a6-3c86-402e-95bd-f8854c725015",
-      "_entityId": "4fb381e2-d5f6-44ee-b1c5-52f120d96170",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-canada-2nd-innings",
-      "slug": "usa-v-canada-2nd-innings",
-      "title": "USA v Canada (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "1a806627-23b6-462b-af62-5877f505dc66",
-          "_entityId": "267aa5c8-2c02-4b60-aaf0-ed6f27c79e5f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271459",
-          "title": "USA vs Canada - Match 113 - 6/12/2026",
-          "slug": "match-271459",
-          "neutralSlug": "match-271459",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271459",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271459",
-            "teamA": "USA",
-            "teamB": "Canada",
-            "teamAid": "22",
-            "teamBid": "12",
-            "teamAshort": "USA",
-            "teamBshort": "CAN",
-            "stage": "League",
-            "matchDateLocal": "6/12/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 113",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "usa-vs-canada",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2648abc6-c17d-4e80-866f-088aae2d0c7e",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-12T18:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-12T18:49:37.55Z",
-      "contentDate": "2026-06-01T13:20:50.83Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-CAN-JUN_Match4.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ahasxumanc0upy2atit3",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ahasxumanc0upy2atit3",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-can-jun-match4-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match4-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, June 13, 2026, 12:30:03 AM",
-        "expire_date": "Saturday, June 13, 2026, 8:30:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781319609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2590e07d1f6b9fb7dd8b4373d617b342c39ecaa170ec607de159306027573c7d/manifest.mpd?vcfilter=2648abc6-c17d-4e80-866f-088aae2d0c7e&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
