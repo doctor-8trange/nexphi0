@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:30:35 PM 12-06-2026",
-  "total_matches": 9,
-  "live_matches": 1,
+  "last_updated": "08:15:06 PM 12-06-2026",
+  "total_matches": 10,
+  "live_matches": 2,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -144,6 +144,137 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781301637~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=212e0d146076bd3f491599c1013ec1fd5e92bc89421b46e60957f3700b55e51b/manifest.mpd?vcfilter=a5484b45-1e4c-4fbd-83f6-b37f47edde19&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "31f0bde9-dc52-42b4-94b7-0d0c280df40b",
+      "_entityId": "96cd9ea1-7225-490a-a1b1-9b7919300643",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-canada-1st-innings",
+      "slug": "usa-v-canada-1st-innings",
+      "title": "USA v Canada (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1a806627-23b6-462b-af62-5877f505dc66",
+          "_entityId": "267aa5c8-2c02-4b60-aaf0-ed6f27c79e5f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271459",
+          "title": "USA vs Canada - Match 113 - 6/12/2026",
+          "slug": "match-271459",
+          "neutralSlug": "match-271459",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271459",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271459",
+            "teamA": "USA",
+            "teamB": "Canada",
+            "teamAid": "22",
+            "teamBid": "12",
+            "teamAshort": "USA",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "6/12/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 113",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "usa-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "bdf05a1e-6f33-4e3f-8b3e-4e4aed7f466e",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-12T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-06-12T14:41:28.947Z",
+      "contentDate": "2026-06-12T14:41:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-CAN-JUN_Match4.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kmw6vvdwmmjyngnusc8y",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kmw6vvdwmmjyngnusc8y",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-can-jun-match4-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match4-1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, June 12, 2026, 8:15:02 PM",
+        "expire_date": "Saturday, June 13, 2026, 4:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781304309~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e83cd5a4e5bae957de8cb5b85c531f2681f4e54b78eaa35d794ecfa2a6bbb650/manifest.mpd?vcfilter=bdf05a1e-6f33-4e3f-8b3e-4e4aed7f466e&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
