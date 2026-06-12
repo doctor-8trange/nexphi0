@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:15:02 PM 12-06-2026",
-  "total_matches": 9,
-  "live_matches": 1,
-  "upcoming_matches": 8,
+  "last_updated": "09:45:10 PM 12-06-2026",
+  "total_matches": 10,
+  "live_matches": 3,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -152,9 +152,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "c82e59ba-a8a9-4989-915e-4a87eb9e74c0",
@@ -228,7 +226,7 @@
       "fields": {
         "videoId": "6ca8739b-66b3-4bc6-bd4f-f17c15818706",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-12T16:30:00Z",
@@ -368,7 +366,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-12T11:08:06.344Z",
+      "lastUpdatedDate": "2026-06-12T16:11:13.615Z",
       "contentDate": "2026-06-11T12:13:00Z",
       "featured": 0,
       "thumbnail": {
@@ -380,8 +378,313 @@
         "slug": "match-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, June 12, 2026, 9:45:07 PM",
+        "expire_date": "Saturday, June 13, 2026, 5:45:13 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781309713~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1b9197eda0493341dc2558732931922d5b81818a50bc8427d4d5338a286c4fb9/manifest.mpd?vcfilter=6ca8739b-66b3-4bc6-bd4f-f17c15818706&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
+    {
+      "type": "customentity",
+      "_translationId": "6aae7523-80f9-4a21-a7f5-b434e14a80a7",
+      "_entityId": "94e00963-6c36-4c6d-bacf-e93a75203bd0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-england-v-sri-lanka-hindi",
+      "slug": "wt20-england-v-sri-lanka-hindi",
+      "title": "WT20: England v Sri Lanka (HINDI)",
+      "tags": [
+        {
+          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
+          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
+          "title": "ICC Women's T20 World Cup, 2026",
+          "slug": "tournament-12672",
+          "neutralSlug": "tournament-12672",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-12672",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "12672",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "766420d3-4621-41e2-9ea6-68d4196479ff",
+          "_entityId": "93628e3c-a6a3-4a41-8758-fdb4fa60aa33",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262318",
+          "title": "England vs Sri Lanka - Match 1 - 6/12/2026",
+          "slug": "match-262318",
+          "neutralSlug": "match-262318",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-262318",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "262318",
+            "teamA": "England",
+            "teamB": "Sri Lanka",
+            "teamAid": "1121",
+            "teamBid": "1133",
+            "teamAshort": "ENG",
+            "teamBshort": "SL",
+            "stage": "Group",
+            "matchDateLocal": "6/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "12672",
+            "seriesName": "ICC Women's T20 World Cup, 2026",
+            "seriesShortName": "ICC WT20 World Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "9293",
+            "tourName": "ICC Women's T20 World Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "england-vs-sri-lanka",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4920adc7-fc5b-4427-a144-9abc9c1a9638",
+          "_entityId": "ce8e186a-32cc-4f9a-99b5-3ee73e93427c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-hindi",
+          "title": "match-stream-lang-hindi",
+          "slug": "match-stream-lang-hindi",
+          "neutralSlug": "match-stream-lang-hindi",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Hindi",
+            "tagType": "language"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3ee8d9ee-a834-4aea-abdf-0a160d6e7d14",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "16200000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-12T17:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "whitelist",
+          "countries": [
+            "AF",
+            "AX",
+            "AL",
+            "AS",
+            "AD",
+            "AI",
+            "AQ",
+            "AM",
+            "AT",
+            "AZ",
+            "BY",
+            "BE",
+            "BT",
+            "BA",
+            "BV",
+            "IO",
+            "BN",
+            "BG",
+            "KH",
+            "CN",
+            "CX",
+            "CC",
+            "CK",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EE",
+            "FO",
+            "FJ",
+            "FI",
+            "FR",
+            "PF",
+            "TF",
+            "GE",
+            "DE",
+            "GR",
+            "GL",
+            "GU",
+            "GG",
+            "HM",
+            "VA",
+            "HK",
+            "HU",
+            "IS",
+            "ID",
+            "IT",
+            "JP",
+            "KZ",
+            "KI",
+            "KG",
+            "LA",
+            "LV",
+            "LI",
+            "LT",
+            "LU",
+            "MO",
+            "MK",
+            "MY",
+            "MV",
+            "MT",
+            "MH",
+            "FM",
+            "MD",
+            "MC",
+            "MN",
+            "ME",
+            "MM",
+            "NR",
+            "NP",
+            "NL",
+            "NC",
+            "NU",
+            "NF",
+            "KP",
+            "KR",
+            "MP",
+            "NO",
+            "PW",
+            "PG",
+            "PH",
+            "PN",
+            "PL",
+            "PT",
+            "XK",
+            "RO",
+            "RU",
+            "WS",
+            "SM",
+            "RS",
+            "SG",
+            "SK",
+            "SI",
+            "SB",
+            "ES",
+            "SJ",
+            "SE",
+            "CH",
+            "TW",
+            "TJ",
+            "TH",
+            "TL",
+            "TK",
+            "TO",
+            "TN",
+            "TR",
+            "TM",
+            "TV",
+            "UA",
+            "UZ",
+            "VU",
+            "VN",
+            "WF",
+            "BD"
+          ]
+        },
+        "thumbnail_3_4": [
+          {
+            "title": "ENG v SL",
+            "slug": "eng-v-sl-x5902",
+            "format": "jpg",
+            "id": "cf22594e-828c-4efa-b78d-db78c75f7e13",
+            "entityId": "a067ee1d-d194-481b-a7b1-194240322cc5",
+            "stage": "jpg",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ozhrvxpw4uqxzkvnxkpj",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ozhrvxpw4uqxzkvnxkpj"
+          }
+        ]
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-12T16:12:55.24Z",
+      "contentDate": "2026-06-12T16:12:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ENG v SL",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/krtn4phf1ru5ywrqwdgr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/krtn4phf1ru5ywrqwdgr",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "eng-v-sl-x4274",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/eng-v-sl-x4274"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, June 12, 2026, 9:45:02 PM",
+        "expire_date": "Saturday, June 13, 2026, 5:45:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781309709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90b97c854de296be3d736d125b2306e45f8ad76f76a0e344e0f2f1fa080972c3/manifest.mpd?vcfilter=3ee8d9ee-a834-4aea-abdf-0a160d6e7d14&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "50cd3ae2-bef0-4927-aeec-277b57aaf9a1",
