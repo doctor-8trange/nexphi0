@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:06 PM 12-06-2026",
-  "total_matches": 10,
-  "live_matches": 2,
+  "last_updated": "09:15:02 PM 12-06-2026",
+  "total_matches": 9,
+  "live_matches": 1,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,143 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ee53f8a4-0767-4138-ab8b-6e206c87b01e",
-      "_entityId": "faede152-6250-4fe5-b686-f635c8efdf59",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/austria-v-norway",
-      "slug": "austria-v-norway",
-      "title": "Austria v Norway",
-      "tags": [
-        {
-          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
-          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
-          "title": "Viking Cup, 2026",
-          "slug": "tournament-15617",
-          "neutralSlug": "tournament-15617",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15617",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15617",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "1fe38692-ecf1-490b-988e-a2bdd127118f",
-          "_entityId": "c4f44490-cbdf-4ecd-9583-93d8369961d7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271465",
-          "title": "Austria vs Norway - Match 4 - 6/12/2026",
-          "slug": "match-271465",
-          "neutralSlug": "match-271465",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271465",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271465",
-            "teamA": "Austria",
-            "teamB": "Norway",
-            "teamAid": "1723",
-            "teamBid": "1774",
-            "teamAshort": "AUT",
-            "teamBshort": "NOR",
-            "stage": "Series",
-            "matchDateLocal": "6/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 4",
-            "seriesId": "15617",
-            "seriesName": "Viking Cup, 2026",
-            "seriesShortName": "Viking Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12576",
-            "tourName": "Viking Cup, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "austria-vs-norway",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a5484b45-1e4c-4fbd-83f6-b37f47edde19",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-12T12:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "PK",
-            "NP",
-            "LK",
-            "BD"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-06-12T12:17:34.918Z",
-      "contentDate": "2026-06-12T12:17:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "47220",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/omqkdo6qonx3jsz9fkaf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/omqkdo6qonx3jsz9fkaf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "47220-x6725",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47220-x6725"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, June 12, 2026, 7:30:30 PM",
-        "expire_date": "Saturday, June 13, 2026, 3:30:37 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781301637~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=212e0d146076bd3f491599c1013ec1fd5e92bc89421b46e60957f3700b55e51b/manifest.mpd?vcfilter=a5484b45-1e4c-4fbd-83f6-b37f47edde19&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "31f0bde9-dc52-42b4-94b7-0d0c280df40b",
@@ -245,8 +108,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-06-12T14:41:28.947Z",
-      "contentDate": "2026-06-12T14:41:00Z",
+      "lastUpdatedDate": "2026-06-12T14:50:28.96Z",
+      "contentDate": "2026-06-12T14:45:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-CAN-JUN_Match4.1",
