@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11-06-2026 04:30",
-  "total_matches": 10,
-  "live_matches": 0,
-  "upcoming_matches": 10,
+  "last_updated": "07:30:35 PM 12-06-2026",
+  "total_matches": 9,
+  "live_matches": 1,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,122 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "20279531-1ee1-43b4-9266-78914c1cfacd",
-      "_entityId": "448a98c0-f725-4917-a247-20e014f19643",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sweden-v-norway",
-      "slug": "sweden-v-norway",
-      "title": "Sweden v Norway",
-      "tags": [],
-      "fields": {
-        "videoId": "6fdab7ca-79b8-4d88-a5be-a1b6210aa253",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-11T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T15:59:21.775Z",
-      "contentDate": "2026-06-10T15:40:07.318Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "47217",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hcnz7fwxxgkstfjsbdn9",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hcnz7fwxxgkstfjsbdn9",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "47217-x4301",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47217-x4301"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "789540ef-c038-4a34-8176-41c15bff7462",
-      "_entityId": "3021e579-52a9-477c-b5f8-7d52247b860a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-austria",
-      "slug": "finland-v-austria",
-      "title": "Finland v Austria",
-      "tags": [],
-      "fields": {
-        "videoId": "d6b3d143-9418-4882-8ca6-e69dd8e91712",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-11T12:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T15:59:31.482Z",
-      "contentDate": "2026-06-10T15:59:31.482Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "47218",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lnst1fcmzu3f9ees4hwa",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lnst1fcmzu3f9ees4hwa",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "47218-x5945",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47218-x5945"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "83b47e0a-673d-43c9-b379-37f17560dbfd",
-      "_entityId": "2bd4805a-2121-4e31-877a-b00ad7e3966a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-sweden",
-      "slug": "finland-v-sweden",
-      "title": "Finland v Sweden",
-      "tags": [],
-      "fields": {
-        "videoId": "ce20ae72-c2a4-4c07-8da6-2e4e7d60e624",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-12T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T15:59:58.577Z",
-      "contentDate": "2026-06-10T15:59:58.577Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "47219",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b8e3p2jo3svnxmoclsdv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b8e3p2jo3svnxmoclsdv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "47219-x6631",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47219-x6631"
-      },
-      "entityCode": "video"
-    },
+  "live": [
     {
       "type": "customentity",
       "_translationId": "ee53f8a4-0767-4138-ab8b-6e206c87b01e",
@@ -144,11 +29,73 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/austria-v-norway",
       "slug": "austria-v-norway",
       "title": "Austria v Norway",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
+          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
+          "title": "Viking Cup, 2026",
+          "slug": "tournament-15617",
+          "neutralSlug": "tournament-15617",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15617",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15617",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1fe38692-ecf1-490b-988e-a2bdd127118f",
+          "_entityId": "c4f44490-cbdf-4ecd-9583-93d8369961d7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271465",
+          "title": "Austria vs Norway - Match 4 - 6/12/2026",
+          "slug": "match-271465",
+          "neutralSlug": "match-271465",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271465",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271465",
+            "teamA": "Austria",
+            "teamB": "Norway",
+            "teamAid": "1723",
+            "teamBid": "1774",
+            "teamAshort": "AUT",
+            "teamBshort": "NOR",
+            "stage": "Series",
+            "matchDateLocal": "6/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15617",
+            "seriesName": "Viking Cup, 2026",
+            "seriesShortName": "Viking Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12576",
+            "tourName": "Viking Cup, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "austria-vs-norway",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "a5484b45-1e4c-4fbd-83f6-b37f47edde19",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-12T12:30:00Z",
@@ -156,13 +103,19 @@
         "type": "Event",
         "countryRestrictions": {
           "listType": "blacklist",
-          "countries": []
+          "countries": [
+            "IN",
+            "PK",
+            "NP",
+            "LK",
+            "BD"
+          ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T15:59:45.212Z",
-      "contentDate": "2026-06-10T15:59:45.212Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-12T12:17:34.918Z",
+      "contentDate": "2026-06-12T12:17:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "47220",
@@ -173,6 +126,266 @@
         "slug": "47220-x6725",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47220-x6725"
       },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, June 12, 2026, 7:30:30 PM",
+        "expire_date": "Saturday, June 13, 2026, 3:30:37 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781301637~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=212e0d146076bd3f491599c1013ec1fd5e92bc89421b46e60957f3700b55e51b/manifest.mpd?vcfilter=a5484b45-1e4c-4fbd-83f6-b37f47edde19&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "c82e59ba-a8a9-4989-915e-4a87eb9e74c0",
+      "_entityId": "cc4bbac8-cd12-4260-9313-f31590375de9",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-england-v-sri-lanka",
+      "slug": "wt20-england-v-sri-lanka",
+      "title": "WT20: England v Sri Lanka",
+      "tags": [
+        {
+          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
+          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
+          "title": "ICC Women's T20 World Cup, 2026",
+          "slug": "tournament-12672",
+          "neutralSlug": "tournament-12672",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-12672",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "12672",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "766420d3-4621-41e2-9ea6-68d4196479ff",
+          "_entityId": "93628e3c-a6a3-4a41-8758-fdb4fa60aa33",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262318",
+          "title": "England vs Sri Lanka - Match 1 - 6/12/2026",
+          "slug": "match-262318",
+          "neutralSlug": "match-262318",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-262318",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "262318",
+            "teamA": "England",
+            "teamB": "Sri Lanka",
+            "teamAid": "1121",
+            "teamBid": "1133",
+            "teamAshort": "ENG",
+            "teamBshort": "SL",
+            "stage": "Group",
+            "matchDateLocal": "6/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "12672",
+            "seriesName": "ICC Women's T20 World Cup, 2026",
+            "seriesShortName": "ICC WT20 World Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "9293",
+            "tourName": "ICC Women's T20 World Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "england-vs-sri-lanka",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "6ca8739b-66b3-4bc6-bd4f-f17c15818706",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "18000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-12T16:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "whitelist",
+          "countries": [
+            "AF",
+            "AX",
+            "AL",
+            "AS",
+            "AD",
+            "AI",
+            "AQ",
+            "AM",
+            "AT",
+            "AZ",
+            "BY",
+            "BE",
+            "BT",
+            "BA",
+            "BV",
+            "IO",
+            "BN",
+            "BG",
+            "KH",
+            "CN",
+            "CX",
+            "CC",
+            "CK",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EE",
+            "FO",
+            "FJ",
+            "FI",
+            "FR",
+            "PF",
+            "TF",
+            "GE",
+            "DE",
+            "GR",
+            "GL",
+            "GU",
+            "GG",
+            "HM",
+            "VA",
+            "HK",
+            "HU",
+            "IS",
+            "ID",
+            "IT",
+            "JP",
+            "KZ",
+            "KI",
+            "KG",
+            "LA",
+            "LV",
+            "LI",
+            "LT",
+            "LU",
+            "MO",
+            "MK",
+            "MY",
+            "MV",
+            "MT",
+            "MH",
+            "FM",
+            "MD",
+            "MC",
+            "MN",
+            "ME",
+            "MM",
+            "NR",
+            "NP",
+            "NL",
+            "NC",
+            "NU",
+            "NF",
+            "KP",
+            "KR",
+            "MP",
+            "NO",
+            "PW",
+            "PG",
+            "PH",
+            "PN",
+            "PL",
+            "PT",
+            "XK",
+            "RO",
+            "RU",
+            "WS",
+            "SM",
+            "RS",
+            "SG",
+            "SK",
+            "SI",
+            "SB",
+            "ES",
+            "SJ",
+            "SE",
+            "CH",
+            "TW",
+            "TJ",
+            "TH",
+            "TL",
+            "TK",
+            "TO",
+            "TN",
+            "TR",
+            "TM",
+            "TV",
+            "UA",
+            "UZ",
+            "VU",
+            "VN",
+            "WF",
+            "BD"
+          ]
+        },
+        "thumbnail_3_4": [
+          {
+            "title": "Match 1",
+            "slug": "match-1-x7621",
+            "format": "jpg",
+            "id": "007f2dc9-0ff2-4c99-9738-b5d7ba024dac",
+            "entityId": "ce60b936-358a-461a-8108-b504394ee505",
+            "stage": "jpg",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xthujni6sep9pywfwo4h",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/xthujni6sep9pywfwo4h"
+          }
+        ]
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-12T11:08:06.344Z",
+      "contentDate": "2026-06-11T12:13:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Match 1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bu9xzwvlrql2cctqxu6a",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bu9xzwvlrql2cctqxu6a",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "match-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-1"
+      },
       "entityCode": "video"
     },
     {
@@ -182,7 +395,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/norway-v-finland",
       "slug": "norway-v-finland",
       "title": "Norway v Finland",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
+          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
+          "title": "Viking Cup, 2026",
+          "slug": "tournament-15617",
+          "neutralSlug": "tournament-15617",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15617",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15617",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "706013be-0955-4ced-90e2-b81a3f6c1516",
+          "_entityId": "a2826722-1cd8-4900-b149-fbdd2f986314",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271466",
+          "title": "Norway vs Finland - Match 5 - 6/13/2026",
+          "slug": "match-271466",
+          "neutralSlug": "match-271466",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271466",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271466",
+            "teamA": "Norway",
+            "teamB": "Finland",
+            "teamAid": "1774",
+            "teamBid": "1828",
+            "teamAshort": "NOR",
+            "teamBshort": "FIN",
+            "stage": "Series",
+            "matchDateLocal": "6/13/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15617",
+            "seriesName": "Viking Cup, 2026",
+            "seriesShortName": "Viking Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12576",
+            "tourName": "Viking Cup, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "norway-vs-finland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "a547104a-cfd2-4dba-ae9b-e35290741e32",
         "workflow": "LIVE",
@@ -194,12 +469,18 @@
         "type": "Event",
         "countryRestrictions": {
           "listType": "blacklist",
-          "countries": []
+          "countries": [
+            "IN",
+            "PK",
+            "NP",
+            "LK",
+            "BD"
+          ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T16:00:07.61Z",
+      "lastUpdatedDate": "2026-06-11T11:17:27.769Z",
       "contentDate": "2026-06-10T16:00:07.61Z",
       "featured": 0,
       "thumbnail": {
@@ -220,7 +501,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sweden-v-austria",
       "slug": "sweden-v-austria",
       "title": "Sweden v Austria",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
+          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
+          "title": "Viking Cup, 2026",
+          "slug": "tournament-15617",
+          "neutralSlug": "tournament-15617",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15617",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15617",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "fa7841bc-af92-482c-a194-a74367757c0a",
+          "_entityId": "8211c39f-ed58-48c1-8616-c981e6b27964",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271467",
+          "title": "Sweden vs Austria - Match 6 - 6/13/2026",
+          "slug": "match-271467",
+          "neutralSlug": "match-271467",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271467",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271467",
+            "teamA": "Sweden",
+            "teamB": "Austria",
+            "teamAid": "1733",
+            "teamBid": "1723",
+            "teamAshort": "SWE",
+            "teamBshort": "AUT",
+            "stage": "Series",
+            "matchDateLocal": "6/13/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15617",
+            "seriesName": "Viking Cup, 2026",
+            "seriesShortName": "Viking Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12576",
+            "tourName": "Viking Cup, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "sweden-vs-austria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "1f29fece-03ad-44c1-a609-98af1b90847a",
         "workflow": "LIVE",
@@ -232,12 +575,18 @@
         "type": "Event",
         "countryRestrictions": {
           "listType": "blacklist",
-          "countries": []
+          "countries": [
+            "IN",
+            "PK",
+            "NP",
+            "LK",
+            "BD"
+          ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T16:00:18.319Z",
+      "lastUpdatedDate": "2026-06-11T11:17:27.575Z",
       "contentDate": "2026-06-10T16:00:18.319Z",
       "featured": 0,
       "thumbnail": {
@@ -258,7 +607,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-place-play-off",
       "slug": "3rd-place-play-off",
       "title": "3rd Place Play-off",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
+          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
+          "title": "Viking Cup, 2026",
+          "slug": "tournament-15617",
+          "neutralSlug": "tournament-15617",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15617",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15617",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e2de9436-a30c-4ace-abe2-9a206a88ff8c",
+          "_entityId": "893dfadc-3cac-48f1-bad5-4a055ab96426",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271468",
+          "title": "T.B.C. vs T.B.C. - 3rd Place Play-off - 6/14/2026",
+          "slug": "match-271468",
+          "neutralSlug": "match-271468",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271468",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271468",
+            "teamA": "T.B.C.",
+            "teamB": "T.B.C.",
+            "teamAid": "",
+            "teamBid": "",
+            "teamAshort": "TBC",
+            "teamBshort": "TBC",
+            "stage": "Playoffs",
+            "matchDateLocal": "6/14/2026",
+            "matchType": "T20",
+            "matchNumber": "3rd Place Play-off",
+            "seriesId": "15617",
+            "seriesName": "Viking Cup, 2026",
+            "seriesShortName": "Viking Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12576",
+            "tourName": "Viking Cup, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "t-b-c-vs-t-b-c-",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "4b47d32f-9466-40c0-bf6e-d6a81621987d",
         "workflow": "LIVE",
@@ -270,12 +681,18 @@
         "type": "Event",
         "countryRestrictions": {
           "listType": "blacklist",
-          "countries": []
+          "countries": [
+            "IN",
+            "PK",
+            "NP",
+            "LK",
+            "BD"
+          ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T16:00:28.818Z",
+      "lastUpdatedDate": "2026-06-11T11:17:27.599Z",
       "contentDate": "2026-06-10T16:00:28.818Z",
       "featured": 0,
       "thumbnail": {
@@ -296,7 +713,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final",
       "slug": "final",
       "title": "Final",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
+          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
+          "title": "Viking Cup, 2026",
+          "slug": "tournament-15617",
+          "neutralSlug": "tournament-15617",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15617",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15617",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "03985f95-9425-4d3a-b568-cb1d6afc4210",
+          "_entityId": "8117bb6b-1149-4300-b6ff-31774f2078fe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271469",
+          "title": "T.B.C. vs T.B.C. - Final - 6/14/2026",
+          "slug": "match-271469",
+          "neutralSlug": "match-271469",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271469",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271469",
+            "teamA": "T.B.C.",
+            "teamB": "T.B.C.",
+            "teamAid": "",
+            "teamBid": "",
+            "teamAshort": "TBC",
+            "teamBshort": "TBC",
+            "stage": "Final",
+            "matchDateLocal": "6/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Final",
+            "seriesId": "15617",
+            "seriesName": "Viking Cup, 2026",
+            "seriesShortName": "Viking Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12576",
+            "tourName": "Viking Cup, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "t-b-c-vs-t-b-c-",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "bf127e73-230a-4866-9fd6-49fde1f6304b",
         "workflow": "LIVE",
@@ -308,12 +787,18 @@
         "type": "Event",
         "countryRestrictions": {
           "listType": "blacklist",
-          "countries": []
+          "countries": [
+            "IN",
+            "PK",
+            "NP",
+            "LK",
+            "BD"
+          ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-10T16:00:39.316Z",
+      "lastUpdatedDate": "2026-06-11T11:17:27.728Z",
       "contentDate": "2026-06-10T16:00:39.316Z",
       "featured": 0,
       "thumbnail": {
@@ -324,6 +809,246 @@
         "overriddenFormats": [],
         "slug": "47224-x0217",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47224-x0217"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4ae8bf73-69f0-44aa-b902-1cf4ad2a2bb7",
+      "_entityId": "bfa78c3e-b585-43e9-88b5-b58931cd9555",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-india-v-pakistan-bengali",
+      "slug": "wt20-india-v-pakistan-bengali",
+      "title": "WT20: India v Pakistan (BENGALI)",
+      "tags": [
+        {
+          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
+          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
+          "title": "ICC Women's T20 World Cup, 2026",
+          "slug": "tournament-12672",
+          "neutralSlug": "tournament-12672",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-12672",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "12672",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7d88f1c7-cd74-4278-b94d-2b89cfef351c",
+          "_entityId": "ef393a1d-20ca-4119-a2f9-5a7ca5d08573",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262323",
+          "title": "India vs Pakistan - Match 6 - 6/14/2026",
+          "slug": "match-262323",
+          "neutralSlug": "match-262323",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-262323",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "262323",
+            "teamA": "India",
+            "teamB": "Pakistan",
+            "teamAid": "1126",
+            "teamBid": "1130",
+            "teamAshort": "IND",
+            "teamBshort": "PAK",
+            "stage": "Group",
+            "matchDateLocal": "6/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "12672",
+            "seriesName": "ICC Women's T20 World Cup, 2026",
+            "seriesShortName": "ICC WT20 World Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "9293",
+            "tourName": "ICC Women's T20 World Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "india-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "dc70c54e-6dad-4c51-981b-e0449f3c6bda",
+          "_entityId": "87c2875b-7190-414a-9914-a5490d1df6ce",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-bengali",
+          "title": "match-stream-lang-bengali",
+          "slug": "match-stream-lang-bengali",
+          "neutralSlug": "match-stream-lang-bengali",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Bengali",
+            "tagType": "language"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "afb1c2ae-cff7-4153-b5ee-29731180fb71",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "16200000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-14T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "thumbnail_3_4": [
+          {
+            "title": "INDvPAK (1)",
+            "slug": "indvpak-1",
+            "format": "jpg",
+            "id": "b22ef04c-2f0d-47e4-95dc-93493518179a",
+            "entityId": "47a0173e-0408-4f14-92d3-4e4991311912",
+            "stage": "jpg",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/oxurpcygosuvc3bzt4py",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/oxurpcygosuvc3bzt4py"
+          }
+        ],
+        "countryRestrictions": {
+          "listType": "whitelist",
+          "countries": [
+            "AF",
+            "AX",
+            "AL",
+            "AS",
+            "AD",
+            "AI",
+            "AQ",
+            "AM",
+            "AT",
+            "AZ",
+            "BD",
+            "BY",
+            "BE",
+            "BT",
+            "BA",
+            "BV",
+            "IO",
+            "BN",
+            "BG",
+            "KH",
+            "CN",
+            "CX",
+            "CK",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EE",
+            "FO",
+            "FJ",
+            "FI",
+            "FR",
+            "PF",
+            "TF",
+            "GE",
+            "DE",
+            "GR",
+            "GL",
+            "GU",
+            "GG",
+            "HM",
+            "VA",
+            "HK",
+            "HU",
+            "IS",
+            "ID",
+            "IT",
+            "JP",
+            "KZ",
+            "KI",
+            "KG",
+            "LA",
+            "LV",
+            "LI",
+            "LT",
+            "LU",
+            "MO",
+            "MK",
+            "MY",
+            "MV",
+            "MT",
+            "MH",
+            "FM",
+            "MD",
+            "MC",
+            "MN",
+            "ME",
+            "MM",
+            "NR",
+            "NP",
+            "NL",
+            "NC",
+            "NU",
+            "NF",
+            "KP",
+            "KR",
+            "MP",
+            "NO",
+            "PW",
+            "PG",
+            "PH",
+            "PN",
+            "PL",
+            "PT",
+            "XK",
+            "RO",
+            "RU",
+            "WS",
+            "SM",
+            "RS",
+            "SG",
+            "SK",
+            "SI",
+            "SB",
+            "ES",
+            "SJ",
+            "SE",
+            "CH",
+            "TW",
+            "TJ",
+            "TH",
+            "TL",
+            "TK",
+            "TO",
+            "TN",
+            "TR",
+            "TM",
+            "TV",
+            "UA",
+            "UZ",
+            "VU",
+            "VN",
+            "WF"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-06-12T11:33:18.977Z",
+      "contentDate": "2026-06-12T11:32:44.694Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "INDvPAK",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/liuvslmzwzpvabcpmpnf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/liuvslmzwzpvabcpmpnf",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "indvpak",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/indvpak"
       },
       "entityCode": "video"
     },
