@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 13-06-2026 17:45
+#DATE:- 13-06-2026 18:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="d202d9b1-f59b-4005-8af7-e42199e3adb7" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/itbjwuhougtd76p2wtxm" tvg-lang="English" group-title="Cricket",English | WT20: Scotland v Ireland
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781369108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c1cdd6ea1fa2d07a7642c9b175650ef8e91e253af14c7b77f483654c51a25084/manifest.mpd?vcfilter=d202d9b1-f59b-4005-8af7-e42199e3adb7&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="1f29fece-03ad-44c1-a609-98af1b90847a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/p4741l10jfsjx6s8tiw4" tvg-lang="English" group-title="Cricket",English | Sweden v Austria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,3 +12,23 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781381709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=111b6748f2dbf2e8b86d029a8aed514bda5f28b07583a67737c8b84caa19b72a/manifest.mpd?vcfilter=1f29fece-03ad-44c1-a609-98af1b90847a&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="682faf11-1de4-4984-a606-97a64aaded71" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fx0p1tgvmvwyocfxsxcs" tvg-lang="English" group-title="Cricket",English | WT20: Australia v South Africa (JAPANESE)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1781384408~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2bc3ec1381e556522670401a0b381c3f438be9c33952b18c9ef77d6e69c2a401/manifest.mpd?vcfilter=682faf11-1de4-4984-a606-97a64aaded71&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="f3aafd2c-8e5a-43b5-a895-b6b1044375de" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zwf7o9d59hszlnxeugad" tvg-lang="English" group-title="Cricket",English | WT20: Australia v South Africa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781384412~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d3329045ba470a17e2e3979dc914831c678291ccf7270cb0f6194db322311c4/manifest.mpd?vcfilter=f3aafd2c-8e5a-43b5-a895-b6b1044375de&powered_by=jay_shree_ram
