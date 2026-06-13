@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 13-06-2026 21:30
+#DATE:- 13-06-2026 22:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="f3aafd2c-8e5a-43b5-a895-b6b1044375de" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zwf7o9d59hszlnxeugad" tvg-lang="English" group-title="Cricket",English | WT20: Australia v South Africa
+#EXTINF:-1 tvg-id="ad03ae72-db2f-4165-9a9f-2e02d4f963a9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y7hiivz67kwwsz8pod3l" tvg-lang="English" group-title="Cricket",English | WT20: West Indies v New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,14 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781384412~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d3329045ba470a17e2e3979dc914831c678291ccf7270cb0f6194db322311c4/manifest.mpd?vcfilter=f3aafd2c-8e5a-43b5-a895-b6b1044375de&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="682faf11-1de4-4984-a606-97a64aaded71" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fx0p1tgvmvwyocfxsxcs" tvg-lang="English" group-title="Cricket",English | WT20: Australia v South Africa (JAPANESE)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1781384408~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2bc3ec1381e556522670401a0b381c3f438be9c33952b18c9ef77d6e69c2a401/manifest.mpd?vcfilter=682faf11-1de4-4984-a606-97a64aaded71&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781398809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0a6f83dbd475d9660b8dd443a4d054973665e6dfd0e58817896628de7303725/manifest.mpd?vcfilter=ad03ae72-db2f-4165-9a9f-2e02d4f963a9&powered_by=jay_shree_ram
