@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:30:15 PM 14-06-2026",
+  "last_updated": "08:30:06 PM 14-06-2026",
   "total_matches": 5,
   "live_matches": 5,
   "upcoming_matches": 0,
@@ -22,143 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "09c9d327-e491-49a7-9b80-c2d518605543",
-      "_entityId": "9246a3c1-f1d6-4e6e-8e6d-e0c2f151854e",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/final",
-      "slug": "final",
-      "title": "Final: Finland v Sweden",
-      "tags": [
-        {
-          "_translationId": "c4ef1966-5c67-4ee1-afb8-2e23030f131c",
-          "_entityId": "9f338ff0-224b-405d-b2f3-aec48874ce8f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15617",
-          "title": "Viking Cup, 2026",
-          "slug": "tournament-15617",
-          "neutralSlug": "tournament-15617",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15617",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15617",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "03985f95-9425-4d3a-b568-cb1d6afc4210",
-          "_entityId": "8117bb6b-1149-4300-b6ff-31774f2078fe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271469",
-          "title": "T.B.C. vs T.B.C. - Final - 6/14/2026",
-          "slug": "match-271469",
-          "neutralSlug": "match-271469",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271469",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271469",
-            "teamA": "T.B.C.",
-            "teamB": "T.B.C.",
-            "teamAid": "",
-            "teamBid": "",
-            "teamAshort": "TBC",
-            "teamBshort": "TBC",
-            "stage": "Final",
-            "matchDateLocal": "6/14/2026",
-            "matchType": "T20",
-            "matchNumber": "Final",
-            "seriesId": "15617",
-            "seriesName": "Viking Cup, 2026",
-            "seriesShortName": "Viking Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12576",
-            "tourName": "Viking Cup, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "t-b-c-vs-t-b-c-",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "bf127e73-230a-4866-9fd6-49fde1f6304b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-14T10:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN",
-            "PK",
-            "NP",
-            "LK",
-            "BD"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-06-14T11:50:16.784Z",
-      "contentDate": "2026-06-14T11:02:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "47224",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/thwoa3btvtaoc4ng7hj7",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/thwoa3btvtaoc4ng7hj7",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "47224-x0217",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/47224-x0217"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, June 14, 2026, 4:45:02 PM",
-        "expire_date": "Monday, June 15, 2026, 12:45:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781464509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=47dd11d46cc3edf9634c2563dd4dcac1e053c6f7de679f012d9af5a07916eb9b/manifest.mpd?vcfilter=bf127e73-230a-4866-9fd6-49fde1f6304b&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "78ff95ee-de50-484a-b1d0-82e4f75a245c",
@@ -372,8 +235,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-06-14T12:50:26.481Z",
-      "contentDate": "2026-06-14T12:50:00Z",
+      "lastUpdatedDate": "2026-06-14T13:38:54.205Z",
+      "contentDate": "2026-06-14T13:38:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 6",
@@ -644,8 +507,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-06-14T12:50:16.296Z",
-      "contentDate": "2026-06-14T12:50:00Z",
+      "lastUpdatedDate": "2026-06-14T13:38:31.544Z",
+      "contentDate": "2026-06-14T13:38:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "IND v PAK",
@@ -915,9 +778,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-06-14T12:50:00.186Z",
-      "contentDate": "2026-06-14T12:49:00Z",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-06-14T13:36:33.09Z",
+      "contentDate": "2026-06-14T13:36:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Urdu16x9_INDvPAK",
@@ -1218,6 +1081,137 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1781470818~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d7d1824aa32da1f9fa97e5b80df8126c4fef2cc9403d36b49fd8ffe5cc34dac3/manifest.mpd?vcfilter=c535a845-32b1-4a4c-b2b3-ccbfca7d0441&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c20b146e-f6ec-45ec-95fc-bb51d93f81a0",
+      "_entityId": "2ab474d9-777d-4f8c-be09-cc853779241d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-usa-1st-innings",
+      "slug": "netherlands-v-usa-1st-innings",
+      "title": "Netherlands v USA (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "abb10358-4151-4b89-bb3c-8d4c56d6f00a",
+          "_entityId": "b4309e07-1a16-484c-aa40-3caab91c7a64",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271460",
+          "title": "USA vs Netherlands - Match 114 - 6/14/2026",
+          "slug": "match-271460",
+          "neutralSlug": "match-271460",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271460",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271460",
+            "teamA": "USA",
+            "teamB": "Netherlands",
+            "teamAid": "22",
+            "teamBid": "15",
+            "teamAshort": "USA",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "6/14/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 114",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "usa-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "064e3392-1926-4d18-9bee-cb1a9bf7efc7",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-14T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-14T14:51:19.309Z",
+      "contentDate": "2026-06-14T14:51:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-CAN-JUN_Match5.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ilpu5algupmt6h4lglor",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ilpu5algupmt6h4lglor",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-can-jun-match5-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-can-jun-match5-1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, June 14, 2026, 8:30:02 PM",
+        "expire_date": "Monday, June 15, 2026, 4:30:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781478009~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0dc8d0b00c87ce95ca6250d04a26be47f5242a1a6a32d1574552484c400a3415/manifest.mpd?vcfilter=064e3392-1926-4d18-9bee-cb1a9bf7efc7&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
