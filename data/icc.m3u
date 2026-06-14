@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 14-06-2026 15:45
+#DATE:- 14-06-2026 16:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="4b47d32f-9466-40c0-bf6e-d6a81621987d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/t7qge3vdljmztgoj2kjw" tvg-lang="English" group-title="Cricket",English | 3rd Place Play-off
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781451912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf091003d877c8cf407b48e8800db8db2646b2b44b596faae47a6d94b925b16a/manifest.mpd?vcfilter=4b47d32f-9466-40c0-bf6e-d6a81621987d&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="0e81824b-17a8-4a24-8ac1-a20b5334d962" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/azpdty3yfyk2yf0nimzc" tvg-lang="English" group-title="Cricket",English | WT20: Bangladesh v Netherlands
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -32,3 +22,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1781460909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0a4c2200720641cc78023312d0d21f64c6aa85dccf52b11a0065ecb8d221a212/manifest.mpd?vcfilter=e7bdeba5-eb04-49f9-900b-f1850140d52c&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="bf127e73-230a-4866-9fd6-49fde1f6304b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/thwoa3btvtaoc4ng7hj7" tvg-lang="English" group-title="Cricket",English | Final: Finland v Sweden
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781464509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=47dd11d46cc3edf9634c2563dd4dcac1e053c6f7de679f012d9af5a07916eb9b/manifest.mpd?vcfilter=bf127e73-230a-4866-9fd6-49fde1f6304b&powered_by=jay_shree_ram
