@@ -1,27 +1,7 @@
 #EXTM3U
-#DATE:- 14-06-2026 16:45
+#DATE:- 14-06-2026 18:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="0e81824b-17a8-4a24-8ac1-a20b5334d962" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/azpdty3yfyk2yf0nimzc" tvg-lang="English" group-title="Cricket",English | WT20: Bangladesh v Netherlands
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781455510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c3e74f8672fc208006a66e2d9e9e0cbd38c1811031eb501afbaeff221d2f38dd/manifest.mpd?vcfilter=0e81824b-17a8-4a24-8ac1-a20b5334d962&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="e7bdeba5-eb04-49f9-900b-f1850140d52c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gx3eeryroulbweseqd2n" tvg-lang="English" group-title="Cricket",English | WT20: Bangladesh v Netherlands (BENGALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1781460909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0a4c2200720641cc78023312d0d21f64c6aa85dccf52b11a0065ecb8d221a212/manifest.mpd?vcfilter=e7bdeba5-eb04-49f9-900b-f1850140d52c&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="bf127e73-230a-4866-9fd6-49fde1f6304b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/thwoa3btvtaoc4ng7hj7" tvg-lang="English" group-title="Cricket",English | Final: Finland v Sweden
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -32,3 +12,43 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1781464509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=47dd11d46cc3edf9634c2563dd4dcac1e053c6f7de679f012d9af5a07916eb9b/manifest.mpd?vcfilter=bf127e73-230a-4866-9fd6-49fde1f6304b&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="7d915cae-6f99-4d61-94a0-16466cba3344" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rjfzyyazf8zy6nkjs2di" tvg-lang="English" group-title="Cricket",English | WT20: India v Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781470809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ef19b35f8338b82595199031e43176723a1603e16087e4fc92182ac8ffd73a22/manifest.mpd?vcfilter=7d915cae-6f99-4d61-94a0-16466cba3344&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="a0378d13-aaea-40f6-817b-de82e4855539" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/aphkbghepxgafbvzbzxj" tvg-lang="English" group-title="Cricket",English | WT20: India v Pakistan (HINDI)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1781470812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0621c5e211b4ca905afb3d8503201ec469297e760a3b8899b4d1f7307f5069b4/manifest.mpd?vcfilter=a0378d13-aaea-40f6-817b-de82e4855539&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="1dcc868e-ca0e-4aa9-9e09-47f6bf4c9d1d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wwg39ccpl8czjg3qa0jb" tvg-lang="English" group-title="Cricket",English | WT20: India v Pakistan (URDU)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1781470815~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b51611c9c5d6deb1402adc10024c5aee2b8989a0e7f15746a4599c1bc0c7c148/manifest.mpd?vcfilter=1dcc868e-ca0e-4aa9-9e09-47f6bf4c9d1d&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="c535a845-32b1-4a4c-b2b3-ccbfca7d0441" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r1bytpbo69wtj4d1gxuw" tvg-lang="English" group-title="Cricket",English | WT20: India v Pakistan (JAPANESE)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1781470818~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d7d1824aa32da1f9fa97e5b80df8126c4fef2cc9403d36b49fd8ffe5cc34dac3/manifest.mpd?vcfilter=c535a845-32b1-4a4c-b2b3-ccbfca7d0441&powered_by=jay_shree_ram
