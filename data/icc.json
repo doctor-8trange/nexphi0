@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:05 PM 17-06-2026",
-  "total_matches": 5,
+  "last_updated": "09:30:05 PM 17-06-2026",
+  "total_matches": 4,
   "live_matches": 2,
-  "upcoming_matches": 3,
+  "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -522,109 +522,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "4999402b-2c1b-4aa3-8693-ec891bdc22ed",
-      "_entityId": "e2f51f66-affd-41e8-97d1-1fa9085ac194",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-t20i-hong-kong-china-v-nigeria",
-      "slug": "4th-t20i-hong-kong-china-v-nigeria",
-      "title": "4th T20I: Hong Kong, China v Nigeria",
-      "tags": [
-        {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15646",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15646",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "73995360-6034-41e8-bf29-20eeb36ab98f",
-          "_entityId": "9239b7c6-2630-4cc8-8c36-7bb32f1a4fea",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271717",
-          "title": "Hong Kong, China vs Nigeria - Match 4 - 6/21/2026",
-          "slug": "match-271717",
-          "neutralSlug": "match-271717",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271717",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271717",
-            "teamA": "Hong Kong, China",
-            "teamB": "Nigeria",
-            "teamAid": "19",
-            "teamBid": "1671",
-            "teamAshort": "HK",
-            "teamBshort": "NGR",
-            "stage": "Series",
-            "matchDateLocal": "6/21/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 4",
-            "seriesId": "15646",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12600",
-            "tourName": "Hong Kong, China and Nigeria tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "hong-kong-china-vs-nigeria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "6b7e549a-cf61-4f01-93a3-cbe920968823",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-21T12:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "countries": [
-            "IN",
-            "NA"
-          ],
-          "listType": "blacklist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-16T11:35:12.543Z",
-      "contentDate": "2026-06-16T09:41:44.336Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "21 June Nigeria v Hong Kong",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ubhiyf27ofz5qetzudxp",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ubhiyf27ofz5qetzudxp",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "21-june-nigeria-v-hong-kong",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/21-june-nigeria-v-hong-kong"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "0d0d3169-cbad-4952-b628-c24d194b73f5",
