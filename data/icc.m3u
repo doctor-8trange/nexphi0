@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 18-06-2026 17:15
+#DATE:- 18-06-2026 22:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="bf731a64-d6f1-4fde-a308-5ff3ae9882a3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gxp0jn1ynbtdrovmq9hx" tvg-lang="English" group-title="Cricket",English | 1st T20I: Nigeria v Hong Kong, China
+#EXTINF:-1 tvg-id="2375c35f-c891-4ff6-a178-f3dcefd426b0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/aeddb2vszxsbg8ivulk1" tvg-lang="English" group-title="Cricket",English | WT20: West Indies v Scotland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781811911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=de6f7c64491698ea67a4a028860e430299ac7de9b669ac20bbcfc9d39dc64d1d/manifest.mpd?vcfilter=bf731a64-d6f1-4fde-a308-5ff3ae9882a3&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781829911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=70a885fd5cffd9a2ac0e665d623262ace544847c5a6a121020882a07bc3015cd/manifest.mpd?vcfilter=2375c35f-c891-4ff6-a178-f3dcefd426b0&powered_by=jay_shree_ram
