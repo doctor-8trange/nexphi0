@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:15:06 PM 19-06-2026",
-  "total_matches": 1,
+  "last_updated": "07:15:03 PM 19-06-2026",
+  "total_matches": 11,
   "live_matches": 1,
-  "upcoming_matches": 0,
+  "upcoming_matches": 10,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -157,5 +157,1026 @@
       }
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "23764091-907a-4450-8143-1f79090c4aed",
+      "_entityId": "330e1809-18a7-410e-88a2-841955978c43",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahamas-v-belize",
+      "slug": "bahamas-v-belize",
+      "title": "Bahamas v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4ea33695-0373-45e7-af7d-b4639e886196",
+          "_entityId": "a71e95e5-f9ad-45a7-8906-685b4127b0b2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271703",
+          "title": "Bahamas vs Belize - Match 1 - 6/21/2026",
+          "slug": "match-271703",
+          "neutralSlug": "match-271703",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271703",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271703",
+            "teamA": "Bahamas",
+            "teamB": "Belize",
+            "teamAid": "117",
+            "teamBid": "1868",
+            "teamAshort": "BAH",
+            "teamBshort": "BIZ",
+            "stage": "League",
+            "matchDateLocal": "6/21/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahamas-vs-belize",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "0f476613-d80f-4f1d-a220-e80ed5900025",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-21T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:40:54.489Z",
+      "contentDate": "2026-06-19T13:33:14.033Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lhdv7ux3gty9dhybkixg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lhdv7ux3gty9dhybkixg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3060f5ef-280a-4448-9701-74f8363535af",
+      "_entityId": "c9d27381-7f86-4386-a915-9c05cee261ff",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-brazil",
+      "slug": "bermuda-v-brazil",
+      "title": "Bermuda v Brazil",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6be989c5-92b9-4eeb-9bd0-92688655c7f1",
+          "_entityId": "651807af-a0ec-48f4-9f66-5a7c4c343090",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271704",
+          "title": "Bermuda vs Brazil - Match 2 - 6/21/2026",
+          "slug": "match-271704",
+          "neutralSlug": "match-271704",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271704",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271704",
+            "teamA": "Bermuda",
+            "teamB": "Brazil",
+            "teamAid": "11",
+            "teamBid": "1861",
+            "teamAshort": "BER",
+            "teamBshort": "BRA",
+            "stage": "League",
+            "matchDateLocal": "6/21/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-brazil",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "da8f9e47-c174-4dbf-a63c-3b3516689878",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-21T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:39:22.256Z",
+      "contentDate": "2026-06-19T13:35:26.985Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/waxeuzeeuednmcufxaqy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/waxeuzeeuednmcufxaqy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e2d051f2-ada7-4da4-8040-11e43a00d817",
+      "_entityId": "9f56552f-d073-4bc1-a5ef-2ee22c5d9d4c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-belize",
+      "slug": "bermuda-v-belize",
+      "title": "Bermuda v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9e9fd6b6-2b9b-4896-bc92-4442cb4540c1",
+          "_entityId": "6223a445-9ab7-435f-9122-db73e56963a2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271705",
+          "title": "Bermuda vs Belize - Match 3 - 6/22/2026",
+          "slug": "match-271705",
+          "neutralSlug": "match-271705",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271705",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271705",
+            "teamA": "Bermuda",
+            "teamB": "Belize",
+            "teamAid": "11",
+            "teamBid": "1868",
+            "teamAshort": "BER",
+            "teamBshort": "BIZ",
+            "stage": "League",
+            "matchDateLocal": "6/22/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-belize",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e393687b-6fd3-42f5-a61f-c8e14f4460e8",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-22T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:39:36.225Z",
+      "contentDate": "2026-06-19T13:35:31.232Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v25twfvrle5mhjo2kgem",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v25twfvrle5mhjo2kgem",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m3"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "5215c958-39e4-4c1e-be1b-e0b67ebcce28",
+      "_entityId": "90ab08ca-50ab-4d3e-9d83-15b9b4d80552",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-panama",
+      "slug": "brazil-v-panama",
+      "title": "Brazil v Panama",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "5987e1d1-a433-48f4-93ac-53c51853e66e",
+          "_entityId": "b715aede-1fd1-45c7-aed3-21456c3cdb55",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271706",
+          "title": "Brazil vs Panama - Match 4 - 6/22/2026",
+          "slug": "match-271706",
+          "neutralSlug": "match-271706",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271706",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271706",
+            "teamA": "Brazil",
+            "teamB": "Panama",
+            "teamAid": "1861",
+            "teamBid": "1771",
+            "teamAshort": "BRA",
+            "teamBshort": "PAN",
+            "stage": "League",
+            "matchDateLocal": "6/22/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "brazil-vs-panama",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9643f13a-291c-415a-847a-6b3195a1f932",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-22T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:39:46.63Z",
+      "contentDate": "2026-06-19T13:35:59.02Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x8gkomhspv73lqjbhrqt",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x8gkomhspv73lqjbhrqt",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m4"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3a642b44-1747-4525-8617-d997d6ca8562",
+      "_entityId": "cee481e1-470d-4c62-940c-655118be17fa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/panama-v-bahamas",
+      "slug": "panama-v-bahamas",
+      "title": "Panama v Bahamas",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "150172d9-736f-42e1-9e90-89a8a807f2d4",
+          "_entityId": "2b813289-cf7b-4f6e-8f75-62ea7d14b43e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271707",
+          "title": "Panama vs Bahamas - Match 5 - 6/24/2026",
+          "slug": "match-271707",
+          "neutralSlug": "match-271707",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271707",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271707",
+            "teamA": "Panama",
+            "teamB": "Bahamas",
+            "teamAid": "1771",
+            "teamBid": "117",
+            "teamAshort": "PAN",
+            "teamBshort": "BAH",
+            "stage": "League",
+            "matchDateLocal": "6/24/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "panama-vs-bahamas",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "8d4f0284-0efa-4734-8861-6340a468bc6b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-24T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:39:57.374Z",
+      "contentDate": "2026-06-19T13:36:27.902Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M5",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tzl2b4viu6t4gptnrzld",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tzl2b4viu6t4gptnrzld",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m5",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m5"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ecb75634-4104-4305-aef4-0b195ffebaf3",
+      "_entityId": "16289ac2-7273-4e75-82f0-c7a56186f158",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-belize",
+      "slug": "brazil-v-belize",
+      "title": "Brazil v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "108ab955-b584-4115-890c-994a940dda18",
+          "_entityId": "df7f4e68-7c9d-4b1f-9355-83b5c6a70eab",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271708",
+          "title": "Belize vs Brazil - Match 6 - 6/24/2026",
+          "slug": "match-271708",
+          "neutralSlug": "match-271708",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271708",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271708",
+            "teamA": "Belize",
+            "teamB": "Brazil",
+            "teamAid": "1868",
+            "teamBid": "1861",
+            "teamAshort": "BIZ",
+            "teamBshort": "BRA",
+            "stage": "League",
+            "matchDateLocal": "6/24/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "belize-vs-brazil",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "16ac8b10-75d7-4cad-affe-7c2bf0e7e41c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-24T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:40:06.549Z",
+      "contentDate": "2026-06-19T13:36:51.889Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M6",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hoenm2i6wbmfcjzf9rdy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hoenm2i6wbmfcjzf9rdy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m6"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "cdece7bb-cb55-49e7-acbf-05f8d265b25b",
+      "_entityId": "6eb368f8-4abc-4e2c-80d5-e412dffa1c31",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-panama",
+      "slug": "bermuda-v-panama",
+      "title": "Bermuda v Panama",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "809c05d9-3ada-4480-9c75-ca4213b51c48",
+          "_entityId": "738556ec-47e0-4e68-9332-6a0f35422433",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271709",
+          "title": "Bermuda vs Panama - Match 7 - 6/25/2026",
+          "slug": "match-271709",
+          "neutralSlug": "match-271709",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271709",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271709",
+            "teamA": "Bermuda",
+            "teamB": "Panama",
+            "teamAid": "11",
+            "teamBid": "1771",
+            "teamAshort": "BER",
+            "teamBshort": "PAN",
+            "stage": "League",
+            "matchDateLocal": "6/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-panama",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "8120d08d-0f51-4db9-ad1a-059b1c0f0ca6",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-25T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:40:17.767Z",
+      "contentDate": "2026-06-19T13:37:18.637Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M7",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/utxhccnwpadfvrvypzb7",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/utxhccnwpadfvrvypzb7",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m7",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m7"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6959bcb7-398d-4c8a-8a70-9dec608c6cec",
+      "_entityId": "58cde80e-ecdf-4675-a17b-fbd88bdcacaa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-bahamas",
+      "slug": "brazil-v-bahamas",
+      "title": "Brazil v Bahamas",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e9610d4a-2b50-43f1-a195-b3321a3e6f92",
+          "_entityId": "bee2e092-a116-4544-a4dd-6d8f4be6f188",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271710",
+          "title": "Brazil vs Bahamas - Match 8 - 6/25/2026",
+          "slug": "match-271710",
+          "neutralSlug": "match-271710",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271710",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271710",
+            "teamA": "Brazil",
+            "teamB": "Bahamas",
+            "teamAid": "1861",
+            "teamBid": "117",
+            "teamAshort": "BRA",
+            "teamBshort": "BAH",
+            "stage": "League",
+            "matchDateLocal": "6/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "brazil-vs-bahamas",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-25T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:40:27.67Z",
+      "contentDate": "2026-06-19T13:37:29.969Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M8",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xvy4hqbx18rhyaptkhay",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xvy4hqbx18rhyaptkhay",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m8",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m8"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6613dbd8-eac8-4781-b065-d40cf90dab9d",
+      "_entityId": "46f6c932-7161-445e-82be-1f0a1dbbf207",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/panama-v-belize",
+      "slug": "panama-v-belize",
+      "title": "Panama v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "43871cdb-36f8-4c50-bfde-485a27b793bb",
+          "_entityId": "570e36e6-35ac-46a8-b06d-3527e1525984",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271711",
+          "title": "Panama vs Belize - Match 9 - 6/27/2026",
+          "slug": "match-271711",
+          "neutralSlug": "match-271711",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271711",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271711",
+            "teamA": "Panama",
+            "teamB": "Belize",
+            "teamAid": "1771",
+            "teamBid": "1868",
+            "teamAshort": "PAN",
+            "teamBshort": "BIZ",
+            "stage": "League",
+            "matchDateLocal": "6/27/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 9",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "panama-vs-belize",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5da0786d-697d-48da-b38b-ee28be916791",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-27T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:40:36.652Z",
+      "contentDate": "2026-06-19T13:37:58.827Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M9",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ds7azp0fqwrhulfgo49y",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ds7azp0fqwrhulfgo49y",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m9",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m9"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ade5e55a-27f8-4fd2-80c7-d1594340d584",
+      "_entityId": "4008a902-1a52-437b-b1bb-c4aecdc71f22",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahamas-v-bermuda",
+      "slug": "bahamas-v-bermuda",
+      "title": "Bahamas v Bermuda",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "80a0a873-b185-43e8-8193-fff1a285364a",
+          "_entityId": "30dacd1c-81d4-4cb4-9a75-9ff27eefe505",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271712",
+          "title": "Bermuda vs Bahamas - Match 10 - 6/27/2026",
+          "slug": "match-271712",
+          "neutralSlug": "match-271712",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271712",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271712",
+            "teamA": "Bermuda",
+            "teamB": "Bahamas",
+            "teamAid": "11",
+            "teamBid": "117",
+            "teamAshort": "BER",
+            "teamBshort": "BAH",
+            "stage": "League",
+            "matchDateLocal": "6/27/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 10",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-bahamas",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1390d981-dd76-49c0-9a7b-506a6c246577",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-27T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-06-19T13:39:01.418Z",
+      "contentDate": "2026-06-19T13:38:18.763Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M10",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qczeg4ub9wxtpdfj86vs",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qczeg4ub9wxtpdfj86vs",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m10",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m10"
+      },
+      "entityCode": "video"
+    }
+  ]
 }
