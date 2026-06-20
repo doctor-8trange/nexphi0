@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:15:06 PM 20-06-2026",
+  "last_updated": "06:30:05 PM 20-06-2026",
   "total_matches": 12,
   "live_matches": 2,
   "upcoming_matches": 10,
@@ -24,11 +24,145 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "26ecd819-e7c4-46c1-aaf5-1d818b25dc82",
-      "_entityId": "7746b128-2121-4615-83e5-e00a91002e42",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-australia-v-netherlands",
-      "slug": "wt20-australia-v-netherlands",
-      "title": "WT20: Australia v Netherlands",
+      "_translationId": "41b02b1c-a5f2-41c2-95e0-acdaba763ba0",
+      "_entityId": "e0c5596c-c5f2-4d57-b529-e9827fbce1f8",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-namibia-v-nigeria",
+      "slug": "3rd-t20i-namibia-v-nigeria",
+      "title": "3rd T20I: Namibia v Nigeria",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4442040a-ac56-4bef-9a7b-d66cce8f59d1",
+          "_entityId": "9dcfbb45-bc7c-4d6d-a979-94fd1f6605c7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271716",
+          "title": "Namibia vs Nigeria - Match 3 - 6/20/2026",
+          "slug": "match-271716",
+          "neutralSlug": "match-271716",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271716",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271716",
+            "teamA": "Namibia",
+            "teamB": "Nigeria",
+            "teamAid": "20",
+            "teamBid": "1671",
+            "teamAshort": "NAM",
+            "teamBshort": "NGR",
+            "stage": "Series",
+            "matchDateLocal": "6/20/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15646",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12600",
+            "tourName": "Hong Kong, China and Nigeria tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "namibia-vs-nigeria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d611c955-368d-4209-9d59-309676a99066",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-20T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "countries": [
+            "IN",
+            "NA"
+          ],
+          "listType": "blacklist"
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-20T11:42:03.044Z",
+      "contentDate": "2026-06-20T11:41:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "20 June Namibia v Nigeria",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gzwlkpr6srkh7mcadgd8",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gzwlkpr6srkh7mcadgd8",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "20-june-namibia-v-nigeria",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/20-june-namibia-v-nigeria"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, June 20, 2026, 5:15:02 PM",
+        "expire_date": "Sunday, June 21, 2026, 1:15:11 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781984711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=837ce3210620817b96ca55d21c507385fec5b012ed30d2a7506fa405135a888b/manifest.mpd?vcfilter=d611c955-368d-4209-9d59-309676a99066&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "43f8f530-9668-4d46-b4c0-c7996b720451",
+      "_entityId": "e64beb3a-47d5-4f19-be88-bf2450d1b642",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-pakistan-v-bangladesh",
+      "slug": "wt20-pakistan-v-bangladesh",
+      "title": "WT20: Pakistan v Bangladesh",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -53,29 +187,29 @@
           "fields": []
         },
         {
-          "_translationId": "7e8f2fc9-b07d-4e16-b34f-aaf317e5887c",
-          "_entityId": "527b26cc-ea51-4e8d-8b19-2aaff9009d12",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262331",
-          "title": "Australia vs Netherlands - Match 14 - 6/20/2026",
-          "slug": "match-262331",
-          "neutralSlug": "match-262331",
+          "_translationId": "07fa6c46-3e2d-4dfd-8c78-93a649795dcd",
+          "_entityId": "fb35cdb1-9ea8-4b56-b376-338c6cf0b8b4",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262332",
+          "title": "Pakistan vs Bangladesh - Match 15 - 6/20/2026",
+          "slug": "match-262332",
+          "neutralSlug": "match-262332",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-262331",
+            "SourceId": "match-262332",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "262331",
-            "teamA": "Australia",
-            "teamB": "Netherlands",
-            "teamAid": "1119",
-            "teamBid": "1123",
-            "teamAshort": "AUS",
-            "teamBshort": "NED",
+            "matchId": "262332",
+            "teamA": "Pakistan",
+            "teamB": "Bangladesh",
+            "teamAid": "1130",
+            "teamBid": "1276",
+            "teamAshort": "PAK",
+            "teamBshort": "BAN",
             "stage": "Group",
             "matchDateLocal": "6/20/2026",
             "matchType": "T20",
-            "matchNumber": "Match 14",
+            "matchNumber": "Match 15",
             "seriesId": "12672",
             "seriesName": "ICC Women's T20 World Cup, 2026",
             "seriesShortName": "ICC WT20 World Cup, 2026",
@@ -84,7 +218,7 @@
             "tourName": "ICC Women's T20 World Cup, 2026",
             "competitionType": "T20 International - w",
             "competitionTypeId": "13",
-            "seoName": "australia-vs-netherlands",
+            "seoName": "pakistan-vs-bangladesh",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -93,24 +227,24 @@
         }
       ],
       "fields": {
-        "videoId": "262fa50b-600a-490a-81b2-557a16c2d530",
+        "videoId": "df163706-d5c3-41bd-a90e-7ffffd322c1b",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "16200000",
+        "videoEstimatedDuration": "18000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-20T09:00:00Z",
+        "scheduledStartTime": "2026-06-20T13:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "Match 14",
-            "slug": "match-14-x0954",
+            "title": "Match 15",
+            "slug": "match-15-x0042",
             "format": "jpg",
-            "id": "6873cac3-9b34-4da4-86ae-65072c82b1ff",
-            "entityId": "977d82ce-9f65-4757-8290-4e0cf252ee66",
+            "id": "1767946d-bb58-460e-a87b-514a0e4ae5f1",
+            "entityId": "eca065ea-bf52-4742-8eb5-9a42421ce81b",
             "stage": "jpg",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqva33kmaekrir6px5qy",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/zqva33kmaekrir6px5qy"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/j9pww3k74mlti5bwoc0y",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/j9pww3k74mlti5bwoc0y"
           }
         ],
         "countryRestrictions": {
@@ -234,24 +368,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-20T08:41:13.938Z",
-      "contentDate": "2026-06-20T08:41:00Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-06-20T12:47:06.045Z",
+      "contentDate": "2026-06-20T12:47:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "Match 14",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mbu5kqycltklshf8vcpd",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mbu5kqycltklshf8vcpd",
+        "title": "Match 15",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sru1rqvpgauhinrw66ie",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sru1rqvpgauhinrw66ie",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "match-14",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-14"
+        "slug": "match-15",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-15"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Saturday, June 20, 2026, 2:15:02 PM",
-        "expire_date": "Saturday, June 20, 2026, 10:15:11 PM",
+        "create_date": "Saturday, June 20, 2026, 6:30:02 PM",
+        "expire_date": "Sunday, June 21, 2026, 2:30:10 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
           "Referer: https://www.icc-cricket.com/",
@@ -264,141 +398,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1781973911~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=59399081b9aef95e941305bb7f9649443522bca53e99f08e674bfcf3f87aa23e/manifest.mpd?vcfilter=262fa50b-600a-490a-81b2-557a16c2d530&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "41b02b1c-a5f2-41c2-95e0-acdaba763ba0",
-      "_entityId": "e0c5596c-c5f2-4d57-b529-e9827fbce1f8",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-namibia-v-nigeria",
-      "slug": "3rd-t20i-namibia-v-nigeria",
-      "title": "3rd T20I: Namibia v Nigeria",
-      "tags": [
-        {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15646",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15646",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "4442040a-ac56-4bef-9a7b-d66cce8f59d1",
-          "_entityId": "9dcfbb45-bc7c-4d6d-a979-94fd1f6605c7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271716",
-          "title": "Namibia vs Nigeria - Match 3 - 6/20/2026",
-          "slug": "match-271716",
-          "neutralSlug": "match-271716",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271716",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271716",
-            "teamA": "Namibia",
-            "teamB": "Nigeria",
-            "teamAid": "20",
-            "teamBid": "1671",
-            "teamAshort": "NAM",
-            "teamBshort": "NGR",
-            "stage": "Series",
-            "matchDateLocal": "6/20/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15646",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12600",
-            "tourName": "Hong Kong, China and Nigeria tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "namibia-vs-nigeria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "d611c955-368d-4209-9d59-309676a99066",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-20T12:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "countries": [
-            "IN",
-            "NA"
-          ],
-          "listType": "blacklist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-06-20T11:42:03.044Z",
-      "contentDate": "2026-06-20T11:41:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "20 June Namibia v Nigeria",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gzwlkpr6srkh7mcadgd8",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gzwlkpr6srkh7mcadgd8",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "20-june-namibia-v-nigeria",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/20-june-namibia-v-nigeria"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, June 20, 2026, 5:15:02 PM",
-        "expire_date": "Sunday, June 21, 2026, 1:15:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781984711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=837ce3210620817b96ca55d21c507385fec5b012ed30d2a7506fa405135a888b/manifest.mpd?vcfilter=d611c955-368d-4209-9d59-309676a99066&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781989210~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d1cb843120c81c879cc2a939b534ecdeba1849a3a68bdc3f634be3c468a64c42/manifest.mpd?vcfilter=df163706-d5c3-41bd-a90e-7ffffd322c1b&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
