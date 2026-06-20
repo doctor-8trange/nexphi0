@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:45:02 PM 20-06-2026",
-  "total_matches": 10,
+  "last_updated": "12:00:06 AM 21-06-2026",
+  "total_matches": 9,
   "live_matches": 1,
-  "upcoming_matches": 9,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -282,108 +282,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "3060f5ef-280a-4448-9701-74f8363535af",
-      "_entityId": "c9d27381-7f86-4386-a915-9c05cee261ff",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-brazil",
-      "slug": "bermuda-v-brazil",
-      "title": "Bahamas v Bermuda",
-      "tags": [
-        {
-          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
-          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
-          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-          "slug": "tournament-15645",
-          "neutralSlug": "tournament-15645",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15645",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15645",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "6be989c5-92b9-4eeb-9bd0-92688655c7f1",
-          "_entityId": "651807af-a0ec-48f4-9f66-5a7c4c343090",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271704",
-          "title": "Bermuda vs Brazil - Match 2 - 6/21/2026",
-          "slug": "match-271704",
-          "neutralSlug": "match-271704",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271704",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271704",
-            "teamA": "Bermuda",
-            "teamB": "Brazil",
-            "teamAid": "11",
-            "teamBid": "1861",
-            "teamAshort": "BER",
-            "teamBshort": "BRA",
-            "stage": "League",
-            "matchDateLocal": "6/21/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15645",
-            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12599",
-            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bermuda-vs-brazil",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "da8f9e47-c174-4dbf-a63c-3b3516689878",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-21T18:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-19T15:52:49.654Z",
-      "contentDate": "2026-06-19T13:35:26.985Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-AME-Qual-A_M10",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qczeg4ub9wxtpdfj86vs",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qczeg4ub9wxtpdfj86vs",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-ame-qual-a-m10",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m10"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "e2d051f2-ada7-4da4-8040-11e43a00d817",
