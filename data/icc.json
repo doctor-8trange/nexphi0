@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:45:02 AM 21-06-2026",
-  "total_matches": 4,
+  "last_updated": "01:00:02 AM 21-06-2026",
+  "total_matches": 3,
   "live_matches": 1,
-  "upcoming_matches": 3,
+  "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -282,108 +282,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "6959bcb7-398d-4c8a-8a70-9dec608c6cec",
-      "_entityId": "58cde80e-ecdf-4675-a17b-fbd88bdcacaa",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-bahamas",
-      "slug": "brazil-v-bahamas",
-      "title": "Brazil v Bahamas",
-      "tags": [
-        {
-          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
-          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
-          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-          "slug": "tournament-15645",
-          "neutralSlug": "tournament-15645",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15645",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15645",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e9610d4a-2b50-43f1-a195-b3321a3e6f92",
-          "_entityId": "bee2e092-a116-4544-a4dd-6d8f4be6f188",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271710",
-          "title": "Brazil vs Bahamas - Match 8 - 6/25/2026",
-          "slug": "match-271710",
-          "neutralSlug": "match-271710",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271710",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271710",
-            "teamA": "Brazil",
-            "teamB": "Bahamas",
-            "teamAid": "1861",
-            "teamBid": "117",
-            "teamAshort": "BRA",
-            "teamBshort": "BAH",
-            "stage": "League",
-            "matchDateLocal": "6/25/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 8",
-            "seriesId": "15645",
-            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12599",
-            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "brazil-vs-bahamas",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-25T18:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-19T13:40:27.67Z",
-      "contentDate": "2026-06-19T13:37:29.969Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-AME-Qual-A_M8",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xvy4hqbx18rhyaptkhay",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xvy4hqbx18rhyaptkhay",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-ame-qual-a-m8",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m8"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "6613dbd8-eac8-4781-b065-d40cf90dab9d",
