@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:45:02 PM 20-06-2026",
-  "total_matches": 11,
+  "last_updated": "11:45:02 PM 20-06-2026",
+  "total_matches": 10,
   "live_matches": 1,
-  "upcoming_matches": 10,
+  "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -282,108 +282,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "23764091-907a-4450-8143-1f79090c4aed",
-      "_entityId": "330e1809-18a7-410e-88a2-841955978c43",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahamas-v-belize",
-      "slug": "bahamas-v-belize",
-      "title": "Panama v Belize",
-      "tags": [
-        {
-          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
-          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
-          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-          "slug": "tournament-15645",
-          "neutralSlug": "tournament-15645",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15645",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15645",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "4ea33695-0373-45e7-af7d-b4639e886196",
-          "_entityId": "a71e95e5-f9ad-45a7-8906-685b4127b0b2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271703",
-          "title": "Bahamas vs Belize - Match 1 - 6/21/2026",
-          "slug": "match-271703",
-          "neutralSlug": "match-271703",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271703",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271703",
-            "teamA": "Bahamas",
-            "teamB": "Belize",
-            "teamAid": "117",
-            "teamBid": "1868",
-            "teamAshort": "BAH",
-            "teamBshort": "BIZ",
-            "stage": "League",
-            "matchDateLocal": "6/21/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 1",
-            "seriesId": "15645",
-            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12599",
-            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bahamas-vs-belize",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0f476613-d80f-4f1d-a220-e80ed5900025",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-21T13:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-19T15:50:28.923Z",
-      "contentDate": "2026-06-19T13:33:14.033Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-AME-Qual-A_M9",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ds7azp0fqwrhulfgo49y",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ds7azp0fqwrhulfgo49y",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-ame-qual-a-m9",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m9"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "3060f5ef-280a-4448-9701-74f8363535af",
