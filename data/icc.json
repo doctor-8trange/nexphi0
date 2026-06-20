@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:30:02 AM 21-06-2026",
-  "total_matches": 5,
+  "last_updated": "12:45:02 AM 21-06-2026",
+  "total_matches": 4,
   "live_matches": 1,
-  "upcoming_matches": 4,
+  "upcoming_matches": 3,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -282,108 +282,6 @@
     }
   ],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "cdece7bb-cb55-49e7-acbf-05f8d265b25b",
-      "_entityId": "6eb368f8-4abc-4e2c-80d5-e412dffa1c31",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-panama",
-      "slug": "bermuda-v-panama",
-      "title": "Bermuda v Panama",
-      "tags": [
-        {
-          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
-          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
-          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-          "slug": "tournament-15645",
-          "neutralSlug": "tournament-15645",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15645",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15645",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "809c05d9-3ada-4480-9c75-ca4213b51c48",
-          "_entityId": "738556ec-47e0-4e68-9332-6a0f35422433",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271709",
-          "title": "Bermuda vs Panama - Match 7 - 6/25/2026",
-          "slug": "match-271709",
-          "neutralSlug": "match-271709",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271709",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271709",
-            "teamA": "Bermuda",
-            "teamB": "Panama",
-            "teamAid": "11",
-            "teamBid": "1771",
-            "teamAshort": "BER",
-            "teamBshort": "PAN",
-            "stage": "League",
-            "matchDateLocal": "6/25/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 7",
-            "seriesId": "15645",
-            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12599",
-            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bermuda-vs-panama",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8120d08d-0f51-4db9-ad1a-059b1c0f0ca6",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-25T13:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-06-19T13:40:17.767Z",
-      "contentDate": "2026-06-19T13:37:18.637Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-AME-Qual-A_M7",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/utxhccnwpadfvrvypzb7",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/utxhccnwpadfvrvypzb7",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-ame-qual-a-m7",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m7"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "6959bcb7-398d-4c8a-8a70-9dec608c6cec",
