@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:02 AM 21-06-2026",
+  "last_updated": "02:15:06 PM 21-06-2026",
   "total_matches": 1,
   "live_matches": 1,
   "upcoming_matches": 0,
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "2183d288-f212-4589-a83f-f2378dacd192",
-      "_entityId": "c0d3e858-b3f0-4d03-8930-e5ad675d9b57",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-england-v-scotland",
-      "slug": "wt20-england-v-scotland",
-      "title": "WT20: England v Scotland",
+      "_translationId": "83024a6d-0f0c-4128-947e-41e898beabf7",
+      "_entityId": "1f125368-1c99-46f8-9c6f-a30580bd3356",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-west-indies-v-sri-lanka",
+      "slug": "wt20-west-indies-v-sri-lanka",
+      "title": "WT20: West Indies v Sri Lanka",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -53,29 +53,29 @@
           "fields": []
         },
         {
-          "_translationId": "56428859-1efd-4689-9eed-a40e0f867b5a",
-          "_entityId": "75c18698-2085-46df-9c9a-39678357ddb9",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262333",
-          "title": "England vs Scotland - Match 16 - 6/20/2026",
-          "slug": "match-262333",
-          "neutralSlug": "match-262333",
+          "_translationId": "6e1bdb66-e744-4a8a-b706-f55965dc3507",
+          "_entityId": "f6c8aa4d-53a1-406f-b5f8-0371eea61216",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262334",
+          "title": "West Indies vs Sri Lanka - Match 17 - 6/21/2026",
+          "slug": "match-262334",
+          "neutralSlug": "match-262334",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-262333",
+            "SourceId": "match-262334",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "262333",
-            "teamA": "England",
-            "teamB": "Scotland",
-            "teamAid": "1121",
-            "teamBid": "1132",
-            "teamAshort": "ENG",
-            "teamBshort": "SCO",
+            "matchId": "262334",
+            "teamA": "West Indies",
+            "teamB": "Sri Lanka",
+            "teamAid": "1135",
+            "teamBid": "1133",
+            "teamAshort": "WI",
+            "teamBshort": "SL",
             "stage": "Group",
-            "matchDateLocal": "6/20/2026",
+            "matchDateLocal": "6/21/2026",
             "matchType": "T20",
-            "matchNumber": "Match 16",
+            "matchNumber": "Match 17",
             "seriesId": "12672",
             "seriesName": "ICC Women's T20 World Cup, 2026",
             "seriesShortName": "ICC WT20 World Cup, 2026",
@@ -84,7 +84,7 @@
             "tourName": "ICC Women's T20 World Cup, 2026",
             "competitionType": "T20 International - w",
             "competitionTypeId": "13",
-            "seoName": "england-vs-scotland",
+            "seoName": "west-indies-vs-sri-lanka",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -93,24 +93,24 @@
         }
       ],
       "fields": {
-        "videoId": "1fddaff5-cb1d-4785-a85c-3791a57f51cd",
+        "videoId": "6f643058-0601-4735-82f9-5bd29e78cc31",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "18000000",
+        "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-20T17:00:00Z",
+        "scheduledStartTime": "2026-06-21T09:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_ENGvSCO_3x4_Eng",
-            "slug": "icc26-icctv-engvsco-3x4-eng",
+            "title": "ICC26_ICCtv_WIvSL_3x4_Eng (1)",
+            "slug": "icc26-icctv-wivsl-3x4-eng-1",
             "format": "png",
-            "id": "d7c10e51-ff7f-4b86-9ea6-6a6038920827",
-            "entityId": "74f08030-2741-43e5-87b6-e91812ff70c0",
+            "id": "a951139e-a9ba-4ecd-a324-92aefed75ff8",
+            "entityId": "2ad78a12-d6fc-4014-9e86-2de7d95b4a34",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qftkvszh4esxbr1lqzsf",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/qftkvszh4esxbr1lqzsf"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zo2kw82spg218jb4czdk",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/zo2kw82spg218jb4czdk"
           }
         ],
         "countryRestrictions": {
@@ -234,24 +234,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-06-20T16:46:26.861Z",
-      "contentDate": "2026-06-20T16:46:00Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-21T08:41:03.564Z",
+      "contentDate": "2026-06-21T08:40:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "Match 16",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ixrmeaktb2s1kb6ca9kp",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ixrmeaktb2s1kb6ca9kp",
+        "title": "Match 17",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pf4di4ic4io13ymdqq1x",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pf4di4ic4io13ymdqq1x",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "match-16",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-16"
+        "slug": "match-17",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-17"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Saturday, June 20, 2026, 10:15:02 PM",
-        "expire_date": "Sunday, June 21, 2026, 6:15:11 AM",
+        "create_date": "Sunday, June 21, 2026, 2:15:02 PM",
+        "expire_date": "Sunday, June 21, 2026, 10:15:06 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
           "Referer: https://www.icc-cricket.com/",
@@ -264,7 +264,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782002711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=393bcc7821f5051763591ecfb8db3693de9e15859ecac091f6481c04a7a6445e/manifest.mpd?vcfilter=1fddaff5-cb1d-4785-a85c-3791a57f51cd&powered_by=jay_shree_ram",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782060306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b89c064ca38c4094de2007bac4084bfa5cbb903675201764971da3ddae63f207/manifest.mpd?vcfilter=6f643058-0601-4735-82f9-5bd29e78cc31&powered_by=jay_shree_ram",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
