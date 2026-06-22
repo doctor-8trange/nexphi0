@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:45:07 PM 22-06-2026",
-  "total_matches": 10,
-  "live_matches": 2,
+  "last_updated": "09:15:02 PM 22-06-2026",
+  "total_matches": 9,
+  "live_matches": 1,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,140 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "0d0d3169-cbad-4952-b628-c24d194b73f5",
-      "_entityId": "07978fb0-a3f5-4fc1-af4d-6fee855a5d5c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-t20i-hong-kong-china-v-namibia",
-      "slug": "5th-t20i-hong-kong-china-v-namibia",
-      "title": "5th T20I: Hong Kong, China v Namibia",
-      "tags": [
-        {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15646",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15646",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "851e68a1-3010-4475-9d66-c0cb7e87de94",
-          "_entityId": "df11f992-d927-44fd-944a-5edc452c4014",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271718",
-          "title": "Namibia vs Hong Kong, China - Match 5 - 6/22/2026",
-          "slug": "match-271718",
-          "neutralSlug": "match-271718",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271718",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271718",
-            "teamA": "Namibia",
-            "teamB": "Hong Kong, China",
-            "teamAid": "20",
-            "teamBid": "19",
-            "teamAshort": "NAM",
-            "teamBshort": "HK",
-            "stage": "Series",
-            "matchDateLocal": "6/22/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 5",
-            "seriesId": "15646",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12600",
-            "tourName": "Hong Kong, China and Nigeria tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "namibia-vs-hong-kong-china",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "619f25fc-c014-4fa4-8cd3-21e7333abcaa",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-22T12:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "countries": [
-            "IN",
-            "NA"
-          ],
-          "listType": "blacklist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "ugesh raj",
-      "lastUpdatedDate": "2026-06-22T11:42:53.762Z",
-      "contentDate": "2026-06-22T11:42:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "22 June Namibia v Hong Kong",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/a0ostqfmih01s9fenp6h",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/a0ostqfmih01s9fenp6h",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "22-june-namibia-v-hong-kong",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/22-june-namibia-v-hong-kong"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, June 22, 2026, 5:15:02 PM",
-        "expire_date": "Tuesday, June 23, 2026, 1:15:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1782157506~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf99a8a54f1ea21940eef1ab70e786bf332f691935c9b5499e16702b897bf4ed/manifest.mpd?vcfilter=619f25fc-c014-4fa4-8cd3-21e7333abcaa&powered_by=jay_shree_ram",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "e2d051f2-ada7-4da4-8040-11e43a00d817",
@@ -243,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-22T13:14:09.96Z",
-      "contentDate": "2026-06-19T13:35:31.232Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-22T14:44:33.458Z",
+      "contentDate": "2026-06-22T14:44:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-AME-Qual-A_M3",
@@ -598,14 +464,14 @@
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "Match 20",
-            "slug": "match-20-x5314",
-            "format": "jpg",
-            "id": "7d3b4bf5-3503-4b82-8e33-f9cfa5a886e4",
-            "entityId": "7d698284-d6b6-4b50-8ce3-3539f75063d3",
-            "stage": "jpg",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uayjpa6o6r5tpbcwywxt",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/uayjpa6o6r5tpbcwywxt"
+            "title": "ICC26_ICCtv_SLvIRE_3x4_Eng",
+            "slug": "icc26-icctv-slvire-3x4-eng",
+            "format": "png",
+            "id": "e80f4752-0204-4cc7-8804-415de46c6c76",
+            "entityId": "59b72797-20e2-4a5b-9d34-da37aaf8b2de",
+            "stage": "png",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bmwphbjjcm5zxkyxaslh",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/bmwphbjjcm5zxkyxaslh"
           }
         ],
         "countryRestrictions": {
@@ -728,8 +594,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "siddharth zantye",
-      "lastUpdatedDate": "2026-06-21T14:53:00.953Z",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-06-22T14:19:54.458Z",
       "contentDate": "2026-06-21T14:45:00Z",
       "featured": 0,
       "thumbnail": {
