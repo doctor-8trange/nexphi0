@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:15:06 PM 22-06-2026",
-  "total_matches": 9,
-  "live_matches": 1,
+  "last_updated": "06:45:07 PM 22-06-2026",
+  "total_matches": 10,
+  "live_matches": 2,
   "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -141,6 +141,139 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1782157506~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf99a8a54f1ea21940eef1ab70e786bf332f691935c9b5499e16702b897bf4ed/manifest.mpd?vcfilter=619f25fc-c014-4fa4-8cd3-21e7333abcaa&powered_by=jay_shree_ram",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e2d051f2-ada7-4da4-8040-11e43a00d817",
+      "_entityId": "9f56552f-d073-4bc1-a5ef-2ee22c5d9d4c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bermuda-v-belize",
+      "slug": "bermuda-v-belize",
+      "title": "Bermuda v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9e9fd6b6-2b9b-4896-bc92-4442cb4540c1",
+          "_entityId": "6223a445-9ab7-435f-9122-db73e56963a2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271705",
+          "title": "Bermuda vs Belize - Match 3 - 6/22/2026",
+          "slug": "match-271705",
+          "neutralSlug": "match-271705",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271705",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271705",
+            "teamA": "Bermuda",
+            "teamB": "Belize",
+            "teamAid": "11",
+            "teamBid": "1868",
+            "teamAshort": "BER",
+            "teamBshort": "BIZ",
+            "stage": "League",
+            "matchDateLocal": "6/22/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-belize",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e393687b-6fd3-42f5-a61f-c8e14f4460e8",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-22T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-22T13:14:09.96Z",
+      "contentDate": "2026-06-19T13:35:31.232Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v25twfvrle5mhjo2kgem",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v25twfvrle5mhjo2kgem",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m3"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, June 22, 2026, 6:45:02 PM",
+        "expire_date": "Tuesday, June 23, 2026, 2:45:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782162907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=14e08c6297c5625696af3a3d6a71883ee33ddfbdd321a0dee861d92c1be0a43b/manifest.mpd?vcfilter=e393687b-6fd3-42f5-a61f-c8e14f4460e8&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
