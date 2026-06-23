@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "23-06-2026 03:00",
+  "last_updated": "02:15:07 PM 23-06-2026",
   "total_matches": 8,
-  "live_matches": 0,
-  "upcoming_matches": 8,
+  "live_matches": 1,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "2778ba51-b5ac-4826-9b2f-d743b6376fb6",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "3696b898-baa7-4a01-87b4-95e049100e74",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "16200000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-23T09:00:00Z",
@@ -228,15 +227,16 @@
             "UZ",
             "VU",
             "VN",
-            "WF"
+            "WF",
+            "CC"
           ],
           "listType": "whitelist"
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-22T10:12:52.591Z",
-      "contentDate": "2026-06-21T14:50:00Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-23T08:40:38.605Z",
+      "contentDate": "2026-06-23T08:40:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 19",
@@ -247,8 +247,41 @@
         "slug": "match-19",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-19"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 23, 2026, 2:15:02 PM",
+        "expire_date": "Tuesday, June 23, 2026, 10:15:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782233107~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=f75f2296c68f02027395d2a57d3abbe59f48d1f6051b57e2d828b906076930d3/manifest.mpd?vcfilter=3696b898-baa7-4a01-87b4-95e049100e74&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "f4bf4286-83ce-48ab-8000-61f3895f89b5",
@@ -454,14 +487,15 @@
             "UZ",
             "VU",
             "VN",
-            "WF"
+            "WF",
+            "CC"
           ],
           "listType": "whitelist"
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-22T14:19:54.458Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-23T08:35:19.255Z",
       "contentDate": "2026-06-21T14:45:00Z",
       "featured": 0,
       "thumbnail": {
@@ -680,14 +714,15 @@
             "UZ",
             "VU",
             "VN",
-            "WF"
+            "WF",
+            "CC"
           ],
           "listType": "whitelist"
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-06-22T10:15:52.875Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-23T08:42:54.934Z",
       "contentDate": "2026-06-21T14:40:00Z",
       "featured": 0,
       "thumbnail": {
