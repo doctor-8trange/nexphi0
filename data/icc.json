@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:15:06 PM 23-06-2026",
+  "last_updated": "06:15:06 PM 23-06-2026",
   "total_matches": 9,
-  "live_matches": 2,
-  "upcoming_matches": 7,
+  "live_matches": 3,
+  "upcoming_matches": 6,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -368,9 +368,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-23T11:40:27.092Z",
-      "contentDate": "2026-06-16T09:42:39.192Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-23T11:59:17.387Z",
+      "contentDate": "2026-06-23T11:59:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "23 June Namibia vs Nigeria",
@@ -413,9 +413,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "f4bf4286-83ce-48ab-8000-61f3895f89b5",
@@ -489,7 +487,7 @@
       "fields": {
         "videoId": "e674ec30-1665-40c6-8255-8a647111947d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-23T13:00:00Z",
@@ -628,9 +626,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-23T11:17:50.131Z",
-      "contentDate": "2026-06-21T14:45:00Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-23T12:44:11.784Z",
+      "contentDate": "2026-06-23T12:44:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 20",
@@ -641,8 +639,41 @@
         "slug": "match-20",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-20"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 23, 2026, 6:15:02 PM",
+        "expire_date": "Wednesday, June 24, 2026, 2:15:06 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782247506~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=f75357da2d07268c8d8ac23a53b97a83c570c892e89fa6dc968274ed01f24236/manifest.mpd?vcfilter=e674ec30-1665-40c6-8255-8a647111947d&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "5e217c53-9acf-470d-bb3c-dc980fad0c60",
