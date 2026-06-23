@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:00:02 PM 23-06-2026",
-  "total_matches": 8,
-  "live_matches": 2,
+  "last_updated": "09:30:02 PM 23-06-2026",
+  "total_matches": 7,
+  "live_matches": 1,
   "upcoming_matches": 6,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,140 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "fbd7358b-29f9-41c6-94fb-a2daade72ea9",
-      "_entityId": "d440f9b6-f672-461b-94a0-014799531e5b",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/6th-t20i-nigeria-v-namibia",
-      "slug": "6th-t20i-nigeria-v-namibia",
-      "title": "6th T20I: Nigeria v Namibia",
-      "tags": [
-        {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15646",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15646",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "145cde68-e000-46c8-9e12-3dc036094ac8",
-          "_entityId": "7f253cbd-ba93-4c5b-ba5e-e00cacfd2e2b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271720",
-          "title": "Namibia vs Nigeria - Match 6 - 6/23/2026",
-          "slug": "match-271720",
-          "neutralSlug": "match-271720",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271720",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271720",
-            "teamA": "Namibia",
-            "teamB": "Nigeria",
-            "teamAid": "20",
-            "teamBid": "1671",
-            "teamAshort": "NAM",
-            "teamBshort": "NGR",
-            "stage": "Series",
-            "matchDateLocal": "6/23/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15646",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12600",
-            "tourName": "Hong Kong, China and Nigeria tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "namibia-vs-nigeria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c2051649-4516-4ba2-a8a7-5066f0dd365a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-23T12:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "countries": [
-            "IN",
-            "NA"
-          ],
-          "listType": "blacklist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-06-23T11:59:17.387Z",
-      "contentDate": "2026-06-23T11:59:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "23 June Namibia vs Nigeria",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zdcspbqsapb1fbarwwip",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zdcspbqsapb1fbarwwip",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "23-june-namibia-vs-nigeria",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/23-june-namibia-vs-nigeria"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, June 23, 2026, 5:15:02 PM",
-        "expire_date": "Wednesday, June 24, 2026, 1:15:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1782243906~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=79eed95a749c9d92baec742041ad251feb8734e9bc1791d504fe5995c10e98aa/manifest.mpd?vcfilter=c2051649-4516-4ba2-a8a7-5066f0dd365a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "f4bf4286-83ce-48ab-8000-61f3895f89b5",
