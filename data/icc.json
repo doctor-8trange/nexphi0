@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:00:02 AM 25-06-2026",
-  "total_matches": 6,
-  "live_matches": 1,
+  "last_updated": "25-06-2026 03:15",
+  "total_matches": 5,
+  "live_matches": 0,
   "upcoming_matches": 5,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ecb75634-4104-4305-aef4-0b195ffebaf3",
-      "_entityId": "16289ac2-7273-4e75-82f0-c7a56186f158",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-belize",
-      "slug": "brazil-v-belize",
-      "title": "Brazil v Belize",
-      "tags": [
-        {
-          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
-          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
-          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-          "slug": "tournament-15645",
-          "neutralSlug": "tournament-15645",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15645",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15645",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "108ab955-b584-4115-890c-994a940dda18",
-          "_entityId": "df7f4e68-7c9d-4b1f-9355-83b5c6a70eab",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271708",
-          "title": "Belize vs Brazil - Match 6 - 6/24/2026",
-          "slug": "match-271708",
-          "neutralSlug": "match-271708",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271708",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271708",
-            "teamA": "Belize",
-            "teamB": "Brazil",
-            "teamAid": "1868",
-            "teamBid": "1861",
-            "teamAshort": "BIZ",
-            "teamBshort": "BRA",
-            "stage": "League",
-            "matchDateLocal": "6/24/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15645",
-            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12599",
-            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "belize-vs-brazil",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "16ac8b10-75d7-4cad-affe-7c2bf0e7e41c",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-24T18:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-06-24T17:41:49.833Z",
-      "contentDate": "2026-06-24T17:41:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-AME-Qual-A_M6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hoenm2i6wbmfcjzf9rdy",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hoenm2i6wbmfcjzf9rdy",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-ame-qual-a-m6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, June 24, 2026, 11:15:02 PM",
-        "expire_date": "Thursday, June 25, 2026, 7:15:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782351906~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=07fcc630e25608b335f90734a0ce3c4bcce87bfa98438b475f5a69532ec99cc9/manifest.mpd?vcfilter=16ac8b10-75d7-4cad-affe-7c2bf0e7e41c&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
