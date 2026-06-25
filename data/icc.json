@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:45:02 PM 25-06-2026",
-  "total_matches": 6,
-  "live_matches": 1,
+  "last_updated": "11:15:06 PM 25-06-2026",
+  "total_matches": 7,
+  "live_matches": 2,
   "upcoming_matches": 5,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -235,8 +235,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-06-25T16:43:11.701Z",
-      "contentDate": "2026-06-25T16:43:00Z",
+      "lastUpdatedDate": "2026-06-25T17:44:37.898Z",
+      "contentDate": "2026-06-25T17:44:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 24",
@@ -265,6 +265,139 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782434707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d3d922f94e1a9e5d413c5e9a8cdf35e10b105590c8dd8310efca0a81e63d9a0f/manifest.mpd?vcfilter=2064bf5e-d3eb-464b-94d9-70d7e0656ed1&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6959bcb7-398d-4c8a-8a70-9dec608c6cec",
+      "_entityId": "58cde80e-ecdf-4675-a17b-fbd88bdcacaa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/brazil-v-bahamas",
+      "slug": "brazil-v-bahamas",
+      "title": "Brazil v Bahamas",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e9610d4a-2b50-43f1-a195-b3321a3e6f92",
+          "_entityId": "bee2e092-a116-4544-a4dd-6d8f4be6f188",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271710",
+          "title": "Brazil vs Bahamas - Match 8 - 6/25/2026",
+          "slug": "match-271710",
+          "neutralSlug": "match-271710",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271710",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271710",
+            "teamA": "Brazil",
+            "teamB": "Bahamas",
+            "teamAid": "1861",
+            "teamBid": "117",
+            "teamAshort": "BRA",
+            "teamBshort": "BAH",
+            "stage": "League",
+            "matchDateLocal": "6/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "brazil-vs-bahamas",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-25T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-25T17:41:44.187Z",
+      "contentDate": "2026-06-25T17:41:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M8",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xvy4hqbx18rhyaptkhay",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xvy4hqbx18rhyaptkhay",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m8",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m8"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, June 25, 2026, 11:15:02 PM",
+        "expire_date": "Friday, June 26, 2026, 7:15:06 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782438306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93fd68790c2cd1ed2540d5af8b64ab0d44ce6741d163440bc568518b6863433b/manifest.mpd?vcfilter=ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
