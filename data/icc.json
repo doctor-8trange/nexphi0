@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:15:06 PM 26-06-2026",
+  "last_updated": "27-06-2026 13:15",
   "total_matches": 1,
-  "live_matches": 1,
-  "upcoming_matches": 0,
+  "live_matches": 0,
+  "upcoming_matches": 1,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,14 +21,15 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
+  "live": [],
+  "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "81b2726f-d1d6-4791-8be8-f660a4adc033",
-      "_entityId": "834522cc-10df-44d6-b324-0db3a1a654d4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-sri-lanka-v-scotland",
-      "slug": "wt20-sri-lanka-v-scotland",
-      "title": "WT20: Sri Lanka v Scotland",
+      "_translationId": "9940449c-620e-4b80-820b-bc2244cb8e4d",
+      "_entityId": "b8a8d013-7fd6-4051-aad1-d6dc40030c95",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-pakistan-v-netherlands-urdu",
+      "slug": "wt20-pakistan-v-netherlands-urdu",
+      "title": "WT20: Pakistan v Netherlands (URDU)",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -53,29 +54,29 @@
           "fields": []
         },
         {
-          "_translationId": "2c2316d6-4e7d-4aca-a6e2-0f06eab8b542",
-          "_entityId": "e79c253c-767c-428a-8233-6dde3f09e95c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262342",
-          "title": "Sri Lanka vs Scotland - Match 25 - 6/26/2026",
-          "slug": "match-262342",
-          "neutralSlug": "match-262342",
+          "_translationId": "42d20fcb-7397-4c59-98d4-9c895eeab64b",
+          "_entityId": "ae21f1c2-f513-4bd6-a21d-86baa72eeb1e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262343",
+          "title": "Pakistan vs Netherlands - Match 26 - 6/27/2026",
+          "slug": "match-262343",
+          "neutralSlug": "match-262343",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-262342",
+            "SourceId": "match-262343",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "262342",
-            "teamA": "Sri Lanka",
-            "teamB": "Scotland",
-            "teamAid": "1133",
-            "teamBid": "1132",
-            "teamAshort": "SL",
-            "teamBshort": "SCO",
+            "matchId": "262343",
+            "teamA": "Pakistan",
+            "teamB": "Netherlands",
+            "teamAid": "1130",
+            "teamBid": "1123",
+            "teamAshort": "PAK",
+            "teamBshort": "NED",
             "stage": "Group",
-            "matchDateLocal": "6/26/2026",
+            "matchDateLocal": "6/27/2026",
             "matchType": "T20",
-            "matchNumber": "Match 25",
+            "matchNumber": "Match 26",
             "seriesId": "12672",
             "seriesName": "ICC Women's T20 World Cup, 2026",
             "seriesShortName": "ICC WT20 World Cup, 2026",
@@ -84,33 +85,47 @@
             "tourName": "ICC Women's T20 World Cup, 2026",
             "competitionType": "T20 International - w",
             "competitionTypeId": "13",
-            "seoName": "sri-lanka-vs-scotland",
+            "seoName": "pakistan-vs-netherlands",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "69a35edc-48cb-4981-af9f-e723ef382914",
+          "_entityId": "858fe544-cb55-4c2d-b5c5-14b4a1821473",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-urdu",
+          "title": "match-stream-lang-urdu",
+          "slug": "match-stream-lang-urdu",
+          "neutralSlug": "match-stream-lang-urdu",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Urdu",
+            "tagType": "language"
+          },
+          "fields": []
         }
       ],
       "fields": {
-        "videoId": "b4a6a7ac-aeb8-4fe5-bbca-4d27df09d7fa",
+        "videoId": "945df4ee-cc15-4e82-be0c-9580170de707",
         "workflow": "LIVE",
-        "videoStatus": "Live",
+        "videoStatus": "Scheduled",
         "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-06-26T17:00:00Z",
+        "scheduledStartTime": "2026-06-27T09:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_SLvSCO_3x4_Eng",
-            "slug": "icc26-icctv-slvsco-3x4-eng",
+            "title": "ICC26_ICCtv_PAKvNED_3x4_Urdu",
+            "slug": "icc26-icctv-pakvned-3x4-urdu",
             "format": "png",
-            "id": "65582f9a-72f0-440a-a2a7-8926af25d525",
-            "entityId": "746f1dea-0ab7-4b19-a35d-42bffdf9742a",
+            "id": "df2c45a6-9994-4083-9bee-c985630680a4",
+            "entityId": "f11ca8f7-fcf4-40f7-930c-9cbee27b51c8",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jfacsuv6d9hdru1csmnm",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/jfacsuv6d9hdru1csmnm"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jgxgelbgczppjdowkr5p",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/jgxgelbgczppjdowkr5p"
           }
         ],
         "countryRestrictions": {
@@ -234,52 +249,20 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-26T16:43:52.332Z",
-      "contentDate": "2026-06-26T13:55:00Z",
+      "lastUpdatedBy": "Jenish Kingsely",
+      "lastUpdatedDate": "2026-06-27T07:37:49.673Z",
+      "contentDate": "2026-06-27T07:37:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "Match 25",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/w7jnrp99qdsgmpulvh7n",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/w7jnrp99qdsgmpulvh7n",
-        "format": "jpg",
+        "title": "Urdu16x9_PAKvNED",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kli4hvdymx6hfafomkbr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kli4hvdymx6hfafomkbr",
+        "format": "png",
         "overriddenFormats": [],
-        "slug": "match-25",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-25"
+        "slug": "urdu16x9-pakvned",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/urdu16x9-pakvned"
       },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, June 26, 2026, 10:15:02 PM",
-        "expire_date": "Saturday, June 27, 2026, 6:15:07 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782521107~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=095c5ca2eba5b2c78d91c8b0d50c386c6c3c89bc3644290e522f047daf8c78be/manifest.mpd?vcfilter=b4a6a7ac-aeb8-4fe5-bbca-4d27df09d7fa&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
+      "entityCode": "video"
     }
-  ],
-  "upcoming": []
+  ]
 }
