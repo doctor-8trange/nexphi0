@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:06 PM 27-06-2026",
-  "total_matches": 1,
-  "live_matches": 1,
+  "last_updated": "06:45:06 PM 27-06-2026",
+  "total_matches": 2,
+  "live_matches": 2,
   "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -234,9 +234,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-27T12:42:01.806Z",
-      "contentDate": "2026-06-15T10:01:21.606Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-06-27T12:50:31.156Z",
+      "contentDate": "2026-06-27T12:50:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 27",
@@ -265,6 +265,139 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782593106~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=113953a3a50d3900d70151594221c09583bc681c09308d041779626d0dc047dc/manifest.mpd?vcfilter=3aac4ef3-0a03-460b-a45c-ecc360c0edaf&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6613dbd8-eac8-4781-b065-d40cf90dab9d",
+      "_entityId": "46f6c932-7161-445e-82be-1f0a1dbbf207",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/panama-v-belize",
+      "slug": "panama-v-belize",
+      "title": "Bahamas v Belize",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4ea33695-0373-45e7-af7d-b4639e886196",
+          "_entityId": "a71e95e5-f9ad-45a7-8906-685b4127b0b2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271703",
+          "title": "Bahamas vs Belize - Match 1 - 6/21/2026",
+          "slug": "match-271703",
+          "neutralSlug": "match-271703",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271703",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271703",
+            "teamA": "Bahamas",
+            "teamB": "Belize",
+            "teamAid": "117",
+            "teamBid": "1868",
+            "teamAshort": "BAH",
+            "teamBshort": "BIZ",
+            "stage": "League",
+            "matchDateLocal": "6/21/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahamas-vs-belize",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5da0786d-697d-48da-b38b-ee28be916791",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-27T13:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-27T13:10:33.651Z",
+      "contentDate": "2026-06-19T13:37:58.827Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lhdv7ux3gty9dhybkixg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lhdv7ux3gty9dhybkixg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, June 27, 2026, 6:45:02 PM",
+        "expire_date": "Sunday, June 28, 2026, 2:45:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782594907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a268cfd1272019b8f1fbcf539acf62c9a420fefe7d96a0d78485944b107364d5/manifest.mpd?vcfilter=5da0786d-697d-48da-b38b-ee28be916791&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
