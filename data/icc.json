@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:45:02 PM 27-06-2026",
-  "total_matches": 1,
-  "live_matches": 1,
+  "last_updated": "11:15:06 PM 27-06-2026",
+  "total_matches": 2,
+  "live_matches": 2,
   "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -235,8 +235,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-06-27T16:44:52.358Z",
-      "contentDate": "2026-06-27T16:44:00Z",
+      "lastUpdatedDate": "2026-06-27T17:25:00.404Z",
+      "contentDate": "2026-06-27T17:24:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "Match 28",
@@ -265,6 +265,139 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782607507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5546513bd8a5ecfd725dfcc694412e5a0d096294b3e0849eb94a4b6498b57419/manifest.mpd?vcfilter=d4a086c7-6d05-46b0-96f2-5b207c0fab72&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ade5e55a-27f8-4fd2-80c7-d1594340d584",
+      "_entityId": "4008a902-1a52-437b-b1bb-c4aecdc71f22",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahamas-v-bermuda",
+      "slug": "bahamas-v-bermuda",
+      "title": "Bermuda v Brazil",
+      "tags": [
+        {
+          "_translationId": "e0b4a101-b036-4111-9e27-519da5749068",
+          "_entityId": "33e58767-c43b-4d1b-b3a8-4aea2de2257c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15645",
+          "title": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+          "slug": "tournament-15645",
+          "neutralSlug": "tournament-15645",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15645",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15645",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6be989c5-92b9-4eeb-9bd0-92688655c7f1",
+          "_entityId": "651807af-a0ec-48f4-9f66-5a7c4c343090",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271704",
+          "title": "Bermuda vs Brazil - Match 2 - 6/21/2026",
+          "slug": "match-271704",
+          "neutralSlug": "match-271704",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271704",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271704",
+            "teamA": "Bermuda",
+            "teamB": "Brazil",
+            "teamAid": "11",
+            "teamBid": "1861",
+            "teamAshort": "BER",
+            "teamBshort": "BRA",
+            "stage": "League",
+            "matchDateLocal": "6/21/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15645",
+            "seriesName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 WC Americas Sub-Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12599",
+            "tourName": "ICC Men's T20 World Cup Americas Sub-Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bermuda-vs-brazil",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1390d981-dd76-49c0-9a7b-506a6c246577",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-27T18:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-27T17:40:28.556Z",
+      "contentDate": "2026-06-19T13:38:18.763Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-AME-Qual-A_M2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/waxeuzeeuednmcufxaqy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/waxeuzeeuednmcufxaqy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-ame-qual-a-m2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-ame-qual-a-m2"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, June 27, 2026, 11:15:02 PM",
+        "expire_date": "Sunday, June 28, 2026, 7:15:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782611107~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b6d27ab4d0b3d6237effa94af054522dc770a0a411d465b7b6faaaf1202e650a/manifest.mpd?vcfilter=1390d981-dd76-49c0-9a7b-506a6c246577&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
