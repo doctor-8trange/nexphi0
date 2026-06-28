@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 28-06-2026 22:30
+#DATE:- 29-06-2026 01:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gm7c2q1po1ezvvo3wa1w" tvg-lang="English" group-title="Cricket",English | WT20: Australia v India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782679507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d27ee8d7d368c85b0a289706f62bd4a7ce226ca4a8a3e39239480f510cc968b/manifest.mpd?vcfilter=7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6&
