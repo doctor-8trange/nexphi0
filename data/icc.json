@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:13 PM 28-06-2026",
-  "total_matches": 5,
-  "live_matches": 5,
+  "last_updated": "06:30:02 PM 28-06-2026",
+  "total_matches": 3,
+  "live_matches": 3,
   "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -24,541 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "8d000b79-4d61-432f-8979-3b0f39980332",
-      "_entityId": "c183d371-b045-46ce-88f4-8ca08ea63df8",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-south-africa-v-bangladesh",
-      "slug": "wt20-south-africa-v-bangladesh",
-      "title": "WT20: South Africa v Bangladesh",
-      "tags": [
-        {
-          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
-          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
-          "title": "ICC Women's T20 World Cup, 2026",
-          "slug": "tournament-12672",
-          "neutralSlug": "tournament-12672",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-12672",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "12672",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "773d3fba-3ebe-45e4-8ec8-693cd1bf7a60",
-          "_entityId": "7fc830a3-9826-436c-9606-50a1e870d252",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262346",
-          "title": "South Africa vs Bangladesh - Match 29 - 6/28/2026",
-          "slug": "match-262346",
-          "neutralSlug": "match-262346",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-262346",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "262346",
-            "teamA": "South Africa",
-            "teamB": "Bangladesh",
-            "teamAid": "1131",
-            "teamBid": "1276",
-            "teamAshort": "SA",
-            "teamBshort": "BAN",
-            "stage": "Group",
-            "matchDateLocal": "6/28/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 29",
-            "seriesId": "12672",
-            "seriesName": "ICC Women's T20 World Cup, 2026",
-            "seriesShortName": "ICC WT20 World Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "9293",
-            "tourName": "ICC Women's T20 World Cup, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "south-africa-vs-bangladesh",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7a0b0335-adc6-44f0-90c3-7ee0376fcefa",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "16200000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-28T09:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "thumbnail_3_4": [
-          {
-            "title": "ICC26_ICCtv_SAvBAN_3x4_Eng",
-            "slug": "icc26-icctv-savban-3x4-eng",
-            "format": "png",
-            "id": "eb9cca09-4265-4c88-9eb2-030c7c9c9d45",
-            "entityId": "cf5e4480-e442-4d93-8af4-919dc294d48f",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/w1ngsjktrkm0kkk2u32g",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/w1ngsjktrkm0kkk2u32g"
-          }
-        ],
-        "countryRestrictions": {
-          "countries": [
-            "AF",
-            "AX",
-            "AL",
-            "AS",
-            "AD",
-            "AI",
-            "AQ",
-            "AM",
-            "AT",
-            "AZ",
-            "BD",
-            "BY",
-            "BE",
-            "BT",
-            "BA",
-            "BV",
-            "IO",
-            "BN",
-            "BG",
-            "KH",
-            "CN",
-            "CX",
-            "CK",
-            "HR",
-            "CY",
-            "CZ",
-            "DK",
-            "EE",
-            "FO",
-            "FJ",
-            "FI",
-            "FR",
-            "PF",
-            "TF",
-            "GE",
-            "DE",
-            "GR",
-            "GL",
-            "GU",
-            "GG",
-            "HM",
-            "VA",
-            "HK",
-            "HU",
-            "IS",
-            "ID",
-            "IT",
-            "JP",
-            "KZ",
-            "KI",
-            "KG",
-            "LA",
-            "LV",
-            "LI",
-            "LT",
-            "LU",
-            "MO",
-            "MK",
-            "MY",
-            "MV",
-            "MT",
-            "MH",
-            "FM",
-            "MD",
-            "MC",
-            "MN",
-            "ME",
-            "MM",
-            "NR",
-            "NP",
-            "NL",
-            "NC",
-            "NU",
-            "NF",
-            "MP",
-            "NO",
-            "KP",
-            "KR",
-            "PW",
-            "PG",
-            "PH",
-            "PN",
-            "PL",
-            "PT",
-            "XK",
-            "RO",
-            "RU",
-            "WS",
-            "SM",
-            "RS",
-            "SG",
-            "SK",
-            "SI",
-            "SB",
-            "ES",
-            "SJ",
-            "SE",
-            "CH",
-            "TW",
-            "TJ",
-            "TH",
-            "TL",
-            "TK",
-            "TO",
-            "TN",
-            "TR",
-            "TM",
-            "TV",
-            "UA",
-            "UZ",
-            "VU",
-            "VN",
-            "WF",
-            "CC"
-          ],
-          "listType": "whitelist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-28T08:42:08.496Z",
-      "contentDate": "2026-06-28T08:42:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Match 29",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/z3rkthnbpjsdqtw7tlfo",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z3rkthnbpjsdqtw7tlfo",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "match-29",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-29"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, June 28, 2026, 2:15:02 PM",
-        "expire_date": "Sunday, June 28, 2026, 10:15:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782665108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6ffb7011799fd06495a5e61e543280a597965c97a195b0d0a7771bfd4a94f2b8/manifest.mpd?vcfilter=7a0b0335-adc6-44f0-90c3-7ee0376fcefa&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "c74575bf-acf4-442c-9a39-2254abeea733",
-      "_entityId": "23195ff5-4600-48a7-aaab-1eb5f7b1292c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-south-africa-v-bangladesh-bengali",
-      "slug": "wt20-south-africa-v-bangladesh-bengali",
-      "title": "WT20: South Africa v Bangladesh (BENGALI)",
-      "tags": [
-        {
-          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
-          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
-          "title": "ICC Women's T20 World Cup, 2026",
-          "slug": "tournament-12672",
-          "neutralSlug": "tournament-12672",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-12672",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "12672",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "773d3fba-3ebe-45e4-8ec8-693cd1bf7a60",
-          "_entityId": "7fc830a3-9826-436c-9606-50a1e870d252",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262346",
-          "title": "South Africa vs Bangladesh - Match 29 - 6/28/2026",
-          "slug": "match-262346",
-          "neutralSlug": "match-262346",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-262346",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "262346",
-            "teamA": "South Africa",
-            "teamB": "Bangladesh",
-            "teamAid": "1131",
-            "teamBid": "1276",
-            "teamAshort": "SA",
-            "teamBshort": "BAN",
-            "stage": "Group",
-            "matchDateLocal": "6/28/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 29",
-            "seriesId": "12672",
-            "seriesName": "ICC Women's T20 World Cup, 2026",
-            "seriesShortName": "ICC WT20 World Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "9293",
-            "tourName": "ICC Women's T20 World Cup, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "south-africa-vs-bangladesh",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "dc70c54e-6dad-4c51-981b-e0449f3c6bda",
-          "_entityId": "87c2875b-7190-414a-9914-a5490d1df6ce",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-bengali",
-          "title": "match-stream-lang-bengali",
-          "slug": "match-stream-lang-bengali",
-          "neutralSlug": "match-stream-lang-bengali",
-          "externalSourceReference": [],
-          "extraData": {
-            "text": "Bengali",
-            "tagType": "language"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "111ef70c-45ce-4da7-9080-776ced4ce100",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "16200000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-28T09:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "thumbnail_3_4": [
-          {
-            "title": "ICC26_ICCtv_SAvBAN_3x4_Bengali",
-            "slug": "icc26-icctv-savban-3x4-bengali",
-            "format": "png",
-            "id": "6bae0d4d-1813-446d-b961-8e17c7f3793b",
-            "entityId": "226c0d02-5bab-4cfc-b8fb-462be73c894d",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wlhyzbygd3i5af9sbfit",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/wlhyzbygd3i5af9sbfit"
-          }
-        ],
-        "countryRestrictions": {
-          "countries": [
-            "AF",
-            "AX",
-            "AL",
-            "AS",
-            "AD",
-            "AI",
-            "AQ",
-            "AM",
-            "AT",
-            "AZ",
-            "BD",
-            "BY",
-            "BE",
-            "BT",
-            "BA",
-            "BV",
-            "IO",
-            "BN",
-            "BG",
-            "KH",
-            "CN",
-            "CX",
-            "CK",
-            "HR",
-            "CY",
-            "CZ",
-            "DK",
-            "EE",
-            "FO",
-            "FJ",
-            "FI",
-            "FR",
-            "PF",
-            "TF",
-            "GE",
-            "DE",
-            "GR",
-            "GL",
-            "GU",
-            "GG",
-            "HM",
-            "VA",
-            "HK",
-            "HU",
-            "IS",
-            "ID",
-            "IT",
-            "JP",
-            "KZ",
-            "KI",
-            "KG",
-            "LA",
-            "LV",
-            "LI",
-            "LT",
-            "LU",
-            "MO",
-            "MK",
-            "MY",
-            "MV",
-            "MT",
-            "MH",
-            "FM",
-            "MD",
-            "MC",
-            "MN",
-            "ME",
-            "MM",
-            "NR",
-            "NP",
-            "NL",
-            "NC",
-            "NU",
-            "NF",
-            "MP",
-            "NO",
-            "KP",
-            "KR",
-            "PW",
-            "PG",
-            "PH",
-            "PN",
-            "PL",
-            "PT",
-            "XK",
-            "RO",
-            "RU",
-            "WS",
-            "SM",
-            "RS",
-            "SG",
-            "SK",
-            "SI",
-            "SB",
-            "ES",
-            "SJ",
-            "SE",
-            "CH",
-            "TW",
-            "TJ",
-            "TH",
-            "TL",
-            "TK",
-            "TO",
-            "TN",
-            "TR",
-            "TM",
-            "TV",
-            "UA",
-            "UZ",
-            "VU",
-            "VN",
-            "WF",
-            "CC"
-          ],
-          "listType": "whitelist"
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-28T08:41:38.499Z",
-      "contentDate": "2026-06-28T08:41:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "SAvBAN",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qnmco4kbljko1cale6gv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qnmco4kbljko1cale6gv",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "savban",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/savban"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, June 28, 2026, 2:15:07 PM",
-        "expire_date": "Sunday, June 28, 2026, 10:15:12 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782665112~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e2af5a400623af7c1346daff310afd0c39ee3845559b5af8dd864b4bfba9f318/manifest.mpd?vcfilter=111ef70c-45ce-4da7-9080-776ced4ce100&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "531da9dd-3e28-4770-b2a1-035b83d1843a",
-      "_entityId": "cf06bf30-2021-4cd1-9ba7-37e6685efd3d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-australia-v-india",
-      "slug": "wt20-australia-v-india",
-      "title": "WT20: Australia v India",
+      "_translationId": "a059bbc4-9468-4e2c-abac-218e26b856a1",
+      "_entityId": "6b44d6b5-7151-4bb1-ab1c-14a113ae4c5f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-australia-v-india-hindi",
+      "slug": "wt20-australia-v-india-hindi",
+      "title": "WT20: Australia v India (HINDI)",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -620,10 +90,24 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "4920adc7-fc5b-4427-a144-9abc9c1a9638",
+          "_entityId": "ce8e186a-32cc-4f9a-99b5-3ee73e93427c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-hindi",
+          "title": "match-stream-lang-hindi",
+          "slug": "match-stream-lang-hindi",
+          "neutralSlug": "match-stream-lang-hindi",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Hindi",
+            "tagType": "language"
+          },
+          "fields": []
         }
       ],
       "fields": {
-        "videoId": "7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6",
+        "videoId": "34fb26db-715e-49f2-b1de-bf5871e124d9",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
@@ -633,14 +117,14 @@
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_AUSvIND_3x4_Eng",
-            "slug": "icc26-icctv-ausvind-3x4-eng",
+            "title": "ICC26_ICCtv_AUSvIND_3x4_Hindi",
+            "slug": "icc26-icctv-ausvind-3x4-hindi",
             "format": "png",
-            "id": "9389ae94-4f11-40cd-aa8d-293b2e141a8c",
-            "entityId": "150a30bc-65c1-497b-bf5c-3310b9d2751f",
+            "id": "949e1f45-775e-4b06-b970-203df36c7767",
+            "entityId": "b0d8bcf8-2d9a-4050-a8e7-db9ddba6b65a",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gfk8vmtdhkbyheevywix",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/gfk8vmtdhkbyheevywix"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mvqzcsntrbbnphb0w3hi",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/mvqzcsntrbbnphb0w3hi"
           }
         ],
         "countryRestrictions": {
@@ -764,24 +248,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-28T12:40:07.931Z",
-      "contentDate": "2026-06-28T12:20:00Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-28T12:47:26.906Z",
+      "contentDate": "2026-06-28T12:47:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "Match 30",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gm7c2q1po1ezvvo3wa1w",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gm7c2q1po1ezvvo3wa1w",
+        "title": "AUS v IND",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yaesl8d1ha0kr31udgmb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yaesl8d1ha0kr31udgmb",
         "format": "jpg",
         "overriddenFormats": [],
-        "slug": "match-30",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-30"
+        "slug": "aus-v-ind-x5180",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/aus-v-ind-x5180"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, June 28, 2026, 6:15:02 PM",
-        "expire_date": "Monday, June 29, 2026, 2:15:07 AM",
+        "create_date": "Sunday, June 28, 2026, 6:15:10 PM",
+        "expire_date": "Monday, June 29, 2026, 2:15:14 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
           "Referer: https://www.icc-cricket.com/",
@@ -794,7 +278,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782679507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d27ee8d7d368c85b0a289706f62bd4a7ce226ca4a8a3e39239480f510cc968b/manifest.mpd?vcfilter=7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782679514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c52cab6697c2d00db5636d175966ea59600076bcfc6865347978608dd957e87b/manifest.mpd?vcfilter=34fb26db-715e-49f2-b1de-bf5871e124d9&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -1036,9 +520,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-28T12:39:28.937Z",
-      "contentDate": "2026-06-28T12:18:00Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-28T12:47:09.476Z",
+      "contentDate": "2026-06-28T12:47:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "AUSvIND 16x9",
@@ -1084,11 +568,11 @@
     },
     {
       "type": "customentity",
-      "_translationId": "a059bbc4-9468-4e2c-abac-218e26b856a1",
-      "_entityId": "6b44d6b5-7151-4bb1-ab1c-14a113ae4c5f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-australia-v-india-hindi",
-      "slug": "wt20-australia-v-india-hindi",
-      "title": "WT20: Australia v India (HINDI)",
+      "_translationId": "531da9dd-3e28-4770-b2a1-035b83d1843a",
+      "_entityId": "cf06bf30-2021-4cd1-9ba7-37e6685efd3d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-australia-v-india",
+      "slug": "wt20-australia-v-india",
+      "title": "WT20: Australia v India",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -1150,24 +634,10 @@
             "externalTagType": "match"
           },
           "fields": []
-        },
-        {
-          "_translationId": "4920adc7-fc5b-4427-a144-9abc9c1a9638",
-          "_entityId": "ce8e186a-32cc-4f9a-99b5-3ee73e93427c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-hindi",
-          "title": "match-stream-lang-hindi",
-          "slug": "match-stream-lang-hindi",
-          "neutralSlug": "match-stream-lang-hindi",
-          "externalSourceReference": [],
-          "extraData": {
-            "text": "Hindi",
-            "tagType": "language"
-          },
-          "fields": []
         }
       ],
       "fields": {
-        "videoId": "34fb26db-715e-49f2-b1de-bf5871e124d9",
+        "videoId": "7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
@@ -1177,14 +647,14 @@
         "type": "Event",
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_AUSvIND_3x4_Hindi",
-            "slug": "icc26-icctv-ausvind-3x4-hindi",
+            "title": "ICC26_ICCtv_AUSvIND_3x4_Eng",
+            "slug": "icc26-icctv-ausvind-3x4-eng",
             "format": "png",
-            "id": "949e1f45-775e-4b06-b970-203df36c7767",
-            "entityId": "b0d8bcf8-2d9a-4050-a8e7-db9ddba6b65a",
+            "id": "9389ae94-4f11-40cd-aa8d-293b2e141a8c",
+            "entityId": "150a30bc-65c1-497b-bf5c-3310b9d2751f",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mvqzcsntrbbnphb0w3hi",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/mvqzcsntrbbnphb0w3hi"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gfk8vmtdhkbyheevywix",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/gfk8vmtdhkbyheevywix"
           }
         ],
         "countryRestrictions": {
@@ -1308,24 +778,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-28T12:39:45.272Z",
-      "contentDate": "2026-06-28T12:17:00Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-06-28T12:47:52.773Z",
+      "contentDate": "2026-06-28T12:47:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "AUS v IND",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yaesl8d1ha0kr31udgmb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yaesl8d1ha0kr31udgmb",
+        "title": "Match 30",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gm7c2q1po1ezvvo3wa1w",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gm7c2q1po1ezvvo3wa1w",
         "format": "jpg",
         "overriddenFormats": [],
-        "slug": "aus-v-ind-x5180",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/aus-v-ind-x5180"
+        "slug": "match-30",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-30"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, June 28, 2026, 6:15:10 PM",
-        "expire_date": "Monday, June 29, 2026, 2:15:14 AM",
+        "create_date": "Sunday, June 28, 2026, 6:15:02 PM",
+        "expire_date": "Monday, June 29, 2026, 2:15:07 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
           "Referer: https://www.icc-cricket.com/",
@@ -1338,7 +808,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782679514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c52cab6697c2d00db5636d175966ea59600076bcfc6865347978608dd957e87b/manifest.mpd?vcfilter=34fb26db-715e-49f2-b1de-bf5871e124d9&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782679507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d27ee8d7d368c85b0a289706f62bd4a7ce226ca4a8a3e39239480f510cc968b/manifest.mpd?vcfilter=7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
