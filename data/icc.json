@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:00:02 PM 28-06-2026",
+  "last_updated": "06:15:13 PM 28-06-2026",
   "total_matches": 5,
-  "live_matches": 2,
-  "upcoming_matches": 3,
+  "live_matches": 5,
+  "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -551,9 +551,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "531da9dd-3e28-4770-b2a1-035b83d1843a",
@@ -627,7 +625,7 @@
       "fields": {
         "videoId": "7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-28T13:00:00Z",
@@ -766,8 +764,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-28T12:20:32.716Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-28T12:40:07.931Z",
       "contentDate": "2026-06-28T12:20:00Z",
       "featured": 0,
       "thumbnail": {
@@ -779,7 +777,38 @@
         "slug": "match-30",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-30"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, June 28, 2026, 6:15:02 PM",
+        "expire_date": "Monday, June 29, 2026, 2:15:07 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782679507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d27ee8d7d368c85b0a289706f62bd4a7ce226ca4a8a3e39239480f510cc968b/manifest.mpd?vcfilter=7052e19b-c04d-40e1-b0c7-dc4c2d3f8bf6&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -868,7 +897,7 @@
       "fields": {
         "videoId": "8aec3c3a-cc20-48bf-82ef-8e2adbf1c2ed",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-28T13:00:00Z",
@@ -1007,8 +1036,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-28T12:18:59.511Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-28T12:39:28.937Z",
       "contentDate": "2026-06-28T12:18:00Z",
       "featured": 0,
       "thumbnail": {
@@ -1020,7 +1049,38 @@
         "slug": "ausvind-16x9",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/ausvind-16x9"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, June 28, 2026, 6:15:06 PM",
+        "expire_date": "Monday, June 29, 2026, 2:15:11 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1782679511~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8a17135c8ebc7cb986dfcdd30059f98af6699e594dcf2b1f7810cf49b6a46201/manifest.mpd?vcfilter=8aec3c3a-cc20-48bf-82ef-8e2adbf1c2ed&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -1109,7 +1169,7 @@
       "fields": {
         "videoId": "34fb26db-715e-49f2-b1de-bf5871e124d9",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-28T13:00:00Z",
@@ -1248,8 +1308,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Jenish Kingsely",
-      "lastUpdatedDate": "2026-06-28T12:17:43.85Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-28T12:39:45.272Z",
       "contentDate": "2026-06-28T12:17:00Z",
       "featured": 0,
       "thumbnail": {
@@ -1261,7 +1321,39 @@
         "slug": "aus-v-ind-x5180",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/aus-v-ind-x5180"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, June 28, 2026, 6:15:10 PM",
+        "expire_date": "Monday, June 29, 2026, 2:15:14 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782679514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c52cab6697c2d00db5636d175966ea59600076bcfc6865347978608dd957e87b/manifest.mpd?vcfilter=34fb26db-715e-49f2-b1de-bf5871e124d9&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
-  ]
+  ],
+  "upcoming": []
 }
