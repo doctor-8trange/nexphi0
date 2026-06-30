@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:18 PM 30-06-2026",
+  "last_updated": "06:30:07 PM 30-06-2026",
   "total_matches": 18,
-  "live_matches": 4,
-  "upcoming_matches": 14,
+  "live_matches": 5,
+  "upcoming_matches": 13,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "980b5bd2-d1be-46d7-a73a-5ea096a945a3",
-      "_entityId": "5c3aeb61-1ddb-41be-be46-6484f184d63d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies-bengali",
-      "slug": "wt20-semi-final-1-australia-v-west-indies-bengali",
-      "title": "WT20: Semi-Final 1: Australia v West Indies (BENGALI)",
+      "_translationId": "2451401b-af53-4672-915f-2ef504f99895",
+      "_entityId": "b854e2dc-a283-4e35-bab1-425a0d0a2b21",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies",
+      "slug": "wt20-semi-final-1-australia-v-west-indies",
+      "title": "WT20: Semi-Final 1: Australia v West Indies",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -90,24 +90,10 @@
             "externalTagType": "match"
           },
           "fields": []
-        },
-        {
-          "_translationId": "dc70c54e-6dad-4c51-981b-e0449f3c6bda",
-          "_entityId": "87c2875b-7190-414a-9914-a5490d1df6ce",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-bengali",
-          "title": "match-stream-lang-bengali",
-          "slug": "match-stream-lang-bengali",
-          "neutralSlug": "match-stream-lang-bengali",
-          "externalSourceReference": [],
-          "extraData": {
-            "text": "Bengali",
-            "tagType": "language"
-          },
-          "fields": []
         }
       ],
       "fields": {
-        "videoId": "55d03080-6c4a-44b5-9b61-79ef42c167a5",
+        "videoId": "ef417377-b53d-4de2-b1d8-b3f61993742b",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "16200000",
@@ -116,7 +102,6 @@
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
-          "listType": "whitelist",
           "countries": [
             "AF",
             "AX",
@@ -140,7 +125,6 @@
             "KH",
             "CN",
             "CX",
-            "CC",
             "CK",
             "HR",
             "CY",
@@ -193,10 +177,10 @@
             "NC",
             "NU",
             "NF",
-            "KP",
-            "KR",
             "MP",
             "NO",
+            "KP",
+            "KR",
             "PW",
             "PG",
             "PH",
@@ -231,313 +215,43 @@
             "UZ",
             "VU",
             "VN",
-            "WF"
-          ]
-        },
-        "thumbnail_3_4": [
-          {
-            "title": "ICC26_ICCtv_SF1-BENGALI_3x4",
-            "slug": "icc26-icctv-sf1-bengali-3x4",
-            "format": "png",
-            "id": "a65790cb-2711-45f3-8d90-9d4d124b9c7e",
-            "entityId": "d4694e0c-61cb-4439-8a94-dd2f4c404270",
-            "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gkz2kj7pftqj3xekke2j",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/gkz2kj7pftqj3xekke2j"
-          }
-        ]
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-30T12:40:42.823Z",
-      "contentDate": "2026-06-30T12:25:01.013Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_ICCtv_SF1-BENGALI",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u8vhhsxnv4kgodmbecn9",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u8vhhsxnv4kgodmbecn9",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-icctv-sf1-bengali",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-bengali"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, June 30, 2026, 6:15:02 PM",
-        "expire_date": "Wednesday, July 1, 2026, 2:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782852309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d1bcb1a842cc2da3f37cf9f630594a566f2623a83f576570fc83c08871f0a03/manifest.mpd?vcfilter=55d03080-6c4a-44b5-9b61-79ef42c167a5&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "39e1bf5c-4c75-431f-8ab2-161d3efcf969",
-      "_entityId": "f9cd9da5-bf3f-4b4b-8bc7-b02931302435",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies-urdu",
-      "slug": "wt20-semi-final-1-australia-v-west-indies-urdu",
-      "title": "WT20: Semi-Final 1: Australia v West Indies (URDU)",
-      "tags": [
-        {
-          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
-          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
-          "title": "ICC Women's T20 World Cup, 2026",
-          "slug": "tournament-12672",
-          "neutralSlug": "tournament-12672",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-12672",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "12672",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "91b611c3-cd9f-4482-a82f-d1f1f77c3aa3",
-          "_entityId": "4080be33-d6d7-4ed5-9c58-82edaf3eada3",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262348",
-          "title": "T.B.C. vs T.B.C. - 1st Semi-Final - 6/30/2026",
-          "slug": "match-262348",
-          "neutralSlug": "match-262348",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-262348",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "262348",
-            "teamA": "T.B.C.",
-            "teamB": "T.B.C.",
-            "teamAid": "",
-            "teamBid": "",
-            "teamAshort": "TBC",
-            "teamBshort": "TBC",
-            "stage": "Semi Final",
-            "matchDateLocal": "6/30/2026",
-            "matchType": "T20",
-            "matchNumber": "1st Semi-Final",
-            "seriesId": "12672",
-            "seriesName": "ICC Women's T20 World Cup, 2026",
-            "seriesShortName": "ICC WT20 World Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "9293",
-            "tourName": "ICC Women's T20 World Cup, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "t-b-c-vs-t-b-c-",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "69a35edc-48cb-4981-af9f-e723ef382914",
-          "_entityId": "858fe544-cb55-4c2d-b5c5-14b4a1821473",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-urdu",
-          "title": "match-stream-lang-urdu",
-          "slug": "match-stream-lang-urdu",
-          "neutralSlug": "match-stream-lang-urdu",
-          "externalSourceReference": [],
-          "extraData": {
-            "text": "Urdu",
-            "tagType": "language"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2c85f142-6039-4d09-9bf7-6fdb29894b68",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "16200000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-06-30T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "countries": [
-            "AF",
-            "AX",
-            "AL",
-            "AS",
-            "AD",
-            "AI",
-            "AQ",
-            "AM",
-            "AT",
-            "AZ",
-            "BD",
-            "BY",
-            "BE",
-            "BT",
-            "BA",
-            "BV",
-            "IO",
-            "BN",
-            "BG",
-            "KH",
-            "CN",
-            "CX",
-            "CC",
-            "CK",
-            "HR",
-            "CY",
-            "CZ",
-            "DK",
-            "EE",
-            "FO",
-            "FJ",
-            "FI",
-            "FR",
-            "PF",
-            "TF",
-            "GE",
-            "DE",
-            "GR",
-            "GL",
-            "GU",
-            "GG",
-            "HM",
-            "VA",
-            "HK",
-            "HU",
-            "IS",
-            "ID",
-            "IT",
-            "JP",
-            "KZ",
-            "KI",
-            "KG",
-            "LA",
-            "LV",
-            "LI",
-            "LT",
-            "LU",
-            "MO",
-            "MK",
-            "MY",
-            "MV",
-            "MT",
-            "MH",
-            "FM",
-            "MD",
-            "MC",
-            "MN",
-            "ME",
-            "MM",
-            "NR",
-            "NP",
-            "NL",
-            "NC",
-            "NU",
-            "NF",
-            "KP",
-            "KR",
-            "MP",
-            "NO",
-            "PW",
-            "PG",
-            "PH",
-            "PN",
-            "PL",
-            "PT",
-            "XK",
-            "RO",
-            "RU",
-            "WS",
-            "SM",
-            "RS",
-            "SG",
-            "SK",
-            "SI",
-            "SB",
-            "ES",
-            "SJ",
-            "SE",
-            "CH",
-            "TW",
-            "TJ",
-            "TH",
-            "TL",
-            "TK",
-            "TO",
-            "TN",
-            "TR",
-            "TM",
-            "TV",
-            "UA",
-            "UZ",
-            "VU",
-            "VN",
-            "WF"
+            "WF",
+            "CC"
           ],
           "listType": "whitelist"
         },
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_SF1-URDU_3x4",
-            "slug": "icc26-icctv-sf1-urdu-3x4",
+            "title": "ICC26_ICCtv_SF1-ENGLISH_3x4",
+            "slug": "icc26-icctv-sf1-english-3x4",
             "format": "png",
-            "id": "029778ad-a5bb-474c-b55e-d9abeaa7dea1",
-            "entityId": "48d6ef02-555f-48a8-b341-c2dd600efc8f",
+            "id": "0e816b2d-9722-434d-836d-0f412cc4c5f5",
+            "entityId": "3ee23917-33d8-401c-8118-015749b2393d",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uwiagjh9kvgvqb18ejty",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/uwiagjh9kvgvqb18ejty"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u0o7okpbtqulx38cgc17",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/u0o7okpbtqulx38cgc17"
           }
         ]
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-30T12:41:00.218Z",
-      "contentDate": "2026-06-28T19:41:25.165Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-06-30T12:46:37.637Z",
+      "contentDate": "2026-06-30T12:46:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_ICCtv_SF1-URDU",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ious1zmx4qahuspthti4",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ious1zmx4qahuspthti4",
+        "title": "ICC26_ICCtv_SF1-ENGLISH",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ssgv8ujoabqfjeahql5g",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ssgv8ujoabqfjeahql5g",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-icctv-sf1-urdu",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-urdu"
+        "slug": "icc26-icctv-sf1-english",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-english"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Tuesday, June 30, 2026, 6:15:07 PM",
-        "expire_date": "Wednesday, July 1, 2026, 2:15:12 AM",
+        "create_date": "Tuesday, June 30, 2026, 6:15:14 PM",
+        "expire_date": "Wednesday, July 1, 2026, 2:15:20 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
           "Referer: https://www.icc-cricket.com/",
@@ -550,7 +264,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1782852312~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c69018e0fc7cb355f201fb3bd8bb08ffcd8963f52aa553e660bd380cf77a2053/manifest.mpd?vcfilter=2c85f142-6039-4d09-9bf7-6fdb29894b68&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782852320~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c10545ce14e2c27b39fb15da09862e70fd975b3719aa622e9dbcd96da6585a5d/manifest.mpd?vcfilter=ef417377-b53d-4de2-b1d8-b3f61993742b&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -792,9 +506,9 @@
         ]
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-30T12:41:20.219Z",
-      "contentDate": "2026-06-28T19:39:13.366Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-06-30T12:46:17.623Z",
+      "contentDate": "2026-06-30T12:46:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_ICCtv_SF1-HINDI",
@@ -840,11 +554,11 @@
     },
     {
       "type": "customentity",
-      "_translationId": "2451401b-af53-4672-915f-2ef504f99895",
-      "_entityId": "b854e2dc-a283-4e35-bab1-425a0d0a2b21",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies",
-      "slug": "wt20-semi-final-1-australia-v-west-indies",
-      "title": "WT20: Semi-Final 1: Australia v West Indies",
+      "_translationId": "39e1bf5c-4c75-431f-8ab2-161d3efcf969",
+      "_entityId": "f9cd9da5-bf3f-4b4b-8bc7-b02931302435",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies-urdu",
+      "slug": "wt20-semi-final-1-australia-v-west-indies-urdu",
+      "title": "WT20: Semi-Final 1: Australia v West Indies (URDU)",
       "tags": [
         {
           "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
@@ -906,10 +620,24 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "69a35edc-48cb-4981-af9f-e723ef382914",
+          "_entityId": "858fe544-cb55-4c2d-b5c5-14b4a1821473",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-urdu",
+          "title": "match-stream-lang-urdu",
+          "slug": "match-stream-lang-urdu",
+          "neutralSlug": "match-stream-lang-urdu",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Urdu",
+            "tagType": "language"
+          },
+          "fields": []
         }
       ],
       "fields": {
-        "videoId": "ef417377-b53d-4de2-b1d8-b3f61993742b",
+        "videoId": "2c85f142-6039-4d09-9bf7-6fdb29894b68",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "16200000",
@@ -941,6 +669,7 @@
             "KH",
             "CN",
             "CX",
+            "CC",
             "CK",
             "HR",
             "CY",
@@ -993,10 +722,10 @@
             "NC",
             "NU",
             "NF",
-            "MP",
-            "NO",
             "KP",
             "KR",
+            "MP",
+            "NO",
             "PW",
             "PG",
             "PH",
@@ -1031,43 +760,42 @@
             "UZ",
             "VU",
             "VN",
-            "WF",
-            "CC"
+            "WF"
           ],
           "listType": "whitelist"
         },
         "thumbnail_3_4": [
           {
-            "title": "ICC26_ICCtv_SF1-ENGLISH_3x4",
-            "slug": "icc26-icctv-sf1-english-3x4",
+            "title": "ICC26_ICCtv_SF1-URDU_3x4",
+            "slug": "icc26-icctv-sf1-urdu-3x4",
             "format": "png",
-            "id": "0e816b2d-9722-434d-836d-0f412cc4c5f5",
-            "entityId": "3ee23917-33d8-401c-8118-015749b2393d",
+            "id": "029778ad-a5bb-474c-b55e-d9abeaa7dea1",
+            "entityId": "48d6ef02-555f-48a8-b341-c2dd600efc8f",
             "stage": "png",
-            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u0o7okpbtqulx38cgc17",
-            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/u0o7okpbtqulx38cgc17"
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uwiagjh9kvgvqb18ejty",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/uwiagjh9kvgvqb18ejty"
           }
         ]
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-06-30T12:41:36.163Z",
-      "contentDate": "2026-06-28T19:37:28.06Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-06-30T12:45:53.179Z",
+      "contentDate": "2026-06-30T12:45:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_ICCtv_SF1-ENGLISH",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ssgv8ujoabqfjeahql5g",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ssgv8ujoabqfjeahql5g",
+        "title": "ICC26_ICCtv_SF1-URDU",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ious1zmx4qahuspthti4",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ious1zmx4qahuspthti4",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-icctv-sf1-english",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-english"
+        "slug": "icc26-icctv-sf1-urdu",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-urdu"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Tuesday, June 30, 2026, 6:15:14 PM",
-        "expire_date": "Wednesday, July 1, 2026, 2:15:20 AM",
+        "create_date": "Tuesday, June 30, 2026, 6:15:07 PM",
+        "expire_date": "Wednesday, July 1, 2026, 2:15:12 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
           "Referer: https://www.icc-cricket.com/",
@@ -1080,7 +808,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782852320~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c10545ce14e2c27b39fb15da09862e70fd975b3719aa622e9dbcd96da6585a5d/manifest.mpd?vcfilter=ef417377-b53d-4de2-b1d8-b3f61993742b&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1782852312~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c69018e0fc7cb355f201fb3bd8bb08ffcd8963f52aa553e660bd380cf77a2053/manifest.mpd?vcfilter=2c85f142-6039-4d09-9bf7-6fdb29894b68&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -1095,9 +823,279 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
+    {
+      "type": "customentity",
+      "_translationId": "980b5bd2-d1be-46d7-a73a-5ea096a945a3",
+      "_entityId": "5c3aeb61-1ddb-41be-be46-6484f184d63d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/wt20-semi-final-1-australia-v-west-indies-bengali",
+      "slug": "wt20-semi-final-1-australia-v-west-indies-bengali",
+      "title": "WT20: Semi-Final 1: Australia v West Indies (BENGALI)",
+      "tags": [
+        {
+          "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
+          "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
+          "title": "ICC Women's T20 World Cup, 2026",
+          "slug": "tournament-12672",
+          "neutralSlug": "tournament-12672",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-12672",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "12672",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "91b611c3-cd9f-4482-a82f-d1f1f77c3aa3",
+          "_entityId": "4080be33-d6d7-4ed5-9c58-82edaf3eada3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-262348",
+          "title": "T.B.C. vs T.B.C. - 1st Semi-Final - 6/30/2026",
+          "slug": "match-262348",
+          "neutralSlug": "match-262348",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-262348",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "262348",
+            "teamA": "T.B.C.",
+            "teamB": "T.B.C.",
+            "teamAid": "",
+            "teamBid": "",
+            "teamAshort": "TBC",
+            "teamBshort": "TBC",
+            "stage": "Semi Final",
+            "matchDateLocal": "6/30/2026",
+            "matchType": "T20",
+            "matchNumber": "1st Semi-Final",
+            "seriesId": "12672",
+            "seriesName": "ICC Women's T20 World Cup, 2026",
+            "seriesShortName": "ICC WT20 World Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "9293",
+            "tourName": "ICC Women's T20 World Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "t-b-c-vs-t-b-c-",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "dc70c54e-6dad-4c51-981b-e0449f3c6bda",
+          "_entityId": "87c2875b-7190-414a-9914-a5490d1df6ce",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-stream-lang-bengali",
+          "title": "match-stream-lang-bengali",
+          "slug": "match-stream-lang-bengali",
+          "neutralSlug": "match-stream-lang-bengali",
+          "externalSourceReference": [],
+          "extraData": {
+            "text": "Bengali",
+            "tagType": "language"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "55d03080-6c4a-44b5-9b61-79ef42c167a5",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "16200000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-06-30T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "whitelist",
+          "countries": [
+            "AF",
+            "AX",
+            "AL",
+            "AS",
+            "AD",
+            "AI",
+            "AQ",
+            "AM",
+            "AT",
+            "AZ",
+            "BD",
+            "BY",
+            "BE",
+            "BT",
+            "BA",
+            "BV",
+            "IO",
+            "BN",
+            "BG",
+            "KH",
+            "CN",
+            "CX",
+            "CC",
+            "CK",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EE",
+            "FO",
+            "FJ",
+            "FI",
+            "FR",
+            "PF",
+            "TF",
+            "GE",
+            "DE",
+            "GR",
+            "GL",
+            "GU",
+            "GG",
+            "HM",
+            "VA",
+            "HK",
+            "HU",
+            "IS",
+            "ID",
+            "IT",
+            "JP",
+            "KZ",
+            "KI",
+            "KG",
+            "LA",
+            "LV",
+            "LI",
+            "LT",
+            "LU",
+            "MO",
+            "MK",
+            "MY",
+            "MV",
+            "MT",
+            "MH",
+            "FM",
+            "MD",
+            "MC",
+            "MN",
+            "ME",
+            "MM",
+            "NR",
+            "NP",
+            "NL",
+            "NC",
+            "NU",
+            "NF",
+            "KP",
+            "KR",
+            "MP",
+            "NO",
+            "PW",
+            "PG",
+            "PH",
+            "PN",
+            "PL",
+            "PT",
+            "XK",
+            "RO",
+            "RU",
+            "WS",
+            "SM",
+            "RS",
+            "SG",
+            "SK",
+            "SI",
+            "SB",
+            "ES",
+            "SJ",
+            "SE",
+            "CH",
+            "TW",
+            "TJ",
+            "TH",
+            "TL",
+            "TK",
+            "TO",
+            "TN",
+            "TR",
+            "TM",
+            "TV",
+            "UA",
+            "UZ",
+            "VU",
+            "VN",
+            "WF"
+          ]
+        },
+        "thumbnail_3_4": [
+          {
+            "title": "ICC26_ICCtv_SF1-BENGALI_3x4",
+            "slug": "icc26-icctv-sf1-bengali-3x4",
+            "format": "png",
+            "id": "a65790cb-2711-45f3-8d90-9d4d124b9c7e",
+            "entityId": "d4694e0c-61cb-4439-8a94-dd2f4c404270",
+            "stage": "png",
+            "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gkz2kj7pftqj3xekke2j",
+            "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/gkz2kj7pftqj3xekke2j"
+          }
+        ]
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-06-30T12:45:26.251Z",
+      "contentDate": "2026-06-30T12:45:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_ICCtv_SF1-BENGALI",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u8vhhsxnv4kgodmbecn9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u8vhhsxnv4kgodmbecn9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-icctv-sf1-bengali",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-bengali"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 30, 2026, 6:15:02 PM",
+        "expire_date": "Wednesday, July 1, 2026, 2:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782852309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d1bcb1a842cc2da3f37cf9f630594a566f2623a83f576570fc83c08871f0a03/manifest.mpd?vcfilter=55d03080-6c4a-44b5-9b61-79ef42c167a5&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
     {
       "type": "customentity",
       "_translationId": "6777d5d3-738b-411e-b634-7be04f910164",
@@ -1185,7 +1183,7 @@
       "fields": {
         "videoId": "0d4b28a1-7945-4e7f-ad49-3ae4193a84b5",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "16200000",
         "v_has_data": true,
         "scheduledStartTime": "2026-06-30T13:00:00Z",
@@ -1324,8 +1322,8 @@
         ]
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "ugesh raj",
-      "lastUpdatedDate": "2026-06-30T10:29:55.901Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-06-30T12:47:11.886Z",
       "contentDate": "2026-06-28T19:38:42.796Z",
       "featured": 0,
       "thumbnail": {
@@ -1337,8 +1335,41 @@
         "slug": "icc26-icctv-sf1-japanese",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-sf1-japanese"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, June 30, 2026, 6:30:03 PM",
+        "expire_date": "Wednesday, July 1, 2026, 2:30:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1782853209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=40f23542abe3c8fedf17d144c55787b291be997d8573b7bea627048f7f2a6f53/manifest.mpd?vcfilter=0d4b28a1-7945-4e7f-ad49-3ae4193a84b5&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "9dd80a36-fc66-48fd-9c05-de0e1ef5cd09",
