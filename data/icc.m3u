@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 30-06-2026 22:00
+#DATE:- 30-06-2026 22:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="ef417377-b53d-4de2-b1d8-b3f61993742b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ssgv8ujoabqfjeahql5g" tvg-lang="English" group-title="Cricket",English | WT20: Semi-Final 1: Australia v West Indies
@@ -12,33 +12,3 @@
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782852320~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c10545ce14e2c27b39fb15da09862e70fd975b3719aa622e9dbcd96da6585a5d/manifest.mpd?vcfilter=ef417377-b53d-4de2-b1d8-b3f61993742b&
-#EXTINF:-1 tvg-id="2c85f142-6039-4d09-9bf7-6fdb29894b68" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ious1zmx4qahuspthti4" tvg-lang="English" group-title="Cricket",English | WT20: Semi-Final 1: Australia v West Indies (URDU)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1782852312~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c69018e0fc7cb355f201fb3bd8bb08ffcd8963f52aa553e660bd380cf77a2053/manifest.mpd?vcfilter=2c85f142-6039-4d09-9bf7-6fdb29894b68&
-#EXTINF:-1 tvg-id="0d4b28a1-7945-4e7f-ad49-3ae4193a84b5" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mdsslhw6sobzw5ryxyhq" tvg-lang="English" group-title="Cricket",English | WT20: Semi-Final 1: Australia v West Indies (JAPANESE)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1782853209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=40f23542abe3c8fedf17d144c55787b291be997d8573b7bea627048f7f2a6f53/manifest.mpd?vcfilter=0d4b28a1-7945-4e7f-ad49-3ae4193a84b5&
-#EXTINF:-1 tvg-id="55d03080-6c4a-44b5-9b61-79ef42c167a5" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u8vhhsxnv4kgodmbecn9" tvg-lang="English" group-title="Cricket",English | WT20: Semi-Final 1: Australia v West Indies (BENGALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782852309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d1bcb1a842cc2da3f37cf9f630594a566f2623a83f576570fc83c08871f0a03/manifest.mpd?vcfilter=55d03080-6c4a-44b5-9b61-79ef42c167a5&
