@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04-07-2026 16:15",
-  "total_matches": 13,
-  "live_matches": 0,
+  "last_updated": "06:15:13 PM 04-07-2026",
+  "total_matches": 14,
+  "live_matches": 1,
   "upcoming_matches": 13,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,7 +21,139 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "f5222ec3-6077-453a-8405-e1ee7419f91c",
+      "_entityId": "c927f846-f371-4b69-a8c7-4ed891176ea7",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-t20i-finland-v-portugal",
+      "slug": "3rd-t20i-finland-v-portugal",
+      "title": "3rd T20I: Finland v Portugal",
+      "tags": [
+        {
+          "_translationId": "b07bdf72-cdee-44b0-a537-60a0f3506a80",
+          "_entityId": "991e2cf3-3a8c-403e-8de8-b59fb85f3d19",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15661",
+          "title": "Portugal in Finland, 5 T20I Series, 2026",
+          "slug": "tournament-15661",
+          "neutralSlug": "tournament-15661",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15661",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15661",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "5261bb6a-d490-4b33-889c-8d1c8a0bdd7a",
+          "_entityId": "83f4a361-cb19-4110-95d3-8aeffdccaf23",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271871",
+          "title": "Finland vs Portugal - 3rd T20I - 7/4/2026",
+          "slug": "match-271871",
+          "neutralSlug": "match-271871",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271871",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271871",
+            "teamA": "Finland",
+            "teamB": "Portugal",
+            "teamAid": "1828",
+            "teamBid": "1765",
+            "teamAshort": "FIN",
+            "teamBshort": "POR",
+            "stage": "Series",
+            "matchDateLocal": "7/4/2026",
+            "matchType": "T20",
+            "matchNumber": "3rd T20I",
+            "seriesId": "15661",
+            "seriesName": "Portugal in Finland, 5 T20I Series, 2026",
+            "seriesShortName": "POR in FIN, 5 T20Is, 2026",
+            "seriesType": "Series",
+            "tourId": "12614",
+            "tourName": "Portugal tour of Finland, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "finland-vs-portugal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7698affc-b7d1-46fc-a37b-3263bf958351",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-07-04T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": []
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-07-04T12:41:30.803Z",
+      "contentDate": "2026-07-04T12:41:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "match#3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wuy9xe8jtwyuhbfyorl9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wuy9xe8jtwyuhbfyorl9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "match-3-x2374",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-3-x2374"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, July 4, 2026, 6:15:03 PM",
+        "expire_date": "Sunday, July 5, 2026, 2:15:13 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1783197913~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9cc538ce804a0a6687242e4d40648b09fabccd05b1fe6c43d7dd50aaf9459cc0/manifest.mpd?vcfilter=7698affc-b7d1-46fc-a37b-3263bf958351&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
       "type": "customentity",
