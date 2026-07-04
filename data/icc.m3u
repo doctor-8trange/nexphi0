@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 04-07-2026 13:15
+#DATE:- 04-07-2026 16:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="6b7a0a52-f488-469d-9ec8-07bfd3b4f5eb" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/p6nhbzur5al5eyjlirbw" tvg-lang="English" group-title="Cricket",English | 2nd T20I: Finland v Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1783179910~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ed97ec824e3c46e9e8688658b422f71fa2040db556afa9dcc947bc70aab0e041/manifest.mpd?vcfilter=6b7a0a52-f488-469d-9ec8-07bfd3b4f5eb&
