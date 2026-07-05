@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:45:02 PM 05-07-2026",
-  "total_matches": 6,
-  "live_matches": 6,
+  "last_updated": "09:00:02 PM 05-07-2026",
+  "total_matches": 5,
+  "live_matches": 5,
   "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,137 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "9353366a-16ce-48b1-aa48-27338dadecb1",
-      "_entityId": "e880c28d-8498-4346-8c3e-6ba6ffa768f7",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-t20i-finland-v-portugal",
-      "slug": "5th-t20i-finland-v-portugal",
-      "title": "5th T20I: Finland v Portugal",
-      "tags": [
-        {
-          "_translationId": "b07bdf72-cdee-44b0-a537-60a0f3506a80",
-          "_entityId": "991e2cf3-3a8c-403e-8de8-b59fb85f3d19",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15661",
-          "title": "Portugal in Finland, 5 T20I Series, 2026",
-          "slug": "tournament-15661",
-          "neutralSlug": "tournament-15661",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15661",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15661",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "beedd40e-77b9-492a-b89c-032994e5d342",
-          "_entityId": "1d87ccad-8ab0-4044-b410-ac1edbc55cc8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271873",
-          "title": "Finland vs Portugal - 5th T20I - 7/5/2026",
-          "slug": "match-271873",
-          "neutralSlug": "match-271873",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271873",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271873",
-            "teamA": "Finland",
-            "teamB": "Portugal",
-            "teamAid": "1828",
-            "teamBid": "1765",
-            "teamAshort": "FIN",
-            "teamBshort": "POR",
-            "stage": "Series",
-            "matchDateLocal": "7/5/2026",
-            "matchType": "T20",
-            "matchNumber": "5th T20I",
-            "seriesId": "15661",
-            "seriesName": "Portugal in Finland, 5 T20I Series, 2026",
-            "seriesShortName": "POR in FIN, 5 T20Is, 2026",
-            "seriesType": "Series",
-            "tourId": "12614",
-            "tourName": "Portugal tour of Finland, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "finland-vs-portugal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7492f9f9-ab01-4eae-b8c6-1b2528afda76",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-05T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": []
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-07-05T12:42:18.98Z",
-      "contentDate": "2026-07-05T12:42:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "match#5",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jmeaf2g5tlqowujsfhmx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jmeaf2g5tlqowujsfhmx",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "match-5-x1581",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-5-x1581"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, July 5, 2026, 6:15:02 PM",
-        "expire_date": "Monday, July 6, 2026, 2:15:13 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1783284313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=797c6e1330a548e873bd8811b3765f1d6524f611d9fa90c2327de10706fdc081/manifest.mpd?vcfilter=7492f9f9-ab01-4eae-b8c6-1b2528afda76&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "c355906e-1cd3-4ccd-b4da-9222c16874f7",
