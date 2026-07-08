@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:00:02 PM 08-07-2026",
-  "total_matches": 13,
-  "live_matches": 1,
+  "last_updated": "08-07-2026 23:00",
+  "total_matches": 12,
+  "live_matches": 0,
   "upcoming_matches": 12,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "1dd1ccbd-7c5e-4962-af3e-9b06b6d62127",
-      "_entityId": "11744ef2-da8a-4fb7-b37d-ec8ecb16b094",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/norway-v-hungary",
-      "slug": "norway-v-hungary",
-      "title": "Norway v Hungary",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "57c2acc9-ccbe-4199-8dae-43d78c6ea77e",
-          "_entityId": "6a1c5b6a-ca8f-42ad-a3cd-979015e9e82c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271910",
-          "title": "Norway vs Hungary - Match 3 - 7/8/2026",
-          "slug": "match-271910",
-          "neutralSlug": "match-271910",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271910",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271910",
-            "teamA": "Norway",
-            "teamB": "Hungary",
-            "teamAid": "1774",
-            "teamBid": "1811",
-            "teamAshort": "NOR",
-            "teamBshort": "HUN",
-            "stage": "Group",
-            "matchDateLocal": "7/8/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "norway-vs-hungary",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "e37bcdee-1314-4571-b70c-cbc50e0d2392",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-08T13:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-07-08T13:11:51.476Z",
-      "contentDate": "2026-07-08T13:11:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match3",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ffzyrgfgwjzkgnboolfj",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ffzyrgfgwjzkgnboolfj",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match3",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match3"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, July 8, 2026, 6:45:02 PM",
-        "expire_date": "Thursday, July 9, 2026, 2:45:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1783545309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9b6bff39f150da9324846015f08242905f71917cbd17b3954e82d090635d554e/manifest.mpd?vcfilter=e37bcdee-1314-4571-b70c-cbc50e0d2392&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
