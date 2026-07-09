@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09-07-2026 17:30",
+  "last_updated": "06:45:07 PM 09-07-2026",
   "total_matches": 11,
-  "live_matches": 0,
-  "upcoming_matches": 11,
+  "live_matches": 1,
+  "upcoming_matches": 10,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "ae27c314-36c7-417c-b588-7612caea8bdb",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "2ec1b21c-ed1c-4233-a507-9e3d82586c01",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-07-09T13:30:00Z",
@@ -110,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-07-09T07:31:07.756Z",
-      "contentDate": "2026-07-06T16:52:55.043Z",
+      "lastUpdatedBy": "Nishant Malekar",
+      "lastUpdatedDate": "2026-07-09T13:11:09.134Z",
+      "contentDate": "2026-07-09T13:11:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-EuropeSubR-QualB_Match6",
@@ -123,8 +122,41 @@
         "slug": "icc26-mt20-europesubr-qualb-match6",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match6"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, July 9, 2026, 6:45:02 PM",
+        "expire_date": "Friday, July 10, 2026, 2:45:10 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1783631710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=967e3b9a977b38e67aab271ab332f8d69f8d62db9ff9a88bf36cfce6092cef4e/manifest.mpd?vcfilter=2ec1b21c-ed1c-4233-a507-9e3d82586c01&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "4b95d0e7-0a2f-43cd-9559-a8be2ea8d8b8",
