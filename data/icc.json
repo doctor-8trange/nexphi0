@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:45:08 PM 09-07-2026",
-  "total_matches": 12,
-  "live_matches": 1,
+  "last_updated": "09-07-2026 17:30",
+  "total_matches": 11,
+  "live_matches": 0,
   "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "807ad427-440a-40b1-bde5-090d5fbb188d",
-      "_entityId": "0d1a640b-8425-46ed-b5cf-b44ce72eefbb",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/turkiye-v-denmark",
-      "slug": "turkiye-v-denmark",
-      "title": "Turkiye v Denmark",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a49ccc94-51ea-4767-bd85-aff4c671fb29",
-          "_entityId": "39af8e97-6fcc-410d-ad08-453183886896",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271912",
-          "title": "Denmark vs Turkiye - Match 5 - 7/9/2026",
-          "slug": "match-271912",
-          "neutralSlug": "match-271912",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271912",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271912",
-            "teamA": "Denmark",
-            "teamB": "Turkiye",
-            "teamAid": "26",
-            "teamBid": "1728",
-            "teamAshort": "DEN",
-            "teamBshort": "TUR",
-            "stage": "Group",
-            "matchDateLocal": "7/9/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 5",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "denmark-vs-turkiye",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "6f5287aa-ff27-4dbd-95eb-e6b968d108e4",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-09T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "ugesh raj",
-      "lastUpdatedDate": "2026-07-09T08:11:29.024Z",
-      "contentDate": "2026-07-09T08:11:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match5",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/igcwzommx3bndwofad3y",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/igcwzommx3bndwofad3y",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match5",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match5"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, July 9, 2026, 1:45:02 PM",
-        "expire_date": "Thursday, July 9, 2026, 9:45:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1783613711~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=43c211a1653577d6abf6f7bf9c5b53a718ef9488f101126d1384c651d4ec66c2/manifest.mpd?vcfilter=6f5287aa-ff27-4dbd-95eb-e6b968d108e4&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
