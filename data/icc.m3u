@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 10-07-2026 18:00
+#DATE:- 10-07-2026 18:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="e3f099d5-d6c3-4b5f-b4fd-c3ee11133f4d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xujftovmljxmb4tamwvp" tvg-lang="English" group-title="Cricket",English | One-Off Test, Day 1: England v India (1st Session)
+#EXTINF:-1 tvg-id="9c0f39a4-4643-4212-8bc5-174b63281219" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pflrirubf36y01s0s0x6" tvg-lang="English" group-title="Cricket",English | One-Off Test, Day 1: England v India (2nd/3rd Session)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783702807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3ea76a19315fb7d01b5daa175fc2a4d69719f04eb862660ceaac3b00deaa7100/manifest.mpd?vcfilter=e3f099d5-d6c3-4b5f-b4fd-c3ee11133f4d&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783716306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4629e4145507aa14f98c210b2fcdb645924146273712964512f084dd32b8b934/manifest.mpd?vcfilter=9c0f39a4-4643-4212-8bc5-174b63281219&
