@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:45:02 PM 10-07-2026",
-  "total_matches": 8,
-  "live_matches": 2,
+  "last_updated": "10:30:02 PM 10-07-2026",
+  "total_matches": 7,
+  "live_matches": 1,
   "upcoming_matches": 6,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -250,139 +250,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783716306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4629e4145507aa14f98c210b2fcdb645924146273712964512f084dd32b8b934/manifest.mpd?vcfilter=9c0f39a4-4643-4212-8bc5-174b63281219&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "eb48bde7-e573-403b-9503-7425ad57dee1",
-      "_entityId": "bf9d0a5b-6937-46bb-ad31-1c4e2ebac97d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/belgium-v-serbia",
-      "slug": "belgium-v-serbia",
-      "title": "Belgium v Serbia",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a9f8644c-f9ba-4cd7-9a7d-d19fc42e72be",
-          "_entityId": "9be0baf1-347e-4684-8495-91c8bb614083",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271916",
-          "title": "Belgium vs Serbia - Match 9 - 7/10/2026",
-          "slug": "match-271916",
-          "neutralSlug": "match-271916",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271916",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271916",
-            "teamA": "Belgium",
-            "teamB": "Serbia",
-            "teamAid": "1870",
-            "teamBid": "1749",
-            "teamAshort": "BEL",
-            "teamBshort": "SER",
-            "stage": "Group",
-            "matchDateLocal": "7/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 9",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "belgium-vs-serbia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a2c05e39-aea7-4d03-91d7-0325fe61be6f",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-10T13:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "ugesh raj",
-      "lastUpdatedDate": "2026-07-10T13:11:54.826Z",
-      "contentDate": "2026-07-10T13:11:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match9",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lasqxgqlphbfwllanjbq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lasqxgqlphbfwllanjbq",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match9",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match9"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, July 10, 2026, 6:45:06 PM",
-        "expire_date": "Saturday, July 11, 2026, 2:45:10 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1783718110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2442e1fc6c9bf2c90f703c210de012540962b9b6f59eb1965c7e5ee70f25ea5a/manifest.mpd?vcfilter=a2c05e39-aea7-4d03-91d7-0325fe61be6f&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
