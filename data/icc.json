@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:00:03 PM 10-07-2026",
-  "total_matches": 8,
-  "live_matches": 1,
-  "upcoming_matches": 7,
+  "last_updated": "01:45:13 PM 14-07-2026",
+  "total_matches": 4,
+  "live_matches": 2,
+  "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -24,28 +24,28 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "774f0664-38bd-41e8-9a33-1da30b6254b5",
-      "_entityId": "daeabbb4-acbd-4adc-8692-59d453799bd5",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/one-off-test-day-1-england-v-india-2nd-session",
-      "slug": "one-off-test-day-1-england-v-india-2nd-session",
-      "title": "One-Off Test, Day 1: England v India (2nd/3rd Session)",
+      "_translationId": "cfb1a222-1ac9-46f8-b02e-03d7ec4427b1",
+      "_entityId": "b716a857-532b-4c80-a682-022119b2348a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/serbia-v-estonia",
+      "slug": "serbia-v-estonia",
+      "title": "Serbia v Estonia",
       "tags": [
         {
-          "_translationId": "c991e93d-3b81-426c-b659-1c7d530ae43f",
-          "_entityId": "bf2365fd-8f98-4cec-8616-a608bca65322",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-13260",
-          "title": "India Women in England, One-off Test, 2026",
-          "slug": "tournament-13260",
-          "neutralSlug": "tournament-13260",
+          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
+          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15665",
+          "neutralSlug": "tournament-15665",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-13260",
+            "SourceId": "tournament-15665",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "13260",
-            "competitionType": "Test International - w",
-            "competitionTypeId": "11",
+            "tournamentId": "15665",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
@@ -53,38 +53,38 @@
           "fields": []
         },
         {
-          "_translationId": "db68a1a2-227d-4def-afa6-6c8279e8cacc",
-          "_entityId": "16c1991c-8a66-42f3-a13a-4f6b11f566f7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-264893",
-          "title": "England vs India - One-off Test - 7/10/2026",
-          "slug": "match-264893",
-          "neutralSlug": "match-264893",
+          "_translationId": "7fb49ef7-9cf0-47f4-96ef-0ebb97379a54",
+          "_entityId": "a540dc90-ad8a-47b3-bc67-e0e6b60254e3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272002",
+          "title": "Serbia vs Estonia - 7th Place Play-off - 7/14/2026",
+          "slug": "match-272002",
+          "neutralSlug": "match-272002",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-264893",
+            "SourceId": "match-272002",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "264893",
-            "teamA": "England",
-            "teamB": "India",
-            "teamAid": "1121",
-            "teamBid": "1126",
-            "teamAshort": "ENG",
-            "teamBshort": "IND",
-            "stage": "Series",
-            "matchDateLocal": "7/10/2026",
-            "matchType": "Test",
-            "matchNumber": "One-off Test",
-            "seriesId": "13260",
-            "seriesName": "India Women in England, One-off Test, 2026",
-            "seriesShortName": "IND-W in ENG, One-off Test, 2026",
-            "seriesType": "Series",
-            "tourId": "10008",
-            "tourName": "India Women tour of England, 2026",
-            "competitionType": "Test International - w",
-            "competitionTypeId": "11",
-            "seoName": "england-vs-india",
+            "matchId": "272002",
+            "teamA": "Serbia",
+            "teamB": "Estonia",
+            "teamAid": "1749",
+            "teamBid": "1833",
+            "teamAshort": "SER",
+            "teamBshort": "EST",
+            "stage": "Playoffs",
+            "matchDateLocal": "7/14/2026",
+            "matchType": "T20",
+            "matchNumber": "7th Place Play-off",
+            "seriesId": "15665",
+            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12618",
+            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "serbia-vs-estonia",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -93,150 +93,40 @@
         }
       ],
       "fields": {
-        "videoId": "9c0f39a4-4643-4212-8bc5-174b63281219",
+        "videoId": "adc48751-b6a5-488e-a455-e416e103e7bb",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "15900000",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-07-10T12:35:00Z",
+        "scheduledStartTime": "2026-07-14T08:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
-          "listType": "whitelist",
+          "listType": "blacklist",
           "countries": [
-            "AS",
-            "AQ",
-            "AR",
-            "AM",
-            "SH",
-            "AZ",
-            "BZ",
-            "BO",
-            "BR",
-            "CL",
-            "CN",
-            "CX",
-            "CC",
-            "CO",
-            "CK",
-            "CR",
-            "TL",
-            "EC",
-            "SV",
-            "FK",
-            "FO",
-            "FJ",
-            "PF",
-            "TF",
-            "GU",
-            "GT",
-            "HN",
-            "IL",
-            "JP",
-            "KZ",
-            "KI",
-            "KG",
-            "MK",
-            "MH",
-            "MX",
-            "FM",
-            "MN",
-            "NR",
-            "NC",
-            "NI",
-            "NU",
-            "NF",
-            "KP",
-            "MP",
-            "PW",
-            "PA",
-            "PG",
-            "PY",
-            "PE",
-            "PN",
-            "PR",
-            "WS",
-            "SB",
-            "GS",
-            "KR",
-            "TJ",
-            "TK",
-            "TO",
-            "TM",
-            "TV",
-            "UY",
-            "UZ",
-            "VU",
-            "VE",
-            "WF",
-            "AL",
-            "AD",
-            "AT",
-            "BY",
-            "BE",
-            "BA",
-            "BG",
-            "HR",
-            "CY",
-            "CZ",
-            "DK",
-            "EE",
-            "FI",
-            "FR",
-            "DE",
-            "GR",
-            "GG",
-            "HU",
-            "IS",
-            "IT",
-            "JE",
-            "XK",
-            "LV",
-            "LI",
-            "LT",
-            "LU",
-            "MT",
-            "MD",
-            "MC",
-            "ME",
-            "NL",
-            "NO",
-            "PL",
-            "PT",
-            "RO",
-            "SM",
-            "RS",
-            "SK",
-            "SI",
-            "ES",
-            "SJ",
-            "SE",
-            "CH",
-            "UA",
-            "VA",
-            "AX"
+            "IN"
           ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-07-10T13:16:24.515Z",
-      "contentDate": "2026-07-10T13:16:00Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-07-14T08:12:58.191Z",
+      "contentDate": "2026-07-14T08:12:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_ICCtv_INDWTourofENG_Test-1.1.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pflrirubf36y01s0s0x6",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pflrirubf36y01s0s0x6",
+        "title": "ICC26_MT20-EuropeSubR-QualB_Match18",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tofdmjq9hdbccvpv1zmi",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tofdmjq9hdbccvpv1zmi",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-icctv-indwtourofeng-test-1-1-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-icctv-indwtourofeng-test-1-1-2"
+        "slug": "icc26-mt20-europesubr-qualb-match18",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match18"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Friday, July 10, 2026, 6:15:02 PM",
-        "expire_date": "Saturday, July 11, 2026, 2:15:06 AM",
+        "create_date": "Tuesday, July 14, 2026, 1:45:02 PM",
+        "expire_date": "Tuesday, July 14, 2026, 9:45:10 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
           "Referer: https://www.icc-cricket.com/",
@@ -249,7 +139,140 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783716306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4629e4145507aa14f98c210b2fcdb645924146273712964512f084dd32b8b934/manifest.mpd?vcfilter=9c0f39a4-4643-4212-8bc5-174b63281219&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784045710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=359d7cf3d5332ac6316bc786277f6992834b66c5d85029f3f38bc6495639cfca/manifest.mpd?vcfilter=adc48751-b6a5-488e-a455-e416e103e7bb&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "61d31fd4-951b-489e-88ea-d2e60f184cd6",
+      "_entityId": "e1fcaac0-09fd-4a11-94be-72dab02dae9c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/belgium-v-hungary",
+      "slug": "belgium-v-hungary",
+      "title": "Belgium v Hungary",
+      "tags": [
+        {
+          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
+          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15665",
+          "neutralSlug": "tournament-15665",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15665",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15665",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "a8d4e853-1c41-45be-9959-5028ba06f1ea",
+          "_entityId": "19c73e79-55f5-4d22-892e-1593d22307bc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272003",
+          "title": "Belgium vs Hungary - 3rd Place Play-off - 7/14/2026",
+          "slug": "match-272003",
+          "neutralSlug": "match-272003",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272003",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272003",
+            "teamA": "Belgium",
+            "teamB": "Hungary",
+            "teamAid": "1870",
+            "teamBid": "1811",
+            "teamAshort": "BEL",
+            "teamBshort": "HUN",
+            "stage": "Playoffs",
+            "matchDateLocal": "7/14/2026",
+            "matchType": "T20",
+            "matchNumber": "3rd Place Play-off",
+            "seriesId": "15665",
+            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12618",
+            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "belgium-vs-hungary",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e9c2f467-21d7-49c2-8ba4-94b6108cda8a",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-07-14T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-07-14T08:11:54.161Z",
+      "contentDate": "2026-07-14T08:11:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-EuropeSubR-QualB_Match17",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qa64ptwhwcrirl9zm4om",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qa64ptwhwcrirl9zm4om",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-europesubr-qualb-match17",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match17"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, July 14, 2026, 1:45:08 PM",
+        "expire_date": "Tuesday, July 14, 2026, 9:45:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1784045715~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a91c03d17ada411e9eb92568a30ed077feef4e380bb7dd673186bf48f13cb828/manifest.mpd?vcfilter=e9c2f467-21d7-49c2-8ba4-94b6108cda8a&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -269,98 +292,11 @@
   "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "0bf6dd71-e68e-4c22-b9f1-46f095370133",
-      "_entityId": "e9922be4-22e1-486b-84ed-f2a776db81ff",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/one-off-test-day-1-england-v-india-3rd-session",
-      "slug": "one-off-test-day-1-england-v-india-3rd-session",
-      "title": "One-Off Test, Day 1: England v India (3rd Session)",
-      "tags": [
-        {
-          "_translationId": "db68a1a2-227d-4def-afa6-6c8279e8cacc",
-          "_entityId": "16c1991c-8a66-42f3-a13a-4f6b11f566f7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-264893",
-          "title": "England vs India - One-off Test - 7/10/2026",
-          "slug": "match-264893",
-          "neutralSlug": "match-264893",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-264893",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "264893",
-            "teamA": "England",
-            "teamB": "India",
-            "teamAid": "1121",
-            "teamBid": "1126",
-            "teamAshort": "ENG",
-            "teamBshort": "IND",
-            "stage": "Series",
-            "matchDateLocal": "7/10/2026",
-            "matchType": "Test",
-            "matchNumber": "One-off Test",
-            "seriesId": "13260",
-            "seriesName": "India Women in England, One-off Test, 2026",
-            "seriesShortName": "IND-W in ENG, One-off Test, 2026",
-            "seriesType": "Series",
-            "tourId": "10008",
-            "tourName": "India Women tour of England, 2026",
-            "competitionType": "Test International - w",
-            "competitionTypeId": "11",
-            "seoName": "england-vs-india",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c991e93d-3b81-426c-b659-1c7d530ae43f",
-          "_entityId": "bf2365fd-8f98-4cec-8616-a608bca65322",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-13260",
-          "title": "India Women in England, One-off Test, 2026",
-          "slug": "tournament-13260",
-          "neutralSlug": "tournament-13260",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-13260",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "13260",
-            "competitionType": "Test International - w",
-            "competitionTypeId": "11",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "98636e65-5b2e-4f9b-a3f5-0d689010c63a",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "17700000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-10T17:30:00Z",
-        "offer": "Registered",
-        "type": "Event"
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-07-10T17:27:54.489Z",
-      "contentDate": "2026-07-10T17:27:54.489Z",
-      "featured": 0,
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "b52f2821-f411-4ec6-b748-166e00322600",
-      "_entityId": "4e350402-56c2-4fc5-91cf-29238de2f45c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/belgium-v-romania",
-      "slug": "belgium-v-romania",
-      "title": "Belgium v Romania",
+      "_translationId": "294dbca9-479b-45f1-bbc9-d19f0f05d89a",
+      "_entityId": "76dc4a17-3208-44d1-9bd3-327bc6328504",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gibraltar-v-norway",
+      "slug": "gibraltar-v-norway",
+      "title": "Gibraltar v Norway",
       "tags": [
         {
           "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
@@ -385,233 +321,29 @@
           "fields": []
         },
         {
-          "_translationId": "b8a1205b-b3e6-4758-bd23-d2b93f4f6a4e",
-          "_entityId": "d66ccb75-223c-4837-8bbf-67fbbc02e742",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271919",
-          "title": "Belgium vs Romania - Match 12 - 7/12/2026",
-          "slug": "match-271919",
-          "neutralSlug": "match-271919",
+          "_translationId": "a0ac8322-3e76-404d-ba89-4dd76a5e92a3",
+          "_entityId": "86a20667-c6ec-4a4a-830b-57b646876438",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271924",
+          "title": "Gibraltar vs Norway - 5th Place Play-off - 7/14/2026",
+          "slug": "match-271924",
+          "neutralSlug": "match-271924",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-271919",
+            "SourceId": "match-271924",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "271919",
-            "teamA": "Belgium",
-            "teamB": "Romania",
-            "teamAid": "1870",
-            "teamBid": "1761",
-            "teamAshort": "BEL",
-            "teamBshort": "ROM",
-            "stage": "Group",
-            "matchDateLocal": "7/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 12",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "belgium-vs-romania",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0ffb924c-ed79-4649-b84e-72173549f224",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-12T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:55:39.582Z",
-      "contentDate": "2026-07-06T16:55:39.582Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match12",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mkrrmqnr415npfzdzq0o",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mkrrmqnr415npfzdzq0o",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match12",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match12"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "881f124b-c914-4f02-8fc2-3cc2e1f856a6",
-      "_entityId": "d2bcfca6-7fc6-4ddc-80ae-288913999bae",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/norway-v-denmark",
-      "slug": "norway-v-denmark",
-      "title": "Norway v Denmark",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "d03db8d4-bad5-4a47-9f88-04aae6ad3c30",
-          "_entityId": "f79e78c2-36d2-4367-b30f-b4a3d318cd6b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271918",
-          "title": "Denmark vs Norway - Match 11 - 7/12/2026",
-          "slug": "match-271918",
-          "neutralSlug": "match-271918",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271918",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271918",
-            "teamA": "Denmark",
-            "teamB": "Norway",
-            "teamAid": "26",
-            "teamBid": "1774",
-            "teamAshort": "DEN",
-            "teamBshort": "NOR",
-            "stage": "Group",
-            "matchDateLocal": "7/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 11",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "denmark-vs-norway",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8876098f-f556-42c7-891f-b83d5e26397f",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-12T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:55:14.922Z",
-      "contentDate": "2026-07-06T16:55:14.922Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match11",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xnoabbu22afmxbfdwbxg",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xnoabbu22afmxbfdwbxg",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match11",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match11"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "c6126eb0-d3c0-4d8a-aad9-e7a23e5bd31b",
-      "_entityId": "55824b56-af79-450d-8ce8-e952d4ecd6ca",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gibraltar-v-serbia",
-      "slug": "gibraltar-v-serbia",
-      "title": "Gibraltar v Serbia",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "fa6e156d-9af2-4b2d-8b49-977a76fe1280",
-          "_entityId": "3b5da9aa-a9fd-4bcb-bfdd-81bc49bd598a",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271921",
-          "title": "Gibraltar vs Serbia - Match 14 - 7/12/2026",
-          "slug": "match-271921",
-          "neutralSlug": "match-271921",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271921",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271921",
+            "matchId": "271924",
             "teamA": "Gibraltar",
-            "teamB": "Serbia",
+            "teamB": "Norway",
             "teamAid": "1818",
-            "teamBid": "1749",
+            "teamBid": "1774",
             "teamAshort": "GIB",
-            "teamBshort": "SER",
-            "stage": "Group",
-            "matchDateLocal": "7/12/2026",
+            "teamBshort": "NOR",
+            "stage": "Playoffs",
+            "matchDateLocal": "7/14/2026",
             "matchType": "T20",
-            "matchNumber": "Match 14",
+            "matchNumber": "5th Place Play-off",
             "seriesId": "15665",
             "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
@@ -620,7 +352,7 @@
             "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
-            "seoName": "gibraltar-vs-serbia",
+            "seoName": "gibraltar-vs-norway",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -629,12 +361,12 @@
         }
       ],
       "fields": {
-        "videoId": "6fe0292b-7de4-4f4f-a235-724368641493",
+        "videoId": "b3f2f243-8135-47db-94bd-d24e67d90704",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-07-12T13:30:00Z",
+        "scheduledStartTime": "2026-07-14T13:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -645,28 +377,28 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:56:32.568Z",
-      "contentDate": "2026-07-06T16:56:32.568Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-07-13T17:28:26.175Z",
+      "contentDate": "2026-07-13T17:28:26.175Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match14",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/nax13fwcwduchf17fa5c",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nax13fwcwduchf17fa5c",
+        "title": "ICC26_MT20-EuropeSubR-QualB_Match20",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/y7ezknf2z62ah99lw43g",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y7ezknf2z62ah99lw43g",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match14",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match14"
+        "slug": "icc26-mt20-europesubr-qualb-match20",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match20"
       },
       "entityCode": "video"
     },
     {
       "type": "customentity",
-      "_translationId": "ba87b03e-8a77-46dc-b31e-75193e64dcd6",
-      "_entityId": "522c3835-98a7-4ad3-bc6c-0a678300fe1c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hungary-v-turkiye",
-      "slug": "hungary-v-turkiye",
-      "title": "Hungary v Turkiye",
+      "_translationId": "bfa2980d-c08d-4c86-a871-45732b402622",
+      "_entityId": "e026259c-a484-4c7e-a5a4-38a3b3c84758",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/romania-v-denmark",
+      "slug": "romania-v-denmark",
+      "title": "Romania v Denmark",
       "tags": [
         {
           "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
@@ -691,29 +423,29 @@
           "fields": []
         },
         {
-          "_translationId": "1ff412fc-6fc7-43ed-88db-e349c17c2998",
-          "_entityId": "16ba325d-967a-44a8-9f50-5611a4b79400",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271920",
-          "title": "Hungary vs Turkiye - Match 13 - 7/12/2026",
-          "slug": "match-271920",
-          "neutralSlug": "match-271920",
+          "_translationId": "6eed1061-fc4e-4af5-8353-15116eba79eb",
+          "_entityId": "08cacd2a-4e96-4437-aa63-54ad3831c80c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271925",
+          "title": "Romania vs Denmark - Final - 7/14/2026",
+          "slug": "match-271925",
+          "neutralSlug": "match-271925",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-271920",
+            "SourceId": "match-271925",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "271920",
-            "teamA": "Hungary",
-            "teamB": "Turkiye",
-            "teamAid": "1811",
-            "teamBid": "1728",
-            "teamAshort": "HUN",
-            "teamBshort": "TUR",
-            "stage": "Group",
-            "matchDateLocal": "7/12/2026",
+            "matchId": "271925",
+            "teamA": "Romania",
+            "teamB": "Denmark",
+            "teamAid": "1761",
+            "teamBid": "26",
+            "teamAshort": "ROM",
+            "teamBshort": "DEN",
+            "stage": "Final",
+            "matchDateLocal": "7/14/2026",
             "matchType": "T20",
-            "matchNumber": "Match 13",
+            "matchNumber": "Final",
             "seriesId": "15665",
             "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
@@ -722,7 +454,7 @@
             "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
-            "seoName": "hungary-vs-turkiye",
+            "seoName": "romania-vs-denmark",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -731,12 +463,12 @@
         }
       ],
       "fields": {
-        "videoId": "1a912206-8017-4be2-8f70-7ca7dfabe971",
+        "videoId": "f7d67016-fd0e-4702-8560-316bf0cbf8c2",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-07-12T13:30:00Z",
+        "scheduledStartTime": "2026-07-14T13:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -747,222 +479,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:56:10.29Z",
-      "contentDate": "2026-07-06T16:56:10.29Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-07-13T17:27:01.771Z",
+      "contentDate": "2026-07-13T17:27:01.771Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match13",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/soqi53hmg2ytwv5cz42o",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/soqi53hmg2ytwv5cz42o",
+        "title": "ICC26_MT20-EuropeSubR-QualB_Match19",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yasecypw5ypqirf6pk3l",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yasecypw5ypqirf6pk3l",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match13",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match13"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "f5bafb18-ec8a-4f8f-8c04-ed7b1b6fbf5b",
-      "_entityId": "0da6b688-a2ca-4d5b-9b1e-2166b1eb0cfe",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-hungary",
-      "slug": "denmark-v-hungary",
-      "title": "Denmark v Hungary",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "70272313-36fc-471d-aaca-be6fbca48cda",
-          "_entityId": "856957f6-5153-4bb3-aec7-877c73eb03b0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271922",
-          "title": "Denmark vs Hungary - Match 15 - 7/13/2026",
-          "slug": "match-271922",
-          "neutralSlug": "match-271922",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271922",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271922",
-            "teamA": "Denmark",
-            "teamB": "Hungary",
-            "teamAid": "26",
-            "teamBid": "1811",
-            "teamAshort": "DEN",
-            "teamBshort": "HUN",
-            "stage": "Group",
-            "matchDateLocal": "7/13/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 15",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "denmark-vs-hungary",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "ee24d4d6-2a5a-4b52-ac35-9bcc36f30b00",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-13T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:57:05.803Z",
-      "contentDate": "2026-07-06T16:57:05.803Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match15",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/utae0naan27jfzsaqort",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/utae0naan27jfzsaqort",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match15",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match15"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "0de96043-35ac-4ae2-93d1-14fa47f407f4",
-      "_entityId": "c40f477c-a7df-470c-9896-14a2878241a9",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/estonia-v-turkiye",
-      "slug": "estonia-v-turkiye",
-      "title": "Estonia v Turkiye",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0e6cec7e-f3a7-4890-9ac4-c122dbc16fc5",
-          "_entityId": "4e8049c5-c596-465b-90d2-422f1edccd32",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271923",
-          "title": "Estonia vs Turkiye - Match 16 - 7/13/2026",
-          "slug": "match-271923",
-          "neutralSlug": "match-271923",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271923",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271923",
-            "teamA": "Estonia",
-            "teamB": "Turkiye",
-            "teamAid": "1833",
-            "teamBid": "1728",
-            "teamAshort": "EST",
-            "teamBshort": "TUR",
-            "stage": "Group",
-            "matchDateLocal": "7/13/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 16",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "estonia-vs-turkiye",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8b901134-a182-4936-8d5a-c2cf904b90c7",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-13T13:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-06T16:57:30.388Z",
-      "contentDate": "2026-07-06T16:57:30.388Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match16",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/drydgtyc7xvysxrjqemq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/drydgtyc7xvysxrjqemq",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match16",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match16"
+        "slug": "icc26-mt20-europesubr-qualb-match19",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match19"
       },
       "entityCode": "video"
     }
