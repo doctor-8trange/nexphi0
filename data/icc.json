@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:30:02 PM 14-07-2026",
-  "total_matches": 3,
-  "live_matches": 1,
+  "last_updated": "14-07-2026 17:45",
+  "total_matches": 2,
+  "live_matches": 0,
   "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "cfb1a222-1ac9-46f8-b02e-03d7ec4427b1",
-      "_entityId": "b716a857-532b-4c80-a682-022119b2348a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/serbia-v-estonia",
-      "slug": "serbia-v-estonia",
-      "title": "Serbia v Estonia",
-      "tags": [
-        {
-          "_translationId": "b535d9a9-bb9f-4af7-9217-010aad2e3ac8",
-          "_entityId": "2305e041-c0cc-47bf-8bef-2502365e4af2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15665",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15665",
-          "neutralSlug": "tournament-15665",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15665",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15665",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "7fb49ef7-9cf0-47f4-96ef-0ebb97379a54",
-          "_entityId": "a540dc90-ad8a-47b3-bc67-e0e6b60254e3",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272002",
-          "title": "Serbia vs Estonia - 7th Place Play-off - 7/14/2026",
-          "slug": "match-272002",
-          "neutralSlug": "match-272002",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272002",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272002",
-            "teamA": "Serbia",
-            "teamB": "Estonia",
-            "teamAid": "1749",
-            "teamBid": "1833",
-            "teamAshort": "SER",
-            "teamBshort": "EST",
-            "stage": "Playoffs",
-            "matchDateLocal": "7/14/2026",
-            "matchType": "T20",
-            "matchNumber": "7th Place Play-off",
-            "seriesId": "15665",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12618",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "serbia-vs-estonia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "adc48751-b6a5-488e-a455-e416e103e7bb",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-14T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-07-14T08:12:58.191Z",
-      "contentDate": "2026-07-14T08:12:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_Match18",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tofdmjq9hdbccvpv1zmi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tofdmjq9hdbccvpv1zmi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-match18",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match18"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, July 14, 2026, 1:45:02 PM",
-        "expire_date": "Tuesday, July 14, 2026, 9:45:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784045710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=359d7cf3d5332ac6316bc786277f6992834b66c5d85029f3f38bc6495639cfca/manifest.mpd?vcfilter=adc48751-b6a5-488e-a455-e416e103e7bb&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
