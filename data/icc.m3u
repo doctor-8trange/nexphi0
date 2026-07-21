@@ -1,3 +1,14 @@
 #EXTM3U
-#DATE:- 17-07-2026 18:45
+#DATE:- 21-07-2026 14:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="f8241b0a-c4e1-44d4-8814-b0a83e592813" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xuemvvf1pappxmjxfpzi" tvg-lang="English" group-title="Cricket",English | Nepal v Namibia (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784652307~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=09cbf936d55bfec4c74fd84560d95de1a2865fdb6a28bda5b0c6d8122fe00735/manifest.mpd?vcfilter=f8241b0a-c4e1-44d4-8814-b0a83e592813&
