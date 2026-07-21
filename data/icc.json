@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:15:07 PM 21-07-2026",
+  "last_updated": "06:00:02 PM 21-07-2026",
   "total_matches": 12,
   "live_matches": 1,
   "upcoming_matches": 11,
@@ -107,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-07-21T08:40:15.565Z",
-      "contentDate": "2026-07-17T13:10:00.467Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-07-21T09:03:07.827Z",
+      "contentDate": "2026-07-21T08:51:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NED-JUL_Match1.1",
@@ -227,9 +227,9 @@
         "videoId": "81e4850f-a036-4190-a969-a68f4256f609",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "15900000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-07-21T13:00:00Z",
+        "scheduledStartTime": "2026-07-21T12:35:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -240,8 +240,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-07-17T13:10:42.868Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-07-21T12:21:28.611Z",
       "contentDate": "2026-07-17T13:10:34.366Z",
       "featured": 0,
       "thumbnail": {
