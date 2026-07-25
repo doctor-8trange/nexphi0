@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "23-07-2026 22:00",
+  "last_updated": "02:15:08 PM 25-07-2026",
   "total_matches": 8,
-  "live_matches": 0,
-  "upcoming_matches": 8,
+  "live_matches": 1,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "554e2be2-8242-46d3-8576-67cc59995474",
@@ -94,7 +93,7 @@
       "fields": {
         "videoId": "da0ff8f4-eb6d-4cfa-87c6-7b7c10d7258f",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-07-25T09:00:00Z",
@@ -108,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-07-17T13:13:02.733Z",
-      "contentDate": "2026-07-17T13:12:55.647Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-07-25T08:42:28.006Z",
+      "contentDate": "2026-07-25T08:42:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NED-JUL_Match3.1",
@@ -121,8 +120,41 @@
         "slug": "icc26-cwc-l2-ned-jul-match3-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match3-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, July 25, 2026, 2:15:03 PM",
+        "expire_date": "Saturday, July 25, 2026, 10:15:09 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784997909~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4a71801f9c874403d6adfabd5eb55181a49a3109bee74629dd28362de480caa2/manifest.mpd?vcfilter=da0ff8f4-eb6d-4cfa-87c6-7b7c10d7258f&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "cf141a9b-8c4e-4f11-9117-0d86f51bd5c3",
