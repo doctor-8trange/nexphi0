@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 29-07-2026 14:15
+#DATE:- 29-07-2026 18:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="23bf0450-4b64-4b19-941b-3f1054011e3b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z9sbmd30riptwl398unu" tvg-lang="English" group-title="Cricket",English | Nepal v Netherlands (1st Innings)
+#EXTINF:-1 tvg-id="11c8d04b-dc32-410c-85b2-897f9718393d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ke1maoobmipwg2gnfy04" tvg-lang="English" group-title="Cricket",English | Nepal v Netherlands (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785343511~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a21b2f4d1c114c6eb7ec64c5cd0ba95137bbaea9a27f7cc3c09354e21c6bdc70/manifest.mpd?vcfilter=23bf0450-4b64-4b19-941b-3f1054011e3b&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785358809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a4155a3ac1f1d247223f4500db2f41df41c0fc1609bf02100403648f24073954/manifest.mpd?vcfilter=11c8d04b-dc32-410c-85b2-897f9718393d&
