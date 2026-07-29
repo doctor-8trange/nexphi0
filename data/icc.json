@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:30:08 PM 29-07-2026",
-  "total_matches": 3,
-  "live_matches": 1,
+  "last_updated": "29-07-2026 22:30",
+  "total_matches": 2,
+  "live_matches": 0,
   "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,139 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "3fe41b10-7d8d-45d5-b5db-5d171cb51a2c",
-      "_entityId": "695de186-94c2-479f-82f4-b3bcc0fa0e0f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-netherlands-2nd-innings",
-      "slug": "nepal-v-netherlands-2nd-innings",
-      "title": "Nepal v Netherlands (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "eefbb326-be76-401e-bb21-dc78df0ec59b",
-          "_entityId": "8ecac914-08e1-4328-a93a-3a0a5c19241b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270956",
-          "title": "Nepal vs Netherlands - Match 120 - 7/29/2026",
-          "slug": "match-270956",
-          "neutralSlug": "match-270956",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270956",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270956",
-            "teamA": "Nepal",
-            "teamB": "Netherlands",
-            "teamAid": "637",
-            "teamBid": "15",
-            "teamAshort": "NEP",
-            "teamBshort": "NED",
-            "stage": "League",
-            "matchDateLocal": "7/29/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 120",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "nepal-vs-netherlands",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "11c8d04b-dc32-410c-85b2-897f9718393d",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-29T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-07-29T12:59:17.265Z",
-      "contentDate": "2026-07-29T12:59:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NED-JUL_Match5.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ke1maoobmipwg2gnfy04",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ke1maoobmipwg2gnfy04",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-ned-jul-match5-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match5-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, July 29, 2026, 6:30:04 PM",
-        "expire_date": "Thursday, July 30, 2026, 2:30:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785358809~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a4155a3ac1f1d247223f4500db2f41df41c0fc1609bf02100403648f24073954/manifest.mpd?vcfilter=11c8d04b-dc32-410c-85b2-897f9718393d&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
