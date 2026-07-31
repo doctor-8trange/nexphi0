@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:00:13 PM 31-07-2026",
-  "total_matches": 1,
+  "last_updated": "04:15:04 PM 31-07-2026",
+  "total_matches": 2,
   "live_matches": 1,
-  "upcoming_matches": 0,
+  "upcoming_matches": 1,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -154,5 +154,106 @@
       }
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "21ffc342-766a-4a4e-b21b-e2d96313d6f1",
+      "_entityId": "62f9dde0-b43a-4cb6-8a16-a1ad8687f564",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-namibia-2nd-innings",
+      "slug": "netherlands-v-namibia-2nd-innings",
+      "title": "Netherlands v Namibia (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9de6bb75-dcb7-4a1f-810e-0b55dcd9aa37",
+          "_entityId": "919c550c-a615-41e0-ad04-1c8d8d2bf003",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270958",
+          "title": "Netherlands vs Namibia - Match 121 - 7/31/2026",
+          "slug": "match-270958",
+          "neutralSlug": "match-270958",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270958",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270958",
+            "teamA": "Netherlands",
+            "teamB": "Namibia",
+            "teamAid": "15",
+            "teamBid": "20",
+            "teamAshort": "NED",
+            "teamBshort": "NAM",
+            "stage": "League",
+            "matchDateLocal": "7/31/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 121",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "netherlands-vs-namibia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e854d6fc-e1f7-4242-bf18-43863f52c3e4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-07-31T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-07-17T13:17:20.111Z",
+      "contentDate": "2026-07-17T13:17:13.178Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NED-JUL_Match6.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/valapkk1ddp38wgbxhsx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/valapkk1ddp38wgbxhsx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-ned-jul-match6-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match6-2"
+      },
+      "entityCode": "video"
+    }
+  ]
 }
