@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:05 PM 31-07-2026",
-  "total_matches": 13,
+  "last_updated": "06:30:09 PM 31-07-2026",
+  "total_matches": 12,
   "live_matches": 1,
-  "upcoming_matches": 12,
+  "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "7a6c9bce-385a-43fe-b20c-fad7fa997bb6",
-      "_entityId": "147cc61a-fe2e-494c-bf01-5b3ccb16dff4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-namibia-1st-innings",
-      "slug": "netherlands-v-namibia-1st-innings",
-      "title": "Netherlands v Namibia (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "9de6bb75-dcb7-4a1f-810e-0b55dcd9aa37",
-          "_entityId": "919c550c-a615-41e0-ad04-1c8d8d2bf003",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270958",
-          "title": "Netherlands vs Namibia - Match 121 - 7/31/2026",
-          "slug": "match-270958",
-          "neutralSlug": "match-270958",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-270958",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "270958",
-            "teamA": "Netherlands",
-            "teamB": "Namibia",
-            "teamAid": "15",
-            "teamBid": "20",
-            "teamAshort": "NED",
-            "teamBshort": "NAM",
-            "stage": "League",
-            "matchDateLocal": "7/31/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 121",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "netherlands-vs-namibia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "866c8895-722e-4e9c-89de-734cdbd835a2",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-07-31T09:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-07-31T08:42:22.217Z",
-      "contentDate": "2026-07-31T08:42:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-NED-JUL_Match6.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/t78irt4p06yno6zqqquw",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/t78irt4p06yno6zqqquw",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-ned-jul-match6-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match6-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, July 31, 2026, 2:15:03 PM",
-        "expire_date": "Friday, July 31, 2026, 10:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785516309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ef4974214b266f929900e842afb61202994477720267fcf849e58d206f1727c9/manifest.mpd?vcfilter=866c8895-722e-4e9c-89de-734cdbd835a2&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "21ffc342-766a-4a4e-b21b-e2d96313d6f1",
@@ -226,7 +93,7 @@
       "fields": {
         "videoId": "e854d6fc-e1f7-4242-bf18-43863f52c3e4",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "15300000",
         "v_has_data": true,
         "scheduledStartTime": "2026-07-31T12:45:00Z",
@@ -240,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-07-31T12:41:06.148Z",
-      "contentDate": "2026-07-17T13:17:13.178Z",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-07-31T12:56:08Z",
+      "contentDate": "2026-07-31T12:56:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-NED-JUL_Match6.2",
@@ -253,8 +120,41 @@
         "slug": "icc26-cwc-l2-ned-jul-match6-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match6-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, July 31, 2026, 6:30:05 PM",
+        "expire_date": "Saturday, August 1, 2026, 2:30:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785531609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=84c1a6160590dabfa4b81a04876c569ed1ba957800ef30a10748c5b045da1a0a/manifest.mpd?vcfilter=e854d6fc-e1f7-4242-bf18-43863f52c3e4&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "7f24e539-f3fd-4186-b432-9cd0286957bc",
