@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:00:13 PM 31-07-2026",
-  "total_matches": 1,
+  "last_updated": "06:15:05 PM 31-07-2026",
+  "total_matches": 13,
   "live_matches": 1,
-  "upcoming_matches": 0,
+  "upcoming_matches": 12,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -154,5 +154,1206 @@
       }
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "21ffc342-766a-4a4e-b21b-e2d96313d6f1",
+      "_entityId": "62f9dde0-b43a-4cb6-8a16-a1ad8687f564",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-namibia-2nd-innings",
+      "slug": "netherlands-v-namibia-2nd-innings",
+      "title": "Netherlands v Namibia (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9de6bb75-dcb7-4a1f-810e-0b55dcd9aa37",
+          "_entityId": "919c550c-a615-41e0-ad04-1c8d8d2bf003",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270958",
+          "title": "Netherlands vs Namibia - Match 121 - 7/31/2026",
+          "slug": "match-270958",
+          "neutralSlug": "match-270958",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270958",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "270958",
+            "teamA": "Netherlands",
+            "teamB": "Namibia",
+            "teamAid": "15",
+            "teamBid": "20",
+            "teamAshort": "NED",
+            "teamBshort": "NAM",
+            "stage": "League",
+            "matchDateLocal": "7/31/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 121",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "netherlands-vs-namibia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e854d6fc-e1f7-4242-bf18-43863f52c3e4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "15300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-07-31T12:45:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-07-31T12:41:06.148Z",
+      "contentDate": "2026-07-17T13:17:13.178Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-NED-JUL_Match6.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/valapkk1ddp38wgbxhsx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/valapkk1ddp38wgbxhsx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-ned-jul-match6-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-ned-jul-match6-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "7f24e539-f3fd-4186-b432-9cd0286957bc",
+      "_entityId": "d69148ed-72c6-4356-bcef-2b7a6a4abaf3",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-united-arab-emirates-1st-innings",
+      "slug": "scotland-v-united-arab-emirates-1st-innings",
+      "title": "Scotland v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "46ea82bf-aa39-41d7-8c16-8cbb52f6ba8a",
+          "_entityId": "4cb96c81-751c-4512-9fd4-b709d0d3f8cc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271902",
+          "title": "Scotland vs United Arab Emirates - Match 122 - 8/3/2026",
+          "slug": "match-271902",
+          "neutralSlug": "match-271902",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271902",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271902",
+            "teamA": "Scotland",
+            "teamB": "United Arab Emirates",
+            "teamAid": "16",
+            "teamBid": "21",
+            "teamAshort": "SCO",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "8/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 122",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "4c57940a-24d5-4741-9865-921341348032",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-03T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:23:01.283Z",
+      "contentDate": "2026-07-31T12:23:01.283Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match1.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ukb1fiabh8hui7xnow3e",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ukb1fiabh8hui7xnow3e",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match1-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match1-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "5e8fdeb0-dc78-40ef-b475-bba9ca975056",
+      "_entityId": "4dcc3636-bcbf-4ebe-9fef-59029bcf6f0b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-canada-1st-innings",
+      "slug": "united-arab-emirates-v-canada-1st-innings",
+      "title": "United Arab Emirates v Canada (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3c6b7277-6cbc-417d-9c92-5cae87e3e314",
+          "_entityId": "93b7dc44-7ed0-4d69-bd35-3a82e158854b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271903",
+          "title": "United Arab Emirates vs Canada - Match 123 - 8/5/2026",
+          "slug": "match-271903",
+          "neutralSlug": "match-271903",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271903",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271903",
+            "teamA": "United Arab Emirates",
+            "teamB": "Canada",
+            "teamAid": "21",
+            "teamBid": "12",
+            "teamAshort": "UAE",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 123",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "49efdfbf-dbee-4d73-85ea-6182c333915f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-05T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:24:57.86Z",
+      "contentDate": "2026-07-31T12:24:57.86Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match2.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b5twqgbaeishtihp8xxv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/b5twqgbaeishtihp8xxv",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match2-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match2-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a853f50a-962a-499c-87d3-3989b991f683",
+      "_entityId": "1fbf5599-e98f-4472-8e49-f512d5aebd4a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-canada-2nd-innings",
+      "slug": "united-arab-emirates-v-canada-2nd-innings",
+      "title": "United Arab Emirates v Canada (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3c6b7277-6cbc-417d-9c92-5cae87e3e314",
+          "_entityId": "93b7dc44-7ed0-4d69-bd35-3a82e158854b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271903",
+          "title": "United Arab Emirates vs Canada - Match 123 - 8/5/2026",
+          "slug": "match-271903",
+          "neutralSlug": "match-271903",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271903",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271903",
+            "teamA": "United Arab Emirates",
+            "teamB": "Canada",
+            "teamAid": "21",
+            "teamBid": "12",
+            "teamAshort": "UAE",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/5/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 123",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9eb3ed42-212c-4413-a41f-f5c69724164b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-05T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:25:23.53Z",
+      "contentDate": "2026-07-31T12:25:23.53Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match2.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cqx3qvkq7xcrfnfmuv2p",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cqx3qvkq7xcrfnfmuv2p",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match2-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match2-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "896bc133-7043-4071-a9cc-def5bc4c89d0",
+      "_entityId": "b40f5a22-aba1-44f1-bf43-a7f55c237e20",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-canada-1st-innings",
+      "slug": "scotland-v-canada-1st-innings",
+      "title": "Scotland v Canada (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "ddc4fbeb-f6b2-4155-8690-41def827b4c8",
+          "_entityId": "27a2888b-d4b4-4d34-8166-c5d2f5c72f54",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271904",
+          "title": "Scotland vs Canada - Match 124 - 8/7/2026",
+          "slug": "match-271904",
+          "neutralSlug": "match-271904",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271904",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271904",
+            "teamA": "Scotland",
+            "teamB": "Canada",
+            "teamAid": "16",
+            "teamBid": "12",
+            "teamAshort": "SCO",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/7/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 124",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d5f564e8-5fae-47a5-9646-6190dc5373fe",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-07T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:25:57.86Z",
+      "contentDate": "2026-07-31T12:25:57.86Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match3.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tta8gmdplkvc9z7eayqy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tta8gmdplkvc9z7eayqy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match3-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match3-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "45a04ee9-34ab-43db-8cf9-b4112477c11e",
+      "_entityId": "80145da0-d0ab-413b-b1e3-0975c6ad662d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-canada-2nd-innings",
+      "slug": "scotland-v-canada-2nd-innings",
+      "title": "Scotland v Canada (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "ddc4fbeb-f6b2-4155-8690-41def827b4c8",
+          "_entityId": "27a2888b-d4b4-4d34-8166-c5d2f5c72f54",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271904",
+          "title": "Scotland vs Canada - Match 124 - 8/7/2026",
+          "slug": "match-271904",
+          "neutralSlug": "match-271904",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271904",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271904",
+            "teamA": "Scotland",
+            "teamB": "Canada",
+            "teamAid": "16",
+            "teamBid": "12",
+            "teamAshort": "SCO",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/7/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 124",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a7ad97e9-fd82-4d98-bdd8-7a2b8a3d4409",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-07T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:26:28.124Z",
+      "contentDate": "2026-07-31T12:26:28.124Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match3.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zkpxronb7wa2phmyofnx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zkpxronb7wa2phmyofnx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match3-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match3-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "433cfab1-bb35-4f78-95d4-bd53fa3dc7e1",
+      "_entityId": "a5463536-7eca-4af4-821e-4fe2227f42c4",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-scotland-1st-innings",
+      "slug": "united-arab-emirates-v-scotland-1st-innings",
+      "title": "United Arab Emirates v Scotland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "29c7662e-9d31-4a73-9e5e-4d50f916f1bd",
+          "_entityId": "e83e0623-aa4d-47d0-96bd-8f748ae9134f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271905",
+          "title": "Scotland vs United Arab Emirates - Match 125 - 8/9/2026",
+          "slug": "match-271905",
+          "neutralSlug": "match-271905",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271905",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271905",
+            "teamA": "Scotland",
+            "teamB": "United Arab Emirates",
+            "teamAid": "16",
+            "teamBid": "21",
+            "teamAshort": "SCO",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 125",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3ee6699e-b208-4e60-9389-74f048a23ab5",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:27:17.271Z",
+      "contentDate": "2026-07-31T12:27:17.271Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match4.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hwrrgolla5kauhmscgfu",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hwrrgolla5kauhmscgfu",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match4-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match4-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "d099f2e8-ba6c-4521-a964-8176bd58b1d8",
+      "_entityId": "939956d0-e9d5-4caa-9268-52c9053322f0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-scotland-2nd-innings",
+      "slug": "united-arab-emirates-v-scotland-2nd-innings",
+      "title": "United Arab Emirates v Scotland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "29c7662e-9d31-4a73-9e5e-4d50f916f1bd",
+          "_entityId": "e83e0623-aa4d-47d0-96bd-8f748ae9134f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271905",
+          "title": "Scotland vs United Arab Emirates - Match 125 - 8/9/2026",
+          "slug": "match-271905",
+          "neutralSlug": "match-271905",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271905",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271905",
+            "teamA": "Scotland",
+            "teamB": "United Arab Emirates",
+            "teamAid": "16",
+            "teamBid": "21",
+            "teamAshort": "SCO",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 125",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "f68742f3-3b71-4a31-b04a-155d6714b866",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:27:48.543Z",
+      "contentDate": "2026-07-31T12:27:48.543Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match4.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ogsezzeotomtcznrsm5h",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ogsezzeotomtcznrsm5h",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match4-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match4-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "d7e02e5f-78c3-479b-ab9d-cd4e34357fc3",
+      "_entityId": "5e515120-bc52-48f1-9bf4-15f8dceb9706",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-united-arab-emirates-1st-innings",
+      "slug": "canada-v-united-arab-emirates-1st-innings",
+      "title": "Canada v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "54cfde66-1866-4f35-a125-631dfdb0d094",
+          "_entityId": "0b3f18b6-b56c-48e1-bd93-9b3db595bc5c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271906",
+          "title": "United Arab Emirates vs Canada - Match 126 - 8/11/2026",
+          "slug": "match-271906",
+          "neutralSlug": "match-271906",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271906",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271906",
+            "teamA": "United Arab Emirates",
+            "teamB": "Canada",
+            "teamAid": "21",
+            "teamBid": "12",
+            "teamAshort": "UAE",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/11/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 126",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "f87d9422-819c-404d-b05b-86997ba17d3c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-11T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:28:24.524Z",
+      "contentDate": "2026-07-31T12:28:24.524Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match5.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/at67jw1ps4wmls2mvfcu",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/at67jw1ps4wmls2mvfcu",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match5-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match5-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a7b5bfe8-3e3d-4092-833b-fe8538b1d815",
+      "_entityId": "448b7967-1c2a-4d8d-80c1-ecf7c5b91347",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-united-arab-emirates-2nd-innings",
+      "slug": "canada-v-united-arab-emirates-2nd-innings",
+      "title": "Canada v United Arab Emirates (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "54cfde66-1866-4f35-a125-631dfdb0d094",
+          "_entityId": "0b3f18b6-b56c-48e1-bd93-9b3db595bc5c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271906",
+          "title": "United Arab Emirates vs Canada - Match 126 - 8/11/2026",
+          "slug": "match-271906",
+          "neutralSlug": "match-271906",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271906",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271906",
+            "teamA": "United Arab Emirates",
+            "teamB": "Canada",
+            "teamAid": "21",
+            "teamBid": "12",
+            "teamAshort": "UAE",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/11/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 126",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7ca694d2-61e7-42cc-a664-fec98fc6e3d1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-11T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:28:54.729Z",
+      "contentDate": "2026-07-31T12:28:54.729Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match5.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sh9gmi5gqmhkshtq5hpg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sh9gmi5gqmhkshtq5hpg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match5-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match5-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "46934da0-3f5a-4733-b413-c0dee45a1c6e",
+      "_entityId": "03505972-0cbe-4b9b-8170-799946d7f79f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-scotland-1st-innings",
+      "slug": "canada-v-scotland-1st-innings",
+      "title": "Canada v Scotland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8c6cb107-267d-414f-982a-4a7762830e84",
+          "_entityId": "63f800b9-78e8-4a3f-913f-54d5e78e30a6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271907",
+          "title": "Scotland vs Canada - Match 127 - 8/13/2026",
+          "slug": "match-271907",
+          "neutralSlug": "match-271907",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271907",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271907",
+            "teamA": "Scotland",
+            "teamB": "Canada",
+            "teamAid": "16",
+            "teamBid": "12",
+            "teamAshort": "SCO",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 127",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "398d3fdd-9f92-4c9c-a498-81a198543ec0",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-13T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:30:35.99Z",
+      "contentDate": "2026-07-31T12:30:35.99Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match6.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/luylzugdgua1wtsyhts6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/luylzugdgua1wtsyhts6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match6-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match6-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "59441899-5b12-4e79-afe4-c2149e6bc91e",
+      "_entityId": "a7b37c3a-11a7-4539-89c8-e215d55b7c6e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-scotland-2nd-innings",
+      "slug": "canada-v-scotland-2nd-innings",
+      "title": "Canada v Scotland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8c6cb107-267d-414f-982a-4a7762830e84",
+          "_entityId": "63f800b9-78e8-4a3f-913f-54d5e78e30a6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271907",
+          "title": "Scotland vs Canada - Match 127 - 8/13/2026",
+          "slug": "match-271907",
+          "neutralSlug": "match-271907",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271907",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271907",
+            "teamA": "Scotland",
+            "teamB": "Canada",
+            "teamAid": "16",
+            "teamBid": "12",
+            "teamAshort": "SCO",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "8/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 127",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "2c3701fc-522a-4090-adec-cc2de117c131",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-13T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T12:31:15.036Z",
+      "contentDate": "2026-07-31T12:31:15.036Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match6.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/reddea86gs62tflyw8jf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/reddea86gs62tflyw8jf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match6-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match6-2"
+      },
+      "entityCode": "video"
+    }
+  ]
 }
