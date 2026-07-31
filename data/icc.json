@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:30:09 PM 31-07-2026",
-  "total_matches": 12,
+  "last_updated": "06:45:05 PM 31-07-2026",
+  "total_matches": 13,
   "live_matches": 1,
-  "upcoming_matches": 11,
+  "upcoming_matches": 12,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -252,6 +252,106 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2-sco-aug-match1-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match1-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "d2df95ff-0ad1-43ea-b381-c8d4e5103110",
+      "_entityId": "c0933177-279f-43e4-90f8-08e6ccb2e6c5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-united-arab-emirates-2nd-innings",
+      "slug": "scotland-v-united-arab-emirates-2nd-innings",
+      "title": "Scotland v United Arab Emirates (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "46ea82bf-aa39-41d7-8c16-8cbb52f6ba8a",
+          "_entityId": "4cb96c81-751c-4512-9fd4-b709d0d3f8cc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271902",
+          "title": "Scotland vs United Arab Emirates - Match 122 - 8/3/2026",
+          "slug": "match-271902",
+          "neutralSlug": "match-271902",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-271902",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "271902",
+            "teamA": "Scotland",
+            "teamB": "United Arab Emirates",
+            "teamAid": "16",
+            "teamBid": "21",
+            "teamAshort": "SCO",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "8/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 122",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "scotland-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "23ef9943-42f3-49fd-b3dc-183e13cca756",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-03T14:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pranay Ruparelia",
+      "lastUpdatedDate": "2026-07-31T13:03:24.93Z",
+      "contentDate": "2026-07-31T13:03:24.93Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-SCO-AUG_Match1.1-1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/df6buuy2akrtxflonwhy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/df6buuy2akrtxflonwhy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-sco-aug-match1-1-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match1-1-1"
       },
       "entityCode": "video"
     },
