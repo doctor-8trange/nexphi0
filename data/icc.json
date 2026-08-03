@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:15:12 PM 03-08-2026",
+  "last_updated": "07:45:03 PM 03-08-2026",
   "total_matches": 12,
   "live_matches": 1,
   "upcoming_matches": 11,
@@ -107,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-03T09:43:31.249Z",
-      "contentDate": "2026-07-31T12:23:01.283Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T09:48:18.67Z",
+      "contentDate": "2026-08-03T09:48:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-SCO-AUG_Match1.1",
@@ -227,9 +227,9 @@
         "videoId": "23ef9943-42f3-49fd-b3dc-183e13cca756",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "5400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-03T14:00:00Z",
+        "scheduledStartTime": "2026-08-03T16:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -240,8 +240,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-07-31T13:03:24.93Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-03T14:01:40.319Z",
       "contentDate": "2026-07-31T13:03:24.93Z",
       "featured": 0,
       "thumbnail": {
