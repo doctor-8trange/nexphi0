@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:09 PM 03-08-2026",
-  "total_matches": 13,
-  "live_matches": 1,
-  "upcoming_matches": 12,
+  "last_updated": "03-08-2026 20:30",
+  "total_matches": 18,
+  "live_matches": 0,
+  "upcoming_matches": 18,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,240 +21,8 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "06b4df22-3db0-441b-8c07-17421f08b956",
-      "_entityId": "c97ecdcb-8dc6-471d-ad87-0632c9c0e7e0",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-united-arab-emirates-1st-innings-x7310",
-      "slug": "scotland-v-united-arab-emirates-1st-innings-x7310",
-      "title": "Scotland v United Arab Emirates (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "46ea82bf-aa39-41d7-8c16-8cbb52f6ba8a",
-          "_entityId": "4cb96c81-751c-4512-9fd4-b709d0d3f8cc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271902",
-          "title": "Scotland vs United Arab Emirates - Match 122 - 8/3/2026",
-          "slug": "match-271902",
-          "neutralSlug": "match-271902",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271902",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271902",
-            "teamA": "Scotland",
-            "teamB": "United Arab Emirates",
-            "teamAid": "16",
-            "teamBid": "21",
-            "teamAshort": "SCO",
-            "teamBshort": "UAE",
-            "stage": "League",
-            "matchDateLocal": "8/3/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 122",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-united-arab-emirates",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a26f8f85-d20e-475a-bd93-7f1042d2556d",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-03T14:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nishant Malekar",
-      "lastUpdatedDate": "2026-08-03T14:44:13.806Z",
-      "contentDate": "2026-08-03T14:44:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-SCO-AUG_Match1.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fegjkyopcqdr3a3actzy",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fegjkyopcqdr3a3actzy",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-sco-aug-match1-1-x8395",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match1-1-x8395"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, August 3, 2026, 8:15:04 PM",
-        "expire_date": "Tuesday, August 4, 2026, 4:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785797109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dcfd59d33edb64157807ee772f130090ea769786c9a8952e7133b5e8845e0237/manifest.mpd?vcfilter=a26f8f85-d20e-475a-bd93-7f1042d2556d&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
-    {
-      "type": "customentity",
-      "_translationId": "d2df95ff-0ad1-43ea-b381-c8d4e5103110",
-      "_entityId": "c0933177-279f-43e4-90f8-08e6ccb2e6c5",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-united-arab-emirates-2nd-innings",
-      "slug": "scotland-v-united-arab-emirates-2nd-innings",
-      "title": "Scotland v United Arab Emirates (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "46ea82bf-aa39-41d7-8c16-8cbb52f6ba8a",
-          "_entityId": "4cb96c81-751c-4512-9fd4-b709d0d3f8cc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271902",
-          "title": "Scotland vs United Arab Emirates - Match 122 - 8/3/2026",
-          "slug": "match-271902",
-          "neutralSlug": "match-271902",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271902",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271902",
-            "teamA": "Scotland",
-            "teamB": "United Arab Emirates",
-            "teamAid": "16",
-            "teamBid": "21",
-            "teamAshort": "SCO",
-            "teamBshort": "UAE",
-            "stage": "League",
-            "matchDateLocal": "8/3/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 122",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-united-arab-emirates",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "23ef9943-42f3-49fd-b3dc-183e13cca756",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "7140000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-03T16:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-03T14:16:10.682Z",
-      "contentDate": "2026-07-31T13:03:24.93Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-SCO-AUG_Match1.1-1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/df6buuy2akrtxflonwhy",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/df6buuy2akrtxflonwhy",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-sco-aug-match1-1-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match1-1-1"
-      },
-      "entityCode": "video"
-    },
     {
       "type": "customentity",
       "_translationId": "5e8fdeb0-dc78-40ef-b475-bba9ca975056",
@@ -682,6 +450,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "49b90d94-47f4-4789-9e39-977dcd52754a",
+          "_entityId": "aa2e54c1-d212-42f8-b997-ecfb2a1679be",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272649",
+          "title": "Tanzania vs Uganda - Match 31 - 8/8/2026",
+          "slug": "match-272649",
+          "neutralSlug": "match-272649",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272649",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272649",
+            "teamA": "Tanzania",
+            "teamB": "Uganda",
+            "teamAid": "1731",
+            "teamBid": "29",
+            "teamAshort": "TAN",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "8/8/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 31",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "tanzania-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -702,7 +509,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T14:44:03.093Z",
+      "lastUpdatedDate": "2026-08-03T14:46:28.984Z",
       "contentDate": "2026-08-03T14:44:03.093Z",
       "featured": 0,
       "thumbnail": {
@@ -713,6 +520,506 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2btanz-aug-match1-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "061d0b29-6d6e-4d01-b55c-8edf42e6eefc",
+      "_entityId": "1059c8ab-4d4b-441e-829a-192412f7e78e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-uganda-2nd-innings",
+      "slug": "tanzania-v-uganda-2nd-innings",
+      "title": "Tanzania v Uganda (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "49b90d94-47f4-4789-9e39-977dcd52754a",
+          "_entityId": "aa2e54c1-d212-42f8-b997-ecfb2a1679be",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272649",
+          "title": "Tanzania vs Uganda - Match 31 - 8/8/2026",
+          "slug": "match-272649",
+          "neutralSlug": "match-272649",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272649",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272649",
+            "teamA": "Tanzania",
+            "teamB": "Uganda",
+            "teamAid": "1731",
+            "teamBid": "29",
+            "teamAshort": "TAN",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "8/8/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 31",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "tanzania-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a515bfff-ca17-404b-8b7b-17a97dc3afc2",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-08T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:48:04.291Z",
+      "contentDate": "2026-08-03T14:48:04.291Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match1.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/iuiwqvvevgpje9wyoxej",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/iuiwqvvevgpje9wyoxej",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match1-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "dc383b4a-d834-4e59-91ae-08658c66010c",
+      "_entityId": "080c9464-ed6f-4157-b309-16face659022",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-singapore-1st-innings",
+      "slug": "hong-kong-china-v-singapore-1st-innings",
+      "title": "Hong Kong, China v Singapore (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "35dd2b68-5b64-434c-aaa7-189754d7ac42",
+          "_entityId": "9dc7ad31-3523-429c-b967-2b257730ecce",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272651",
+          "title": "Hong Kong, China vs Singapore - Match 33 - 8/9/2026",
+          "slug": "match-272651",
+          "neutralSlug": "match-272651",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272651",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272651",
+            "teamA": "Hong Kong, China",
+            "teamB": "Singapore",
+            "teamAid": "19",
+            "teamBid": "1565",
+            "teamAshort": "HK",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 33",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "hong-kong-china-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d908c3f4-c093-4bd0-a16c-b6864e67a16c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:57:55.639Z",
+      "contentDate": "2026-08-03T14:57:55.639Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match3.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/aax6ny4pzlx8c05t3xyx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/aax6ny4pzlx8c05t3xyx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match3-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match3-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "14a48e38-a2f9-4a55-a22a-286c6a59615d",
+      "_entityId": "5607249c-f06a-4559-977c-4c54c357ae6b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/italy-v-bahrain-1st-innings",
+      "slug": "italy-v-bahrain-1st-innings",
+      "title": "Italy v Bahrain (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "623b94f0-f851-4e9a-8ab9-45661b9fc013",
+          "_entityId": "c2b42543-ba5d-434e-be44-407887b4b2b9",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272650",
+          "title": "Bahrain vs Italy - Match 32 - 8/9/2026",
+          "slug": "match-272650",
+          "neutralSlug": "match-272650",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272650",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272650",
+            "teamA": "Bahrain",
+            "teamB": "Italy",
+            "teamAid": "1872",
+            "teamBid": "1298",
+            "teamAshort": "BRN",
+            "teamBshort": "ITA",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 32",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "bahrain-vs-italy",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a972891e-615b-403c-8461-b71100e76f6d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:51:24.463Z",
+      "contentDate": "2026-08-03T14:51:24.463Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match2.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fimfmmxzagk95wdugw0f",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fimfmmxzagk95wdugw0f",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match2-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match2-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3274a608-d123-4c09-8365-1237b958b593",
+      "_entityId": "d61c54bd-f6a4-43f4-aabb-8af37fd348e8",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-singapore-2nd-innings",
+      "slug": "hong-kong-china-v-singapore-2nd-innings",
+      "title": "Hong Kong, China v Singapore (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "35dd2b68-5b64-434c-aaa7-189754d7ac42",
+          "_entityId": "9dc7ad31-3523-429c-b967-2b257730ecce",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272651",
+          "title": "Hong Kong, China vs Singapore - Match 33 - 8/9/2026",
+          "slug": "match-272651",
+          "neutralSlug": "match-272651",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272651",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272651",
+            "teamA": "Hong Kong, China",
+            "teamB": "Singapore",
+            "teamAid": "19",
+            "teamBid": "1565",
+            "teamAshort": "HK",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 33",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "hong-kong-china-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "dbed9baf-1e90-4c49-9a80-803a61cb6dda",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:58:37.24Z",
+      "contentDate": "2026-08-03T14:58:37.24Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match3.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zvm83lybtimmau4b5hkc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zvm83lybtimmau4b5hkc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match3-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match3-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ab326af0-5400-433f-a36c-729bbf9e81fd",
+      "_entityId": "ce7e90f1-b059-4c61-a18a-89f2b89e75b4",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/italy-v-bahrain-2nd-innings",
+      "slug": "italy-v-bahrain-2nd-innings",
+      "title": "Italy v Bahrain (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "623b94f0-f851-4e9a-8ab9-45661b9fc013",
+          "_entityId": "c2b42543-ba5d-434e-be44-407887b4b2b9",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272650",
+          "title": "Bahrain vs Italy - Match 32 - 8/9/2026",
+          "slug": "match-272650",
+          "neutralSlug": "match-272650",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272650",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272650",
+            "teamA": "Bahrain",
+            "teamB": "Italy",
+            "teamAid": "1872",
+            "teamBid": "1298",
+            "teamAshort": "BRN",
+            "teamBshort": "ITA",
+            "stage": "League",
+            "matchDateLocal": "8/9/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 32",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "bahrain-vs-italy",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a1822a56-b55b-4239-83cb-a0d1590ccc22",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-09T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:52:52.319Z",
+      "contentDate": "2026-08-03T14:52:52.319Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match2.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xmjnq9jicfskhahrt4es",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xmjnq9jicfskhahrt4es",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match2-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match2-2"
       },
       "entityCode": "video"
     },
@@ -913,6 +1220,206 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2-sco-aug-match4-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match4-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ed8b313d-b22f-4a8c-b27a-ec9f5d19928f",
+      "_entityId": "b917a93b-8d45-4f3c-a44f-bf8a0f4e37dd",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-hong-kong-china-1st-innings",
+      "slug": "tanzania-v-hong-kong-china-1st-innings",
+      "title": "Tanzania v Hong Kong, China (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0fb39eee-2c86-4769-bedb-0a59d512eb9e",
+          "_entityId": "a3461502-e92e-47d0-afd2-5ca65e590c8c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272652",
+          "title": "Tanzania vs Hong Kong, China - Match 34 - 8/11/2026",
+          "slug": "match-272652",
+          "neutralSlug": "match-272652",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272652",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272652",
+            "teamA": "Tanzania",
+            "teamB": "Hong Kong, China",
+            "teamAid": "1731",
+            "teamBid": "19",
+            "teamAshort": "TAN",
+            "teamBshort": "HK",
+            "stage": "League",
+            "matchDateLocal": "8/11/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 34",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "tanzania-vs-hong-kong-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "08f185a6-407b-442a-a0c6-b68b01ae0123",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-11T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:56:06.407Z",
+      "contentDate": "2026-08-03T14:55:49.513Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match4.1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hbs8wq4i3gpxhpy7yx0m",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hbs8wq4i3gpxhpy7yx0m",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match4-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match4-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "bb2357b6-9704-49cd-b363-55a3c20b36de",
+      "_entityId": "a562dc69-d55a-45a5-aa43-d5c131ac7a01",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-hong-kong-china-2nd-innings",
+      "slug": "tanzania-v-hong-kong-china-2nd-innings",
+      "title": "Tanzania v Hong Kong, China (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+          "_entityId": "920ce214-b048-44de-8cac-909452024176",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+          "title": "ICC CWC Challenge League B, 2024-26",
+          "slug": "tournament-8271",
+          "neutralSlug": "tournament-8271",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8271",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8271",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0fb39eee-2c86-4769-bedb-0a59d512eb9e",
+          "_entityId": "a3461502-e92e-47d0-afd2-5ca65e590c8c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272652",
+          "title": "Tanzania vs Hong Kong, China - Match 34 - 8/11/2026",
+          "slug": "match-272652",
+          "neutralSlug": "match-272652",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272652",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272652",
+            "teamA": "Tanzania",
+            "teamB": "Hong Kong, China",
+            "teamAid": "1731",
+            "teamBid": "19",
+            "teamAshort": "TAN",
+            "teamBshort": "HK",
+            "stage": "League",
+            "matchDateLocal": "8/11/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 34",
+            "seriesId": "8271",
+            "seriesName": "ICC CWC Challenge League B, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "7092",
+            "tourName": "ICC CWC Challenge League B, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "tanzania-vs-hong-kong-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9880d413-d112-463a-a9e2-ecce60bb2551",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-11T10:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-03T14:56:33.531Z",
+      "contentDate": "2026-08-03T14:56:33.531Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2BTANZ-AUG_Match4.2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mrj2ltte30fqa5u67tg6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mrj2ltte30fqa5u67tg6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2btanz-aug-match4-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match4-2"
       },
       "entityCode": "video"
     },
