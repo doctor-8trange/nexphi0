@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 03-08-2026 20:00
+#DATE:- 03-08-2026 20:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="4c57940a-24d5-4741-9865-921341348032" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ukb1fiabh8hui7xnow3e" tvg-lang="English" group-title="Cricket",English | Scotland v United Arab Emirates (1st Innings)
+#EXTINF:-1 tvg-id="a26f8f85-d20e-475a-bd93-7f1042d2556d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fegjkyopcqdr3a3actzy" tvg-lang="English" group-title="Cricket",English | Scotland v United Arab Emirates (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785779111~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=345c55ffcfd6f1ff877fb2e6347c319379351fad16f51748da54f943cd0b8a8a/manifest.mpd?vcfilter=4c57940a-24d5-4741-9865-921341348032&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785797109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dcfd59d33edb64157807ee772f130090ea769786c9a8952e7133b5e8845e0237/manifest.mpd?vcfilter=a26f8f85-d20e-475a-bd93-7f1042d2556d&
