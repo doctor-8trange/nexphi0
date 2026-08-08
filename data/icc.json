@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:45:04 PM 08-08-2026",
+  "last_updated": "05:00:09 PM 08-08-2026",
   "total_matches": 56,
   "live_matches": 1,
   "upcoming_matches": 55,
@@ -24,10 +24,10 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "9b03eb32-c69b-4e0a-949d-c37f561cbf71",
-      "_entityId": "03022bbd-106e-4966-b1be-162e49f7253e",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-uganda-1st-innings",
-      "slug": "tanzania-v-uganda-1st-innings",
+      "_translationId": "3d4f87b4-9155-4e51-bd1b-280b033f55b1",
+      "_entityId": "a8cf6534-eac4-4ae5-abd0-50f8438bf688",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-uganda-1st-innings-x5328",
+      "slug": "tanzania-v-uganda-1st-innings-x5328",
       "title": "Tanzania v Uganda (1st Innings)",
       "tags": [
         {
@@ -91,12 +91,12 @@
         }
       ],
       "fields": {
-        "videoId": "6f616c92-9bc5-46a0-9ef5-090af5e31125",
+        "videoId": "db657f83-267e-432f-aa66-97d1689b3d04",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-08T06:00:00Z",
+        "scheduledStartTime": "2026-08-08T10:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -107,24 +107,24 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-08T05:40:59.195Z",
-      "contentDate": "2026-08-03T14:44:03.093Z",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-08-08T11:20:44.658Z",
+      "contentDate": "2026-08-08T09:56:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2BTANZ-AUG_Match1.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wmkx8hoiq4mkee2ywud0",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wmkx8hoiq4mkee2ywud0",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qshl11iwnck1x4orgbcr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qshl11iwnck1x4orgbcr",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match1-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-1"
+        "slug": "icc26-cwc-l2btanz-aug-match1-1-x5173",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-1-x5173"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Saturday, August 8, 2026, 11:15:06 AM",
-        "expire_date": "Saturday, August 8, 2026, 7:15:11 PM",
+        "create_date": "Saturday, August 8, 2026, 5:00:04 PM",
+        "expire_date": "Sunday, August 9, 2026, 1:00:09 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
           "Referer: https://www.icc-cricket.com/",
@@ -137,7 +137,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786196711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fd62d7d1339b86473934068a3ada5d941433b3aeb8c6aa50786230d1a8b4ce93/manifest.mpd?vcfilter=6f616c92-9bc5-46a0-9ef5-090af5e31125&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786217409~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6f57a6fa292096d17ac0da4784ab38e0b4773b41699ad8109346a16ef3e0e934/manifest.mpd?vcfilter=db657f83-267e-432f-aa66-97d1689b3d04&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
