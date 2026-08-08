@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:09 PM 08-08-2026",
-  "total_matches": 56,
+  "last_updated": "06:15:10 PM 08-08-2026",
+  "total_matches": 55,
   "live_matches": 1,
-  "upcoming_matches": 55,
+  "upcoming_matches": 54,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "3d4f87b4-9155-4e51-bd1b-280b033f55b1",
-      "_entityId": "a8cf6534-eac4-4ae5-abd0-50f8438bf688",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-uganda-1st-innings-x5328",
-      "slug": "tanzania-v-uganda-1st-innings-x5328",
-      "title": "Tanzania v Uganda (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "49b90d94-47f4-4789-9e39-977dcd52754a",
-          "_entityId": "aa2e54c1-d212-42f8-b997-ecfb2a1679be",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272649",
-          "title": "Tanzania vs Uganda - Match 31 - 8/8/2026",
-          "slug": "match-272649",
-          "neutralSlug": "match-272649",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272649",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272649",
-            "teamA": "Tanzania",
-            "teamB": "Uganda",
-            "teamAid": "1731",
-            "teamBid": "29",
-            "teamAshort": "TAN",
-            "teamBshort": "UGA",
-            "stage": "League",
-            "matchDateLocal": "8/8/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 31",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "tanzania-vs-uganda",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "db657f83-267e-432f-aa66-97d1689b3d04",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-08T10:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-08-08T11:20:44.658Z",
-      "contentDate": "2026-08-08T09:56:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match1.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qshl11iwnck1x4orgbcr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qshl11iwnck1x4orgbcr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match1-1-x5173",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-1-x5173"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 8, 2026, 5:00:04 PM",
-        "expire_date": "Sunday, August 9, 2026, 1:00:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786217409~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6f57a6fa292096d17ac0da4784ab38e0b4773b41699ad8109346a16ef3e0e934/manifest.mpd?vcfilter=db657f83-267e-432f-aa66-97d1689b3d04&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "061d0b29-6d6e-4d01-b55c-8edf42e6eefc",
@@ -226,10 +93,10 @@
       "fields": {
         "videoId": "a515bfff-ca17-404b-8b7b-17a97dc3afc2",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "12600000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-08T14:30:00Z",
+        "scheduledStartTime": "2026-08-08T12:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -241,7 +108,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-08T11:01:03.094Z",
+      "lastUpdatedDate": "2026-08-08T12:42:16.052Z",
       "contentDate": "2026-08-03T14:48:04.291Z",
       "featured": 0,
       "thumbnail": {
@@ -253,8 +120,41 @@
         "slug": "icc26-cwc-l2btanz-aug-match1-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match1-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, August 8, 2026, 6:15:05 PM",
+        "expire_date": "Sunday, August 9, 2026, 2:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786221909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b5f8886f2b00b3488180bfa311edd128e81881be62a59f0edf5914410530bdb3/manifest.mpd?vcfilter=a515bfff-ca17-404b-8b7b-17a97dc3afc2&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "dc383b4a-d834-4e59-91ae-08658c66010c",
