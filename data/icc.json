@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:45:06 PM 09-08-2026",
+  "last_updated": "05:45:10 PM 09-08-2026",
   "total_matches": 52,
   "live_matches": 3,
   "upcoming_matches": 49,
@@ -286,10 +286,10 @@
     },
     {
       "type": "customentity",
-      "_translationId": "433cfab1-bb35-4f78-95d4-bd53fa3dc7e1",
-      "_entityId": "a5463536-7eca-4af4-821e-4fe2227f42c4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-scotland-1st-innings",
-      "slug": "united-arab-emirates-v-scotland-1st-innings",
+      "_translationId": "117141dc-44d4-4a37-892c-52ef451368ff",
+      "_entityId": "462cce47-5c24-404b-9dec-b8a571d04beb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-scotland-1st-innings-x4705",
+      "slug": "united-arab-emirates-v-scotland-1st-innings-x4705",
       "title": "United Arab Emirates v Scotland (1st Innings)",
       "tags": [
         {
@@ -353,12 +353,12 @@
         }
       ],
       "fields": {
-        "videoId": "3ee6699e-b208-4e60-9389-74f048a23ab5",
+        "videoId": "4198b3b3-ae73-4064-ae1f-d88a3c8a1c97",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "18000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-09T10:00:00Z",
+        "scheduledStartTime": "2026-08-09T12:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -370,23 +370,23 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-09T09:40:43.604Z",
-      "contentDate": "2026-07-31T12:27:17.271Z",
+      "lastUpdatedDate": "2026-08-09T12:10:43.128Z",
+      "contentDate": "2026-08-09T11:44:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-SCO-AUG_Match4.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hwrrgolla5kauhmscgfu",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hwrrgolla5kauhmscgfu",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ycmbcxwk2zwdo4qbtugj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ycmbcxwk2zwdo4qbtugj",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-sco-aug-match4-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match4-1"
+        "slug": "icc26-cwc-l2-sco-aug-match4-1-x4101",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match4-1-x4101"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, August 9, 2026, 3:15:05 PM",
-        "expire_date": "Sunday, August 9, 2026, 11:15:10 PM",
+        "create_date": "Sunday, August 9, 2026, 5:45:06 PM",
+        "expire_date": "Monday, August 10, 2026, 1:45:10 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
           "Referer: https://www.icc-cricket.com/",
@@ -399,7 +399,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786297510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=87bdc4c2641171317a2137b3778054cafba954b3c5b6965a8cadb56c3f228976/manifest.mpd?vcfilter=3ee6699e-b208-4e60-9389-74f048a23ab5&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786306510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3112fc8e7893bebacb085371a3484c684071d0e75f456d58cb48838089aaf50a/manifest.mpd?vcfilter=4198b3b3-ae73-4064-ae1f-d88a3c8a1c97&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
