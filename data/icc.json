@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:30:06 PM 11-08-2026",
-  "total_matches": 47,
+  "last_updated": "03:00:16 PM 11-08-2026",
+  "total_matches": 46,
   "live_matches": 2,
-  "upcoming_matches": 45,
+  "upcoming_matches": 44,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,137 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "b9b9a36f-a9bc-483c-ba10-cf777a9c4b8c",
-      "_entityId": "4f38bf52-3487-4a71-9624-bd003a2890c2",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/uganda-v-italy-1st-innings",
-      "slug": "uganda-v-italy-1st-innings",
-      "title": "Uganda v Italy (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "acc88011-4530-40a9-889d-b79c554dd5c9",
-          "_entityId": "ebb54f22-7d7a-4d82-8052-6b1dec80fe51",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272653",
-          "title": "Italy vs Uganda - Match 35 - 8/11/2026",
-          "slug": "match-272653",
-          "neutralSlug": "match-272653",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272653",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272653",
-            "teamA": "Italy",
-            "teamB": "Uganda",
-            "teamAid": "1298",
-            "teamBid": "29",
-            "teamAshort": "ITA",
-            "teamBshort": "UGA",
-            "stage": "League",
-            "matchDateLocal": "8/11/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 35",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "italy-vs-uganda",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c0cfe86b-bd93-4b2c-b8f0-d7fca1ffacb6",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-11T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-11T05:40:52.695Z",
-      "contentDate": "2026-08-03T15:00:28.962Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match5.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fe5mxlbgikvlxdt209uf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fe5mxlbgikvlxdt209uf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match5-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match5-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, August 11, 2026, 11:15:07 AM",
-        "expire_date": "Tuesday, August 11, 2026, 7:15:12 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786455912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6350e3adc0e132bade8d7a61ad491bb2ecad1ddecca5911ad23421e2e54c77f2/manifest.mpd?vcfilter=c0cfe86b-bd93-4b2c-b8f0-d7fca1ffacb6&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "bb2357b6-9704-49cd-b363-55a3c20b36de",
@@ -283,9 +152,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "ba18538e-b2bf-4396-9024-0b6867e9bf0a",
@@ -357,10 +224,10 @@
       "fields": {
         "videoId": "fa9baf8e-0a32-4a67-b44d-8d1f9cfa6655",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-11T10:00:00Z",
+        "scheduledStartTime": "2026-08-11T09:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -371,8 +238,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:01:33.896Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-11T09:26:48.9Z",
       "contentDate": "2026-08-03T15:01:33.896Z",
       "featured": 0,
       "thumbnail": {
@@ -384,8 +251,41 @@
         "slug": "icc26-cwc-l2btanz-aug-match5-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match5-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, August 11, 2026, 3:00:05 PM",
+        "expire_date": "Tuesday, August 11, 2026, 11:00:16 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786469416~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3534fc68192f652e24ea13db1633a1a54a6408818fda0d1c849c776b6581d261/manifest.mpd?vcfilter=fa9baf8e-0a32-4a67-b44d-8d1f9cfa6655&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "d7e02e5f-78c3-479b-ab9d-cd4e34357fc3",
