@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:00:14 PM 12-08-2026",
-  "total_matches": 40,
-  "live_matches": 2,
+  "last_updated": "03:15:03 PM 12-08-2026",
+  "total_matches": 39,
+  "live_matches": 1,
   "upcoming_matches": 38,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,137 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "5fdb0bfa-a728-4e97-b41b-2863673a9099",
-      "_entityId": "b4d0dd24-374d-4bcc-b974-c2e6149c18c4",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-uganda-1st-innings",
-      "slug": "hong-kong-china-v-uganda-1st-innings",
-      "title": "Hong Kong, China v Uganda (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0df4cb52-507e-4eda-8a70-3a3f72bfe61b",
-          "_entityId": "98dd388a-c7ae-42d7-9b62-ff08c814b421",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272655",
-          "title": "Hong Kong, China vs Uganda - Match 37 - 8/12/2026",
-          "slug": "match-272655",
-          "neutralSlug": "match-272655",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272655",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272655",
-            "teamA": "Hong Kong, China",
-            "teamB": "Uganda",
-            "teamAid": "19",
-            "teamBid": "29",
-            "teamAshort": "HK",
-            "teamBshort": "UGA",
-            "stage": "League",
-            "matchDateLocal": "8/12/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 37",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "hong-kong-china-vs-uganda",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "9b562aaa-a788-42df-939e-5cef9d5dd3ac",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-12T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-08-12T05:43:04.894Z",
-      "contentDate": "2026-08-12T05:43:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match7.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mymb0lg6buzsxxyrow76",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mymb0lg6buzsxxyrow76",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match7-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match7-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, August 12, 2026, 11:15:06 AM",
-        "expire_date": "Wednesday, August 12, 2026, 7:15:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786542311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=481178aff2978106933f45c0f32434397272c6a32c1ea4c86b9ef2152edd5cb6/manifest.mpd?vcfilter=9b562aaa-a788-42df-939e-5cef9d5dd3ac&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "937237a5-395a-4b86-b473-4e25d9224f66",
