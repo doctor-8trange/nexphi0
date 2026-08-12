@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11-08-2026 23:15",
+  "last_updated": "11:15:15 AM 12-08-2026",
   "total_matches": 42,
-  "live_matches": 0,
-  "upcoming_matches": 42,
+  "live_matches": 2,
+  "upcoming_matches": 40,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "5fdb0bfa-a728-4e97-b41b-2863673a9099",
@@ -94,7 +93,7 @@
       "fields": {
         "videoId": "9b562aaa-a788-42df-939e-5cef9d5dd3ac",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-12T06:00:00Z",
@@ -108,9 +107,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:04:31.065Z",
-      "contentDate": "2026-08-03T15:04:31.065Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-08-12T05:43:04.894Z",
+      "contentDate": "2026-08-12T05:43:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2BTANZ-AUG_Match7.1",
@@ -121,7 +120,38 @@
         "slug": "icc26-cwc-l2btanz-aug-match7-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match7-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, August 12, 2026, 11:15:06 AM",
+        "expire_date": "Wednesday, August 12, 2026, 7:15:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786542311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=481178aff2978106933f45c0f32434397272c6a32c1ea4c86b9ef2152edd5cb6/manifest.mpd?vcfilter=9b562aaa-a788-42df-939e-5cef9d5dd3ac&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -194,7 +224,7 @@
       "fields": {
         "videoId": "9f587e9e-b89d-4d4e-a8c2-3c6712276ee4",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-12T06:00:00Z",
@@ -208,9 +238,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:02:44.58Z",
-      "contentDate": "2026-08-03T15:02:44.58Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-08-12T05:42:34.722Z",
+      "contentDate": "2026-08-12T05:42:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2BTANZ-AUG_Match6.1",
@@ -221,8 +251,41 @@
         "slug": "icc26-cwc-l2btanz-aug-match6-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match6-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, August 12, 2026, 11:15:11 AM",
+        "expire_date": "Wednesday, August 12, 2026, 7:15:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786542315~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b7f026cbe9e9e7e0134d61fad8c998381519efb1cab5f780efba40b89d48e451/manifest.mpd?vcfilter=9f587e9e-b89d-4d4e-a8c2-3c6712276ee4&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "937237a5-395a-4b86-b473-4e25d9224f66",
