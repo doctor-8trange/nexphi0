@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:45:09 PM 13-08-2026",
-  "total_matches": 37,
-  "live_matches": 1,
+  "last_updated": "13-08-2026 23:00",
+  "total_matches": 36,
+  "live_matches": 0,
   "upcoming_matches": 36,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,139 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "59441899-5b12-4e79-afe4-c2149e6bc91e",
-      "_entityId": "a7b37c3a-11a7-4539-89c8-e215d55b7c6e",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-scotland-2nd-innings",
-      "slug": "canada-v-scotland-2nd-innings",
-      "title": "Canada v Scotland (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "8c6cb107-267d-414f-982a-4a7762830e84",
-          "_entityId": "63f800b9-78e8-4a3f-913f-54d5e78e30a6",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271907",
-          "title": "Scotland vs Canada - Match 127 - 8/13/2026",
-          "slug": "match-271907",
-          "neutralSlug": "match-271907",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-271907",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "271907",
-            "teamA": "Scotland",
-            "teamB": "Canada",
-            "teamAid": "16",
-            "teamBid": "12",
-            "teamAshort": "SCO",
-            "teamBshort": "CAN",
-            "stage": "League",
-            "matchDateLocal": "8/13/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 127",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "scotland-vs-canada",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2c3701fc-522a-4090-adec-cc2de117c131",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-13T14:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Nikhil Tambe",
-      "lastUpdatedDate": "2026-08-13T14:13:54.829Z",
-      "contentDate": "2026-08-13T14:13:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-SCO-AUG_Match6.2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/reddea86gs62tflyw8jf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/reddea86gs62tflyw8jf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-sco-aug-match6-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-sco-aug-match6-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, August 13, 2026, 7:45:05 PM",
-        "expire_date": "Friday, August 14, 2026, 3:45:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786659309~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=613b3097d5706efa5f7d1f6569f8d9b2f813f15e6aaaf371f9ef3afa72b508fc/manifest.mpd?vcfilter=2c3701fc-522a-4090-adec-cc2de117c131&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
