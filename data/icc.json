@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:45:10 PM 14-08-2026",
-  "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "last_updated": "03:00:15 PM 14-08-2026",
+  "total_matches": 38,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,268 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "66218031-c481-45e5-bade-b3f9eec4a92b",
-      "_entityId": "62fa352c-a825-4554-9eb8-53072dd5838f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-italy-1st-innings",
-      "slug": "singapore-v-italy-1st-innings",
-      "title": "Singapore v Italy (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "67122a28-2ae3-452c-9e20-b842abc133b9",
-          "_entityId": "cdc69b54-643a-41a3-bf53-e42838f4de76",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272657",
-          "title": "Italy vs Singapore - Match 39 - 8/14/2026",
-          "slug": "match-272657",
-          "neutralSlug": "match-272657",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272657",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272657",
-            "teamA": "Italy",
-            "teamB": "Singapore",
-            "teamAid": "1298",
-            "teamBid": "1565",
-            "teamAshort": "ITA",
-            "teamBshort": "SIN",
-            "stage": "League",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 39",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "italy-vs-singapore",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "381fe081-94d5-4d93-a718-40a35a9e2dd4",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T05:41:29.072Z",
-      "contentDate": "2026-08-03T15:07:57.137Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match9.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/s0a5slrs0rniyfatk8px",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/s0a5slrs0rniyfatk8px",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match9-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match9-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 11:15:05 AM",
-        "expire_date": "Friday, August 14, 2026, 7:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786715109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=638fb54b7f1bf092d754abfa947f702e2e4ce7503f2760c5eccdf80646a11f85/manifest.mpd?vcfilter=381fe081-94d5-4d93-a718-40a35a9e2dd4&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "c5794ad3-c783-4c41-8387-26120af8f52e",
-      "_entityId": "122885b4-0b68-4bd4-825c-cb61a22cbbf7",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahrain-v-hong-kong-china-1st-innings",
-      "slug": "bahrain-v-hong-kong-china-1st-innings",
-      "title": "Bahrain v Hong Kong, China (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "be79bb2b-9bdf-453c-9d90-5f74b15ddeec",
-          "_entityId": "1c831ee4-295a-4091-99ae-70a5f111ff08",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272656",
-          "title": "Bahrain vs Hong Kong, China - Match 38 - 8/14/2026",
-          "slug": "match-272656",
-          "neutralSlug": "match-272656",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272656",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272656",
-            "teamA": "Bahrain",
-            "teamB": "Hong Kong, China",
-            "teamAid": "1872",
-            "teamBid": "19",
-            "teamAshort": "BRN",
-            "teamBshort": "HK",
-            "stage": "League",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 38",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "bahrain-vs-hong-kong-china",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "82a12a86-8ef4-4aba-9c68-785a55129371",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T05:41:39.698Z",
-      "contentDate": "2026-08-03T15:06:26.069Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match8.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bweohjrsb1jagevk3k82",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bweohjrsb1jagevk3k82",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match8-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match8-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 11:15:09 AM",
-        "expire_date": "Friday, August 14, 2026, 7:15:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786715114~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cc285dcb89cd27e097f768183d2a2ca1b76d002ddb2576b4738435d044a00a40/manifest.mpd?vcfilter=82a12a86-8ef4-4aba-9c68-785a55129371&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "02702a69-f7af-4585-9dfb-9b34c4c6974e",
@@ -813,9 +551,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "3272fb56-8d80-4b05-bb80-935a7eb8715c",
@@ -887,7 +623,7 @@
       "fields": {
         "videoId": "f9959047-8c5e-4dca-abf1-d59c8f7a77ea",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-14T09:30:00Z",
@@ -902,7 +638,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T08:58:06.05Z",
+      "lastUpdatedDate": "2026-08-14T09:25:23.123Z",
       "contentDate": "2026-08-03T15:07:05.113Z",
       "featured": 0,
       "thumbnail": {
@@ -914,8 +650,41 @@
         "slug": "icc26-cwc-l2btanz-aug-match8-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match8-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, August 14, 2026, 3:00:06 PM",
+        "expire_date": "Friday, August 14, 2026, 11:00:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786728615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c8c627ebdc52b93f289342eaa6d8c6450ef15b974a2d0dc0ab235af28ff8de30/manifest.mpd?vcfilter=f9959047-8c5e-4dca-abf1-d59c8f7a77ea&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "f606ccb6-534f-4792-ad77-23223fdb4f42",
