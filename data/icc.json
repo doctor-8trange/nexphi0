@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:04 PM 14-08-2026",
-  "total_matches": 32,
-  "live_matches": 1,
+  "last_updated": "14-08-2026 22:00",
+  "total_matches": 31,
+  "live_matches": 0,
   "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "f606ccb6-534f-4792-ad77-23223fdb4f42",
-      "_entityId": "e4265058-78a2-49c8-a2dc-ab6f5cf5634a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-czechia",
-      "slug": "germany-v-czechia",
-      "title": "Germany v Czechia",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "78fa88bc-25ae-4706-ad65-20f0cb742b66",
-          "_entityId": "ea7e5bb9-d603-4cf1-aeee-11948a6b64f0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272523",
-          "title": "Czechia vs Germany - Match 4 - 8/14/2026",
-          "slug": "match-272523",
-          "neutralSlug": "match-272523",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272523",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272523",
-            "teamA": "Czechia",
-            "teamB": "Germany",
-            "teamAid": "1835",
-            "teamBid": "1822",
-            "teamAshort": "CZE",
-            "teamBshort": "GER",
-            "stage": "Group",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 4",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "czechia-vs-germany",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "17e21aa5-6c30-40cc-922d-aff700b0db54",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T12:40:43.08Z",
-      "contentDate": "2026-08-05T14:21:29.462Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match4",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gmcj1zddvkquf9ydoydv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gmcj1zddvkquf9ydoydv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match4",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match4"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 6:15:03 PM",
-        "expire_date": "Saturday, August 15, 2026, 2:15:07 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786740307~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=48136e7b7a5b33797018259ca0191647084471bc35a226de5051d9fe87665562/manifest.mpd?vcfilter=17e21aa5-6c30-40cc-922d-aff700b0db54&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
