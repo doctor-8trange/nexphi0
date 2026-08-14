@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:00:15 PM 14-08-2026",
-  "total_matches": 38,
-  "live_matches": 5,
+  "last_updated": "05:00:02 PM 14-08-2026",
+  "total_matches": 35,
+  "live_matches": 2,
   "upcoming_matches": 33,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,405 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "02702a69-f7af-4585-9dfb-9b34c4c6974e",
-      "_entityId": "e9428e61-4a49-4d3b-b22e-36488e6eec34",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-finland-finnish",
-      "slug": "spain-v-finland-finnish",
-      "title": "Spain v Finland (FINNISH)",
-      "tags": [
-        {
-          "_translationId": "938a161f-7a5a-4548-9f6d-7a37b3f7f92b",
-          "_entityId": "ee7071e9-77ba-427a-8cc6-80ed85412d60",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272520",
-          "title": "Finland vs Spain - Match 1 - 8/14/2026",
-          "slug": "match-272520",
-          "neutralSlug": "match-272520",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272520",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272520",
-            "teamA": "Finland",
-            "teamB": "Spain",
-            "teamAid": "1828",
-            "teamBid": "1739",
-            "teamAshort": "FIN",
-            "teamBshort": "ESP",
-            "stage": "Group",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 1",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "finland-vs-spain",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c0cef97d-829e-4217-93a1-86e22a073139",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-14T08:26:00.399Z",
-      "contentDate": "2026-08-13T19:55:46.451Z",
-      "context": {
-        "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-        "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-        "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-        "slug": "tournament-15696",
-        "neutralSlug": "tournament-15696",
-        "externalSourceName": "cricket",
-        "externalSourceReference": {
-          "SourceId": "tournament-15696",
-          "SourceName": "cricket"
-        },
-        "extraData": {
-          "tournamentId": "15696",
-          "competitionType": "T20 International - m",
-          "competitionTypeId": "3",
-          "championshipId": "",
-          "championshipName": "",
-          "externalTagType": "tournament"
-        },
-        "fields": []
-      },
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match1_Finnish",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/a7mmedhxwsxuavhe1xch",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/a7mmedhxwsxuavhe1xch",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match1-finnish",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match1-finnish"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 1:15:05 PM",
-        "expire_date": "Friday, August 14, 2026, 9:15:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786722311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=10b470b70589af257e398dcd277ff9263d8ffaba9135fff477e12f2716e1fc8f/manifest.mpd?vcfilter=c0cef97d-829e-4217-93a1-86e22a073139&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "31a098d0-05f7-4a26-9ef0-4538704e69e3",
-      "_entityId": "f08418e7-2451-443e-b2e8-41bf668a2705",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/portugal-v-israel",
-      "slug": "portugal-v-israel",
-      "title": "Portugal v Israel",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "66d267bb-e2c2-47f7-9bf7-b6a21be9e7a2",
-          "_entityId": "2eccd468-200b-4d1d-8a66-5a18b021d0aa",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272521",
-          "title": "Israel vs Portugal - Match 2 - 8/14/2026",
-          "slug": "match-272521",
-          "neutralSlug": "match-272521",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272521",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272521",
-            "teamA": "Israel",
-            "teamB": "Portugal",
-            "teamAid": "1803",
-            "teamBid": "1765",
-            "teamAshort": "ISR",
-            "teamBshort": "POR",
-            "stage": "Group",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "israel-vs-portugal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "975abb7b-6e21-4078-90a9-ac4c86720dad",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T07:41:43.027Z",
-      "contentDate": "2026-08-05T14:20:41.948Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bmp2jdcesuhqwcefuj3q",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bmp2jdcesuhqwcefuj3q",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 1:15:11 PM",
-        "expire_date": "Friday, August 14, 2026, 9:15:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786722314~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=65779326e77e32185d9f63a64140ab374be51de04316d36dfcb45210bcae9f05/manifest.mpd?vcfilter=975abb7b-6e21-4078-90a9-ac4c86720dad&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "92566dca-9d29-41b8-a46f-3bcabdf26903",
-      "_entityId": "f5bbe8d5-89f2-46d3-898d-f881aa033c41",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-finland",
-      "slug": "spain-v-finland",
-      "title": "Spain v Finland",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "938a161f-7a5a-4548-9f6d-7a37b3f7f92b",
-          "_entityId": "ee7071e9-77ba-427a-8cc6-80ed85412d60",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272520",
-          "title": "Finland vs Spain - Match 1 - 8/14/2026",
-          "slug": "match-272520",
-          "neutralSlug": "match-272520",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272520",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272520",
-            "teamA": "Finland",
-            "teamB": "Spain",
-            "teamAid": "1828",
-            "teamBid": "1739",
-            "teamAshort": "FIN",
-            "teamBshort": "ESP",
-            "stage": "Group",
-            "matchDateLocal": "8/14/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 1",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "finland-vs-spain",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8d9a874b-3da4-4f93-bb4a-de6ed5eaa827",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T07:41:16.231Z",
-      "contentDate": "2026-08-05T14:20:16.55Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/snsokpsvylgg6uj6vdwi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/snsokpsvylgg6uj6vdwi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 14, 2026, 1:15:14 PM",
-        "expire_date": "Friday, August 14, 2026, 9:15:17 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786722317~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cbebf07874c248d3d7f6b18a463f6dcc85a62c73a7ac8ef3851f81938ee9667c/manifest.mpd?vcfilter=8d9a874b-3da4-4f93-bb4a-de6ed5eaa827&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "645bcf19-0c33-4b71-a33c-caf912d5153e",
@@ -2853,6 +2454,28 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15696",
+          "neutralSlug": "tournament-15696",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15696",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15696",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -2872,8 +2495,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-08-13T20:17:53.031Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-14T10:19:35.286Z",
       "contentDate": "2026-08-13T20:17:53.031Z",
       "context": {
         "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
@@ -2899,13 +2522,13 @@
       },
       "featured": 0,
       "thumbnail": {
-        "title": "Finland_v_Luxenburg",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jhryjqdowddzoswvzesb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jhryjqdowddzoswvzesb",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match14_Finnish",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cumqvmnuzb5dbrbnbilf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cumqvmnuzb5dbrbnbilf",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "finland-v-luxenburg",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/finland-v-luxenburg"
+        "slug": "icc26-mt20-europesubr-qualc-match14-finnish",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match14-finnish"
       },
       "entityCode": "video"
     },
@@ -3767,6 +3390,28 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15696",
+          "neutralSlug": "tournament-15696",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15696",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15696",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -3786,8 +3431,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-08-13T20:32:54.314Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-14T10:21:58.095Z",
       "contentDate": "2026-08-13T20:32:54.314Z",
       "context": {
         "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
@@ -3813,13 +3458,13 @@
       },
       "featured": 0,
       "thumbnail": {
-        "title": "Isle_of_Man_v_Finland",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pk4pmay9iflmmkqp8rrd",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pk4pmay9iflmmkqp8rrd",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match19_Finnish",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rp7zhcrgewoyi4ilsc7d",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rp7zhcrgewoyi4ilsc7d",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "isle-of-man-v-finland",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/isle-of-man-v-finland"
+        "slug": "icc26-mt20-europesubr-qualc-match19-finnish",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match19-finnish"
       },
       "entityCode": "video"
     },
