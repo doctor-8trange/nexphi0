@@ -1,37 +1,7 @@
 #EXTM3U
-#DATE:- 14-08-2026 15:00
+#DATE:- 14-08-2026 17:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="c0cef97d-829e-4217-93a1-86e22a073139" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/a7mmedhxwsxuavhe1xch" tvg-lang="English" group-title="Cricket",English | Spain v Finland (FINNISH)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786722311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=10b470b70589af257e398dcd277ff9263d8ffaba9135fff477e12f2716e1fc8f/manifest.mpd?vcfilter=c0cef97d-829e-4217-93a1-86e22a073139&
-#EXTINF:-1 tvg-id="975abb7b-6e21-4078-90a9-ac4c86720dad" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bmp2jdcesuhqwcefuj3q" tvg-lang="English" group-title="Cricket",English | Portugal v Israel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786722314~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=65779326e77e32185d9f63a64140ab374be51de04316d36dfcb45210bcae9f05/manifest.mpd?vcfilter=975abb7b-6e21-4078-90a9-ac4c86720dad&
-#EXTINF:-1 tvg-id="8d9a874b-3da4-4f93-bb4a-de6ed5eaa827" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/snsokpsvylgg6uj6vdwi" tvg-lang="English" group-title="Cricket",English | Spain v Finland
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786722317~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cbebf07874c248d3d7f6b18a463f6dcc85a62c73a7ac8ef3851f81938ee9667c/manifest.mpd?vcfilter=8d9a874b-3da4-4f93-bb4a-de6ed5eaa827&
 #EXTINF:-1 tvg-id="986dabd6-e6bf-4a5e-a4c0-36f2c714097a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j9kxyeenaxivdd8gdh87" tvg-lang="English" group-title="Cricket",English | Singapore v Italy (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
