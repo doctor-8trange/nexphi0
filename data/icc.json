@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:18 PM 14-08-2026",
+  "last_updated": "02:30:06 PM 14-08-2026",
   "total_matches": 40,
   "live_matches": 5,
   "upcoming_matches": 35,
@@ -349,8 +349,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-14T07:40:30.214Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-14T08:26:00.399Z",
       "contentDate": "2026-08-13T19:55:46.451Z",
       "context": {
         "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
@@ -376,13 +376,13 @@
       },
       "featured": 0,
       "thumbnail": {
-        "title": "Spain_v_Finland",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/n5spe8njeh2pwegvaeiz",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n5spe8njeh2pwegvaeiz",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match1_Finnish",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/a7mmedhxwsxuavhe1xch",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/a7mmedhxwsxuavhe1xch",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "spain-v-finland",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/spain-v-finland"
+        "slug": "icc26-mt20-europesubr-qualc-match1-finnish",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match1-finnish"
       },
       "entityCode": "video",
       "playback": {
@@ -759,7 +759,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T10:00:00Z",
+        "scheduledStartTime": "2026-08-14T09:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -770,8 +770,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:08:35.906Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-14T08:58:09.368Z",
       "contentDate": "2026-08-03T15:08:35.906Z",
       "featured": 0,
       "thumbnail": {
@@ -859,7 +859,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-14T10:00:00Z",
+        "scheduledStartTime": "2026-08-14T09:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -870,8 +870,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:07:05.113Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-14T08:58:06.05Z",
       "contentDate": "2026-08-03T15:07:05.113Z",
       "featured": 0,
       "thumbnail": {
@@ -1758,8 +1758,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-08-13T20:02:44.019Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-14T08:34:56.478Z",
       "contentDate": "2026-08-13T20:02:44.019Z",
       "context": {
         "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
@@ -1785,13 +1785,13 @@
       },
       "featured": 0,
       "thumbnail": {
-        "title": "Finland_v_bulgeria",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/peaxt9egy3hpty1t6riz",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/peaxt9egy3hpty1t6riz",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match8_Finnish",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yn4i0fcpju6zxpyytvfv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4i0fcpju6zxpyytvfv",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "finland-v-bulgeria",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/finland-v-bulgeria"
+        "slug": "icc26-mt20-europesubr-qualc-match8-finnish",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match8-finnish"
       },
       "entityCode": "video"
     },
