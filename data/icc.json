@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:15 AM 15-08-2026",
+  "last_updated": "01:15:10 PM 15-08-2026",
   "total_matches": 31,
-  "live_matches": 2,
-  "upcoming_matches": 29,
+  "live_matches": 4,
+  "upcoming_matches": 27,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -283,9 +283,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "6d0f5841-94a6-4e5a-8e74-bc4046aff83d",
@@ -359,7 +357,7 @@
       "fields": {
         "videoId": "b39b3697-638f-4cc7-9ce0-f8bd0d7d5212",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-15T08:00:00Z",
@@ -373,8 +371,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:22:21.85Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-15T07:40:31.589Z",
       "contentDate": "2026-08-05T14:22:21.85Z",
       "featured": 0,
       "thumbnail": {
@@ -386,7 +384,38 @@
         "slug": "icc26-mt20-europesubr-qualc-match6",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match6"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, August 15, 2026, 1:15:02 PM",
+        "expire_date": "Saturday, August 15, 2026, 9:15:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786808707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=32bea23a5f12f0bc714b7f549940feb43fc7723e551e038b32fed5a9760df27f/manifest.mpd?vcfilter=b39b3697-638f-4cc7-9ce0-f8bd0d7d5212&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -461,7 +490,7 @@
       "fields": {
         "videoId": "2b1d0588-2139-425b-bf16-70eab24e51f7",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-15T08:00:00Z",
@@ -475,8 +504,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:21:54.018Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-15T07:40:36.821Z",
       "contentDate": "2026-08-05T14:21:54.018Z",
       "featured": 0,
       "thumbnail": {
@@ -488,8 +517,41 @@
         "slug": "icc26-mt20-europesubr-qualc-match5",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match5"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, August 15, 2026, 1:15:07 PM",
+        "expire_date": "Saturday, August 15, 2026, 9:15:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786808710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2aff48f15d1e2cfbfa9d437eb7e666f12b86f4bd26ab38d89c27ac123d5d2e25/manifest.mpd?vcfilter=2b1d0588-2139-425b-bf16-70eab24e51f7&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "51c885e1-3f29-4bdc-a417-7fb77d8bf66f",
@@ -736,6 +798,28 @@
             "externalTagType": "match"
           },
           "fields": []
+        },
+        {
+          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15696",
+          "neutralSlug": "tournament-15696",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15696",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15696",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -755,31 +839,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-14T08:34:56.478Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-15T06:10:06.43Z",
       "contentDate": "2026-08-13T20:02:44.019Z",
-      "context": {
-        "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-        "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-        "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-        "slug": "tournament-15696",
-        "neutralSlug": "tournament-15696",
-        "externalSourceName": "cricket",
-        "externalSourceReference": {
-          "SourceId": "tournament-15696",
-          "SourceName": "cricket"
-        },
-        "extraData": {
-          "tournamentId": "15696",
-          "competitionType": "T20 International - m",
-          "competitionTypeId": "3",
-          "championshipId": "",
-          "championshipName": "",
-          "externalTagType": "tournament"
-        },
-        "fields": []
-      },
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_MT20-EuropeSubR-QualC_Match8_Finnish",
