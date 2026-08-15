@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:00:04 PM 15-08-2026",
-  "total_matches": 30,
-  "live_matches": 4,
-  "upcoming_matches": 26,
+  "last_updated": "04:30:08 PM 15-08-2026",
+  "total_matches": 28,
+  "live_matches": 3,
+  "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,270 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "f7117d1b-3064-43eb-8533-c2c2287fa998",
-      "_entityId": "196a85e3-66c2-4be2-b37e-20ca6eacd362",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-uganda-1st-innings",
-      "slug": "singapore-v-uganda-1st-innings",
-      "title": "Singapore v Uganda (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "9b7d6056-3b74-45e0-9b6b-365dd51d22fb",
-          "_entityId": "aed57bff-c045-4858-b552-2a81afe8de3e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272658",
-          "title": "Singapore vs Uganda - Match 40 - 8/15/2026",
-          "slug": "match-272658",
-          "neutralSlug": "match-272658",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272658",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272658",
-            "teamA": "Singapore",
-            "teamB": "Uganda",
-            "teamAid": "1565",
-            "teamBid": "29",
-            "teamAshort": "SIN",
-            "teamBshort": "UGA",
-            "stage": "League",
-            "matchDateLocal": "8/15/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 40",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "singapore-vs-uganda",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "9f344392-a4ba-46f3-8690-c90b999b16c2",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T05:40:24.226Z",
-      "contentDate": "2026-08-03T15:09:54.842Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match10.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dtkzwlsgxvimwhgbsryx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dtkzwlsgxvimwhgbsryx",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match10-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match10-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 15, 2026, 11:15:11 AM",
-        "expire_date": "Saturday, August 15, 2026, 7:15:15 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786801515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1359568ce5235aed5f242879da319c37a8eb0b935fcaa03df2a8cc2cf4d0bcbd/manifest.mpd?vcfilter=9f344392-a4ba-46f3-8690-c90b999b16c2&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "6d0f5841-94a6-4e5a-8e74-bc4046aff83d",
-      "_entityId": "dd341bd2-4246-4ade-83e4-f45781192da2",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-isle-of-man",
-      "slug": "spain-v-isle-of-man",
-      "title": "Spain v Isle of Man",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "41f80a75-a4f7-4a9f-966e-8fca22ce8f01",
-          "_entityId": "6206e970-7a79-4ae5-9c9c-5aa8f2c70079",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272525",
-          "title": "Isle of Man vs Spain - Match 6 - 8/15/2026",
-          "slug": "match-272525",
-          "neutralSlug": "match-272525",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272525",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272525",
-            "teamA": "Isle of Man",
-            "teamB": "Spain",
-            "teamAid": "1805",
-            "teamBid": "1739",
-            "teamAshort": "IOM",
-            "teamBshort": "ESP",
-            "stage": "Group",
-            "matchDateLocal": "8/15/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "isle-of-man-vs-spain",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "b39b3697-638f-4cc7-9ce0-f8bd0d7d5212",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T07:40:31.589Z",
-      "contentDate": "2026-08-05T14:22:21.85Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/stx0fvcbgigtoqsu4hnd",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/stx0fvcbgigtoqsu4hnd",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 15, 2026, 1:15:02 PM",
-        "expire_date": "Saturday, August 15, 2026, 9:15:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786808707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=32bea23a5f12f0bc714b7f549940feb43fc7723e551e038b32fed5a9760df27f/manifest.mpd?vcfilter=b39b3697-638f-4cc7-9ce0-f8bd0d7d5212&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "8e091715-17a3-494f-b7a4-c2da35a7ab7a",
@@ -549,9 +285,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "180b49e9-fefa-425d-8567-ad47ae7f7140",
@@ -623,10 +357,10 @@
       "fields": {
         "videoId": "df6dfd31-c86f-41d2-ba7d-89d15bfdc627",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14700000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T11:00:00Z",
+        "scheduledStartTime": "2026-08-15T10:55:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -638,7 +372,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T10:22:41.28Z",
+      "lastUpdatedDate": "2026-08-15T10:50:25.263Z",
       "contentDate": "2026-08-03T15:10:37.429Z",
       "featured": 0,
       "thumbnail": {
@@ -650,8 +384,41 @@
         "slug": "icc26-cwc-l2btanz-aug-match10-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match10-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, August 15, 2026, 4:30:04 PM",
+        "expire_date": "Sunday, August 16, 2026, 12:30:08 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786820408~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=09ba8f41fbd1301c97267df69aa58a5c5a8fe6fdaca5867e3ca09e4350f6ac45/manifest.mpd?vcfilter=df6dfd31-c86f-41d2-ba7d-89d15bfdc627&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "d9c7c297-15cb-4020-b8e9-026d1f9faaaa",
