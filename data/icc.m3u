@@ -1,27 +1,7 @@
 #EXTM3U
-#DATE:- 15-08-2026 16:00
+#DATE:- 15-08-2026 16:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="9f344392-a4ba-46f3-8690-c90b999b16c2" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dtkzwlsgxvimwhgbsryx" tvg-lang="English" group-title="Cricket",English | Singapore v Uganda (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786801515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1359568ce5235aed5f242879da319c37a8eb0b935fcaa03df2a8cc2cf4d0bcbd/manifest.mpd?vcfilter=9f344392-a4ba-46f3-8690-c90b999b16c2&
-#EXTINF:-1 tvg-id="b39b3697-638f-4cc7-9ce0-f8bd0d7d5212" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/stx0fvcbgigtoqsu4hnd" tvg-lang="English" group-title="Cricket",English | Spain v Isle of Man
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786808707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=32bea23a5f12f0bc714b7f549940feb43fc7723e551e038b32fed5a9760df27f/manifest.mpd?vcfilter=b39b3697-638f-4cc7-9ce0-f8bd0d7d5212&
 #EXTINF:-1 tvg-id="2b1d0588-2139-425b-bf16-70eab24e51f7" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xd31lho39rtjbhxcgyrv" tvg-lang="English" group-title="Cricket",English | Czechia v Greece
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,3 +22,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786817707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=09f446d579ae94581d85831d78ac06a1281f1335300d53b0f601dbc8ce02d281/manifest.mpd?vcfilter=3af46b97-d3c4-479e-9412-a660c3f5abe9&
+#EXTINF:-1 tvg-id="df6dfd31-c86f-41d2-ba7d-89d15bfdc627" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ouyrkutxv4ivl9f7rufa" tvg-lang="English" group-title="Cricket",English | Singapore v Uganda (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786820408~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=09ba8f41fbd1301c97267df69aa58a5c5a8fe6fdaca5867e3ca09e4350f6ac45/manifest.mpd?vcfilter=df6dfd31-c86f-41d2-ba7d-89d15bfdc627&
