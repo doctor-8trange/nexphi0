@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:20:17 AM 17-08-2026",
+  "last_updated": "12:45:16 PM 17-08-2026",
   "total_matches": 22,
   "live_matches": 2,
   "upcoming_matches": 20,
@@ -120,7 +120,38 @@
         "slug": "icc26-cwc-l2btanz-aug-match13-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match13-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, August 17, 2026, 12:45:09 PM",
+        "expire_date": "Monday, August 17, 2026, 8:45:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786979713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d6317d3c3099d8e2ef759babaafcb47cda9260a1aa04b7d6eb1b36bed9208a0/manifest.mpd?vcfilter=f15ed57f-99be-4d88-ae5d-8e3a38df9009&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -220,7 +251,38 @@
         "slug": "icc26-cwc-l2btanz-aug-match12-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match12-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Monday, August 17, 2026, 12:45:13 PM",
+        "expire_date": "Monday, August 17, 2026, 8:45:17 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786979717~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dffac22ea6bc0b7652c2c99418e09ada4ab29607421c01ebffc05b28b579dae9/manifest.mpd?vcfilter=46495f3c-e56c-45b1-ba70-74cb5c7e1c1b&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
   ],
   "upcoming": [
