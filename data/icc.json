@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:30:05 PM 15-08-2026",
-  "total_matches": 25,
-  "live_matches": 3,
-  "upcoming_matches": 22,
+  "last_updated": "11:20:17 AM 17-08-2026",
+  "total_matches": 22,
+  "live_matches": 2,
+  "upcoming_matches": 20,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,407 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "d9c7c297-15cb-4020-b8e9-026d1f9faaaa",
-      "_entityId": "4c50b257-065c-419a-8942-f4ec40420c27",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-bulgaria-finnish",
-      "slug": "finland-v-bulgaria-finnish",
-      "title": "Finland v Bulgaria (FINNISH)",
-      "tags": [
-        {
-          "_translationId": "f770e831-dbc4-47f8-bd58-8536a4fd6eae",
-          "_entityId": "2037fad0-53aa-4f71-ad8d-dbd49a80225d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272527",
-          "title": "Finland vs Bulgaria - Match 8 - 8/15/2026",
-          "slug": "match-272527",
-          "neutralSlug": "match-272527",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272527",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272527",
-            "teamA": "Finland",
-            "teamB": "Bulgaria",
-            "teamAid": "1828",
-            "teamBid": "1859",
-            "teamAshort": "FIN",
-            "teamBshort": "BUL",
-            "stage": "Group",
-            "matchDateLocal": "8/15/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 8",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "finland-vs-bulgaria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "344732c7-b4a4-428f-927f-85f466cf2cb1",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T12:40:12.202Z",
-      "contentDate": "2026-08-13T20:02:44.019Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match8_Finnish",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yn4i0fcpju6zxpyytvfv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yn4i0fcpju6zxpyytvfv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match8-finnish",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match8-finnish"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 15, 2026, 6:15:05 PM",
-        "expire_date": "Sunday, August 16, 2026, 2:15:10 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786826710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cefddf5e2da2fa3741c884bd3be26e7b19c31826d609dbd262cbbf7fa88f5d9a/manifest.mpd?vcfilter=344732c7-b4a4-428f-927f-85f466cf2cb1&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "cd8704e0-d2d5-4483-878f-b434d661d62d",
-      "_entityId": "3b63ba5f-88af-4478-8741-2d9299cbad3f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-bulgaria",
-      "slug": "finland-v-bulgaria",
-      "title": "Finland v Bulgaria",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f770e831-dbc4-47f8-bd58-8536a4fd6eae",
-          "_entityId": "2037fad0-53aa-4f71-ad8d-dbd49a80225d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272527",
-          "title": "Finland vs Bulgaria - Match 8 - 8/15/2026",
-          "slug": "match-272527",
-          "neutralSlug": "match-272527",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272527",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272527",
-            "teamA": "Finland",
-            "teamB": "Bulgaria",
-            "teamAid": "1828",
-            "teamBid": "1859",
-            "teamAshort": "FIN",
-            "teamBshort": "BUL",
-            "stage": "Group",
-            "matchDateLocal": "8/15/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 8",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "finland-vs-bulgaria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "d192c055-f800-44bd-a18a-7279773522fa",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T12:40:23.562Z",
-      "contentDate": "2026-08-05T14:23:23.137Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match8",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mpw5qthwh3rrwntkqn4m",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mpw5qthwh3rrwntkqn4m",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match8",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match8"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 15, 2026, 6:15:09 PM",
-        "expire_date": "Sunday, August 16, 2026, 2:15:13 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786826713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=00ba6d50de19e6f4fd4e0941a887f982fa847894e8b341a7d8c93eb6071dcb54/manifest.mpd?vcfilter=d192c055-f800-44bd-a18a-7279773522fa&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "d4f0b671-2ed6-472c-8d05-83c0cec6ee8c",
-      "_entityId": "a510f92a-c848-4d2d-b310-6e50be0a1d83",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-portugal",
-      "slug": "germany-v-portugal",
-      "title": "Germany v Portugal",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a2fcf93a-90be-4050-b3ea-6bb8b101f9f6",
-          "_entityId": "ebfbb5b3-d350-4b0a-a201-a2a421de5215",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272526",
-          "title": "Germany vs Portugal - Match 7 - 8/15/2026",
-          "slug": "match-272526",
-          "neutralSlug": "match-272526",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272526",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272526",
-            "teamA": "Germany",
-            "teamB": "Portugal",
-            "teamAid": "1822",
-            "teamBid": "1765",
-            "teamAshort": "GER",
-            "teamBshort": "POR",
-            "stage": "Group",
-            "matchDateLocal": "8/15/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 7",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "germany-vs-portugal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "cd4c2190-0c6e-411d-8831-509d2d3a7afa",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-15T12:40:15.801Z",
-      "contentDate": "2026-08-05T14:22:45.46Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match7",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zmqsz8emp8rlp0t0b2hi",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zmqsz8emp8rlp0t0b2hi",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match7",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match7"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 15, 2026, 6:15:13 PM",
-        "expire_date": "Sunday, August 16, 2026, 2:15:16 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786826716~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5e619676978b3cedaef29bebb965cdf325ad3afc02e808fe0159a519d05846e1/manifest.mpd?vcfilter=cd4c2190-0c6e-411d-8831-509d2d3a7afa&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "c1aa8f4b-7301-47a6-8f76-4141c7cdb55f",
@@ -494,7 +93,7 @@
       "fields": {
         "videoId": "f15ed57f-99be-4d88-ae5d-8e3a38df9009",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-17T06:00:00Z",
@@ -508,8 +107,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:25:38.677Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-17T05:40:37.791Z",
       "contentDate": "2026-08-03T15:25:38.677Z",
       "featured": 0,
       "thumbnail": {
@@ -594,7 +193,7 @@
       "fields": {
         "videoId": "46495f3c-e56c-45b1-ba70-74cb5c7e1c1b",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-17T06:00:00Z",
@@ -608,8 +207,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:15:05.269Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-17T05:40:41.381Z",
       "contentDate": "2026-08-03T15:15:05.269Z",
       "featured": 0,
       "thumbnail": {
@@ -622,7 +221,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match12-1"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "3d216e92-4dce-47ef-b425-b007bfe2db95",
