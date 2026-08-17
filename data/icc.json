@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:30:07 PM 17-08-2026",
-  "total_matches": 19,
-  "live_matches": 3,
+  "last_updated": "04:15:02 PM 17-08-2026",
+  "total_matches": 18,
+  "live_matches": 2,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786981509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d5f742096237fb4a9b954bbdbc4365183f2ca21b252ec3f97e6e673246ed679/manifest.mpd?vcfilter=fd0953fe-18f9-4cf6-8dbb-64ffa849180a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "4eca6fe3-3a5a-45cf-91ff-dd28f926ce7b",
-      "_entityId": "3898bb42-6658-4826-9b7f-f360dc9a5b6b",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/israel-v-germany",
-      "slug": "israel-v-germany",
-      "title": "Israel v Germany",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "1db723f3-3496-49a3-a3f2-c4784550a922",
-          "_entityId": "c0a00d2a-a7b5-488f-a748-d8edb888ea25",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272528",
-          "title": "Germany vs Israel - Match 9 - 8/17/2026",
-          "slug": "match-272528",
-          "neutralSlug": "match-272528",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272528",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272528",
-            "teamA": "Germany",
-            "teamB": "Israel",
-            "teamAid": "1822",
-            "teamBid": "1803",
-            "teamAshort": "GER",
-            "teamBshort": "ISR",
-            "stage": "Group",
-            "matchDateLocal": "8/17/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 9",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "germany-vs-israel",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "55c50bd5-bc79-4ce5-b9ae-914fb4b4e9ab",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-17T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-17T07:40:53.957Z",
-      "contentDate": "2026-08-05T14:23:55.614Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match9",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xlqqyjzntstbbx4w6yjl",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xlqqyjzntstbbx4w6yjl",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match9",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match9"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, August 17, 2026, 1:15:09 PM",
-        "expire_date": "Monday, August 17, 2026, 9:15:13 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786981513~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=66d9a4243cd5697fd4c5f760f38bcb2b4e445d9e3fc0083a76e28a8c6476cc80/manifest.mpd?vcfilter=55c50bd5-bc79-4ce5-b9ae-914fb4b4e9ab&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
