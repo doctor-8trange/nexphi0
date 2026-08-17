@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:15:02 PM 17-08-2026",
-  "total_matches": 18,
-  "live_matches": 2,
+  "last_updated": "05:00:03 PM 17-08-2026",
+  "total_matches": 17,
+  "live_matches": 1,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "3d216e92-4dce-47ef-b425-b007bfe2db95",
-      "_entityId": "068d3867-83a7-4028-8dec-2e6b04705c29",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bulgaria-v-isle-of-man",
-      "slug": "bulgaria-v-isle-of-man",
-      "title": "Bulgaria v Isle of Man",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "734f3e9f-ea84-4238-bc22-4a98de5eac4d",
-          "_entityId": "69aa748a-8177-45d4-bf85-b690a31e6095",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272529",
-          "title": "Bulgaria vs Isle of Man - Match 10 - 8/17/2026",
-          "slug": "match-272529",
-          "neutralSlug": "match-272529",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272529",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272529",
-            "teamA": "Bulgaria",
-            "teamB": "Isle of Man",
-            "teamAid": "1859",
-            "teamBid": "1805",
-            "teamAshort": "BUL",
-            "teamBshort": "IOM",
-            "stage": "Group",
-            "matchDateLocal": "8/17/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 10",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bulgaria-vs-isle-of-man",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "fd0953fe-18f9-4cf6-8dbb-64ffa849180a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-17T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-17T07:40:59.306Z",
-      "contentDate": "2026-08-05T14:24:28.264Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match10",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/klzx0itygnyetq0db7fl",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/klzx0itygnyetq0db7fl",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match10",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match10"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, August 17, 2026, 1:15:06 PM",
-        "expire_date": "Monday, August 17, 2026, 9:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1786981509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d5f742096237fb4a9b954bbdbc4365183f2ca21b252ec3f97e6e673246ed679/manifest.mpd?vcfilter=fd0953fe-18f9-4cf6-8dbb-64ffa849180a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "7b5a47cf-bd14-4b47-960b-49307f469752",
