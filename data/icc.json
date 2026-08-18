@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:15:06 PM 18-08-2026",
-  "total_matches": 7,
-  "live_matches": 2,
+  "last_updated": "08:45:06 PM 18-08-2026",
+  "total_matches": 6,
+  "live_matches": 1,
   "upcoming_matches": 5,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "332a0eae-317b-4f22-b074-83fc59fa3a39",
-      "_entityId": "a8a9e9bc-a2dd-4214-8cbc-c1f420515bbc",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bulgaria-v-spain",
-      "slug": "bulgaria-v-spain",
-      "title": "Bulgaria v Spain",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "175ebbbd-c4e5-4e5a-9059-43fd3c05509a",
-          "_entityId": "96ba2d59-0ff6-4d22-8b29-e0f9420b6281",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272535",
-          "title": "Bulgaria vs Spain - Match 16 - 8/18/2026",
-          "slug": "match-272535",
-          "neutralSlug": "match-272535",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272535",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272535",
-            "teamA": "Bulgaria",
-            "teamB": "Spain",
-            "teamAid": "1859",
-            "teamBid": "1739",
-            "teamAshort": "BUL",
-            "teamBshort": "ESP",
-            "stage": "Group",
-            "matchDateLocal": "8/18/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 16",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bulgaria-vs-spain",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "b53e932e-a27e-4995-95ef-e01877632ebc",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-18T13:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-18T12:39:45.97Z",
-      "contentDate": "2026-08-05T14:27:36.58Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match16",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bbz6gxnjpz5bwdwdmrtm",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bbz6gxnjpz5bwdwdmrtm",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match16",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match16"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, August 18, 2026, 7:00:09 PM",
-        "expire_date": "Wednesday, August 19, 2026, 3:00:12 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787088612~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=318004cc55f85f7610d6073c7fd905bdba46e8ec666782b4b15da7fb8f658e1a/manifest.mpd?vcfilter=b53e932e-a27e-4995-95ef-e01877632ebc&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "58d081a2-4daf-42f2-9a30-bf0e325b4b95",
