@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:00:23 PM 18-08-2026",
-  "total_matches": 14,
+  "last_updated": "02:16:35 PM 18-08-2026",
+  "total_matches": 13,
   "live_matches": 5,
-  "upcoming_matches": 9,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -119,106 +119,6 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2btanz-aug-match15-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match15-1"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "a6e21185-a303-4dff-9394-40d26c66d6e9",
-      "_entityId": "385d0a06-7314-4749-bffc-7421207eaa31",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-italy-1st-innings",
-      "slug": "tanzania-v-italy-1st-innings",
-      "title": "Tanzania v Italy (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
-          "_entityId": "920ce214-b048-44de-8cac-909452024176",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
-          "title": "ICC CWC Challenge League B, 2024-26",
-          "slug": "tournament-8271",
-          "neutralSlug": "tournament-8271",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8271",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8271",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c69c8d61-2460-4953-bee2-cbfe03cda7f2",
-          "_entityId": "3679ff4f-dfa5-4a21-846f-061ce603cabc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272662",
-          "title": "Tanzania vs Italy - Match 44 - 8/18/2026",
-          "slug": "match-272662",
-          "neutralSlug": "match-272662",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272662",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272662",
-            "teamA": "Tanzania",
-            "teamB": "Italy",
-            "teamAid": "1731",
-            "teamBid": "1298",
-            "teamAshort": "TAN",
-            "teamBshort": "ITA",
-            "stage": "League",
-            "matchDateLocal": "8/18/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 44",
-            "seriesId": "8271",
-            "seriesName": "ICC CWC Challenge League B, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League B, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "7092",
-            "tourName": "ICC CWC Challenge League B, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "tanzania-vs-italy",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "542c9f43-fd56-4490-818e-39501f980a49",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-18T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-18T05:41:19.277Z",
-      "contentDate": "2026-08-03T15:28:02.639Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2BTANZ-AUG_Match14.1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hyy9fsigynjd7uwomnb4",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hyy9fsigynjd7uwomnb4",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2btanz-aug-match14-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match14-1"
       },
       "entityCode": "video"
     },
@@ -549,9 +449,7 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match13"
       },
       "entityCode": "video"
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "11f09689-33b6-498b-bf40-d38c96e1cd3b",
@@ -623,7 +521,7 @@
       "fields": {
         "videoId": "dc05c0e4-6b0d-4355-ad25-fcb1016e5f2d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T08:40:00Z",
@@ -638,7 +536,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-18T08:21:47.552Z",
+      "lastUpdatedDate": "2026-08-18T08:35:38.946Z",
       "contentDate": "2026-08-03T15:28:39.139Z",
       "featured": 0,
       "thumbnail": {
@@ -651,7 +549,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match14-2"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "21119219-bd6e-4d20-9163-a20b97788ecc",
