@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "17-08-2026 22:16",
+  "last_updated": "11:15:07 AM 18-08-2026",
   "total_matches": 14,
-  "live_matches": 0,
-  "upcoming_matches": 14,
+  "live_matches": 2,
+  "upcoming_matches": 12,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "2388abb7-d5e8-44e5-b454-8d2ec5e1ff97",
@@ -94,7 +93,7 @@
       "fields": {
         "videoId": "8d99e11d-75df-4463-af3c-d3f03d7d1ef8",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T06:00:00Z",
@@ -108,8 +107,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:29:50.804Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T05:41:39.784Z",
       "contentDate": "2026-08-03T15:29:50.804Z",
       "featured": 0,
       "thumbnail": {
@@ -194,7 +193,7 @@
       "fields": {
         "videoId": "542c9f43-fd56-4490-818e-39501f980a49",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T06:00:00Z",
@@ -208,8 +207,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-03T15:28:02.639Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T05:41:19.277Z",
       "contentDate": "2026-08-03T15:28:02.639Z",
       "featured": 0,
       "thumbnail": {
@@ -222,7 +221,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match14-1"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "6578402e-32f1-4840-87df-33f88e6e30b2",
