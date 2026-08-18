@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:10 PM 18-08-2026",
+  "last_updated": "07:00:16 PM 18-08-2026",
   "total_matches": 8,
   "live_matches": 3,
   "upcoming_matches": 5,
@@ -120,7 +120,38 @@
         "slug": "icc26-cwc-l2btanz-aug-match15-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match15-2"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, August 18, 2026, 7:00:06 PM",
+        "expire_date": "Wednesday, August 19, 2026, 3:00:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1787088609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0ed8d5611c7769ff93a5cdd2844fb9c4b9e99f5a53a58803f0868790898db24a/manifest.mpd?vcfilter=f978d8d6-80e9-4072-bbdb-87457a0c893b&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -222,7 +253,38 @@
         "slug": "icc26-mt20-europesubr-qualc-match16",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match16"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, August 18, 2026, 7:00:09 PM",
+        "expire_date": "Wednesday, August 19, 2026, 3:00:12 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787088612~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=318004cc55f85f7610d6073c7fd905bdba46e8ec666782b4b15da7fb8f658e1a/manifest.mpd?vcfilter=b53e932e-a27e-4995-95ef-e01877632ebc&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -324,7 +386,38 @@
         "slug": "icc26-mt20-europesubr-qualc-match15",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match15"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, August 18, 2026, 7:00:13 PM",
+        "expire_date": "Wednesday, August 19, 2026, 3:00:16 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787088616~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=40bf42d45605150f06bd59dc8c3cd570c97502b7b5f950442b7ea20bfd0537aa/manifest.mpd?vcfilter=a5c4330b-1699-4ee5-ae5b-6cbb3f91945e&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
   ],
   "upcoming": [
