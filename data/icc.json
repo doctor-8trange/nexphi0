@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:07 AM 18-08-2026",
+  "last_updated": "01:17:36 PM 18-08-2026",
   "total_matches": 14,
-  "live_matches": 2,
-  "upcoming_matches": 12,
+  "live_matches": 5,
+  "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -221,9 +221,7 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match14-1"
       },
       "entityCode": "video"
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "6578402e-32f1-4840-87df-33f88e6e30b2",
@@ -297,7 +295,7 @@
       "fields": {
         "videoId": "8924949c-e215-4ebf-8776-36261c2e508d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T08:00:00Z",
@@ -311,8 +309,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-14T10:19:35.286Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T07:43:52.781Z",
       "contentDate": "2026-08-13T20:17:53.031Z",
       "context": {
         "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
@@ -421,7 +419,7 @@
       "fields": {
         "videoId": "4069e40b-0f0a-46f6-95cd-9ff7c9bece4b",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T08:00:00Z",
@@ -435,8 +433,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:26:37.576Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T07:43:54.955Z",
       "contentDate": "2026-08-05T14:26:37.576Z",
       "featured": 0,
       "thumbnail": {
@@ -523,7 +521,7 @@
       "fields": {
         "videoId": "cb7d0d3c-d424-4ed7-b35e-5d89f3f7b867",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T08:00:00Z",
@@ -537,8 +535,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:26:09.49Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T07:43:57.283Z",
       "contentDate": "2026-08-05T14:26:09.49Z",
       "featured": 0,
       "thumbnail": {
@@ -551,7 +549,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match13"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "21119219-bd6e-4d20-9163-a20b97788ecc",
