@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:10 PM 18-08-2026",
+  "last_updated": "06:15:10 PM 18-08-2026",
   "total_matches": 8,
-  "live_matches": 1,
-  "upcoming_matches": 7,
+  "live_matches": 3,
+  "upcoming_matches": 5,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -121,9 +121,7 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2btanz-aug-match15-2"
       },
       "entityCode": "video"
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "332a0eae-317b-4f22-b074-83fc59fa3a39",
@@ -197,7 +195,7 @@
       "fields": {
         "videoId": "b53e932e-a27e-4995-95ef-e01877632ebc",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T13:00:00Z",
@@ -211,8 +209,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:27:36.58Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T12:39:45.97Z",
       "contentDate": "2026-08-05T14:27:36.58Z",
       "featured": 0,
       "thumbnail": {
@@ -299,7 +297,7 @@
       "fields": {
         "videoId": "a5c4330b-1699-4ee5-ae5b-6cbb3f91945e",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-18T13:00:00Z",
@@ -313,8 +311,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pranay Ruparelia",
-      "lastUpdatedDate": "2026-08-05T14:27:11.721Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-18T12:39:34.984Z",
       "contentDate": "2026-08-05T14:27:11.721Z",
       "featured": 0,
       "thumbnail": {
@@ -327,7 +325,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match15"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "ce618a05-1941-432c-9425-8630eaf3608b",
