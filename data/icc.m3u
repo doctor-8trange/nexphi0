@@ -1,4 +1,34 @@
 #EXTM3U
-#DATE:- 18-08-2026 18:15
+#DATE:- 18-08-2026 19:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="f978d8d6-80e9-4072-bbdb-87457a0c893b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n7jbydxf26b7jx8so7l3" tvg-lang="English" group-title="Cricket",English | Uganda v Bahrain (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1787088609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0ed8d5611c7769ff93a5cdd2844fb9c4b9e99f5a53a58803f0868790898db24a/manifest.mpd?vcfilter=f978d8d6-80e9-4072-bbdb-87457a0c893b&
+#EXTINF:-1 tvg-id="b53e932e-a27e-4995-95ef-e01877632ebc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bbz6gxnjpz5bwdwdmrtm" tvg-lang="English" group-title="Cricket",English | Bulgaria v Spain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787088612~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=318004cc55f85f7610d6073c7fd905bdba46e8ec666782b4b15da7fb8f658e1a/manifest.mpd?vcfilter=b53e932e-a27e-4995-95ef-e01877632ebc&
+#EXTINF:-1 tvg-id="a5c4330b-1699-4ee5-ae5b-6cbb3f91945e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rcnnr2ujfjeujcuqupnz" tvg-lang="English" group-title="Cricket",English | Czechia v Israel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787088616~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=40bf42d45605150f06bd59dc8c3cd570c97502b7b5f950442b7ea20bfd0537aa/manifest.mpd?vcfilter=a5c4330b-1699-4ee5-ae5b-6cbb3f91945e&
