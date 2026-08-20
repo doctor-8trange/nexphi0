@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:15:04 PM 20-08-2026",
-  "total_matches": 5,
-  "live_matches": 2,
+  "last_updated": "05:00:06 PM 20-08-2026",
+  "total_matches": 4,
+  "live_matches": 1,
   "upcoming_matches": 3,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ce618a05-1941-432c-9425-8630eaf3608b",
-      "_entityId": "297a5173-fd9e-4d88-b2b6-8cf85785d683",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/portugal-v-czechia",
-      "slug": "portugal-v-czechia",
-      "title": "Portugal v Czechia",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "b0b4d362-4a5e-488f-ab8e-dd3139eaab29",
-          "_entityId": "bb6116cf-b1ad-4da1-bc92-fd30c8d689e1",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272539",
-          "title": "Czechia vs Portugal - Match 18 - 8/20/2026",
-          "slug": "match-272539",
-          "neutralSlug": "match-272539",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272539",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272539",
-            "teamA": "Czechia",
-            "teamB": "Portugal",
-            "teamAid": "1835",
-            "teamBid": "1765",
-            "teamAshort": "CZE",
-            "teamBshort": "POR",
-            "stage": "Group",
-            "matchDateLocal": "8/20/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 18",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "czechia-vs-portugal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2adaae2f-899b-46b0-89a1-76a3f88d5c06",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-20T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-20T07:40:43.692Z",
-      "contentDate": "2026-08-05T14:28:41.09Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualC_Match18",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ffod1gzpgkjq1ffnmnv1",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ffod1gzpgkjq1ffnmnv1",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualc-match18",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match18"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, August 20, 2026, 1:15:03 PM",
-        "expire_date": "Thursday, August 20, 2026, 9:15:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787240708~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1752d3447dbb8a129e3fc1a4f3b2812175d8169015263c72423be41f9e765ac2/manifest.mpd?vcfilter=2adaae2f-899b-46b0-89a1-76a3f88d5c06&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "d206e5af-809b-4045-a162-d4683bfb73a4",
