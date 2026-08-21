@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:21 PM 21-08-2026",
-  "total_matches": 3,
+  "last_updated": "01:45:06 PM 21-08-2026",
+  "total_matches": 5,
   "live_matches": 3,
-  "upcoming_matches": 0,
+  "upcoming_matches": 2,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -109,18 +109,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-21T07:41:33.22Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-21T07:54:03.978Z",
       "contentDate": "2026-08-21T07:19:30.311Z",
       "featured": 0,
       "thumbnail": {
-        "title": "icc new logo",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xdnfx03pk8gszl7ah8bg",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xdnfx03pk8gszl7ah8bg",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match_3rd_Place_PO_FINNISH",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/i0dhzjo52eysubwwdtrv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/i0dhzjo52eysubwwdtrv",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc-new-logo",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc-new-logo"
+        "slug": "icc26-mt20-europesubr-qualc-match-3rd-place-po-finnish",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match-3rd-place-po-finnish"
       },
       "entityCode": "video",
       "playback": {
@@ -242,18 +242,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-21T07:41:08.953Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-21T07:56:42.897Z",
       "contentDate": "2026-08-21T07:12:45.877Z",
       "featured": 0,
       "thumbnail": {
-        "title": "icc new logo",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xdnfx03pk8gszl7ah8bg",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xdnfx03pk8gszl7ah8bg",
+        "title": "ICC26_MT20-EuropeSubR-QualB_Match_7th_Place_PO",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/znmtsk1xf7u3jailbmdg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/znmtsk1xf7u3jailbmdg",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc-new-logo",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc-new-logo"
+        "slug": "icc26-mt20-europesubr-qualb-match-7th-place-po",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-match-7th-place-po"
       },
       "entityCode": "video",
       "playback": {
@@ -375,18 +375,18 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-21T07:41:12.549Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-21T07:54:58.003Z",
       "contentDate": "2026-08-21T07:12:32.372Z",
       "featured": 0,
       "thumbnail": {
-        "title": "icc new logo",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xdnfx03pk8gszl7ah8bg",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xdnfx03pk8gszl7ah8bg",
+        "title": "ICC26_MT20-EuropeSubR-QualC_Match_3rd_Place_PO",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ckpqixbdcxzdztkwehhm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ckpqixbdcxzdztkwehhm",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc-new-logo",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc-new-logo"
+        "slug": "icc26-mt20-europesubr-qualc-match-3rd-place-po",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualc-match-3rd-place-po"
       },
       "entityCode": "video",
       "playback": {
@@ -422,5 +422,210 @@
       }
     }
   ],
-  "upcoming": []
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "3bc7427f-6a3a-468b-ade3-9d69cfa7dd3a",
+      "_entityId": "7e2d6efb-1392-463b-a3b6-4b337a61e5be",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/isle-of-man-v-israel-5th-po",
+      "slug": "isle-of-man-v-israel-5th-po",
+      "title": "Isle of Man v Israel (5th PO)",
+      "tags": [
+        {
+          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15696",
+          "neutralSlug": "tournament-15696",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15696",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15696",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8a23c0fc-4e93-433c-a2d2-16520bc88945",
+          "_entityId": "d4aa641b-5f8a-460e-b8e7-ecff00a49bd7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272549",
+          "title": "Isle of Man vs Israel - 5th Place Play-off - 8/21/2026",
+          "slug": "match-272549",
+          "neutralSlug": "match-272549",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272549",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272549",
+            "teamA": "Isle of Man",
+            "teamB": "Israel",
+            "teamAid": "1805",
+            "teamBid": "1803",
+            "teamAshort": "IOM",
+            "teamBshort": "ISR",
+            "stage": "Playoffs",
+            "matchDateLocal": "8/21/2026",
+            "matchType": "T20",
+            "matchNumber": "5th Place Play-off",
+            "seriesId": "15696",
+            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12649",
+            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "isle-of-man-vs-israel",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e0b3a7ce-2b32-4c84-ae96-3e985489e761",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-21T08:05:54.181Z",
+      "contentDate": "2026-08-21T08:05:54.181Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-EuropeSubR-QualB_IoMvISR",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qlnv5679uv9kxav7ybvx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qlnv5679uv9kxav7ybvx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-europesubr-qualb-iomvisr",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-iomvisr"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4f0355e0-8639-4333-8f84-40b69763850f",
+      "_entityId": "da350d17-647d-4a6e-955d-d1b4990c0393",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-portugal-final",
+      "slug": "spain-v-portugal-final",
+      "title": "Spain v Portugal (Final)",
+      "tags": [
+        {
+          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15696",
+          "neutralSlug": "tournament-15696",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15696",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15696",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0f855890-2d13-4fe0-af4a-6220001cbe40",
+          "_entityId": "294685d5-33da-4564-ac8f-99a472df511b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272551",
+          "title": "Spain vs Portugal - Final - 8/21/2026",
+          "slug": "match-272551",
+          "neutralSlug": "match-272551",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-272551",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "272551",
+            "teamA": "Spain",
+            "teamB": "Portugal",
+            "teamAid": "1739",
+            "teamBid": "1765",
+            "teamAshort": "ESP",
+            "teamBshort": "POR",
+            "stage": "Final",
+            "matchDateLocal": "8/21/2026",
+            "matchType": "T20",
+            "matchNumber": "Final",
+            "seriesId": "15696",
+            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12649",
+            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "spain-vs-portugal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-21T08:05:08.291Z",
+      "contentDate": "2026-08-21T08:05:08.291Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-EuropeSubR-QualB_SPAvPOR",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/scoimlxcky51bnzxysu2",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scoimlxcky51bnzxysu2",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-europesubr-qualb-spavpor",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-spavpor"
+      },
+      "entityCode": "video"
+    }
+  ]
 }
