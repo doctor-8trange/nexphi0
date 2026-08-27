@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:07 PM 21-08-2026",
-  "total_matches": 1,
-  "live_matches": 1,
-  "upcoming_matches": 0,
+  "last_updated": "27-08-2026 19:15",
+  "total_matches": 11,
+  "live_matches": 0,
+  "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,84 +21,23 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
+  "live": [],
+  "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "4f0355e0-8639-4333-8f84-40b69763850f",
-      "_entityId": "da350d17-647d-4a6e-955d-d1b4990c0393",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-portugal-final",
-      "slug": "spain-v-portugal-final",
-      "title": "Spain v Portugal (Final)",
-      "tags": [
-        {
-          "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
-          "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
-          "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15696",
-          "neutralSlug": "tournament-15696",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15696",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15696",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0f855890-2d13-4fe0-af4a-6220001cbe40",
-          "_entityId": "294685d5-33da-4564-ac8f-99a472df511b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272551",
-          "title": "Spain vs Portugal - Final - 8/21/2026",
-          "slug": "match-272551",
-          "neutralSlug": "match-272551",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-272551",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "272551",
-            "teamA": "Spain",
-            "teamB": "Portugal",
-            "teamAid": "1739",
-            "teamBid": "1765",
-            "teamAshort": "ESP",
-            "teamBshort": "POR",
-            "stage": "Final",
-            "matchDateLocal": "8/21/2026",
-            "matchType": "T20",
-            "matchNumber": "Final",
-            "seriesId": "15696",
-            "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12649",
-            "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "spain-vs-portugal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
+      "_translationId": "41b55201-afc1-4929-ad9a-0d8dfb4f01bc",
+      "_entityId": "572b0372-3ce0-4787-bc53-bf8337701b7a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-sweden",
+      "slug": "germany-v-sweden",
+      "title": "Germany v Sweden",
+      "tags": [],
       "fields": {
-        "videoId": "3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3",
+        "videoId": "db8b7933-282b-4b0a-951a-1fb721dd163f",
         "workflow": "LIVE",
-        "videoStatus": "Live",
+        "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "scheduledStartTime": "2026-08-28T08:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -109,52 +48,560 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-21T12:40:25.185Z",
-      "contentDate": "2026-08-21T08:05:08.291Z",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:05:37.763Z",
+      "contentDate": "2026-08-27T13:05:37.763Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_MT20-EuropeSubR-QualB_SPAvPOR",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/scoimlxcky51bnzxysu2",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scoimlxcky51bnzxysu2",
+        "title": "1st T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dnozgmizqigvbfk9ll1n",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dnozgmizqigvbfk9ll1n",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-mt20-europesubr-qualb-spavpor",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-europesubr-qualb-spavpor"
+        "slug": "1st-t20i-x9786",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-t20i-x9786"
       },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, August 21, 2026, 6:15:10 PM",
-        "expire_date": "Saturday, August 22, 2026, 2:15:13 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787345113~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73b462fb16157d9c68b3e571cbc42dfe6112280f48be30979cfe7dc44d5e636e/manifest.mpd?vcfilter=3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "99e64fc0-59a0-4045-a805-328eb481730f",
+      "_entityId": "aa170a2e-fc81-4018-8c7f-22ed255759f5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-sweden",
+      "slug": "denmark-v-sweden",
+      "title": "Denmark v Sweden",
+      "tags": [],
+      "fields": {
+        "videoId": "d994c101-902f-4885-802f-1423599007e7",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-28T14:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
         }
-      }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:06:55.806Z",
+      "contentDate": "2026-08-27T13:06:55.806Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "2nd T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/m3l9woraspp6vjlfjvyb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/m3l9woraspp6vjlfjvyb",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "2nd-t20i-x7817",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-t20i-x7817"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ad35ec46-329e-464e-9626-cdeb7e6f06fb",
+      "_entityId": "5bf43b09-a1ee-491b-a675-eb17a0cb2566",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-denmark",
+      "slug": "germany-v-denmark",
+      "title": "Germany v Denmark",
+      "tags": [],
+      "fields": {
+        "videoId": "5b57ef7c-73bb-4892-93e9-9a2bca654309",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-29T08:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:08:46.686Z",
+      "contentDate": "2026-08-27T13:08:46.686Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sz7ryslcralladbvzixz",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sz7ryslcralladbvzixz",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "3rd-t20i-x0954",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-t20i-x0954"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e5bbed3e-fd9a-4738-a8b6-57f88be9560b",
+      "_entityId": "852e17a2-f138-4cc1-84f9-26f52206b637",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-africa-v-zimbabwe",
+      "slug": "south-africa-v-zimbabwe",
+      "title": "South Africa v Zimbabwe",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "315d27c5-3554-4864-9456-622781ecdbad",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-29T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:30:34.33Z",
+      "contentDate": "2026-08-27T13:30:34.33Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "T20I_TRI-SERIES-NAM_Match2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hzs7rkkhniuitf50el6i",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzs7rkkhniuitf50el6i",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "t20i-tri-series-nam-match2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "54a5cb5b-73a9-4db7-a93d-b161ad7be387",
+      "_entityId": "8da9c27b-505c-48fc-965c-1c140335fabb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-sweden-x4682",
+      "slug": "germany-v-sweden-x4682",
+      "title": "Germany v Sweden",
+      "tags": [],
+      "fields": {
+        "videoId": "93ab619b-a480-410a-850e-44968b52715c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-29T13:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:09:29.166Z",
+      "contentDate": "2026-08-27T13:09:29.166Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "4th T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gkpibjwme2jeerv2239r",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkpibjwme2jeerv2239r",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "4th-t20i-x6424",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-t20i-x6424"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ead4351b-78d6-4da8-9502-dfa4061904b1",
+      "_entityId": "3ebb80c5-3943-459e-b17d-58e427917049",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-sweden-x1152",
+      "slug": "denmark-v-sweden-x1152",
+      "title": "Denmark v Sweden",
+      "tags": [],
+      "fields": {
+        "videoId": "867ba416-a07f-456d-bbcd-125163f7a4d3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-30T07:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:09:56.638Z",
+      "contentDate": "2026-08-27T13:09:56.638Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "5th T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/drz93b0te3e3dgq29qxg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/drz93b0te3e3dgq29qxg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "5th-t20i-x1331",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-t20i-x1331"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "36296e8f-7353-49a6-862c-dffef72e208c",
+      "_entityId": "3833947b-a7d1-44d0-8dcb-0a917dfa5bf5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-germany",
+      "slug": "denmark-v-germany",
+      "title": "Denmark v Germany",
+      "tags": [],
+      "fields": {
+        "videoId": "edcd514a-06c2-4794-837e-3f518e40bbac",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-30T11:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:10:33.686Z",
+      "contentDate": "2026-08-27T13:10:33.686Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "6th T20I",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ty9tp4xa89ms0nkautpe",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ty9tp4xa89ms0nkautpe",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "6th-t20i",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/6th-t20i"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6a7e1c8f-a22f-4a1b-ac13-167912e0581f",
+      "_entityId": "21d10547-6065-42df-b06d-bc2f78287428",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-zimbabwe",
+      "slug": "namibia-v-zimbabwe",
+      "title": "Namibia v Zimbabwe",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-31T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:31:43.541Z",
+      "contentDate": "2026-08-27T13:31:43.541Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "T20I_TRI-SERIES-NAM_Match3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tfn5poxz7xkz5zyt9aj8",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfn5poxz7xkz5zyt9aj8",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "t20i-tri-series-nam-match3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match3"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e9c3728c-3007-4e25-8c22-ce0a8e890856",
+      "_entityId": "3d1ba61d-6a63-47a1-be05-b057878a1dbe",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zimbabwe-v-south-africa",
+      "slug": "zimbabwe-v-south-africa",
+      "title": "Zimbabwe v South Africa",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "96bac49e-871a-4140-9d55-d6eb6a50774a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-09-01T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:32:51.698Z",
+      "contentDate": "2026-08-27T13:32:51.698Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "T20I_TRI-SERIES-NAM_Match4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x6svf3uj2eraj54pbedh",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x6svf3uj2eraj54pbedh",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "t20i-tri-series-nam-match4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match4"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9d9d465b-ce3f-494d-a4ea-e834ca0f2a38",
+      "_entityId": "92b4e30a-7508-4d58-9232-2027e9e968ba",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zimbabwe-v-namibia",
+      "slug": "zimbabwe-v-namibia",
+      "title": "Zimbabwe v Namibia",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "b122d912-ac24-48ed-8621-7f134b5e73e2",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-09-03T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:36:42.892Z",
+      "contentDate": "2026-08-27T13:36:42.892Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "T20I_TRI-SERIES-NAM_Match5",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hts8w5dfmtjmzzal7qza",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hts8w5dfmtjmzzal7qza",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "t20i-tri-series-nam-match5",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match5"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9f771f94-d4e6-4134-a996-ef31590a302c",
+      "_entityId": "91962662-5ad2-496c-b91d-780e820c95c3",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-south-africa",
+      "slug": "namibia-v-south-africa",
+      "title": "Namibia v South Africa",
+      "tags": [
+        {
+          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
+          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15646",
+          "neutralSlug": "tournament-15646",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15646",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15646",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ca22801e-7e91-45cf-98ff-6e3ce26bc0b7",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-09-04T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Arihant  Badekar",
+      "lastUpdatedDate": "2026-08-27T13:37:16.971Z",
+      "contentDate": "2026-08-27T13:37:16.971Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "T20I_TRI-SERIES-NAM_Match6",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yikfah3tl5tsazqkqfci",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yikfah3tl5tsazqkqfci",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "t20i-tri-series-nam-match6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match6"
+      },
+      "entityCode": "video"
     }
-  ],
-  "upcoming": []
+  ]
 }
