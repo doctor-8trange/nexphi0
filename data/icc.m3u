@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 28-08-2026 17:00
+#DATE:- 28-08-2026 17:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="db8b7933-282b-4b0a-951a-1fb721dd163f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dnozgmizqigvbfk9ll1n" tvg-lang="English" group-title="Cricket",English | Germany v Sweden
+#EXTINF:-1 tvg-id="286d9a9d-c106-4994-bc36-30f8ae494bfa" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/me5k91paa6bzuytd3wt2" tvg-lang="English" group-title="Cricket",English | Namibia v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1787933717~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=066e72717210632edd5605b3f21bc7ce619f714102dce9b70b4cbbd6bc69cb74/manifest.mpd?vcfilter=db8b7933-282b-4b0a-951a-1fb721dd163f&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1787947217~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6d904fa18972e87fabd0e05fc2e989b8be62d8d67674ff21ff5ae4dc05890842/manifest.mpd?vcfilter=286d9a9d-c106-4994-bc36-30f8ae494bfa&
