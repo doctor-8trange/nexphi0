@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "27-08-2026 19:15",
-  "total_matches": 11,
-  "live_matches": 0,
+  "last_updated": "01:45:18 PM 28-08-2026",
+  "total_matches": 12,
+  "live_matches": 1,
   "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "41b55201-afc1-4929-ad9a-0d8dfb4f01bc",
@@ -30,11 +29,73 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-sweden",
       "slug": "germany-v-sweden",
       "title": "Germany v Sweden",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "a6aeb7ef-4534-44d2-a177-4f9663a2be75",
+          "_entityId": "dcef8eab-73b1-423b-9ff8-1a18ae05854f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273911",
+          "title": "Germany vs Sweden - Match 1 - 8/28/2026",
+          "slug": "match-273911",
+          "neutralSlug": "match-273911",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273911",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273911",
+            "teamA": "Germany",
+            "teamB": "Sweden",
+            "teamAid": "1823",
+            "teamBid": "1734",
+            "teamAshort": "GER",
+            "teamBshort": "SWE",
+            "stage": "Series",
+            "matchDateLocal": "8/28/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "germany-vs-sweden",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "db8b7933-282b-4b0a-951a-1fb721dd163f",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-28T08:30:00Z",
@@ -48,8 +109,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:05:37.763Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-28T08:10:28.65Z",
       "contentDate": "2026-08-27T13:05:37.763Z",
       "featured": 0,
       "thumbnail": {
@@ -61,6 +122,146 @@
         "slug": "1st-t20i-x9786",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-t20i-x9786"
       },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, August 28, 2026, 1:45:07 PM",
+        "expire_date": "Friday, August 28, 2026, 9:45:17 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1787933717~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=066e72717210632edd5605b3f21bc7ce619f714102dce9b70b4cbbd6bc69cb74/manifest.mpd?vcfilter=db8b7933-282b-4b0a-951a-1fb721dd163f&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "df99d105-c198-4426-bb2c-50f3159afe4a",
+      "_entityId": "343f6d5f-0e67-4cf6-80ab-cbddaff54198",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-south-africa-x8499",
+      "slug": "namibia-v-south-africa-x8499",
+      "title": "Namibia v South Africa",
+      "tags": [
+        {
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
+          "title": "T20I Tri-Series in Namibia, 2026",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15748",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15748",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "ec8e1be1-c5e2-45d9-b389-332e4166521a",
+          "_entityId": "e9315634-45f7-48e7-b438-024a86b0dbab",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273840",
+          "title": "Namibia vs South Africa - Match 1 - 8/28/2026",
+          "slug": "match-273840",
+          "neutralSlug": "match-273840",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273840",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273840",
+            "teamA": "Namibia",
+            "teamB": "South Africa",
+            "teamAid": "20",
+            "teamBid": "7",
+            "teamAshort": "NAM",
+            "teamBshort": "SA",
+            "stage": "Series",
+            "matchDateLocal": "8/28/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "namibia-vs-south-africa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "286d9a9d-c106-4994-bc36-30f8ae494bfa",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-08-28T12:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T07:07:53.888Z",
+      "contentDate": "2026-08-27T15:27:20.626Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Image",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/me5k91paa6bzuytd3wt2",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/me5k91paa6bzuytd3wt2",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "image-x9310",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/image-x9310"
+      },
       "entityCode": "video"
     },
     {
@@ -70,7 +271,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-sweden",
       "slug": "denmark-v-sweden",
       "title": "Denmark v Sweden",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d5cbdf71-bb23-4dae-a297-9456368972d7",
+          "_entityId": "dfc914ed-0691-4b2e-af3b-198885bfcadb",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273912",
+          "title": "Denmark vs Sweden - Match 2 - 8/28/2026",
+          "slug": "match-273912",
+          "neutralSlug": "match-273912",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273912",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273912",
+            "teamA": "Denmark",
+            "teamB": "Sweden",
+            "teamAid": "1120",
+            "teamBid": "1734",
+            "teamAshort": "DEN",
+            "teamBshort": "SWE",
+            "stage": "Series",
+            "matchDateLocal": "8/28/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "denmark-vs-sweden",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "d994c101-902f-4885-802f-1423599007e7",
         "workflow": "LIVE",
@@ -88,8 +351,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:06:55.806Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-08-27T23:09:38.016Z",
       "contentDate": "2026-08-27T13:06:55.806Z",
       "featured": 0,
       "thumbnail": {
@@ -110,7 +373,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-denmark",
       "slug": "germany-v-denmark",
       "title": "Germany v Denmark",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "bca5512f-8bf3-44da-8cc8-e990f1982f37",
+          "_entityId": "f236f584-c4d6-4601-ada2-51ec4f3c1abc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273913",
+          "title": "Germany vs Denmark - Match 3 - 8/29/2026",
+          "slug": "match-273913",
+          "neutralSlug": "match-273913",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273913",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273913",
+            "teamA": "Germany",
+            "teamB": "Denmark",
+            "teamAid": "1823",
+            "teamBid": "1120",
+            "teamAshort": "GER",
+            "teamBshort": "DEN",
+            "stage": "Series",
+            "matchDateLocal": "8/29/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "germany-vs-denmark",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "5b57ef7c-73bb-4892-93e9-9a2bca654309",
         "workflow": "LIVE",
@@ -128,8 +453,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:08:46.686Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-08-27T23:15:19.89Z",
       "contentDate": "2026-08-27T13:08:46.686Z",
       "featured": 0,
       "thumbnail": {
@@ -152,24 +477,63 @@
       "title": "South Africa v Zimbabwe",
       "tags": [
         {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
           "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-15646",
+            "SourceId": "tournament-15748",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "15646",
+            "tournamentId": "15748",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d466a0c0-8e31-4696-8d76-b24fb0846ffd",
+          "_entityId": "cec9539b-c10c-4d72-a6bf-a95a9d41878e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273841",
+          "title": "South Africa vs Zimbabwe - Match 2 - 8/29/2026",
+          "slug": "match-273841",
+          "neutralSlug": "match-273841",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273841",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273841",
+            "teamA": "South Africa",
+            "teamB": "Zimbabwe",
+            "teamAid": "7",
+            "teamBid": "10",
+            "teamAshort": "SA",
+            "teamBshort": "ZIM",
+            "stage": "Series",
+            "matchDateLocal": "8/29/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "south-africa-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
           },
           "fields": []
         }
@@ -196,8 +560,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:30:34.33Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T06:53:59.49Z",
       "contentDate": "2026-08-27T13:30:34.33Z",
       "featured": 0,
       "thumbnail": {
@@ -217,8 +581,70 @@
       "_entityId": "8da9c27b-505c-48fc-965c-1c140335fabb",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-sweden-x4682",
       "slug": "germany-v-sweden-x4682",
-      "title": "Germany v Sweden",
-      "tags": [],
+      "title": "Sweden v Germany",
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e63b4bb3-6a27-42f4-a845-e82067928df8",
+          "_entityId": "16506249-253f-4176-860b-6b950ff8abc5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273914",
+          "title": "Germany vs Sweden - Match 4 - 8/29/2026",
+          "slug": "match-273914",
+          "neutralSlug": "match-273914",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273914",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273914",
+            "teamA": "Germany",
+            "teamB": "Sweden",
+            "teamAid": "1823",
+            "teamBid": "1734",
+            "teamAshort": "GER",
+            "teamBshort": "SWE",
+            "stage": "Series",
+            "matchDateLocal": "8/29/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "germany-vs-sweden",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "93ab619b-a480-410a-850e-44968b52715c",
         "workflow": "LIVE",
@@ -236,8 +662,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:09:29.166Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-08-27T23:16:31.673Z",
       "contentDate": "2026-08-27T13:09:29.166Z",
       "featured": 0,
       "thumbnail": {
@@ -257,8 +683,70 @@
       "_entityId": "3ebb80c5-3943-459e-b17d-58e427917049",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-sweden-x1152",
       "slug": "denmark-v-sweden-x1152",
-      "title": "Denmark v Sweden",
-      "tags": [],
+      "title": "Sweden v Denmark",
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "936e0504-a288-42fd-98a5-827c0f50c58f",
+          "_entityId": "2a6fb82b-a1fa-4206-93c4-754086c5ce84",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273915",
+          "title": "Denmark vs Sweden - Match 5 - 8/30/2026",
+          "slug": "match-273915",
+          "neutralSlug": "match-273915",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273915",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273915",
+            "teamA": "Denmark",
+            "teamB": "Sweden",
+            "teamAid": "1120",
+            "teamBid": "1734",
+            "teamAshort": "DEN",
+            "teamBshort": "SWE",
+            "stage": "Series",
+            "matchDateLocal": "8/30/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "denmark-vs-sweden",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "867ba416-a07f-456d-bbcd-125163f7a4d3",
         "workflow": "LIVE",
@@ -276,8 +764,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:09:56.638Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-08-27T23:17:00.895Z",
       "contentDate": "2026-08-27T13:09:56.638Z",
       "featured": 0,
       "thumbnail": {
@@ -298,7 +786,69 @@
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-germany",
       "slug": "denmark-v-germany",
       "title": "Denmark v Germany",
-      "tags": [],
+      "tags": [
+        {
+          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
+          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
+          "title": "Women's Nordic Cup, 2026",
+          "slug": "tournament-15751",
+          "neutralSlug": "tournament-15751",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15751",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15751",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8b8e9ef8-89fe-4f7d-83f4-9a1c1adc5337",
+          "_entityId": "50a434a0-7b9c-4c01-8627-8c94ff57a6f6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273916",
+          "title": "Denmark vs Germany - Match 6 - 8/30/2026",
+          "slug": "match-273916",
+          "neutralSlug": "match-273916",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273916",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273916",
+            "teamA": "Denmark",
+            "teamB": "Germany",
+            "teamAid": "1120",
+            "teamBid": "1823",
+            "teamAshort": "DEN",
+            "teamBshort": "GER",
+            "stage": "Series",
+            "matchDateLocal": "8/30/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15751",
+            "seriesName": "Women's Nordic Cup, 2026",
+            "seriesShortName": "Women's Nordic Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12698",
+            "tourName": "Women's Nordic Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "denmark-vs-germany",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
       "fields": {
         "videoId": "edcd514a-06c2-4794-837e-3f518e40bbac",
         "workflow": "LIVE",
@@ -316,8 +866,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:10:33.686Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-08-27T23:17:28.052Z",
       "contentDate": "2026-08-27T13:10:33.686Z",
       "featured": 0,
       "thumbnail": {
@@ -340,24 +890,63 @@
       "title": "Namibia v Zimbabwe",
       "tags": [
         {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
           "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-15646",
+            "SourceId": "tournament-15748",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "15646",
+            "tournamentId": "15748",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0eb2292e-5406-42a4-bbdc-bd65f6d0c593",
+          "_entityId": "46e0eb26-9713-488f-bc87-45fde929a5e3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273842",
+          "title": "Namibia vs Zimbabwe - Match 3 - 8/31/2026",
+          "slug": "match-273842",
+          "neutralSlug": "match-273842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273842",
+            "teamA": "Namibia",
+            "teamB": "Zimbabwe",
+            "teamAid": "20",
+            "teamBid": "10",
+            "teamAshort": "NAM",
+            "teamBshort": "ZIM",
+            "stage": "Series",
+            "matchDateLocal": "8/31/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "namibia-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
           },
           "fields": []
         }
@@ -384,8 +973,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:31:43.541Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T06:55:49.732Z",
       "contentDate": "2026-08-27T13:31:43.541Z",
       "featured": 0,
       "thumbnail": {
@@ -408,24 +997,63 @@
       "title": "Zimbabwe v South Africa",
       "tags": [
         {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
           "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-15646",
+            "SourceId": "tournament-15748",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "15646",
+            "tournamentId": "15748",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1e1baf13-5012-48df-9d05-8e0d6bc31172",
+          "_entityId": "af94c58f-37fa-4d2d-89db-c0ea0951bf92",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273843",
+          "title": "Zimbabwe vs South Africa - Match 4 - 9/1/2026",
+          "slug": "match-273843",
+          "neutralSlug": "match-273843",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273843",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273843",
+            "teamA": "Zimbabwe",
+            "teamB": "South Africa",
+            "teamAid": "10",
+            "teamBid": "7",
+            "teamAshort": "ZIM",
+            "teamBshort": "SA",
+            "stage": "Series",
+            "matchDateLocal": "9/1/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "zimbabwe-vs-south-africa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
           },
           "fields": []
         }
@@ -452,8 +1080,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:32:51.698Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T06:57:41.359Z",
       "contentDate": "2026-08-27T13:32:51.698Z",
       "featured": 0,
       "thumbnail": {
@@ -476,24 +1104,63 @@
       "title": "Zimbabwe v Namibia",
       "tags": [
         {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
           "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-15646",
+            "SourceId": "tournament-15748",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "15646",
+            "tournamentId": "15748",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1dbacd42-aba0-4e83-8cca-6426c4d377d8",
+          "_entityId": "79bc559d-c267-4b42-ab1a-fd982a506d5c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273844",
+          "title": "Namibia vs Zimbabwe - Match 5 - 9/3/2026",
+          "slug": "match-273844",
+          "neutralSlug": "match-273844",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273844",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273844",
+            "teamA": "Namibia",
+            "teamB": "Zimbabwe",
+            "teamAid": "20",
+            "teamBid": "10",
+            "teamAshort": "NAM",
+            "teamBshort": "ZIM",
+            "stage": "Series",
+            "matchDateLocal": "9/3/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "namibia-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
           },
           "fields": []
         }
@@ -520,8 +1187,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:36:42.892Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T06:59:11.203Z",
       "contentDate": "2026-08-27T13:36:42.892Z",
       "featured": 0,
       "thumbnail": {
@@ -544,24 +1211,63 @@
       "title": "Namibia v South Africa",
       "tags": [
         {
-          "_translationId": "cd150a3e-122d-4106-b8c8-0aa438c3e27e",
-          "_entityId": "44d2bd8d-09dd-4cc8-8564-dc8eab23cdbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15646",
+          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
+          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
           "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15646",
-          "neutralSlug": "tournament-15646",
+          "slug": "tournament-15748",
+          "neutralSlug": "tournament-15748",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-15646",
+            "SourceId": "tournament-15748",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "15646",
+            "tournamentId": "15748",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0c8f3d79-0c87-4549-b24a-9e47cb5d5bc5",
+          "_entityId": "65a7b7bf-f8ec-42cf-b5de-ccc586992b88",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273845",
+          "title": "Namibia vs South Africa - Match 6 - 9/4/2026",
+          "slug": "match-273845",
+          "neutralSlug": "match-273845",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273845",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273845",
+            "teamA": "Namibia",
+            "teamB": "South Africa",
+            "teamAid": "20",
+            "teamBid": "7",
+            "teamAshort": "NAM",
+            "teamBshort": "SA",
+            "stage": "Series",
+            "matchDateLocal": "9/4/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15748",
+            "seriesName": "T20I Tri-Series in Namibia, 2026",
+            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12695",
+            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "namibia-vs-south-africa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
           },
           "fields": []
         }
@@ -588,8 +1294,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-08-27T13:37:16.971Z",
+      "lastUpdatedBy": "ugesh raj",
+      "lastUpdatedDate": "2026-08-28T07:06:34.809Z",
       "contentDate": "2026-08-27T13:37:16.971Z",
       "featured": 0,
       "thumbnail": {
