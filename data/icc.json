@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:30:17 PM 28-08-2026",
+  "last_updated": "07:45:07 PM 28-08-2026",
   "total_matches": 11,
-  "live_matches": 1,
-  "upcoming_matches": 10,
+  "live_matches": 2,
+  "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -159,9 +159,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "99e64fc0-59a0-4045-a805-328eb481730f",
@@ -235,7 +233,7 @@
       "fields": {
         "videoId": "d994c101-902f-4885-802f-1423599007e7",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-28T14:30:00Z",
@@ -249,8 +247,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-08-27T23:09:38.016Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-28T14:10:23.818Z",
       "contentDate": "2026-08-27T13:06:55.806Z",
       "featured": 0,
       "thumbnail": {
@@ -263,7 +261,9 @@
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-t20i-x7817"
       },
       "entityCode": "video"
-    },
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "ad35ec46-329e-464e-9626-cdeb7e6f06fb",
