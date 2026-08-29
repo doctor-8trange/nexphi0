@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:13 PM 29-08-2026",
-  "total_matches": 9,
-  "live_matches": 2,
+  "last_updated": "05:15:07 PM 29-08-2026",
+  "total_matches": 8,
+  "live_matches": 1,
   "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ad35ec46-329e-464e-9626-cdeb7e6f06fb",
-      "_entityId": "5bf43b09-a1ee-491b-a675-eb17a0cb2566",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-denmark",
-      "slug": "germany-v-denmark",
-      "title": "Germany v Denmark",
-      "tags": [
-        {
-          "_translationId": "b651ae75-afb4-4939-8235-872ea3b1ace9",
-          "_entityId": "e3ca9b1c-a988-487a-9b13-90199be6a52b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15751",
-          "title": "Women's Nordic Cup, 2026",
-          "slug": "tournament-15751",
-          "neutralSlug": "tournament-15751",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15751",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15751",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "bca5512f-8bf3-44da-8cc8-e990f1982f37",
-          "_entityId": "f236f584-c4d6-4601-ada2-51ec4f3c1abc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273913",
-          "title": "Germany vs Denmark - Match 3 - 8/29/2026",
-          "slug": "match-273913",
-          "neutralSlug": "match-273913",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273913",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273913",
-            "teamA": "Germany",
-            "teamB": "Denmark",
-            "teamAid": "1823",
-            "teamBid": "1120",
-            "teamAshort": "GER",
-            "teamBshort": "DEN",
-            "stage": "Series",
-            "matchDateLocal": "8/29/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15751",
-            "seriesName": "Women's Nordic Cup, 2026",
-            "seriesShortName": "Women's Nordic Cup, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12698",
-            "tourName": "Women's Nordic Cup, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "germany-vs-denmark",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5b57ef7c-73bb-4892-93e9-9a2bca654309",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-29T08:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-29T07:40:52.26Z",
-      "contentDate": "2026-08-27T13:08:46.686Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "3rd T20I",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sz7ryslcralladbvzixz",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sz7ryslcralladbvzixz",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "3rd-t20i-x0954",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-t20i-x0954"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 29, 2026, 4:45:06 PM",
-        "expire_date": "Sunday, August 30, 2026, 12:45:13 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1788030913~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a362a0cdb30a501e8ecaae1627dd939dcdc7ac06e3e3413e86e54443992ab2e4/manifest.mpd?vcfilter=5b57ef7c-73bb-4892-93e9-9a2bca654309&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "e5bbed3e-fd9a-4738-a8b6-57f88be9560b",
