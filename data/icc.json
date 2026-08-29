@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:16 PM 29-08-2026",
-  "total_matches": 8,
-  "live_matches": 2,
+  "last_updated": "08:45:03 PM 29-08-2026",
+  "total_matches": 7,
+  "live_matches": 1,
   "upcoming_matches": 6,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,144 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "e5bbed3e-fd9a-4738-a8b6-57f88be9560b",
-      "_entityId": "852e17a2-f138-4cc1-84f9-26f52206b637",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-africa-v-zimbabwe",
-      "slug": "south-africa-v-zimbabwe",
-      "title": "South Africa v Zimbabwe",
-      "tags": [
-        {
-          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
-          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15748",
-          "neutralSlug": "tournament-15748",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15748",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15748",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "d466a0c0-8e31-4696-8d76-b24fb0846ffd",
-          "_entityId": "cec9539b-c10c-4d72-a6bf-a95a9d41878e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273841",
-          "title": "South Africa vs Zimbabwe - Match 2 - 8/29/2026",
-          "slug": "match-273841",
-          "neutralSlug": "match-273841",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273841",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273841",
-            "teamA": "South Africa",
-            "teamB": "Zimbabwe",
-            "teamAid": "7",
-            "teamBid": "10",
-            "teamAshort": "SA",
-            "teamBshort": "ZIM",
-            "stage": "Series",
-            "matchDateLocal": "8/29/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15748",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12695",
-            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "south-africa-vs-zimbabwe",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "315d27c5-3554-4864-9456-622781ecdbad",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-29T12:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "NA",
-            "ZW",
-            "NP",
-            "LK",
-            "BD",
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-29T11:24:36.715Z",
-      "contentDate": "2026-08-27T13:30:34.33Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "T20I_TRI-SERIES-NAM_Match2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hzs7rkkhniuitf50el6i",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hzs7rkkhniuitf50el6i",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "t20i-tri-series-nam-match2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, August 29, 2026, 5:00:07 PM",
-        "expire_date": "Sunday, August 30, 2026, 1:00:12 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788031812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90d70e7f9a47984aa6d3ca5cf054f521b174fc27a435e0ae5f6ce6c1a8834830/manifest.mpd?vcfilter=315d27c5-3554-4864-9456-622781ecdbad&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "54a5cb5b-73a9-4db7-a93d-b161ad7be387",
