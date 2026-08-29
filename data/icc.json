@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:45:13 PM 29-08-2026",
+  "last_updated": "05:00:13 PM 29-08-2026",
   "total_matches": 9,
-  "live_matches": 1,
-  "upcoming_matches": 8,
+  "live_matches": 2,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -154,9 +154,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "e5bbed3e-fd9a-4738-a8b6-57f88be9560b",
@@ -230,7 +228,7 @@
       "fields": {
         "videoId": "315d27c5-3554-4864-9456-622781ecdbad",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-08-29T12:00:00Z",
@@ -249,8 +247,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "ugesh raj",
-      "lastUpdatedDate": "2026-08-28T06:53:59.49Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-08-29T11:24:36.715Z",
       "contentDate": "2026-08-27T13:30:34.33Z",
       "featured": 0,
       "thumbnail": {
@@ -262,8 +260,41 @@
         "slug": "t20i-tri-series-nam-match2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, August 29, 2026, 5:00:07 PM",
+        "expire_date": "Sunday, August 30, 2026, 1:00:12 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788031812~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90d70e7f9a47984aa6d3ca5cf054f521b174fc27a435e0ae5f6ce6c1a8834830/manifest.mpd?vcfilter=315d27c5-3554-4864-9456-622781ecdbad&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "54a5cb5b-73a9-4db7-a93d-b161ad7be387",
