@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:08 PM 30-08-2026",
+  "last_updated": "01:30:14 PM 30-08-2026",
   "total_matches": 6,
   "live_matches": 1,
   "upcoming_matches": 5,
@@ -24,10 +24,10 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "ead4351b-78d6-4da8-9502-dfa4061904b1",
-      "_entityId": "3ebb80c5-3943-459e-b17d-58e427917049",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-sweden-x1152",
-      "slug": "denmark-v-sweden-x1152",
+      "_translationId": "2db6b946-09ee-45b8-9617-81ed2b6c15fa",
+      "_entityId": "d6d0761b-ebc1-4667-9be4-2453c7e48cf0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sweden-v-denmark",
+      "slug": "sweden-v-denmark",
       "title": "Sweden v Denmark",
       "tags": [
         {
@@ -93,12 +93,12 @@
         }
       ],
       "fields": {
-        "videoId": "867ba416-a07f-456d-bbcd-125163f7a4d3",
+        "videoId": "434be02e-191a-4b59-8bdc-2a23d8057db3",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-08-30T07:00:00Z",
+        "scheduledStartTime": "2026-08-30T07:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -110,8 +110,8 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-30T06:43:15.778Z",
-      "contentDate": "2026-08-27T13:09:56.638Z",
+      "lastUpdatedDate": "2026-08-30T07:52:48.797Z",
+      "contentDate": "2026-08-30T07:51:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "5th T20I",
@@ -125,8 +125,8 @@
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, August 30, 2026, 1:15:04 PM",
-        "expire_date": "Sunday, August 30, 2026, 9:15:08 PM",
+        "create_date": "Sunday, August 30, 2026, 1:30:04 PM",
+        "expire_date": "Sunday, August 30, 2026, 9:30:15 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
           "Referer: https://www.icc-cricket.com/",
@@ -139,7 +139,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1788104708~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=f634132d5225611bc93e88b61ac83b4a2e4d440c83177573017f4be39912627f/manifest.mpd?vcfilter=867ba416-a07f-456d-bbcd-125163f7a4d3&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1788105615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=33547c68bacea780056fbe89584f1b8222988fcf1805e90c84f9611307d33dbf/manifest.mpd?vcfilter=434be02e-191a-4b59-8bdc-2a23d8057db3&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
