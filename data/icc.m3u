@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 30-08-2026 13:30
+#DATE:- 30-08-2026 19:13
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="434be02e-191a-4b59-8bdc-2a23d8057db3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/drz93b0te3e3dgq29qxg" tvg-lang="English" group-title="Cricket",English | Sweden v Denmark
+#EXTINF:-1 tvg-id="9f08e7b9-efcb-4f3c-a9b3-b5733265b29b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ty9tp4xa89ms0nkautpe" tvg-lang="English" group-title="Cricket",English | Denmark v Germany
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1788105615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=33547c68bacea780056fbe89584f1b8222988fcf1805e90c84f9611307d33dbf/manifest.mpd?vcfilter=434be02e-191a-4b59-8bdc-2a23d8057db3&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1788126194~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c38bdbb425907654fd522028e5e514ce9cc3218745fdc2ffc277c64514d8b5ab/manifest.mpd?vcfilter=9f08e7b9-efcb-4f3c-a9b3-b5733265b29b&
