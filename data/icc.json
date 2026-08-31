@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:12 PM 31-08-2026",
-  "total_matches": 4,
-  "live_matches": 1,
+  "last_updated": "31-08-2026 21:15",
+  "total_matches": 3,
+  "live_matches": 0,
   "upcoming_matches": 3,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,146 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "6a7e1c8f-a22f-4a1b-ac13-167912e0581f",
-      "_entityId": "21d10547-6065-42df-b06d-bc2f78287428",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-zimbabwe",
-      "slug": "namibia-v-zimbabwe",
-      "title": "Namibia v Zimbabwe",
-      "tags": [
-        {
-          "_translationId": "fc7eb1c1-0eb0-49cb-93e4-576b087c7f05",
-          "_entityId": "0f10ebad-127d-4800-b10e-abbe3c708871",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15748",
-          "title": "T20I Tri-Series in Namibia, 2026",
-          "slug": "tournament-15748",
-          "neutralSlug": "tournament-15748",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15748",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15748",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0eb2292e-5406-42a4-bbdc-bd65f6d0c593",
-          "_entityId": "46e0eb26-9713-488f-bc87-45fde929a5e3",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273842",
-          "title": "Namibia vs Zimbabwe - Match 3 - 8/31/2026",
-          "slug": "match-273842",
-          "neutralSlug": "match-273842",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273842",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273842",
-            "teamA": "Namibia",
-            "teamB": "Zimbabwe",
-            "teamAid": "20",
-            "teamBid": "10",
-            "teamAshort": "NAM",
-            "teamBshort": "ZIM",
-            "stage": "Series",
-            "matchDateLocal": "8/31/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 3",
-            "seriesId": "15748",
-            "seriesName": "T20I Tri-Series in Namibia, 2026",
-            "seriesShortName": "T20I Tri-Series in Namibia, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12695",
-            "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "namibia-vs-zimbabwe",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "16800000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-08-31T11:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "NA",
-            "ZW",
-            "NP",
-            "LK",
-            "BD",
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-08-31T11:16:26.482Z",
-      "contentDate": "2026-08-27T13:31:43.541Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "T20I_TRI-SERIES-NAM_Match3",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tfn5poxz7xkz5zyt9aj8",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfn5poxz7xkz5zyt9aj8",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "t20i-tri-series-nam-match3",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match3"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, August 31, 2026, 5:00:05 PM",
-        "expire_date": "Tuesday, September 1, 2026, 1:00:12 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788204612~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0bfc0571fcb1e4958cb797860f25d90e2e99293aa0f441a8f43fad1ca866a53e/manifest.mpd?vcfilter=3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
