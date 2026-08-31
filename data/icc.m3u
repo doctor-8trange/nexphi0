@@ -1,3 +1,14 @@
 #EXTM3U
-#DATE:- 31-08-2026 01:45
+#DATE:- 31-08-2026 17:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfn5poxz7xkz5zyt9aj8" tvg-lang="English" group-title="Cricket",English | Namibia v Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788204612~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0bfc0571fcb1e4958cb797860f25d90e2e99293aa0f441a8f43fad1ca866a53e/manifest.mpd?vcfilter=3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071&
