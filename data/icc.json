@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04-09-2026 21:30",
+  "last_updated": "04:45:18 PM 06-09-2026",
   "total_matches": 1,
-  "live_matches": 0,
-  "upcoming_matches": 1,
+  "live_matches": 1,
+  "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "5b2ce93e-083f-4898-a5d5-0a59c8feb8b8",
@@ -57,7 +56,7 @@
           "_translationId": "00387533-e0bc-4411-b53d-87058cd7b3ff",
           "_entityId": "73e4d55b-d75f-4183-af4b-0ffc97097157",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273846",
-          "title": "T.B.C. vs T.B.C. - Final - 9/6/2026",
+          "title": "South Africa vs Zimbabwe - Final - 9/6/2026",
           "slug": "match-273846",
           "neutralSlug": "match-273846",
           "externalSourceName": "cricket",
@@ -67,12 +66,12 @@
           },
           "extraData": {
             "matchId": "273846",
-            "teamA": "T.B.C.",
-            "teamB": "T.B.C.",
-            "teamAid": "",
-            "teamBid": "",
-            "teamAshort": "TBC",
-            "teamBshort": "TBC",
+            "teamA": "South Africa",
+            "teamB": "Zimbabwe",
+            "teamAid": "7",
+            "teamBid": "10",
+            "teamAshort": "SA",
+            "teamBshort": "ZIM",
             "stage": "Final",
             "matchDateLocal": "9/6/2026",
             "matchType": "T20",
@@ -85,7 +84,7 @@
             "tourName": "South Africa and Zimbabwe tour of Namibia, 2026",
             "competitionType": "T20 International - m",
             "competitionTypeId": "3",
-            "seoName": "t-b-c-vs-t-b-c-",
+            "seoName": "south-africa-vs-zimbabwe",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -96,10 +95,10 @@
       "fields": {
         "videoId": "6ac27684-74f9-4b4f-80da-291bec7b471c",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "16200000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-09-06T12:00:00Z",
+        "scheduledStartTime": "2026-09-06T11:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -115,20 +114,52 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Arihant  Badekar",
-      "lastUpdatedDate": "2026-09-04T15:48:28.64Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-09-06T11:10:56.263Z",
       "contentDate": "2026-09-04T15:48:28.64Z",
       "featured": 0,
       "thumbnail": {
-        "title": "T20I_TRI-SERIES-NAM_Match_FINAL_ PLACEHOLDER",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/audzugqrds37royceej4",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/audzugqrds37royceej4",
-        "format": "png",
+        "title": "Final 6 sep",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vcjle3i0ksxxnbdkeqpq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vcjle3i0ksxxnbdkeqpq",
+        "format": "jpg",
         "overriddenFormats": [],
-        "slug": "t20i-tri-series-nam-match-final-placeholder",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/t20i-tri-series-nam-match-final-placeholder"
+        "slug": "final-6-sep",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/final-6-sep"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, September 6, 2026, 4:45:08 PM",
+        "expire_date": "Monday, September 7, 2026, 12:45:18 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
-  ]
+  ],
+  "upcoming": []
 }
