@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "26-09-2026 21:15",
-  "total_matches": 2,
-  "live_matches": 0,
-  "upcoming_matches": 2,
+  "last_updated": "08:15:21 PM 03-10-2026",
+  "total_matches": 37,
+  "live_matches": 1,
+  "upcoming_matches": 36,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "0ceb52a6-5734-4a37-83a3-fdffa3a93435",
@@ -52,12 +51,51 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "0cf04265-966b-4187-8e39-14db254aedb7",
+          "_entityId": "4667ef97-935c-4df5-8628-3d73bb37bff8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275011",
+          "title": "Namibia vs United Arab Emirates - Match 128 - 10/3/2026",
+          "slug": "match-275011",
+          "neutralSlug": "match-275011",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275011",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275011",
+            "teamA": "Namibia",
+            "teamB": "United Arab Emirates",
+            "teamAid": "20",
+            "teamBid": "21",
+            "teamAshort": "NAM",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "10/3/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 128",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "624f3859-4679-43b0-a2f5-79e33d3cde02",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-03T15:00:00Z",
@@ -71,9 +109,9 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-09-26T15:36:59.49Z",
-      "contentDate": "2026-09-26T15:36:59.49Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-03T14:40:12.548Z",
+      "contentDate": "2025-09-26T15:36:00Z",
       "featured": 0,
       "thumbnail": {
         "title": "ICC26_CWC-L2-USA-OCT_Match1 copy (1)",
@@ -84,46 +122,118 @@
         "slug": "icc26-cwc-l2-usa-oct-match1-copy-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match1-copy-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 3, 2026, 8:15:08 PM",
+        "expire_date": "Sunday, October 4, 2026, 4:15:20 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791067520~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7b90028ab67b46c7d09f7b32b06578bbad5cb618df01e9e58f0e4c23ee7d169c/manifest.mpd?vcfilter=624f3859-4679-43b0-a2f5-79e33d3cde02&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "091bbeef-c9ae-4c7d-a899-3d7583f57764",
-      "_entityId": "c53fbc2f-8cc6-4efc-b00c-3019b1fc7498",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-namibia-2nd-innings",
-      "slug": "united-arab-emirates-v-namibia-2nd-innings",
-      "title": "United Arab Emirates v Namibia (2nd Innings)",
+      "_translationId": "ec0a45e9-c361-4a8d-8483-1ca983ec8655",
+      "_entityId": "30f16e3a-1bc0-4a28-9d2f-5d2d75a3e59a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/thailand-v-bahrain",
+      "slug": "thailand-v-bahrain",
+      "title": "Thailand v Bahrain",
       "tags": [
         {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-6156",
+            "SourceId": "tournament-15816",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "44b2ed60-0699-4ac0-89d0-de8c7dbfb0b0",
+          "_entityId": "26842802-16d6-47bf-96ce-9e1f6c3d5b67",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274959",
+          "title": "Bahrain vs Thailand - Match 2 - 10/5/2026",
+          "slug": "match-274959",
+          "neutralSlug": "match-274959",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274959",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274959",
+            "teamA": "Bahrain",
+            "teamB": "Thailand",
+            "teamAid": "1872",
+            "teamBid": "1730",
+            "teamAshort": "BRN",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/5/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
-        "videoId": "f6ed76d9-c564-4ece-86f2-ee09ce18e49e",
+        "videoId": "41bc843f-4de6-4501-8408-a19d4e5d9bc7",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-03T19:00:00Z",
+        "scheduledStartTime": "2026-10-05T01:15:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -135,17 +245,3587 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-09-26T15:36:54.191Z",
-      "contentDate": "2026-09-26T15:36:54.191Z",
+      "lastUpdatedDate": "2026-09-26T16:11:15.369Z",
+      "contentDate": "2026-09-26T16:11:15.369Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-USA-OCT_Match1 copy (2)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/na2g26s8zlabqm65iyj5",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/na2g26s8zlabqm65iyj5",
-        "format": "jpg",
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match2 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qc50k9a0kxumaeti5aoj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qc50k9a0kxumaeti5aoj",
+        "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-usa-oct-match1-copy-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match1-copy-2"
+        "slug": "icc26-mt20i-wc-asia-srq-a-match2-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match2-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ffb496e2-10b8-47b3-8657-9a5e02df4293",
+      "_entityId": "e9fc6733-8157-40d7-957b-7b2758ce09df",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/myanmar-v-bhutan",
+      "slug": "myanmar-v-bhutan",
+      "title": "Myanmar v Bhutan",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "2147a78a-0829-41f5-adb6-47c690018f52",
+          "_entityId": "e9a0b463-40ba-40c8-aaa4-db9d6c4f3983",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274958",
+          "title": "Bhutan vs Myanmar - Match 1 - 10/5/2026",
+          "slug": "match-274958",
+          "neutralSlug": "match-274958",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274958",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274958",
+            "teamA": "Bhutan",
+            "teamB": "Myanmar",
+            "teamAid": "1865",
+            "teamBid": "1777",
+            "teamAshort": "BHU",
+            "teamBshort": "MYA",
+            "stage": "League",
+            "matchDateLocal": "10/5/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bhutan-vs-myanmar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "56655a9b-2b77-4686-b210-e4402b029b44",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-05T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T16:10:00.73Z",
+      "contentDate": "2026-09-26T16:10:00.73Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match1 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dvlwmcbqdl0oarprlurj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dvlwmcbqdl0oarprlurj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match1-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match1-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "c9e5ff21-f538-456a-a162-e72e629d50d2",
+      "_entityId": "f7873657-5ae7-44cd-bf51-67937a8c461a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-qatar",
+      "slug": "kuwait-v-qatar",
+      "title": "Kuwait v Qatar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "c5178411-3084-4a70-8739-9c2d4d85bce3",
+          "_entityId": "5562d6a7-61b0-4716-807d-464a415b4a35",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274960",
+          "title": "Kuwait vs Qatar - Match 3 - 10/5/2026",
+          "slug": "match-274960",
+          "neutralSlug": "match-274960",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274960",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274960",
+            "teamA": "Kuwait",
+            "teamB": "Qatar",
+            "teamAid": "1797",
+            "teamBid": "1763",
+            "teamAshort": "KUW",
+            "teamBshort": "QAT",
+            "stage": "League",
+            "matchDateLocal": "10/5/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "kuwait-vs-qatar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e619e8d2-934d-42b5-92a5-ce5566133683",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-05T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T16:18:57.991Z",
+      "contentDate": "2026-09-26T16:18:57.991Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match3 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/llu8kczyiw3slw67dhcy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/llu8kczyiw3slw67dhcy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match3-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match3-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a9e388ef-db8f-4f56-94a5-1e95df412bc9",
+      "_entityId": "5402d1d3-f425-492f-926b-651f77291d05",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-thailand",
+      "slug": "qatar-v-thailand",
+      "title": "Qatar v Thailand",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1e173e7c-3ea1-46d3-8cda-824b183057dd",
+          "_entityId": "b1f82f9a-a321-4a33-9b40-d24b42df894d",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274961",
+          "title": "Qatar vs Thailand - Match 4 - 10/6/2026",
+          "slug": "match-274961",
+          "neutralSlug": "match-274961",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274961",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274961",
+            "teamA": "Qatar",
+            "teamB": "Thailand",
+            "teamAid": "1763",
+            "teamBid": "1730",
+            "teamAshort": "QAT",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/6/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "qatar-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5349605a-04ec-4045-b7d5-2f8ea5dc9f1b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-06T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T16:20:12.483Z",
+      "contentDate": "2026-09-26T16:20:12.483Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match4 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zg7scqkrmdwk5a9gyfg3",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zg7scqkrmdwk5a9gyfg3",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match4-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match4-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "04af04a8-9add-4d2b-8e97-b3c1d66059a9",
+      "_entityId": "ad096380-9aa2-4d9b-94c4-826fc6a812eb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mangolia-v-kuwait",
+      "slug": "mangolia-v-kuwait",
+      "title": "Mangolia v Kuwait",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "43bfcefd-0d44-4be4-bfc6-6afbdfca8078",
+          "_entityId": "6c0e5667-c5db-4f6c-981d-b806c6bfe796",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274963",
+          "title": "Kuwait vs Mongolia - Match 6 - 10/6/2026",
+          "slug": "match-274963",
+          "neutralSlug": "match-274963",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274963",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274963",
+            "teamA": "Kuwait",
+            "teamB": "Mongolia",
+            "teamAid": "1797",
+            "teamBid": "4025",
+            "teamAshort": "KUW",
+            "teamBshort": "MNG",
+            "stage": "League",
+            "matchDateLocal": "10/6/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "kuwait-vs-mongolia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "12f8d1f1-ab4a-4a51-beb3-5cd7817fd3c9",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-06T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T16:21:51.387Z",
+      "contentDate": "2026-09-26T16:21:51.387Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match6 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hib6q9gf5um8xb1oru80",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hib6q9gf5um8xb1oru80",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match6-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match6-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "cfe78457-9d51-470b-accc-d4e59cd9d478",
+      "_entityId": "e6890c4c-959f-4dbb-aae5-7a7cfd3616a6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahrain-v-bhutan",
+      "slug": "bahrain-v-bhutan",
+      "title": "Bahrain v Bhutan",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "38f6bfe5-bb50-411f-88e6-8860b41fb292",
+          "_entityId": "89d16093-e7b4-47a2-9b11-6737a3282d73",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274962",
+          "title": "Bahrain vs Bhutan - Match 5 - 10/6/2026",
+          "slug": "match-274962",
+          "neutralSlug": "match-274962",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274962",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274962",
+            "teamA": "Bahrain",
+            "teamB": "Bhutan",
+            "teamAid": "1872",
+            "teamBid": "1865",
+            "teamAshort": "BRN",
+            "teamBshort": "BHU",
+            "stage": "League",
+            "matchDateLocal": "10/6/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-bhutan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "0e21d2fa-3bc8-46a7-8515-7559e3cdeaed",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-06T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T16:21:00.877Z",
+      "contentDate": "2026-09-26T16:21:00.877Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match5 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lvacthu7bi8zp0wjlspj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lvacthu7bi8zp0wjlspj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match5-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match5-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a642eeec-dadb-4e19-99e3-0e8009636c8a",
+      "_entityId": "923e2f73-5614-420b-9ee3-7dc46b98a313",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahrain-v-myanmar",
+      "slug": "bahrain-v-myanmar",
+      "title": "Bahrain v Myanmar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4db303a7-fde3-46cc-ade3-9f665761dcb4",
+          "_entityId": "8682fec7-0896-48bd-b18d-2da174807253",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274966",
+          "title": "Bahrain vs Myanmar - Match 9 - 10/8/2026",
+          "slug": "match-274966",
+          "neutralSlug": "match-274966",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274966",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274966",
+            "teamA": "Bahrain",
+            "teamB": "Myanmar",
+            "teamAid": "1872",
+            "teamBid": "1777",
+            "teamAshort": "BRN",
+            "teamBshort": "MYA",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 9",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-myanmar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a4bdae18-fe54-4d79-ad24-50580e2c501b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:50:16.825Z",
+      "contentDate": "2026-09-26T22:50:16.825Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match9 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u1yof4k2n5usztx0jnoq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u1yof4k2n5usztx0jnoq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match9-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match9-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "91f9727a-1604-49f1-b9ef-787aa9afb892",
+      "_entityId": "24e64a94-4851-4b29-a521-67f77f4b744e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bhutan-v-mongolia",
+      "slug": "bhutan-v-mongolia",
+      "title": "Bhutan v Mongolia",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f1491f17-57dd-44f0-bf25-a016dcb2c4ce",
+          "_entityId": "26b8dc81-f9b5-4394-bd3b-a6e815e48e17",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274965",
+          "title": "Bhutan vs Mongolia - Match 8 - 10/8/2026",
+          "slug": "match-274965",
+          "neutralSlug": "match-274965",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274965",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274965",
+            "teamA": "Bhutan",
+            "teamB": "Mongolia",
+            "teamAid": "1865",
+            "teamBid": "4025",
+            "teamAshort": "BHU",
+            "teamBshort": "MNG",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bhutan-vs-mongolia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "51c6cee4-ad83-426c-b25d-c6adb7b0627e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T21:30:30.233Z",
+      "contentDate": "2026-09-26T21:30:30.233Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match8 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qhq0qyt4gwkrdizid3tn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qhq0qyt4gwkrdizid3tn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match8-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match8-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "5daf189e-d557-45ff-a1ee-fae0dd3bddb2",
+      "_entityId": "a8e9666c-ed4c-4485-b899-92b9ae753636",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-thailand",
+      "slug": "kuwait-v-thailand",
+      "title": "Kuwait v Thailand",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4c324a94-b0a4-4f5d-bd78-cabeb8684306",
+          "_entityId": "68e494dd-7cb2-4a4f-9b5b-4992d6012423",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274964",
+          "title": "Kuwait vs Thailand - Match 7 - 10/8/2026",
+          "slug": "match-274964",
+          "neutralSlug": "match-274964",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274964",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274964",
+            "teamA": "Kuwait",
+            "teamB": "Thailand",
+            "teamAid": "1797",
+            "teamBid": "1730",
+            "teamAshort": "KUW",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "kuwait-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "894875e5-5edb-4e68-a0b2-300419e977c9",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T21:23:30.584Z",
+      "contentDate": "2026-09-26T21:23:30.584Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match7 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ybgc0u5hrtjnfvlureae",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ybgc0u5hrtjnfvlureae",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match7-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match7-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "f6c17404-0b5c-473b-9cef-5572513a6cf0",
+      "_entityId": "489199f8-07c1-4c19-9ed7-061056e18447",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-hong-kong-china",
+      "slug": "malaysia-v-hong-kong-china",
+      "title": "Malaysia v Hong Kong, China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f7fe15cc-16d0-4077-ad26-5564d1af7e29",
+          "_entityId": "3979b976-d5ce-44f3-9a01-cf04841d9f20",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274906",
+          "title": "Malaysia vs Hong Kong, China - Match 1 - 10/8/2026",
+          "slug": "match-274906",
+          "neutralSlug": "match-274906",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274906",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274906",
+            "teamA": "Malaysia",
+            "teamB": "Hong Kong, China",
+            "teamAid": "552",
+            "teamBid": "19",
+            "teamAshort": "MAS",
+            "teamBshort": "HK",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "malaysia-vs-hong-kong-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e5c06a84-f77d-4b16-93c6-2aa500716bc4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:49:29.894Z",
+      "contentDate": "2026-09-28T14:49:29.894Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match3 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x2px9fbf3lvdiwsqurw3",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x2px9fbf3lvdiwsqurw3",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match3-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match3-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "fe680c8a-72b2-48ba-9080-3de8a3e0d32e",
+      "_entityId": "cd452dd5-ea16-4ae9-8feb-25ab4af46556",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/saudi-arabia-v-singapore",
+      "slug": "saudi-arabia-v-singapore",
+      "title": "Saudi Arabia v Singapore",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "6c93b314-5ddb-47d1-b2e3-c2bb9d6ef3b8",
+          "_entityId": "b46bb72b-b14c-4da1-9a9a-97454d52adb5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274905",
+          "title": "Saudi Arabia vs Singapore - Match 3 - 10/8/2026",
+          "slug": "match-274905",
+          "neutralSlug": "match-274905",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274905",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274905",
+            "teamA": "Saudi Arabia",
+            "teamB": "Singapore",
+            "teamAid": "1751",
+            "teamBid": "1565",
+            "teamAshort": "SDA",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "saudi-arabia-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5f430449-dc2a-4899-a474-0984b2aba0a2",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:48:32.886Z",
+      "contentDate": "2026-09-28T14:48:32.886Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match2 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fcquqxxo4bgwqdamjeiu",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fcquqxxo4bgwqdamjeiu",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match2-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match2-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "41415339-85dc-4d7c-9684-809d7ebc80af",
+      "_entityId": "17f6ac12-1fcf-4157-8a9c-32e4174c73c3",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/maldives-v-china",
+      "slug": "maldives-v-china",
+      "title": "Maldives v China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e1b1025f-e9d5-40b2-8fee-412aaa006976",
+          "_entityId": "7ae52d0f-140b-4d84-b43a-2647a93ee2bc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274904",
+          "title": "China vs Maldives - Match 2 - 10/8/2026",
+          "slug": "match-274904",
+          "neutralSlug": "match-274904",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274904",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274904",
+            "teamA": "China",
+            "teamB": "Maldives",
+            "teamAid": "1850",
+            "teamBid": "1789",
+            "teamAshort": "CHN",
+            "teamBshort": "MDV",
+            "stage": "League",
+            "matchDateLocal": "10/8/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "china-vs-maldives",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "36017103-e2c9-4e71-ae6d-5f0cc4527fa0",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-08T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:47:17.838Z",
+      "contentDate": "2026-09-28T14:47:17.838Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match1 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/epscvueenxvfx0cqdsrb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/epscvueenxvfx0cqdsrb",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match1-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match1-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "af6bbbed-6446-469c-a115-d44838d99799",
+      "_entityId": "aa05ef07-c894-40d8-a5e1-10933ccacaa1",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-myanmar",
+      "slug": "qatar-v-myanmar",
+      "title": "Qatar v Myanmar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "364fbc74-2cc7-43a8-afc5-cf51cd52411d",
+          "_entityId": "a68f7636-48c7-46a4-a2a4-c9c440f5d9a0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274969",
+          "title": "Qatar vs Myanmar - Match 12 - 10/9/2026",
+          "slug": "match-274969",
+          "neutralSlug": "match-274969",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274969",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274969",
+            "teamA": "Qatar",
+            "teamB": "Myanmar",
+            "teamAid": "1763",
+            "teamBid": "1777",
+            "teamAshort": "QAT",
+            "teamBshort": "MYA",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 12",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "qatar-vs-myanmar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9cd8c5b2-fe14-47bf-9931-dc98d82adb28",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:56:10.263Z",
+      "contentDate": "2026-09-26T22:56:10.263Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match12 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/j4tohz0w5rdlz22uc2fj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/j4tohz0w5rdlz22uc2fj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match12-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match12-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "31db282e-eb96-4088-8f2d-9c071efda755",
+      "_entityId": "636dcabd-1211-451c-9397-8583fe5a6689",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-bahrain",
+      "slug": "kuwait-v-bahrain",
+      "title": "Kuwait v Bahrain",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9d62e184-c945-4e8e-935f-233bd47bd0fb",
+          "_entityId": "e81d666e-2c61-49e2-ac88-2b386f599dc3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274968",
+          "title": "Bahrain vs Kuwait - Match 11 - 10/9/2026",
+          "slug": "match-274968",
+          "neutralSlug": "match-274968",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274968",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274968",
+            "teamA": "Bahrain",
+            "teamB": "Kuwait",
+            "teamAid": "1872",
+            "teamBid": "1797",
+            "teamAshort": "BRN",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 11",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "490f21f0-9aee-48f4-9ea8-89a58cdd8118",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:53:50.817Z",
+      "contentDate": "2026-09-26T22:53:50.817Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match11 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rwhaexjjnx5orlkwmy9n",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rwhaexjjnx5orlkwmy9n",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match11-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match11-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8dd942c2-5c19-474c-9809-54d66b2a97a1",
+      "_entityId": "42ef1e88-b059-45bc-8109-e660717ed0c8",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mongolia-v-thailand",
+      "slug": "mongolia-v-thailand",
+      "title": "Mongolia v Thailand",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f3a3c2c1-d2b1-4049-8d65-509cff9fd9d6",
+          "_entityId": "9abc6f5b-5728-4c3f-b166-35e1e5aca3af",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274967",
+          "title": "Mongolia vs Thailand - Match 10 - 10/9/2026",
+          "slug": "match-274967",
+          "neutralSlug": "match-274967",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274967",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274967",
+            "teamA": "Mongolia",
+            "teamB": "Thailand",
+            "teamAid": "4025",
+            "teamBid": "1730",
+            "teamAshort": "MNG",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 10",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "mongolia-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7971023e-b0cb-4d53-bbee-8b7bea0600a5",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:52:22.669Z",
+      "contentDate": "2026-09-26T22:52:22.669Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match10 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uea63mytxqogzvlv8wlo",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uea63mytxqogzvlv8wlo",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match10-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match10-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8dbd7edf-4405-4d73-aa9d-807e2cb0a47a",
+      "_entityId": "e6130d0d-b9bf-485f-a8b2-14bfac408c9c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-maldives",
+      "slug": "singapore-v-maldives",
+      "title": "Singapore v Maldives",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "aff02d84-da35-4abb-bfa9-b671ab66d213",
+          "_entityId": "0bb23b42-2fd8-436d-985f-08540f0ae127",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274909",
+          "title": "Maldives vs Singapore - Match 5 - 10/9/2026",
+          "slug": "match-274909",
+          "neutralSlug": "match-274909",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274909",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274909",
+            "teamA": "Maldives",
+            "teamB": "Singapore",
+            "teamAid": "1789",
+            "teamBid": "1565",
+            "teamAshort": "MDV",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "maldives-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c098c554-a22a-495a-8573-135b7a37adfe",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:15:15.385Z",
+      "contentDate": "2026-09-28T15:15:15.385Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match6 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cgd9cdbqdyqej5fxn0ju",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cgd9cdbqdyqej5fxn0ju",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match6-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match6-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4f46f19b-bf51-47da-a347-77c0eb86e13c",
+      "_entityId": "c122ecf1-4999-4ef0-b614-a27f14aceaa6",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-china",
+      "slug": "hong-kong-china-v-china",
+      "title": "Hong Kong, China v China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "cf2dfce4-d6ca-4662-9ad2-f87563a5034f",
+          "_entityId": "8f2e6619-5060-4052-86dd-20a25878a7ea",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274908",
+          "title": "China vs Hong Kong, China - Match 6 - 10/9/2026",
+          "slug": "match-274908",
+          "neutralSlug": "match-274908",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274908",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274908",
+            "teamA": "China",
+            "teamB": "Hong Kong, China",
+            "teamAid": "1850",
+            "teamBid": "19",
+            "teamAshort": "CHN",
+            "teamBshort": "HK",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "china-vs-hong-kong-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "846fe9c2-0ef7-4cb3-974b-af95e878323d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:54:55.525Z",
+      "contentDate": "2026-09-28T14:54:55.525Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match5 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hpgosnzgs1t42sdspjbf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hpgosnzgs1t42sdspjbf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match5-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match5-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3a077305-8ee4-4957-9b62-5ab23bd4b694",
+      "_entityId": "4ace40ca-3942-4632-bf2c-dc31074aa23e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-saudi-arabia",
+      "slug": "malaysia-v-saudi-arabia",
+      "title": "Malaysia v Saudi Arabia",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e6d23d11-d7aa-463c-a995-2f895d3707e7",
+          "_entityId": "3b7f3d0e-25da-4a4e-9b4c-a21905400258",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274907",
+          "title": "Malaysia vs Saudi Arabia - Match 4 - 10/9/2026",
+          "slug": "match-274907",
+          "neutralSlug": "match-274907",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274907",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274907",
+            "teamA": "Malaysia",
+            "teamB": "Saudi Arabia",
+            "teamAid": "552",
+            "teamBid": "1751",
+            "teamAshort": "MAS",
+            "teamBshort": "SDA",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "malaysia-vs-saudi-arabia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "23fba0fd-2e9e-4560-8988-5aec0b513a36",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:51:23.837Z",
+      "contentDate": "2026-09-28T14:51:23.837Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match4 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v8vnjovfbn2tracoacfw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v8vnjovfbn2tracoacfw",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match4-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match4-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "40e750a8-794d-4b38-9ce3-4cae5b4447ad",
+      "_entityId": "8119f60e-7e78-4550-99bb-ac302330d213",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-china",
+      "slug": "singapore-v-china",
+      "title": "Singapore v China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "20ffb5f8-d32d-4ac0-b4a3-5ffaaa7bca7b",
+          "_entityId": "1514afad-3807-4693-9285-86b459e0ad9e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274912",
+          "title": "China vs Singapore - Match 8 - 10/11/2026",
+          "slug": "match-274912",
+          "neutralSlug": "match-274912",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274912",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274912",
+            "teamA": "China",
+            "teamB": "Singapore",
+            "teamAid": "1850",
+            "teamBid": "1565",
+            "teamAshort": "CHN",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "china-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e28410ca-e82c-4c1e-b0e8-11f6c414fc30",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:01:12.17Z",
+      "contentDate": "2026-09-28T15:01:12.17Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match9 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v5ximhh0inrvr5equlh7",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v5ximhh0inrvr5equlh7",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match9-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match9-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "bd78951a-afee-46a4-bf7b-f131bf00280b",
+      "_entityId": "48005a1c-d85e-476e-89d1-a7d5360db5fa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-maldives",
+      "slug": "malaysia-v-maldives",
+      "title": "Malaysia v Maldives",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f8d1b2f4-1bcc-480f-9cb2-3f2f72f9fb14",
+          "_entityId": "0aac2e1b-6b80-40d4-a892-89b5e6cf9ef8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274911",
+          "title": "Malaysia vs Maldives - Match 9 - 10/11/2026",
+          "slug": "match-274911",
+          "neutralSlug": "match-274911",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274911",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274911",
+            "teamA": "Malaysia",
+            "teamB": "Maldives",
+            "teamAid": "552",
+            "teamBid": "1789",
+            "teamAshort": "MAS",
+            "teamBshort": "MDV",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 9",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "malaysia-vs-maldives",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9764a16c-041c-4e73-a35b-4d1dadce1a5a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:58:34.722Z",
+      "contentDate": "2026-09-28T14:58:34.722Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match8 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvbdcmzvn3yvaa21uvjf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvbdcmzvn3yvaa21uvjf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match8-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match8-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "7a03ec61-dcde-49d3-b464-8aa7000c285f",
+      "_entityId": "2ebfe36b-d0df-4c59-a6d7-fa2af827a6bc",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-saudi-arabia",
+      "slug": "hong-kong-china-v-saudi-arabia",
+      "title": "Hong Kong, China v Saudi Arabia",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "65f1459a-3e68-41b1-b262-04ea1c516883",
+          "_entityId": "fe18a214-7a81-47a7-8d05-23faf8eae27f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274910",
+          "title": "Hong Kong, China vs Saudi Arabia - Match 7 - 10/10/2026",
+          "slug": "match-274910",
+          "neutralSlug": "match-274910",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274910",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274910",
+            "teamA": "Hong Kong, China",
+            "teamB": "Saudi Arabia",
+            "teamAid": "19",
+            "teamBid": "1751",
+            "teamAshort": "HK",
+            "teamBshort": "SDA",
+            "stage": "League",
+            "matchDateLocal": "10/10/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "hong-kong-china-vs-saudi-arabia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "174edfb1-6900-468a-b307-16e1d7628325",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T14:56:58.96Z",
+      "contentDate": "2026-09-28T14:56:58.96Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match7 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mcnwktex4ypsedlveojr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mcnwktex4ypsedlveojr",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match7-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match7-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "5a576893-3296-40df-81b4-f4c258f28337",
+      "_entityId": "5783b9e8-224c-43f3-bdad-68f5b3bf68f7",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mongolia-v-bahrain",
+      "slug": "mongolia-v-bahrain",
+      "title": "Mongolia v Bahrain",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "05dcf13f-b8c2-4d7c-8fd7-34d562985615",
+          "_entityId": "755a353c-401b-4db6-8743-1a97086fe771",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274972",
+          "title": "Bahrain vs Mongolia - Match 15 - 10/11/2026",
+          "slug": "match-274972",
+          "neutralSlug": "match-274972",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274972",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274972",
+            "teamA": "Bahrain",
+            "teamB": "Mongolia",
+            "teamAid": "1872",
+            "teamBid": "4025",
+            "teamAshort": "BRN",
+            "teamBshort": "MNG",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 15",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-mongolia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "06d8e6e1-10b6-4a63-b314-56e9198c83ba",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:03:12.749Z",
+      "contentDate": "2026-09-26T23:03:12.749Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match15 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/m1kfwjxtwevhqtpy6yrf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/m1kfwjxtwevhqtpy6yrf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match15-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match15-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "2b447b55-9fd0-45b8-b039-629fc02d4561",
+      "_entityId": "c9ff7fa2-2837-4dc5-95f6-5678d64735ef",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bhutan-v-qatar",
+      "slug": "bhutan-v-qatar",
+      "title": "Bhutan v Qatar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d146ee2b-522d-46f8-b799-6334976a4ae1",
+          "_entityId": "f4143c8c-3c28-444b-8080-428b0fc79688",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274971",
+          "title": "Bhutan vs Qatar - Match 14 - 10/11/2026",
+          "slug": "match-274971",
+          "neutralSlug": "match-274971",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274971",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274971",
+            "teamA": "Bhutan",
+            "teamB": "Qatar",
+            "teamAid": "1865",
+            "teamBid": "1763",
+            "teamAshort": "BHU",
+            "teamBshort": "QAT",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 14",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bhutan-vs-qatar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "34045295-e64d-4214-a51c-e005ed502450",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:59:05.095Z",
+      "contentDate": "2026-09-26T22:59:05.095Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match14 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/c5rs4ndirhmmmdxmsrgq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/c5rs4ndirhmmmdxmsrgq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match14-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match14-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e9bbb7cd-edbb-454f-843f-a7c42db2885a",
+      "_entityId": "49e42dff-8da3-435e-9864-c2f2adca2426",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-myanmar",
+      "slug": "kuwait-v-myanmar",
+      "title": "Kuwait v Myanmar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "ec0c1bd7-84d7-499a-a40a-9368f1dae7dd",
+          "_entityId": "f83ae638-12f6-4325-b0ed-e8294d37cf73",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274970",
+          "title": "Kuwait vs Myanmar - Match 13 - 10/11/2026",
+          "slug": "match-274970",
+          "neutralSlug": "match-274970",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274970",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274970",
+            "teamA": "Kuwait",
+            "teamB": "Myanmar",
+            "teamAid": "1797",
+            "teamBid": "1777",
+            "teamAshort": "KUW",
+            "teamBshort": "MYA",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 13",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "kuwait-vs-myanmar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1f0510a5-3713-4107-8983-ecab2d9ed7d6",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T22:57:57.941Z",
+      "contentDate": "2026-09-26T22:57:57.941Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match13 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/litxalo0mgiuecvwemjr",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/litxalo0mgiuecvwemjr",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match13-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match13-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0eb06871-e800-4579-80b9-48031b2157dc",
+      "_entityId": "4485230e-b5dc-4c84-ae05-fd8e5d560479",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/saudi-arabia-v-china",
+      "slug": "saudi-arabia-v-china",
+      "title": "Saudi Arabia v China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f170db23-9b2a-4161-91a9-5fbb1f10b197",
+          "_entityId": "a339c10a-f1ad-4da2-982b-8a8c5a739dbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274915",
+          "title": "China vs Saudi Arabia - Match 11 - 10/12/2026",
+          "slug": "match-274915",
+          "neutralSlug": "match-274915",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274915",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274915",
+            "teamA": "China",
+            "teamB": "Saudi Arabia",
+            "teamAid": "1850",
+            "teamBid": "1751",
+            "teamAshort": "CHN",
+            "teamBshort": "SDA",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 11",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "china-vs-saudi-arabia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "aa0b4c1e-9a04-4a35-b0d8-8a4ecdad43ac",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:07:20.291Z",
+      "contentDate": "2026-09-28T15:07:20.291Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match12 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/qecijxcgrqoam7yr97ie",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qecijxcgrqoam7yr97ie",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match12-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match12-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8f3856e9-012c-43c1-b1b4-c90118387aac",
+      "_entityId": "1a8b4787-9dc3-4ce6-894b-bbbe5147417b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-maldives",
+      "slug": "hong-kong-china-v-maldives",
+      "title": "Hong Kong, China v Maldives",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "be359225-a425-44c8-93ad-b49c4f35a8fe",
+          "_entityId": "1747e83c-6c95-460a-a73f-0c15150ef71d",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274914",
+          "title": "Hong Kong, China vs Maldives - Match 12 - 10/12/2026",
+          "slug": "match-274914",
+          "neutralSlug": "match-274914",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274914",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274914",
+            "teamA": "Hong Kong, China",
+            "teamB": "Maldives",
+            "teamAid": "19",
+            "teamBid": "1789",
+            "teamAshort": "HK",
+            "teamBshort": "MDV",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 12",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "hong-kong-china-vs-maldives",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "fdd0f2cf-3386-4471-8ae9-a33c48d609b6",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:05:03.34Z",
+      "contentDate": "2026-09-28T15:05:03.34Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match11 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uzfchfxlhiunseut2z1h",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uzfchfxlhiunseut2z1h",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match11-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match11-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "eaf5b1bc-cadb-4330-8fd5-91a8653f2d6c",
+      "_entityId": "35238c5c-ea89-4a84-a837-7f3712c984e4",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-singapore",
+      "slug": "malaysia-v-singapore",
+      "title": "Malaysia v Singapore",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0008ca13-5c08-495b-8f0a-f0d49f60ae06",
+          "_entityId": "eae40edd-9ced-47dc-8c27-6b6a9225d998",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274913",
+          "title": "Malaysia vs Singapore - Match 10 - 10/12/2026",
+          "slug": "match-274913",
+          "neutralSlug": "match-274913",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274913",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274913",
+            "teamA": "Malaysia",
+            "teamB": "Singapore",
+            "teamAid": "552",
+            "teamBid": "1565",
+            "teamAshort": "MAS",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 10",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "malaysia-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "51f78853-3171-4d49-84a7-bacb52a916e2",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:03:51.837Z",
+      "contentDate": "2026-09-28T15:03:51.837Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match10 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/g1xqbqlmylym0os5bjvs",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/g1xqbqlmylym0os5bjvs",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match10-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match10-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "dacb0c5d-89e6-4f0c-8e6f-8c8eca568129",
+      "_entityId": "56673fcf-9689-4a5d-88e3-61df79b0833c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-bhutan",
+      "slug": "kuwait-v-bhutan",
+      "title": "Kuwait v Bhutan",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "5a64bb20-049b-4bea-b0c6-f3cdf80a78cf",
+          "_entityId": "ea3b4f9f-dca9-47f5-9fd7-17dee368f317",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274975",
+          "title": "Bhutan vs Kuwait - Match 18 - 10/12/2026",
+          "slug": "match-274975",
+          "neutralSlug": "match-274975",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274975",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274975",
+            "teamA": "Bhutan",
+            "teamB": "Kuwait",
+            "teamAid": "1865",
+            "teamBid": "1797",
+            "teamAshort": "BHU",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 18",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bhutan-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "58a0cadb-8352-4d0f-97fe-bbf43c85ac75",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:08:37.381Z",
+      "contentDate": "2026-09-26T23:06:50.499Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match18 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/l7qjppbzfauks0ehtnli",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/l7qjppbzfauks0ehtnli",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match18-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match18-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "16383950-3c3e-47c4-9018-f742872b0996",
+      "_entityId": "fdcf82dd-6122-4167-be3f-3807d64805b9",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/thailand-v-myanmar",
+      "slug": "thailand-v-myanmar",
+      "title": "Thailand v Myanmar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "faf254c5-b71a-4351-89d5-7bb6de4dd52e",
+          "_entityId": "395d6d94-ec1d-4f8c-a394-159345670f20",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274974",
+          "title": "Myanmar vs Thailand - Match 17 - 10/12/2026",
+          "slug": "match-274974",
+          "neutralSlug": "match-274974",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274974",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274974",
+            "teamA": "Myanmar",
+            "teamB": "Thailand",
+            "teamAid": "1777",
+            "teamBid": "1730",
+            "teamAshort": "MYA",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 17",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "myanmar-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "21d3b7c5-854d-405e-bd8a-513a3b2fefd4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:05:53.185Z",
+      "contentDate": "2026-09-26T23:05:53.185Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match17 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zm5tjptdnk7s4zltdug6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zm5tjptdnk7s4zltdug6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match17-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match17-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "917f23b6-6e04-470c-9fbd-2ddaca18379d",
+      "_entityId": "183e9bc7-b514-4b3d-8eaa-9377e613d347",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mongolia-v-qatar",
+      "slug": "mongolia-v-qatar",
+      "title": "Mongolia v Qatar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "27595555-193b-4249-9222-ee041dcda3f7",
+          "_entityId": "571f92c9-4e46-47da-90a4-4f20b606eae1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274973",
+          "title": "Qatar vs Mongolia - Match 16 - 10/12/2026",
+          "slug": "match-274973",
+          "neutralSlug": "match-274973",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274973",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274973",
+            "teamA": "Qatar",
+            "teamB": "Mongolia",
+            "teamAid": "1763",
+            "teamBid": "4025",
+            "teamAshort": "QAT",
+            "teamBshort": "MNG",
+            "stage": "League",
+            "matchDateLocal": "10/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 16",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "qatar-vs-mongolia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e25d3ab2-54e0-4f0a-8af0-aecc147a18d3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-12T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:05:15.233Z",
+      "contentDate": "2026-09-26T23:05:15.233Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match16 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ymqrupi9n4rkcorf26te",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ymqrupi9n4rkcorf26te",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match16-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match16-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "78d78ffe-eca0-4531-8667-a81158928bc1",
+      "_entityId": "376f2a3c-1a09-4f38-b030-3df16d904365",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-china",
+      "slug": "malaysia-v-china",
+      "title": "Malaysia v China",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "c678a070-c51f-497b-8881-fbf197fc84cb",
+          "_entityId": "6db4753c-7475-4567-bb4b-662804e90eaf",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274916",
+          "title": "Malaysia vs China - Match 14 - 10/14/2026",
+          "slug": "match-274916",
+          "neutralSlug": "match-274916",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274916",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274916",
+            "teamA": "Malaysia",
+            "teamB": "China",
+            "teamAid": "552",
+            "teamBid": "1850",
+            "teamAshort": "MAS",
+            "teamBshort": "CHN",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 14",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "malaysia-vs-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "f1d98337-fdc9-4269-b739-a250ff2b7de0",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:08:16.414Z",
+      "contentDate": "2026-09-28T15:08:16.414Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match13 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lddrxpggp10xzbjxgut3",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lddrxpggp10xzbjxgut3",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match13-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match13-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "f8a60912-d5ba-4720-8c7e-3efff53c3975",
+      "_entityId": "17c66cbb-7576-4c13-a7be-a111507293bb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-bahrain",
+      "slug": "qatar-v-bahrain",
+      "title": "Qatar v Bahrain",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b472c25f-9b3c-45e9-a398-a881fd145684",
+          "_entityId": "a113ee22-bff9-40a2-8d67-e72c19960f76",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274977",
+          "title": "Bahrain vs Qatar - Match 20 - 10/14/2026",
+          "slug": "match-274977",
+          "neutralSlug": "match-274977",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274977",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274977",
+            "teamA": "Bahrain",
+            "teamB": "Qatar",
+            "teamAid": "1872",
+            "teamBid": "1763",
+            "teamAshort": "BRN",
+            "teamBshort": "QAT",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 20",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bahrain-vs-qatar",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "01986741-ad43-4415-a40c-d2c55ba4ad8c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:14:47.447Z",
+      "contentDate": "2026-09-26T23:11:40.287Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match20 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gkn7irwlzpgzqrp6ajzc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkn7irwlzpgzqrp6ajzc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match20-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match20-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ecbe85ba-05fa-4c4a-8884-e1814bdb1469",
+      "_entityId": "e6dede43-d036-42b7-819c-b631493cfa13",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mongolia-v-myanmar",
+      "slug": "mongolia-v-myanmar",
+      "title": "Mongolia v Myanmar",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "10a04afe-ec7b-435d-936d-191862dca8b6",
+          "_entityId": "8e2580ba-1220-430d-8c8c-839303327671",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274976",
+          "title": "Myanmar vs Mongolia - Match 19 - 10/14/2026",
+          "slug": "match-274976",
+          "neutralSlug": "match-274976",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274976",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274976",
+            "teamA": "Myanmar",
+            "teamB": "Mongolia",
+            "teamAid": "1777",
+            "teamBid": "4025",
+            "teamAshort": "MYA",
+            "teamBshort": "MNG",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 19",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "myanmar-vs-mongolia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "cbf78b2e-0663-4323-b455-6d19739dcfbc",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T01:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:09:31.903Z",
+      "contentDate": "2026-09-26T23:09:31.903Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match19 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hwmxelx26b4d5nf9pcir",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hwmxelx26b4d5nf9pcir",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match19-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match19-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "f589e278-5421-4c1e-b026-d6168eec1315",
+      "_entityId": "ea81bb50-d02e-433e-8fc5-02e09309ef19",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/saudi-arabia-v-maldives",
+      "slug": "saudi-arabia-v-maldives",
+      "title": "Saudi Arabia v Maldives",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "c1d2c977-aee7-4e8a-84e4-5a9af21f901f",
+          "_entityId": "737bc30a-c78b-4b2d-8e4a-f02118603469",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274918",
+          "title": "Maldives vs Saudi Arabia - Match 15 - 10/14/2026",
+          "slug": "match-274918",
+          "neutralSlug": "match-274918",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274918",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274918",
+            "teamA": "Maldives",
+            "teamB": "Saudi Arabia",
+            "teamAid": "1789",
+            "teamBid": "1751",
+            "teamAshort": "MDV",
+            "teamBshort": "SDA",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 15",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "maldives-vs-saudi-arabia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a5973c31-6423-4dc6-aeba-ab48329f6b3e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:12:08.622Z",
+      "contentDate": "2026-09-28T15:12:08.622Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match15 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ftfqcgnyh9xapklxlnnj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ftfqcgnyh9xapklxlnnj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match15-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match15-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "25bbb571-75b3-49f5-8ae3-fe835c57559c",
+      "_entityId": "c8b59f1f-7953-42dc-be77-28f704e58e44",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-singapore",
+      "slug": "hong-kong-china-v-singapore",
+      "title": "Hong Kong, China v Singapore",
+      "tags": [
+        {
+          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
+          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+          "slug": "tournament-15809",
+          "neutralSlug": "tournament-15809",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15809",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15809",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9661bd76-bd12-4a5d-91d9-65603d1d03a4",
+          "_entityId": "1ce90f19-07fa-4b93-bf69-8ff969f52122",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274917",
+          "title": "Hong Kong, China vs Singapore - Match 13 - 10/14/2026",
+          "slug": "match-274917",
+          "neutralSlug": "match-274917",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274917",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274917",
+            "teamA": "Hong Kong, China",
+            "teamB": "Singapore",
+            "teamAid": "19",
+            "teamBid": "1565",
+            "teamAshort": "HK",
+            "teamBshort": "SIN",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 13",
+            "seriesId": "15809",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12753",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "hong-kong-china-vs-singapore",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "431c9ebe-487b-4735-9f3b-1bc40dcaf54f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-28T15:10:11.496Z",
+      "contentDate": "2026-09-28T15:10:11.496Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match14 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/gwwaboxrxbqyt4zdax55",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gwwaboxrxbqyt4zdax55",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-b-match14-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match14-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "39e8ec90-e260-4504-81f0-5b864b5337a3",
+      "_entityId": "fdcdae86-094b-42ae-9115-eb70af0c1b67",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bhutan-v-thailand",
+      "slug": "bhutan-v-thailand",
+      "title": "Bhutan v Thailand",
+      "tags": [
+        {
+          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
+          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
+          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+          "slug": "tournament-15816",
+          "neutralSlug": "tournament-15816",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15816",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15816",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7fa313ba-c2c8-47f7-aa70-b104fef16540",
+          "_entityId": "06013262-d9a1-4eb6-9e32-dffa90e5ce35",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274978",
+          "title": "Bhutan vs Thailand - Match 21 - 10/14/2026",
+          "slug": "match-274978",
+          "neutralSlug": "match-274978",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274978",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274978",
+            "teamA": "Bhutan",
+            "teamB": "Thailand",
+            "teamAid": "1865",
+            "teamBid": "1730",
+            "teamAshort": "BHU",
+            "teamBshort": "THA",
+            "stage": "League",
+            "matchDateLocal": "10/14/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 21",
+            "seriesId": "15816",
+            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12759",
+            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "bhutan-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "61a6eb5c-2b49-453e-a1d3-a6a3c2f29ab8",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-14T06:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-09-26T23:14:14.848Z",
+      "contentDate": "2026-09-26T23:14:14.848Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match21 copy",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/eg20bnsnnwza0wa1jrcy",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/eg20bnsnnwza0wa1jrcy",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20i-wc-asia-srq-a-match21-copy",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match21-copy"
       },
       "entityCode": "video"
     }
