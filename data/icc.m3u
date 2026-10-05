@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 05-10-2026 11:15
+#DATE:- 05-10-2026 20:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="e619e8d2-934d-42b5-92a5-ce5566133683" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/llu8kczyiw3slw67dhcy" tvg-lang="English" group-title="Cricket",English | Kuwait v Qatar
+#EXTINF:-1 tvg-id="1a000066-829e-47af-bfa8-6985dd6d082f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yo4hderiwdg3qck7auok" tvg-lang="English" group-title="Cricket",English | United Arab Emirates v USA (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791207912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=55014eab691036fa5d586a2f697cd14e001583d3442523784bdac67f6b41dcfc/manifest.mpd?vcfilter=e619e8d2-934d-42b5-92a5-ce5566133683&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791240313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0054ddfbabb05f371b038fb3738f3b331e4a1331e413c26f435faaf7b0773abc/manifest.mpd?vcfilter=1a000066-829e-47af-bfa8-6985dd6d082f&
