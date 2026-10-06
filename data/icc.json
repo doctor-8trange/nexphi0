@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:13 AM 06-10-2026",
-  "total_matches": 32,
-  "live_matches": 2,
+  "last_updated": "01:15:02 PM 06-10-2026",
+  "total_matches": 31,
+  "live_matches": 1,
   "upcoming_matches": 30,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "04af04a8-9add-4d2b-8e97-b3c1d66059a9",
-      "_entityId": "ad096380-9aa2-4d9b-94c4-826fc6a812eb",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mangolia-v-kuwait",
-      "slug": "mangolia-v-kuwait",
-      "title": "Mangolia v Kuwait",
-      "tags": [
-        {
-          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
-          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15816",
-          "neutralSlug": "tournament-15816",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15816",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15816",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "43bfcefd-0d44-4be4-bfc6-6afbdfca8078",
-          "_entityId": "6c0e5667-c5db-4f6c-981d-b806c6bfe796",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274963",
-          "title": "Kuwait vs Mongolia - Match 6 - 10/6/2026",
-          "slug": "match-274963",
-          "neutralSlug": "match-274963",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274963",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274963",
-            "teamA": "Kuwait",
-            "teamB": "Mongolia",
-            "teamAid": "1797",
-            "teamBid": "4025",
-            "teamAshort": "KUW",
-            "teamBshort": "MNG",
-            "stage": "League",
-            "matchDateLocal": "10/6/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15816",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12759",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "kuwait-vs-mongolia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "12f8d1f1-ab4a-4a51-beb3-5cd7817fd3c9",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-06T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-06T05:39:47.726Z",
-      "contentDate": "2026-09-26T16:21:51.387Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match6 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hib6q9gf5um8xb1oru80",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hib6q9gf5um8xb1oru80",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-a-match6-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match6-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, October 6, 2026, 11:15:06 AM",
-        "expire_date": "Tuesday, October 6, 2026, 7:15:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791294310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=eef892648517b02b35926f4cef22cb7a3be41b57f6f16a6c1a28903fbeec77af/manifest.mpd?vcfilter=12f8d1f1-ab4a-4a51-beb3-5cd7817fd3c9&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "cfe78457-9d51-470b-accc-d4e59cd9d478",
