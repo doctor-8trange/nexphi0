@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:12 PM 05-10-2026",
-  "total_matches": 34,
+  "last_updated": "08:15:10 AM 06-10-2026",
+  "total_matches": 33,
   "live_matches": 1,
-  "upcoming_matches": 33,
+  "upcoming_matches": 32,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,141 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "d2dd26c1-c73d-402d-a28f-93e3f7a4f992",
-      "_entityId": "e109b780-bca4-4a0f-a93f-6a8da8fa6213",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-usa-1st-innings",
-      "slug": "united-arab-emirates-v-usa-1st-innings",
-      "title": "United Arab Emirates v USA (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "057ef4f5-de48-4c31-aa2b-6bee1533e44e",
-          "_entityId": "0fc1550f-e2c4-44e0-9d8b-05ed3f693f70",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275012",
-          "title": "USA vs United Arab Emirates - Match 129 - 10/5/2026",
-          "slug": "match-275012",
-          "neutralSlug": "match-275012",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275012",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275012",
-            "teamA": "USA",
-            "teamB": "United Arab Emirates",
-            "teamAid": "22",
-            "teamBid": "21",
-            "teamAshort": "USA",
-            "teamBshort": "UAE",
-            "stage": "League",
-            "matchDateLocal": "10/5/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 129",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "usa-vs-united-arab-emirates",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "1a000066-829e-47af-bfa8-6985dd6d082f",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-05T15:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-05T14:41:07.115Z",
-      "contentDate": "2025-09-26T15:45:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-USA-OCT_Match2 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yo4hderiwdg3qck7auok",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yo4hderiwdg3qck7auok",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-usa-oct-match2-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match2-copy-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, October 5, 2026, 8:15:06 PM",
-        "expire_date": "Tuesday, October 6, 2026, 4:15:13 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791240313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0054ddfbabb05f371b038fb3738f3b331e4a1331e413c26f435faaf7b0773abc/manifest.mpd?vcfilter=1a000066-829e-47af-bfa8-6985dd6d082f&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "a9e388ef-db8f-4f56-94a5-1e95df412bc9",
@@ -230,7 +95,7 @@
       "fields": {
         "videoId": "5349605a-04ec-4045-b7d5-2f8ea5dc9f1b",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-06T01:15:00Z",
@@ -244,8 +109,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-09-26T16:20:12.483Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-06T00:54:50.701Z",
       "contentDate": "2026-09-26T16:20:12.483Z",
       "featured": 0,
       "thumbnail": {
@@ -257,8 +122,41 @@
         "slug": "icc26-mt20i-wc-asia-srq-a-match4-copy",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match4-copy"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, October 6, 2026, 8:15:06 AM",
+        "expire_date": "Tuesday, October 6, 2026, 4:15:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791283510~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5207368d4f627b0afcb37536c3e9401d9510fa52804b7b26708e9e149081f306/manifest.mpd?vcfilter=5349605a-04ec-4045-b7d5-2f8ea5dc9f1b&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "04af04a8-9add-4d2b-8e97-b3c1d66059a9",
@@ -346,8 +244,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-09-26T16:21:51.387Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-06T01:33:27.671Z",
       "contentDate": "2026-09-26T16:21:51.387Z",
       "featured": 0,
       "thumbnail": {
@@ -448,8 +346,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-09-26T16:21:00.877Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-06T01:33:12.27Z",
       "contentDate": "2026-09-26T16:21:00.877Z",
       "featured": 0,
       "thumbnail": {
