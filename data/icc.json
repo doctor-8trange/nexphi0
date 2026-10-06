@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:02 PM 06-10-2026",
-  "total_matches": 31,
-  "live_matches": 1,
+  "last_updated": "06-10-2026 14:45",
+  "total_matches": 30,
+  "live_matches": 0,
   "upcoming_matches": 30,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "cfe78457-9d51-470b-accc-d4e59cd9d478",
-      "_entityId": "e6890c4c-959f-4dbb-aae5-7a7cfd3616a6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahrain-v-bhutan",
-      "slug": "bahrain-v-bhutan",
-      "title": "Bahrain v Bhutan",
-      "tags": [
-        {
-          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
-          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15816",
-          "neutralSlug": "tournament-15816",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15816",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15816",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "38f6bfe5-bb50-411f-88e6-8860b41fb292",
-          "_entityId": "89d16093-e7b4-47a2-9b11-6737a3282d73",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274962",
-          "title": "Bahrain vs Bhutan - Match 5 - 10/6/2026",
-          "slug": "match-274962",
-          "neutralSlug": "match-274962",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274962",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274962",
-            "teamA": "Bahrain",
-            "teamB": "Bhutan",
-            "teamAid": "1872",
-            "teamBid": "1865",
-            "teamAshort": "BRN",
-            "teamBshort": "BHU",
-            "stage": "League",
-            "matchDateLocal": "10/6/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 5",
-            "seriesId": "15816",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12759",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bahrain-vs-bhutan",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0e21d2fa-3bc8-46a7-8515-7559e3cdeaed",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-06T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-06T05:39:42.514Z",
-      "contentDate": "2026-09-26T16:21:00.877Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match5 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lvacthu7bi8zp0wjlspj",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lvacthu7bi8zp0wjlspj",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-a-match5-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match5-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, October 6, 2026, 11:15:10 AM",
-        "expire_date": "Tuesday, October 6, 2026, 7:15:13 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791294313~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c0e7fa5cfb9d778e7e8b6b3b2aa70824cd09db35ad2ecaa70ccfa3cc722ca6e0/manifest.mpd?vcfilter=0e21d2fa-3bc8-46a7-8515-7559e3cdeaed&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
