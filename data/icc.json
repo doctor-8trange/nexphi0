@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06-10-2026 14:45",
-  "total_matches": 30,
-  "live_matches": 0,
-  "upcoming_matches": 30,
+  "last_updated": "08:15:12 PM 07-10-2026",
+  "total_matches": 43,
+  "live_matches": 1,
+  "upcoming_matches": 42,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,7 +21,141 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "d883677a-2d67-4bdc-a7ef-80f4c39083f0",
+      "_entityId": "d3ac9d3b-ee63-4003-98a5-19362f4bc675",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-usa-1st-innings",
+      "slug": "namibia-v-usa-1st-innings",
+      "title": "Namibia v USA (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "5f332a6d-8204-4a39-95dd-a4374e77c5f9",
+          "_entityId": "9a43305c-b76f-4a70-b82e-d229d1fa4380",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275013",
+          "title": "USA vs Namibia - Match 130 - 10/7/2026",
+          "slug": "match-275013",
+          "neutralSlug": "match-275013",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275013",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275013",
+            "teamA": "USA",
+            "teamB": "Namibia",
+            "teamAid": "22",
+            "teamBid": "20",
+            "teamAshort": "USA",
+            "teamBshort": "NAM",
+            "stage": "League",
+            "matchDateLocal": "10/7/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 130",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "usa-vs-namibia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "180dfd51-a801-4202-9ea0-152e15b9b7c4",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-07T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-07T14:40:34.485Z",
+      "contentDate": "2025-09-26T16:01:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-USA-OCT_Match3 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvfgxycwb29pbe9aqcm0",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvfgxycwb29pbe9aqcm0",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-usa-oct-match3-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match3-copy-1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, October 7, 2026, 8:15:07 PM",
+        "expire_date": "Thursday, October 8, 2026, 4:15:12 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791413112~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=340a871c858dc4d01a46cd7a4be130e6c43fda7b804a8825f11fc73722104f77/manifest.mpd?vcfilter=180dfd51-a801-4202-9ea0-152e15b9b7c4&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
       "type": "customentity",
@@ -943,6 +1077,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "ecd68721-2e7d-4da8-8e1a-902102463298",
+      "_entityId": "1b57687e-4507-4b1c-abac-81601540e60d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-canada-1st-innings",
+      "slug": "oman-v-canada-1st-innings",
+      "title": "Oman v Canada (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "da9447be-6161-4056-9649-314458a76306",
+          "_entityId": "5965e03e-f429-43bc-a3bc-c2a0b617b83b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273760",
+          "title": "Oman vs Canada - Match 131 - 10/9/2026",
+          "slug": "match-273760",
+          "neutralSlug": "match-273760",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273760",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273760",
+            "teamA": "Oman",
+            "teamB": "Canada",
+            "teamAid": "28",
+            "teamBid": "12",
+            "teamAshort": "OMA",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 131",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "4e51a7d1-4a54-4fea-8ba1-b929e4c343d3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:11:48.608Z",
+      "contentDate": "2026-10-06T12:11:48.608Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match1 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/h1cnwgyzec2jny66y12c",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/h1cnwgyzec2jny66y12c",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match1-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match1-copy-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "8dbd7edf-4405-4d73-aa9d-807e2cb0a47a",
       "_entityId": "e6130d0d-b9bf-485f-a8b2-14bfac408c9c",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-maldives",
@@ -1244,6 +1480,108 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20i-wc-asia-srq-b-match4-copy",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match4-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "276b817f-b673-47a0-9ff2-6834ff62e28f",
+      "_entityId": "40790874-bf6c-4186-953c-2421cfd792db",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-canada-2nd-innings",
+      "slug": "oman-v-canada-2nd-innings",
+      "title": "Oman v Canada (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "da9447be-6161-4056-9649-314458a76306",
+          "_entityId": "5965e03e-f429-43bc-a3bc-c2a0b617b83b",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273760",
+          "title": "Oman vs Canada - Match 131 - 10/9/2026",
+          "slug": "match-273760",
+          "neutralSlug": "match-273760",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273760",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273760",
+            "teamA": "Oman",
+            "teamB": "Canada",
+            "teamAid": "28",
+            "teamBid": "12",
+            "teamAshort": "OMA",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "10/9/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 131",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "39898fcd-9427-49e1-a22f-8f84c98e0779",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-09T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:12:05.154Z",
+      "contentDate": "2026-10-06T12:12:05.154Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match1 copy (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/r6ujtg9coy1cmg2an1bc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r6ujtg9coy1cmg2an1bc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match1-copy-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match1-copy-2"
       },
       "entityCode": "video"
     },
@@ -1555,6 +1893,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "d8b66151-9bc7-41b3-bb5d-8bfd89c4f381",
+      "_entityId": "7df51e08-5de4-47b7-a4c1-16e9dccceea9",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-nepal-1st-innings",
+      "slug": "canada-v-nepal-1st-innings",
+      "title": "Canada v Nepal (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f78153ae-f8f9-49a8-ba3d-a76f3196b1d6",
+          "_entityId": "e672f0bc-637e-4665-97c6-14e764550848",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273761",
+          "title": "Canada vs Nepal - Match 133 - 10/11/2026",
+          "slug": "match-273761",
+          "neutralSlug": "match-273761",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273761",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273761",
+            "teamA": "Canada",
+            "teamB": "Nepal",
+            "teamAid": "12",
+            "teamBid": "637",
+            "teamAshort": "CAN",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 133",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "728000ce-6037-48c5-b070-27e97cc66414",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:13:04.465Z",
+      "contentDate": "2026-10-06T12:13:04.465Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match2 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ejltqwt9waekfqwkfytc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejltqwt9waekfqwkfytc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match2-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "5a576893-3296-40df-81b4-f4c258f28337",
       "_entityId": "5783b9e8-224c-43f3-bdad-68f5b3bf68f7",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mongolia-v-bahrain",
@@ -1856,6 +2296,108 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20i-wc-asia-srq-a-match13-copy",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match13-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ebc76352-59e7-4a27-9705-bd5c31843a5a",
+      "_entityId": "ef43b40a-ab4a-4cd3-b9d1-90eebaa4822a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-nepal-2nd-innings",
+      "slug": "canada-v-nepal-2nd-innings",
+      "title": "Canada v Nepal (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f78153ae-f8f9-49a8-ba3d-a76f3196b1d6",
+          "_entityId": "e672f0bc-637e-4665-97c6-14e764550848",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273761",
+          "title": "Canada vs Nepal - Match 133 - 10/11/2026",
+          "slug": "match-273761",
+          "neutralSlug": "match-273761",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273761",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273761",
+            "teamA": "Canada",
+            "teamB": "Nepal",
+            "teamAid": "12",
+            "teamBid": "637",
+            "teamAshort": "CAN",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 133",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a2015567-7e8f-445a-b3b7-25e523a00b96",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:13:27.475Z",
+      "contentDate": "2026-10-06T12:13:27.475Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match2 copy (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/icjwm6dlux5befxkdetk",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match2-copy-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-2"
       },
       "entityCode": "video"
     },
@@ -2473,6 +3015,210 @@
     },
     {
       "type": "customentity",
+      "_translationId": "3d078432-bacc-440c-a07f-9f92acce31a7",
+      "_entityId": "96dae786-0f9e-42ed-90d3-a1971f11d566",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-1st-innings",
+      "slug": "oman-v-nepal-1st-innings",
+      "title": "Oman v Nepal (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7fe751a2-5a72-4e80-8d3f-1aa363a39298",
+          "_entityId": "5cd235e5-6b70-415a-aeae-d477518c36d7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273762",
+          "title": "Oman vs Nepal - Match 135 - 10/13/2026",
+          "slug": "match-273762",
+          "neutralSlug": "match-273762",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273762",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273762",
+            "teamA": "Oman",
+            "teamB": "Nepal",
+            "teamAid": "28",
+            "teamBid": "637",
+            "teamAshort": "OMA",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 135",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "135adb06-c31b-4b6a-b644-ef2aa4950b8f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-13T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:14:57.673Z",
+      "contentDate": "2026-10-06T12:14:57.673Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match3 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zh5f42gskg1yejrdrgns",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zh5f42gskg1yejrdrgns",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match3-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8c7b7eda-b4b8-4fcd-a563-b1d5dada732d",
+      "_entityId": "c0418a69-d2ad-47ec-a91b-604f14283b8c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-nepal-2nd-innings",
+      "slug": "oman-v-nepal-2nd-innings",
+      "title": "Oman v Nepal (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7fe751a2-5a72-4e80-8d3f-1aa363a39298",
+          "_entityId": "5cd235e5-6b70-415a-aeae-d477518c36d7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273762",
+          "title": "Oman vs Nepal - Match 135 - 10/13/2026",
+          "slug": "match-273762",
+          "neutralSlug": "match-273762",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273762",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273762",
+            "teamA": "Oman",
+            "teamB": "Nepal",
+            "teamAid": "28",
+            "teamBid": "637",
+            "teamAshort": "OMA",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 135",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "477633cb-4e2d-4977-b093-186cc1db4332",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-13T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:15:15.834Z",
+      "contentDate": "2026-10-06T12:15:15.834Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match3 (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d8ebcozmungznpi0k509",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d8ebcozmungznpi0k509",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match3-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "78d78ffe-eca0-4531-8667-a81158928bc1",
       "_entityId": "376f2a3c-1a09-4f38-b030-3df16d904365",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/malaysia-v-china",
@@ -3080,6 +3826,618 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20i-wc-asia-srq-a-match21-copy",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match21-copy"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "dd67e5ee-cf95-4204-b3b9-8f01f147cd4c",
+      "_entityId": "3b3cf52a-2d17-47c5-bde6-e3cd0b754f94",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-oman-1st-innings",
+      "slug": "canada-v-oman-1st-innings",
+      "title": "Canada v Oman (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "47066ebd-d8fb-4a78-bf06-5ecf0b81e6c2",
+          "_entityId": "47f1ea0d-4bfa-419b-9f14-a031b13093c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273763",
+          "title": "Oman vs Canada - Match 137 - 10/15/2026",
+          "slug": "match-273763",
+          "neutralSlug": "match-273763",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273763",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273763",
+            "teamA": "Oman",
+            "teamB": "Canada",
+            "teamAid": "28",
+            "teamBid": "12",
+            "teamAshort": "OMA",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "10/15/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 137",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "821e0afc-5caa-4d81-ac6c-79877f38e939",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-15T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:16:11.603Z",
+      "contentDate": "2026-10-06T12:16:11.603Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match4 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ce4fc0yxbtfz6gtikltq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ce4fc0yxbtfz6gtikltq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match4-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match4-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "37684ac9-7557-4407-a816-f4ddd60007bc",
+      "_entityId": "fbcffed3-1267-4440-acbe-42828c74b376",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/canada-v-oman-2nd-innings",
+      "slug": "canada-v-oman-2nd-innings",
+      "title": "Canada v Oman (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "47066ebd-d8fb-4a78-bf06-5ecf0b81e6c2",
+          "_entityId": "47f1ea0d-4bfa-419b-9f14-a031b13093c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273763",
+          "title": "Oman vs Canada - Match 137 - 10/15/2026",
+          "slug": "match-273763",
+          "neutralSlug": "match-273763",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273763",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273763",
+            "teamA": "Oman",
+            "teamB": "Canada",
+            "teamAid": "28",
+            "teamBid": "12",
+            "teamAshort": "OMA",
+            "teamBshort": "CAN",
+            "stage": "League",
+            "matchDateLocal": "10/15/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 137",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-canada",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ab73dcec-5278-4df9-94f6-b2fa1cabad90",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-15T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:16:49.115Z",
+      "contentDate": "2026-10-06T12:16:49.115Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match4 (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/e1ctgxrtcmpwcjvqf1a6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/e1ctgxrtcmpwcjvqf1a6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match4-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match4-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "b4577125-661b-4802-ac8d-5f541fc07924",
+      "_entityId": "f557e84d-53cb-4b05-b00f-b48096d9eb41",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-canada-1st-innings",
+      "slug": "nepal-v-canada-1st-innings",
+      "title": "Nepal v Canada (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "547c8d19-3835-42cc-a1f4-d80fb91836a5",
+          "_entityId": "f03c4fe9-7b62-451c-a5e6-d4e3bf524499",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273764",
+          "title": "Canada vs Nepal - Match 138 - 10/17/2026",
+          "slug": "match-273764",
+          "neutralSlug": "match-273764",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273764",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273764",
+            "teamA": "Canada",
+            "teamB": "Nepal",
+            "teamAid": "12",
+            "teamBid": "637",
+            "teamAshort": "CAN",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/17/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 138",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ad10685a-90e7-4006-bc71-2d7eef2d7b2a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-17T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:17:45.954Z",
+      "contentDate": "2026-10-06T12:17:45.954Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match2 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ejltqwt9waekfqwkfytc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejltqwt9waekfqwkfytc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match2-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9da2ca9b-ae6d-4c72-a853-d95fa694cce9",
+      "_entityId": "50d627df-6b2d-4155-9655-0882b32d015b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-canada-2nd-innings",
+      "slug": "nepal-v-canada-2nd-innings",
+      "title": "Nepal v Canada (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "547c8d19-3835-42cc-a1f4-d80fb91836a5",
+          "_entityId": "f03c4fe9-7b62-451c-a5e6-d4e3bf524499",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273764",
+          "title": "Canada vs Nepal - Match 138 - 10/17/2026",
+          "slug": "match-273764",
+          "neutralSlug": "match-273764",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273764",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273764",
+            "teamA": "Canada",
+            "teamB": "Nepal",
+            "teamAid": "12",
+            "teamBid": "637",
+            "teamAshort": "CAN",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/17/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 138",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "246546e0-666e-4b11-b4de-3fbe124968e4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-17T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:18:02.324Z",
+      "contentDate": "2026-10-06T12:18:02.324Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match2 copy (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/icjwm6dlux5befxkdetk",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match2-copy-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "674fbf97-3468-44b9-a040-97d6dbfed527",
+      "_entityId": "bc09ed83-6aaf-4799-a104-55c375d96f36",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-oman-1st-innings",
+      "slug": "nepal-v-oman-1st-innings",
+      "title": "Nepal v Oman (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7cc74e2c-a4fd-4146-afe3-47db228ce61a",
+          "_entityId": "c5547abd-8af0-430c-9749-7644d413ddbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273765",
+          "title": "Oman vs Nepal - Match 139 - 10/19/2026",
+          "slug": "match-273765",
+          "neutralSlug": "match-273765",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273765",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273765",
+            "teamA": "Oman",
+            "teamB": "Nepal",
+            "teamAid": "28",
+            "teamBid": "637",
+            "teamAshort": "OMA",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/19/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 139",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "cab18332-42e0-471c-a2f5-f14341f3a60a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-19T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:18:57.855Z",
+      "contentDate": "2026-10-06T12:18:57.855Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match3 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zh5f42gskg1yejrdrgns",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zh5f42gskg1yejrdrgns",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match3-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "5fc6d29b-2bbb-41e5-8f88-f8c50f2f3e28",
+      "_entityId": "c77acd84-1295-4450-a165-4f421b7ce90c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-oman-2nd-innings",
+      "slug": "nepal-v-oman-2nd-innings",
+      "title": "Nepal v Oman (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7cc74e2c-a4fd-4146-afe3-47db228ce61a",
+          "_entityId": "c5547abd-8af0-430c-9749-7644d413ddbe",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273765",
+          "title": "Oman vs Nepal - Match 139 - 10/19/2026",
+          "slug": "match-273765",
+          "neutralSlug": "match-273765",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273765",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "273765",
+            "teamA": "Oman",
+            "teamB": "Nepal",
+            "teamAid": "28",
+            "teamBid": "637",
+            "teamAshort": "OMA",
+            "teamBshort": "NEP",
+            "stage": "League",
+            "matchDateLocal": "10/19/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 139",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "17094442-5815-4a7b-8489-b0000c57b7ec",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-19T09:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-06T12:19:12.563Z",
+      "contentDate": "2026-10-06T12:19:12.563Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-OMAN-OCT_Match3 (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d8ebcozmungznpi0k509",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d8ebcozmungznpi0k509",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-oman-oct-match3-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-2"
       },
       "entityCode": "video"
     }
