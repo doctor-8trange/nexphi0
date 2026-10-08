@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:45:04 AM 08-10-2026",
-  "total_matches": 41,
-  "live_matches": 2,
+  "last_updated": "09:30:04 AM 08-10-2026",
+  "total_matches": 40,
+  "live_matches": 1,
   "upcoming_matches": 39,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "a642eeec-dadb-4e19-99e3-0e8009636c8a",
-      "_entityId": "923e2f73-5614-420b-9ee3-7dc46b98a313",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bahrain-v-myanmar",
-      "slug": "bahrain-v-myanmar",
-      "title": "Bahrain v Myanmar",
-      "tags": [
-        {
-          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
-          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15816",
-          "neutralSlug": "tournament-15816",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15816",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15816",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "4db303a7-fde3-46cc-ade3-9f665761dcb4",
-          "_entityId": "8682fec7-0896-48bd-b18d-2da174807253",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274966",
-          "title": "Bahrain vs Myanmar - Match 9 - 10/8/2026",
-          "slug": "match-274966",
-          "neutralSlug": "match-274966",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274966",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274966",
-            "teamA": "Bahrain",
-            "teamB": "Myanmar",
-            "teamAid": "1872",
-            "teamBid": "1777",
-            "teamAshort": "BRN",
-            "teamBshort": "MYA",
-            "stage": "League",
-            "matchDateLocal": "10/8/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 9",
-            "seriesId": "15816",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12759",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "bahrain-vs-myanmar",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a4bdae18-fe54-4d79-ad24-50580e2c501b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-08T01:15:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-08T00:53:21.428Z",
-      "contentDate": "2026-09-26T22:50:16.825Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match9 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/u1yof4k2n5usztx0jnoq",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u1yof4k2n5usztx0jnoq",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-a-match9-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match9-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 8, 2026, 6:30:03 AM",
-        "expire_date": "Thursday, October 8, 2026, 2:30:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791450007~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=885fbd61f1a35243b62b7938cfab7275f95e1744f0a178125925bcd18ca76f27/manifest.mpd?vcfilter=a4bdae18-fe54-4d79-ad24-50580e2c501b&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "91f9727a-1604-49f1-b9ef-787aa9afb892",
