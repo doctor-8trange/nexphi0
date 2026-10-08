@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:18 AM 08-10-2026",
-  "total_matches": 39,
-  "live_matches": 3,
+  "last_updated": "02:00:02 PM 08-10-2026",
+  "total_matches": 38,
+  "live_matches": 2,
   "upcoming_matches": 36,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -273,139 +273,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791467115~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=daacf26f697a0596f56d8fa6d06666f84cbef170767a46c69fcbf8b950082f37/manifest.mpd?vcfilter=5f430449-dc2a-4899-a474-0984b2aba0a2&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "41415339-85dc-4d7c-9684-809d7ebc80af",
-      "_entityId": "17f6ac12-1fcf-4157-8a9c-32e4174c73c3",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/maldives-v-china",
-      "slug": "maldives-v-china",
-      "title": "Maldives v China",
-      "tags": [
-        {
-          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
-          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15809",
-          "neutralSlug": "tournament-15809",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15809",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15809",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "e1b1025f-e9d5-40b2-8fee-412aaa006976",
-          "_entityId": "7ae52d0f-140b-4d84-b43a-2647a93ee2bc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274904",
-          "title": "China vs Maldives - Match 2 - 10/8/2026",
-          "slug": "match-274904",
-          "neutralSlug": "match-274904",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274904",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274904",
-            "teamA": "China",
-            "teamB": "Maldives",
-            "teamAid": "1850",
-            "teamBid": "1789",
-            "teamAshort": "CHN",
-            "teamBshort": "MDV",
-            "stage": "League",
-            "matchDateLocal": "10/8/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15809",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12753",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "china-vs-maldives",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "36017103-e2c9-4e71-ae6d-5f0cc4527fa0",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-08T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-08T05:39:56.305Z",
-      "contentDate": "2026-09-28T14:47:17.838Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match1 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/epscvueenxvfx0cqdsrb",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/epscvueenxvfx0cqdsrb",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-b-match1-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match1-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 8, 2026, 11:15:15 AM",
-        "expire_date": "Thursday, October 8, 2026, 7:15:18 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791467118~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8db52e71f74dafaa8e3435f6ce17a313a34e23c92bcf96c32fed7857b4590d1a/manifest.mpd?vcfilter=36017103-e2c9-4e71-ae6d-5f0cc4527fa0&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
