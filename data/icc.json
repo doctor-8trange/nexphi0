@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:30:06 PM 09-10-2026",
-  "total_matches": 40,
+  "last_updated": "02:45:10 PM 09-10-2026",
+  "total_matches": 39,
   "live_matches": 3,
-  "upcoming_matches": 37,
+  "upcoming_matches": 36,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ecd68721-2e7d-4da8-8e1a-902102463298",
-      "_entityId": "1b57687e-4507-4b1c-abac-81601540e60d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-canada-1st-innings",
-      "slug": "oman-v-canada-1st-innings",
-      "title": "Oman v Canada (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "da9447be-6161-4056-9649-314458a76306",
-          "_entityId": "5965e03e-f429-43bc-a3bc-c2a0b617b83b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273760",
-          "title": "Oman vs Canada - Match 131 - 10/9/2026",
-          "slug": "match-273760",
-          "neutralSlug": "match-273760",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273760",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273760",
-            "teamA": "Oman",
-            "teamB": "Canada",
-            "teamAid": "28",
-            "teamBid": "12",
-            "teamAshort": "OMA",
-            "teamBshort": "CAN",
-            "stage": "League",
-            "matchDateLocal": "10/9/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 131",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "oman-vs-canada",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "4e51a7d1-4a54-4fea-8ba1-b929e4c343d3",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-09T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-09T04:55:28.544Z",
-      "contentDate": "2026-10-06T12:11:48.608Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-OMAN-OCT_Match1 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/h1cnwgyzec2jny66y12c",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/h1cnwgyzec2jny66y12c",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-oman-oct-match1-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match1-copy-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 9, 2026, 10:30:04 AM",
-        "expire_date": "Friday, October 9, 2026, 6:30:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791550808~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fedb7575413a6d0710e355a4f97db91a09603cc21c89c932b589496e82c0f647/manifest.mpd?vcfilter=4e51a7d1-4a54-4fea-8ba1-b929e4c343d3&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "8dbd7edf-4405-4d73-aa9d-807e2cb0a47a",
@@ -420,9 +287,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "276b817f-b673-47a0-9ff2-6834ff62e28f",
@@ -496,10 +361,10 @@
       "fields": {
         "videoId": "39898fcd-9427-49e1-a22f-8f84c98e0779",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-09T09:10:00Z",
+        "scheduledStartTime": "2026-10-09T09:15:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -511,7 +376,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-09T08:48:38.846Z",
+      "lastUpdatedDate": "2026-10-09T09:00:45.706Z",
       "contentDate": "2026-10-06T12:12:05.154Z",
       "featured": 0,
       "thumbnail": {
@@ -523,8 +388,41 @@
         "slug": "icc26-cwc-l2-oman-oct-match1-copy-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match1-copy-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 9, 2026, 2:45:06 PM",
+        "expire_date": "Friday, October 9, 2026, 10:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791566110~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b851b00291bda20413868ae74513e428ef7474fd69107ad34a62ac587601632d/manifest.mpd?vcfilter=39898fcd-9427-49e1-a22f-8f84c98e0779&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "40e750a8-794d-4b38-9ce3-4cae5b4447ad",
