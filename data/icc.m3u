@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 09-10-2026 09:45
+#DATE:- 09-10-2026 10:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="490f21f0-9aee-48f4-9ea8-89a58cdd8118" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rwhaexjjnx5orlkwmy9n" tvg-lang="English" group-title="Cricket",English | Kuwait v Bahrain
+#EXTINF:-1 tvg-id="4e51a7d1-4a54-4fea-8ba1-b929e4c343d3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/h1cnwgyzec2jny66y12c" tvg-lang="English" group-title="Cricket",English | Oman v Canada (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791536415~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9bb9febdcdfd2ab557cf78b778ff4f8919f401676c7461453c95ce0ef9b7f658/manifest.mpd?vcfilter=490f21f0-9aee-48f4-9ea8-89a58cdd8118&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791550808~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fedb7575413a6d0710e355a4f97db91a09603cc21c89c932b589496e82c0f647/manifest.mpd?vcfilter=4e51a7d1-4a54-4fea-8ba1-b929e4c343d3&
