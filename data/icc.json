@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:15 AM 09-10-2026",
-  "total_matches": 41,
-  "live_matches": 4,
+  "last_updated": "01:30:06 PM 09-10-2026",
+  "total_matches": 40,
+  "live_matches": 3,
   "upcoming_matches": 37,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -273,139 +273,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791553508~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8079635d60a9782f61681999af7a3287da21ffc9d9d4028e632a7f08447dee3c/manifest.mpd?vcfilter=c098c554-a22a-495a-8573-135b7a37adfe&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "4f46f19b-bf51-47da-a347-77c0eb86e13c",
-      "_entityId": "c122ecf1-4999-4ef0-b614-a27f14aceaa6",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-china",
-      "slug": "hong-kong-china-v-china",
-      "title": "Hong Kong, China v China",
-      "tags": [
-        {
-          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
-          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15809",
-          "neutralSlug": "tournament-15809",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15809",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15809",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "cf2dfce4-d6ca-4662-9ad2-f87563a5034f",
-          "_entityId": "8f2e6619-5060-4052-86dd-20a25878a7ea",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274908",
-          "title": "China vs Hong Kong, China - Match 6 - 10/9/2026",
-          "slug": "match-274908",
-          "neutralSlug": "match-274908",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274908",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274908",
-            "teamA": "China",
-            "teamB": "Hong Kong, China",
-            "teamAid": "1850",
-            "teamBid": "19",
-            "teamAshort": "CHN",
-            "teamBshort": "HK",
-            "stage": "League",
-            "matchDateLocal": "10/9/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15809",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12753",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "china-vs-hong-kong-china",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "846fe9c2-0ef7-4cb3-974b-af95e878323d",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-09T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-09T05:39:58.958Z",
-      "contentDate": "2026-09-28T14:54:55.525Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match5 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hpgosnzgs1t42sdspjbf",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hpgosnzgs1t42sdspjbf",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-b-match5-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match5-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 9, 2026, 11:15:08 AM",
-        "expire_date": "Friday, October 9, 2026, 7:15:12 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553512~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=85b3879fe9b65cc704e2feb59c429e722523e2a3f4066a3fbb51142b92f7cbb7/manifest.mpd?vcfilter=846fe9c2-0ef7-4cb3-974b-af95e878323d&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
