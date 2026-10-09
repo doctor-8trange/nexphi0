@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 09-10-2026 10:30
+#DATE:- 09-10-2026 11:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="4e51a7d1-4a54-4fea-8ba1-b929e4c343d3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/h1cnwgyzec2jny66y12c" tvg-lang="English" group-title="Cricket",English | Oman v Canada (1st Innings)
@@ -12,3 +12,33 @@
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791550808~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fedb7575413a6d0710e355a4f97db91a09603cc21c89c932b589496e82c0f647/manifest.mpd?vcfilter=4e51a7d1-4a54-4fea-8ba1-b929e4c343d3&
+#EXTINF:-1 tvg-id="c098c554-a22a-495a-8573-135b7a37adfe" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cgd9cdbqdyqej5fxn0ju" tvg-lang="English" group-title="Cricket",English | Singapore v Maldives
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791553508~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8079635d60a9782f61681999af7a3287da21ffc9d9d4028e632a7f08447dee3c/manifest.mpd?vcfilter=c098c554-a22a-495a-8573-135b7a37adfe&
+#EXTINF:-1 tvg-id="846fe9c2-0ef7-4cb3-974b-af95e878323d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hpgosnzgs1t42sdspjbf" tvg-lang="English" group-title="Cricket",English | Hong Kong, China v China
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553512~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=85b3879fe9b65cc704e2feb59c429e722523e2a3f4066a3fbb51142b92f7cbb7/manifest.mpd?vcfilter=846fe9c2-0ef7-4cb3-974b-af95e878323d&
+#EXTINF:-1 tvg-id="23fba0fd-2e9e-4560-8988-5aec0b513a36" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v8vnjovfbn2tracoacfw" tvg-lang="English" group-title="Cricket",English | Malaysia v Saudi Arabia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791553515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=efa88226e92bf33a97bdb7cfcd91cb9c7dddc043c949c563f7dfd362e39fa7d6/manifest.mpd?vcfilter=23fba0fd-2e9e-4560-8988-5aec0b513a36&
