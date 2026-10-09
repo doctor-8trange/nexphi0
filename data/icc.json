@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:30:10 PM 09-10-2026",
-  "total_matches": 37,
-  "live_matches": 1,
+  "last_updated": "10-10-2026 02:00",
+  "total_matches": 36,
+  "live_matches": 0,
   "upcoming_matches": 36,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "97978a67-aa4b-458a-8fbe-31cf32c7baa5",
-      "_entityId": "34a21d65-a3ac-43ad-a148-0ebd7b0f1e39",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-united-arab-emirates-2nd-innings",
-      "slug": "namibia-v-united-arab-emirates-2nd-innings",
-      "title": "Namibia v United Arab Emirates (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "5159314b-2b3e-43c3-bbd4-ecaaa7f6857a",
-          "_entityId": "f3a5dc83-1545-45d3-bd4d-6f97c3b49a46",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275014",
-          "title": "Namibia vs United Arab Emirates - Match 132 - 10/9/2026",
-          "slug": "match-275014",
-          "neutralSlug": "match-275014",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275014",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275014",
-            "teamA": "Namibia",
-            "teamB": "United Arab Emirates",
-            "teamAid": "20",
-            "teamBid": "21",
-            "teamAshort": "NAM",
-            "teamBshort": "UAE",
-            "stage": "League",
-            "matchDateLocal": "10/9/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 132",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "namibia-vs-united-arab-emirates",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "ddb080a6-e401-4de7-92b0-bf361310cb6f",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-09T18:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-09T17:49:09.616Z",
-      "contentDate": "2025-09-26T16:03:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-USA-OCT_Match4 copy (2)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kqnma6phupfzzdbzhqel",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kqnma6phupfzzdbzhqel",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-usa-oct-match4-copy-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match4-copy-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 9, 2026, 11:30:06 PM",
-        "expire_date": "Saturday, October 10, 2026, 7:30:11 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791597611~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d6b192a7367ac77113e000babdeda02dd33572655eb868f8b021b5f488f76333/manifest.mpd?vcfilter=ddb080a6-e401-4de7-92b0-bf361310cb6f&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
