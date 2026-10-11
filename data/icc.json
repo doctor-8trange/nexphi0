@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11-10-2026 19:15",
-  "total_matches": 26,
-  "live_matches": 0,
+  "last_updated": "08:15:06 PM 11-10-2026",
+  "total_matches": 27,
+  "live_matches": 1,
   "upcoming_matches": 26,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,7 +21,141 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "d1f95ac3-ae72-4542-b22d-278c0f80aaa7",
+      "_entityId": "dbcd9abf-4ce9-4bb9-a641-2f1dc75b8449",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-united-arab-emirates-1st-innings",
+      "slug": "usa-v-united-arab-emirates-1st-innings",
+      "title": "USA v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "10253143-3d1b-43d5-9e3c-88c14ee398db",
+          "_entityId": "f43327e5-008d-4783-8303-f56d6d086e2a",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275015",
+          "title": "USA vs United Arab Emirates - Match 134 - 10/11/2026",
+          "slug": "match-275015",
+          "neutralSlug": "match-275015",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275015",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275015",
+            "teamA": "USA",
+            "teamB": "United Arab Emirates",
+            "teamAid": "22",
+            "teamBid": "21",
+            "teamAshort": "USA",
+            "teamBshort": "UAE",
+            "stage": "League",
+            "matchDateLocal": "10/11/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 134",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "usa-vs-united-arab-emirates",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "8d2877ce-f7e7-419c-885a-463249b78c6f",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-11T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-11T14:40:40.596Z",
+      "contentDate": "2025-09-26T16:03:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-USA-OCT_Match5 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ekdlgmaqpm3vpahhnvih",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ekdlgmaqpm3vpahhnvih",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-usa-oct-match5-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match5-copy-1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, October 11, 2026, 8:15:02 PM",
+        "expire_date": "Monday, October 12, 2026, 4:15:06 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791758706~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0de3510ae7d0204797f1c4954da55f426e7a5611696c77c5659f5a5ee232eec0/manifest.mpd?vcfilter=8d2877ce-f7e7-419c-885a-463249b78c6f&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
       "type": "customentity",
