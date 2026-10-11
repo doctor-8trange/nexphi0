@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:45:04 PM 11-10-2026",
+  "last_updated": "02:15:04 PM 11-10-2026",
   "total_matches": 30,
   "live_matches": 2,
   "upcoming_matches": 28,
@@ -364,9 +364,9 @@
         "videoId": "01221061-c277-4da3-b0bc-89f30e5a1f25",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "13500000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T09:00:00Z",
+        "scheduledStartTime": "2026-10-11T09:15:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -377,8 +377,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-08T18:20:09.908Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-11T08:42:50.93Z",
       "contentDate": "2026-10-08T18:20:09.908Z",
       "featured": 0,
       "thumbnail": {
@@ -466,9 +466,9 @@
         "videoId": "a2015567-7e8f-445a-b3b7-25e523a00b96",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "13500000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T09:00:00Z",
+        "scheduledStartTime": "2026-10-11T09:15:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -479,8 +479,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-06T12:13:27.475Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-11T08:43:00.915Z",
       "contentDate": "2026-10-06T12:13:27.475Z",
       "featured": 0,
       "thumbnail": {
