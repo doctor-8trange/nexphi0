@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:15:03 PM 11-10-2026",
-  "total_matches": 32,
-  "live_matches": 4,
+  "last_updated": "01:30:04 PM 11-10-2026",
+  "total_matches": 31,
+  "live_matches": 3,
   "upcoming_matches": 28,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -406,139 +406,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791726308~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1a6d671b8a0cd57c832630f34036d5ceadfa5ef933dd4304f69a36539359c2b2/manifest.mpd?vcfilter=34045295-e64d-4214-a51c-e005ed502450&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "e9bbb7cd-edbb-454f-843f-a7c42db2885a",
-      "_entityId": "49e42dff-8da3-435e-9864-c2f2adca2426",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-myanmar",
-      "slug": "kuwait-v-myanmar",
-      "title": "Kuwait v Myanmar",
-      "tags": [
-        {
-          "_translationId": "28a16eef-7f89-4f76-af30-9b54e06e7053",
-          "_entityId": "605bcc10-0bce-424c-af5c-6f208ddb8ccc",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15816",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-          "slug": "tournament-15816",
-          "neutralSlug": "tournament-15816",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15816",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15816",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ec0c1bd7-84d7-499a-a40a-9368f1dae7dd",
-          "_entityId": "f83ae638-12f6-4325-b0ed-e8294d37cf73",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274970",
-          "title": "Kuwait vs Myanmar - Match 13 - 10/11/2026",
-          "slug": "match-274970",
-          "neutralSlug": "match-274970",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274970",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274970",
-            "teamA": "Kuwait",
-            "teamB": "Myanmar",
-            "teamAid": "1797",
-            "teamBid": "1777",
-            "teamAshort": "KUW",
-            "teamBshort": "MYA",
-            "stage": "League",
-            "matchDateLocal": "10/11/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 13",
-            "seriesId": "15816",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12759",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "kuwait-vs-myanmar",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "1f0510a5-3713-4107-8983-ecab2d9ed7d6",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T06:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-11T05:41:00.508Z",
-      "contentDate": "2026-09-26T22:57:57.941Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-A-Match13 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/litxalo0mgiuecvwemjr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/litxalo0mgiuecvwemjr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-a-match13-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-a-match13-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, October 11, 2026, 11:15:08 AM",
-        "expire_date": "Sunday, October 11, 2026, 7:15:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791726310~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8c5679db7dc0827989021a3f78cf1ad757b617b7c7bfe269e49069d8db020cad/manifest.mpd?vcfilter=1f0510a5-3713-4107-8983-ecab2d9ed7d6&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
