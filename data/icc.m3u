@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 11-10-2026 14:45
+#DATE:- 11-10-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="6ca12f33-f4ef-4358-b012-5fed1c2ee5a5" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/guuiuykftqpmky1lhnnx" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (1st Innings) (NEPALI)
+#EXTINF:-1 tvg-id="01221061-c277-4da3-b0bc-89f30e5a1f25" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ot48k4safek1xzncnpmq" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (2nd Innings) (NEPALI)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791722711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90fc8a69fd6e7f0031d517c46372b21e574e6d95626f11823c65ec2f2903e749/manifest.mpd?vcfilter=6ca12f33-f4ef-4358-b012-5fed1c2ee5a5&
-#EXTINF:-1 tvg-id="728000ce-6037-48c5-b070-27e97cc66414" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejltqwt9waekfqwkfytc" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (1st Innings)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791739811~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dd1a9c84d3f4709f39cb6dfd3f51dba0d73446912c2cf31f60acdbd0c1a03792/manifest.mpd?vcfilter=01221061-c277-4da3-b0bc-89f30e5a1f25&
+#EXTINF:-1 tvg-id="a2015567-7e8f-445a-b3b7-25e523a00b96" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791722713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d75778e2ca0b47024cfc1ace649b945b7cfd2fc3273d2d1ee50220a1bfe5cf0a/manifest.mpd?vcfilter=728000ce-6037-48c5-b070-27e97cc66414&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791739815~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7cd3a032a2e2469309bd5ba8b2c57c8c5411155cb03f32451b2e49e483330c1d/manifest.mpd?vcfilter=a2015567-7e8f-445a-b3b7-25e523a00b96&
