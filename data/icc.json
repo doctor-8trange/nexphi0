@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:15:06 PM 11-10-2026",
+  "last_updated": "12:30:16 AM 12-10-2026",
   "total_matches": 27,
   "live_matches": 1,
   "upcoming_matches": 26,
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "d1f95ac3-ae72-4542-b22d-278c0f80aaa7",
-      "_entityId": "dbcd9abf-4ce9-4bb9-a641-2f1dc75b8449",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-united-arab-emirates-1st-innings",
-      "slug": "usa-v-united-arab-emirates-1st-innings",
-      "title": "USA v United Arab Emirates (1st Innings)",
+      "_translationId": "5c39b698-a17b-4de1-93f6-f65b4bf28d63",
+      "_entityId": "40570997-2a4a-4bf2-899b-9bcf69c561fb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/usa-v-united-arab-emirates-2nd-innings",
+      "slug": "usa-v-united-arab-emirates-2nd-innings",
+      "title": "USA v United Arab Emirates (2nd Innings)",
       "tags": [
         {
           "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
@@ -93,12 +93,12 @@
         }
       ],
       "fields": {
-        "videoId": "8d2877ce-f7e7-419c-885a-463249b78c6f",
+        "videoId": "c51355be-fa4a-4c39-a282-198837e289e8",
         "workflow": "LIVE",
         "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T15:00:00Z",
+        "scheduledStartTime": "2026-10-11T18:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -110,23 +110,23 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-11T14:40:40.596Z",
-      "contentDate": "2025-09-26T16:03:00Z",
+      "lastUpdatedDate": "2026-10-11T18:50:31.332Z",
+      "contentDate": "2025-09-26T16:04:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-USA-OCT_Match5 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ekdlgmaqpm3vpahhnvih",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ekdlgmaqpm3vpahhnvih",
+        "title": "ICC26_CWC-L2-USA-OCT_Match5 copy (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/tc4xkcsj7z3bhmy6ftxl",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tc4xkcsj7z3bhmy6ftxl",
         "format": "jpg",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-usa-oct-match5-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match5-copy-1"
+        "slug": "icc26-cwc-l2-usa-oct-match5-copy-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match5-copy-2"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Sunday, October 11, 2026, 8:15:02 PM",
-        "expire_date": "Monday, October 12, 2026, 4:15:06 AM",
+        "create_date": "Monday, October 12, 2026, 12:30:09 AM",
+        "expire_date": "Monday, October 12, 2026, 8:30:15 AM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
           "Referer: https://www.icc-cricket.com/",
@@ -139,7 +139,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791758706~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0de3510ae7d0204797f1c4954da55f426e7a5611696c77c5659f5a5ee232eec0/manifest.mpd?vcfilter=8d2877ce-f7e7-419c-885a-463249b78c6f&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791774015~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c27c0a54d9874949fc2baea7e03f785c33b4577172bd0cb5177db28a2fea9/manifest.mpd?vcfilter=c51355be-fa4a-4c39-a282-198837e289e8&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
