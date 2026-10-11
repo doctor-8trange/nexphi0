@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:07 AM 11-10-2026",
-  "total_matches": 35,
-  "live_matches": 2,
-  "upcoming_matches": 33,
+  "last_updated": "10:15:13 AM 11-10-2026",
+  "total_matches": 34,
+  "live_matches": 3,
+  "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "40e750a8-794d-4b38-9ce3-4cae5b4447ad",
-      "_entityId": "8119f60e-7e78-4550-99bb-ac302330d213",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-v-china",
-      "slug": "singapore-v-china",
-      "title": "Singapore v China",
-      "tags": [
-        {
-          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
-          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15809",
-          "neutralSlug": "tournament-15809",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15809",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15809",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "20ffb5f8-d32d-4ac0-b4a3-5ffaaa7bca7b",
-          "_entityId": "1514afad-3807-4693-9285-86b459e0ad9e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274912",
-          "title": "China vs Singapore - Match 8 - 10/11/2026",
-          "slug": "match-274912",
-          "neutralSlug": "match-274912",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274912",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274912",
-            "teamA": "China",
-            "teamB": "Singapore",
-            "teamAid": "1850",
-            "teamBid": "1565",
-            "teamAshort": "CHN",
-            "teamBshort": "SIN",
-            "stage": "League",
-            "matchDateLocal": "10/11/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 8",
-            "seriesId": "15809",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12753",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "china-vs-singapore",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "e28410ca-e82c-4c1e-b0e8-11f6c414fc30",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T01:15:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-11T00:56:47.546Z",
-      "contentDate": "2026-09-28T15:01:12.17Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match9 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v5ximhh0inrvr5equlh7",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v5ximhh0inrvr5equlh7",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-b-match9-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match9-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, October 11, 2026, 6:30:04 AM",
-        "expire_date": "Sunday, October 11, 2026, 2:30:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791709209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fc62d00998456601d5bf087c5922ce69f82917328daa5763b8a7f1e43ad5ea99/manifest.mpd?vcfilter=e28410ca-e82c-4c1e-b0e8-11f6c414fc30&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "7a03ec61-dcde-49d3-b464-8aa7000c285f",
@@ -287,9 +154,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "a16ecb48-f52a-4022-b830-9d21b85ca8d8",
@@ -363,7 +228,7 @@
       "fields": {
         "videoId": "6ca12f33-f4ef-4358-b012-5fed1c2ee5a5",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-11T05:00:00Z",
@@ -377,8 +242,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-08T18:19:24.746Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-11T04:39:43.874Z",
       "contentDate": "2026-10-08T18:19:24.746Z",
       "featured": 0,
       "thumbnail": {
@@ -390,7 +255,38 @@
         "slug": "icc26-cwc-l2-oman-oct-match2-nepali-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-nepali-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, October 11, 2026, 10:15:07 AM",
+        "expire_date": "Sunday, October 11, 2026, 6:15:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791722711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=90fc8a69fd6e7f0031d517c46372b21e574e6d95626f11823c65ec2f2903e749/manifest.mpd?vcfilter=6ca12f33-f4ef-4358-b012-5fed1c2ee5a5&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -465,7 +361,7 @@
       "fields": {
         "videoId": "728000ce-6037-48c5-b070-27e97cc66414",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-11T05:00:00Z",
@@ -479,8 +375,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-06T12:13:04.465Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-11T04:39:50.535Z",
       "contentDate": "2026-10-06T12:13:04.465Z",
       "featured": 0,
       "thumbnail": {
@@ -492,8 +388,41 @@
         "slug": "icc26-cwc-l2-oman-oct-match2-copy-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, October 11, 2026, 10:15:11 AM",
+        "expire_date": "Sunday, October 11, 2026, 6:15:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791722713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d75778e2ca0b47024cfc1ace649b945b7cfd2fc3273d2d1ee50220a1bfe5cf0a/manifest.mpd?vcfilter=728000ce-6037-48c5-b070-27e97cc66414&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "5a576893-3296-40df-81b4-f4c258f28337",
