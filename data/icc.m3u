@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 11-10-2026 06:30
+#DATE:- 11-10-2026 09:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="e28410ca-e82c-4c1e-b0e8-11f6c414fc30" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/v5ximhh0inrvr5equlh7" tvg-lang="English" group-title="Cricket",English | Singapore v China
@@ -12,16 +12,6 @@
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791709209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fc62d00998456601d5bf087c5922ce69f82917328daa5763b8a7f1e43ad5ea99/manifest.mpd?vcfilter=e28410ca-e82c-4c1e-b0e8-11f6c414fc30&
-#EXTINF:-1 tvg-id="9764a16c-041c-4e73-a35b-4d1dadce1a5a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvbdcmzvn3yvaa21uvjf" tvg-lang="English" group-title="Cricket",English | Malaysia v Maldives
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791709212~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=60c60d5f42b9c904f7ec9279d6ab262cde955029939aa594ff788f745217dac9/manifest.mpd?vcfilter=9764a16c-041c-4e73-a35b-4d1dadce1a5a&
 #EXTINF:-1 tvg-id="174edfb1-6900-468a-b307-16e1d7628325" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mcnwktex4ypsedlveojr" tvg-lang="English" group-title="Cricket",English | Hong Kong, China v Saudi Arabia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
