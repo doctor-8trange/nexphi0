@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:15:13 AM 11-10-2026",
-  "total_matches": 34,
-  "live_matches": 3,
+  "last_updated": "10:45:07 AM 11-10-2026",
+  "total_matches": 33,
+  "live_matches": 2,
   "upcoming_matches": 31,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "7a03ec61-dcde-49d3-b464-8aa7000c285f",
-      "_entityId": "2ebfe36b-d0df-4c59-a6d7-fa2af827a6bc",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-saudi-arabia",
-      "slug": "hong-kong-china-v-saudi-arabia",
-      "title": "Hong Kong, China v Saudi Arabia",
-      "tags": [
-        {
-          "_translationId": "c6a40a35-b0ab-48d9-920d-d7331cf65db4",
-          "_entityId": "a4ac6335-9f4d-4347-a672-92a488a5a585",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15809",
-          "title": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-          "slug": "tournament-15809",
-          "neutralSlug": "tournament-15809",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15809",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15809",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "65f1459a-3e68-41b1-b262-04ea1c516883",
-          "_entityId": "fe18a214-7a81-47a7-8d05-23faf8eae27f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274910",
-          "title": "Hong Kong, China vs Saudi Arabia - Match 7 - 10/10/2026",
-          "slug": "match-274910",
-          "neutralSlug": "match-274910",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274910",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274910",
-            "teamA": "Hong Kong, China",
-            "teamB": "Saudi Arabia",
-            "teamAid": "19",
-            "teamBid": "1751",
-            "teamAshort": "HK",
-            "teamBshort": "SDA",
-            "stage": "League",
-            "matchDateLocal": "10/10/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 7",
-            "seriesId": "15809",
-            "seriesName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12753",
-            "tourName": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "hong-kong-china-vs-saudi-arabia",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "174edfb1-6900-468a-b307-16e1d7628325",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-11T01:15:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-11T00:56:47.534Z",
-      "contentDate": "2026-09-28T14:56:58.96Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20I-WC-ASIA-SRQ-B-Match7 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mcnwktex4ypsedlveojr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mcnwktex4ypsedlveojr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20i-wc-asia-srq-b-match7-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20i-wc-asia-srq-b-match7-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, October 11, 2026, 6:30:12 AM",
-        "expire_date": "Sunday, October 11, 2026, 2:30:14 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791709214~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=aa96de76c397e00ee490c0a7fcf83b006f81e87aca3d53130ca94b839dbe79b8/manifest.mpd?vcfilter=174edfb1-6900-468a-b307-16e1d7628325&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "a16ecb48-f52a-4022-b830-9d21b85ca8d8",
