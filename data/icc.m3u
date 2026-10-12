@@ -1,3 +1,34 @@
 #EXTM3U
-#DATE:- 12-10-2026 11:00
+#DATE:- 12-10-2026 11:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="58a0cadb-8352-4d0f-97fe-bbf43c85ac75" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/l7qjppbzfauks0ehtnli" tvg-lang="English" group-title="Cricket",English | Kuwait v Bhutan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791812711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7e18308b43a11d4bf543d0ac3217daa19734b9ad2d7b6f45393eb086114a0e93/manifest.mpd?vcfilter=58a0cadb-8352-4d0f-97fe-bbf43c85ac75&
+#EXTINF:-1 tvg-id="21d3b7c5-854d-405e-bd8a-513a3b2fefd4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zm5tjptdnk7s4zltdug6" tvg-lang="English" group-title="Cricket",English | Thailand v Myanmar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791812716~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a24b1e7ffeb714f31ab3f8d659de44f37b59c0e6616dea779131e47d12f9d8ef/manifest.mpd?vcfilter=21d3b7c5-854d-405e-bd8a-513a3b2fefd4&
+#EXTINF:-1 tvg-id="e25d3ab2-54e0-4f0a-8af0-aecc147a18d3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ymqrupi9n4rkcorf26te" tvg-lang="English" group-title="Cricket",English | Mongolia v Qatar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791812718~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a88842df8e24dbed7eeb6a526ed0aa99d65107aa8e8df846bed97793219589fa/manifest.mpd?vcfilter=e25d3ab2-54e0-4f0a-8af0-aecc147a18d3&
