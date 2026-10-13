@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "13-10-2026 18:30",
-  "total_matches": 16,
-  "live_matches": 0,
+  "last_updated": "08:15:09 PM 13-10-2026",
+  "total_matches": 17,
+  "live_matches": 1,
   "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,7 +21,141 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "54383aac-7390-4700-8ccd-bad7bb4a5c8a",
+      "_entityId": "6e400d8f-f402-4a89-9ac8-c875012efa7b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-usa-1st-innings-x2146",
+      "slug": "namibia-v-usa-1st-innings-x2146",
+      "title": "Namibia v USA (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "9bcc8df8-edc5-47bb-9680-4eb14ab3d79d",
+          "_entityId": "d6978833-66a1-4eba-9f5b-fbfa72eccee6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275016",
+          "title": "USA vs Namibia - Match 136 - 10/13/2026",
+          "slug": "match-275016",
+          "neutralSlug": "match-275016",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275016",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275016",
+            "teamA": "USA",
+            "teamB": "Namibia",
+            "teamAid": "22",
+            "teamBid": "20",
+            "teamAshort": "USA",
+            "teamBshort": "NAM",
+            "stage": "League",
+            "matchDateLocal": "10/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 136",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "usa-vs-namibia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3572bca0-8462-4015-b51f-0af20d1a044d",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-13T15:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-13T14:40:33.149Z",
+      "contentDate": "2025-09-26T16:05:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-USA-OCT_Match6 copy (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cr09x5v6hdahpzbepfus",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cr09x5v6hdahpzbepfus",
+        "format": "jpg",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-usa-oct-match6-copy-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-usa-oct-match6-copy-1"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, October 13, 2026, 8:15:03 PM",
+        "expire_date": "Wednesday, October 14, 2026, 4:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
       "type": "customentity",
