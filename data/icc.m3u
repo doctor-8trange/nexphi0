@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 13-10-2026 20:15
+#DATE:- 14-10-2026 07:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="3572bca0-8462-4015-b51f-0af20d1a044d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cr09x5v6hdahpzbepfus" tvg-lang="English" group-title="Cricket",English | Namibia v USA (1st Innings)
+#EXTINF:-1 tvg-id="f1d98337-fdc9-4269-b739-a250ff2b7de0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lddrxpggp10xzbjxgut3" tvg-lang="English" group-title="Cricket",English | Malaysia v China
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,24 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791970209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ea192c8999be000768f6804f1f7f85bd777e2123eb96fce446b8e7bdc54b6e8e/manifest.mpd?vcfilter=f1d98337-fdc9-4269-b739-a250ff2b7de0&
+#EXTINF:-1 tvg-id="01986741-ad43-4415-a40c-d2c55ba4ad8c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkn7irwlzpgzqrp6ajzc" tvg-lang="English" group-title="Cricket",English | Qatar v Bahrain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791970212~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0e56c26af97c963a54cc7dc7553b7bea3d9c419b5f508ced981ec5a2674e170/manifest.mpd?vcfilter=01986741-ad43-4415-a40c-d2c55ba4ad8c&
+#EXTINF:-1 tvg-id="cbf78b2e-0663-4323-b455-6d19739dcfbc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hwmxelx26b4d5nf9pcir" tvg-lang="English" group-title="Cricket",English | Mongolia v Myanmar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791970214~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c290a1f3a436e3e2c20ce37532ea6732a83478876b0d8d428e7267101688aafa/manifest.mpd?vcfilter=cbf78b2e-0663-4323-b455-6d19739dcfbc&
