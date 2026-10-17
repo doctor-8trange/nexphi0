@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:30:10 AM 17-10-2026",
-  "total_matches": 18,
+  "last_updated": "02:45:12 PM 17-10-2026",
+  "total_matches": 16,
   "live_matches": 2,
-  "upcoming_matches": 16,
+  "upcoming_matches": 14,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,274 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "7e39da15-cae3-4632-8d22-63ffae6063e2",
-      "_entityId": "748a3b9c-fc58-4b46-be4a-f447770ad099",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-canada-1st-innings-nepali",
-      "slug": "nepal-v-canada-1st-innings-nepali",
-      "title": "Nepal v Canada (1st Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "547c8d19-3835-42cc-a1f4-d80fb91836a5",
-          "_entityId": "f03c4fe9-7b62-451c-a5e6-d4e3bf524499",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273764",
-          "title": "Canada vs Nepal - Match 138 - 10/17/2026",
-          "slug": "match-273764",
-          "neutralSlug": "match-273764",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273764",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273764",
-            "teamA": "Canada",
-            "teamB": "Nepal",
-            "teamAid": "12",
-            "teamBid": "637",
-            "teamAshort": "CAN",
-            "teamBshort": "NEP",
-            "stage": "League",
-            "matchDateLocal": "10/17/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 138",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "canada-vs-nepal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "e747806c-2d6c-47f9-adf5-40e9f734a8a8",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-17T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-17T04:59:40.143Z",
-      "contentDate": "2026-10-08T18:24:35.376Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-OMAN-OCT_Match5-NEPALI (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zsmtkz6vimoetkzu1zmr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zsmtkz6vimoetkzu1zmr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-oman-oct-match5-nepali-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match5-nepali-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, October 17, 2026, 10:30:02 AM",
-        "expire_date": "Saturday, October 17, 2026, 6:30:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "b4577125-661b-4802-ac8d-5f541fc07924",
-      "_entityId": "f557e84d-53cb-4b05-b00f-b48096d9eb41",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-canada-1st-innings",
-      "slug": "nepal-v-canada-1st-innings",
-      "title": "Nepal v Canada (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "547c8d19-3835-42cc-a1f4-d80fb91836a5",
-          "_entityId": "f03c4fe9-7b62-451c-a5e6-d4e3bf524499",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273764",
-          "title": "Canada vs Nepal - Match 138 - 10/17/2026",
-          "slug": "match-273764",
-          "neutralSlug": "match-273764",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273764",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273764",
-            "teamA": "Canada",
-            "teamB": "Nepal",
-            "teamAid": "12",
-            "teamBid": "637",
-            "teamAshort": "CAN",
-            "teamBshort": "NEP",
-            "stage": "League",
-            "matchDateLocal": "10/17/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 138",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "canada-vs-nepal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "ad10685a-90e7-4006-bc71-2d7eef2d7b2a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-17T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-17T04:59:33.609Z",
-      "contentDate": "2026-10-06T12:17:45.954Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-OMAN-OCT_Match2 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ejltqwt9waekfqwkfytc",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejltqwt9waekfqwkfytc",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-oman-oct-match2-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, October 17, 2026, 10:30:07 AM",
-        "expire_date": "Saturday, October 17, 2026, 6:30:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "e4bfe03c-c8c9-42b3-85ee-91688bc5a1e6",
@@ -363,7 +95,7 @@
       "fields": {
         "videoId": "1e07b0eb-f0e7-41fb-ac4c-01a713f6866e",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-17T09:00:00Z",
@@ -377,8 +109,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-08T18:25:11.906Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-17T09:08:23.38Z",
       "contentDate": "2026-10-08T18:25:11.906Z",
       "featured": 0,
       "thumbnail": {
@@ -390,7 +122,38 @@
         "slug": "icc26-cwc-l2-oman-oct-match5-nepali-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match5-nepali-2"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 17, 2026, 2:45:05 PM",
+        "expire_date": "Saturday, October 17, 2026, 10:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792257310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6a0d33cd427582cd0505a63d3fda0caed677b4ceb2a9e4bfaa33c9d7e50cd13f/manifest.mpd?vcfilter=1e07b0eb-f0e7-41fb-ac4c-01a713f6866e&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -465,7 +228,7 @@
       "fields": {
         "videoId": "246546e0-666e-4b11-b4de-3fbe124968e4",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-17T09:00:00Z",
@@ -479,8 +242,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-06T12:18:02.324Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-17T09:08:32.264Z",
       "contentDate": "2026-10-06T12:18:02.324Z",
       "featured": 0,
       "thumbnail": {
@@ -492,8 +255,41 @@
         "slug": "icc26-cwc-l2-oman-oct-match2-copy-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 17, 2026, 2:45:10 PM",
+        "expire_date": "Saturday, October 17, 2026, 10:45:12 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792257312~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=04ab7b9850c8538c381e919c98e8ead45a93942e5da3679da356bc4ba174d03c/manifest.mpd?vcfilter=246546e0-666e-4b11-b4de-3fbe124968e4&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "5239a974-c472-4fbf-bb06-ea71af8a0976",
