@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "15-10-2026 18:45",
-  "total_matches": 8,
-  "live_matches": 0,
-  "upcoming_matches": 8,
+  "last_updated": "10:30:10 AM 17-10-2026",
+  "total_matches": 18,
+  "live_matches": 2,
+  "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
-  "upcoming": [
+  "live": [
     {
       "type": "customentity",
       "_translationId": "7e39da15-cae3-4632-8d22-63ffae6063e2",
@@ -96,7 +95,7 @@
       "fields": {
         "videoId": "e747806c-2d6c-47f9-adf5-40e9f734a8a8",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-17T05:00:00Z",
@@ -110,8 +109,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-08T18:24:35.376Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-17T04:59:40.143Z",
       "contentDate": "2026-10-08T18:24:35.376Z",
       "featured": 0,
       "thumbnail": {
@@ -123,7 +122,38 @@
         "slug": "icc26-cwc-l2-oman-oct-match5-nepali-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match5-nepali-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 17, 2026, 10:30:02 AM",
+        "expire_date": "Saturday, October 17, 2026, 6:30:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -198,7 +228,7 @@
       "fields": {
         "videoId": "ad10685a-90e7-4006-bc71-2d7eef2d7b2a",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-17T05:00:00Z",
@@ -212,8 +242,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-06T12:17:45.954Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-17T04:59:33.609Z",
       "contentDate": "2026-10-06T12:17:45.954Z",
       "featured": 0,
       "thumbnail": {
@@ -225,8 +255,41 @@
         "slug": "icc26-cwc-l2-oman-oct-match2-copy-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match2-copy-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 17, 2026, 10:30:07 AM",
+        "expire_date": "Saturday, October 17, 2026, 6:30:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "e4bfe03c-c8c9-42b3-85ee-91688bc5a1e6",
@@ -836,6 +899,1076 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-l2-oman-oct-match3-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-2"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "d1948266-0f7f-401f-a722-28b8f7802a28",
+      "_entityId": "7ba15df7-5328-4356-85f1-e0380b18908a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-odi-namibia-vs-ireland-1st-innings",
+      "slug": "1st-odi-namibia-vs-ireland-1st-innings",
+      "title": "1st ODI: Namibia vs Ireland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3affab75-95b7-4dc5-9f26-e44dd7a3e174",
+          "_entityId": "d03583f6-a033-43a9-897e-e5ba8b2d672f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275410",
+          "title": "Namibia vs Ireland - 1st ODI - 10/22/2026",
+          "slug": "match-275410",
+          "neutralSlug": "match-275410",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275410",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275410",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/22/2026",
+            "matchType": "ODI",
+            "matchNumber": "1st ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "cd662101-4914-41e4-a04c-d46821005ae3",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-22T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.741Z",
+      "contentDate": "2026-10-16T12:56:31.741Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "1st ODI-Namibia-v-Ireland-1st-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bx2ssredtaz2l7e1igna",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bx2ssredtaz2l7e1igna",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "1st-odi-namibia-v-ireland-1st-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0072779a-a761-4309-9f7f-19432d0988ba",
+      "_entityId": "749e1928-67b7-4c57-a12c-fee50bf0a4c0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-odi-namibia-vs-ireland-2nd-innings",
+      "slug": "1st-odi-namibia-vs-ireland-2nd-innings",
+      "title": "1st ODI: Namibia vs Ireland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "3affab75-95b7-4dc5-9f26-e44dd7a3e174",
+          "_entityId": "d03583f6-a033-43a9-897e-e5ba8b2d672f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275410",
+          "title": "Namibia vs Ireland - 1st ODI - 10/22/2026",
+          "slug": "match-275410",
+          "neutralSlug": "match-275410",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275410",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275410",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/22/2026",
+            "matchType": "ODI",
+            "matchNumber": "1st ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c76a480f-70d1-41d1-9ae6-a9632e0e970b",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-22T11:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.865Z",
+      "contentDate": "2026-10-16T12:56:31.865Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "1st ODI-Namibia-v-Ireland-2nd-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wxzdw7endidjk2ujbdiw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wxzdw7endidjk2ujbdiw",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "1st-odi-namibia-v-ireland-2nd-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "713959c4-47bd-41b0-b9aa-6ee2ca0cd3fb",
+      "_entityId": "ea562400-89c0-4bdf-8bfa-9d001b8e157a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-odi-namibia-vs-ireland-1st-innings",
+      "slug": "2nd-odi-namibia-vs-ireland-1st-innings",
+      "title": "2nd ODI: Namibia vs Ireland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "226dea2d-9ce4-41e5-9724-7e715a894e9c",
+          "_entityId": "ed82ce8b-5737-4424-b12d-2469ddac0985",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275411",
+          "title": "Namibia vs Ireland - 2nd ODI - 10/24/2026",
+          "slug": "match-275411",
+          "neutralSlug": "match-275411",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275411",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275411",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/24/2026",
+            "matchType": "ODI",
+            "matchNumber": "2nd ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3f8f6b30-10ac-48f0-9f41-46ddea389863",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-24T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.812Z",
+      "contentDate": "2026-10-16T12:56:31.812Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "2nd ODI-Namibia-v-Ireland-1st-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/n9ngdcvsyrrazdz2vkeb",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/n9ngdcvsyrrazdz2vkeb",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "2nd-odi-namibia-v-ireland-1st-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9fce4be8-9c16-4477-8f24-8ce02b5a0446",
+      "_entityId": "411060b2-6d02-4547-aa96-b4951257c0b0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-odi-namibia-vs-ireland-2nd-innings",
+      "slug": "2nd-odi-namibia-vs-ireland-2nd-innings",
+      "title": "2nd ODI: Namibia vs Ireland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "226dea2d-9ce4-41e5-9724-7e715a894e9c",
+          "_entityId": "ed82ce8b-5737-4424-b12d-2469ddac0985",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275411",
+          "title": "Namibia vs Ireland - 2nd ODI - 10/24/2026",
+          "slug": "match-275411",
+          "neutralSlug": "match-275411",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275411",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275411",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/24/2026",
+            "matchType": "ODI",
+            "matchNumber": "2nd ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "2f1f6eec-6f7d-47e3-b56f-50dec0fbcd41",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-24T11:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.876Z",
+      "contentDate": "2026-10-16T12:56:31.876Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "2nd ODI-Namibia-v-Ireland-2nd-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jq4a6d2nxlub2t2kcirj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jq4a6d2nxlub2t2kcirj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "2nd-odi-namibia-v-ireland-2nd-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "df7bc927-1745-4b12-b4e8-517d219fe6da",
+      "_entityId": "614472d9-e7fd-41bc-991a-151c20716aa5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-odi-namibia-vs-ireland-1st-innings",
+      "slug": "3rd-odi-namibia-vs-ireland-1st-innings",
+      "title": "3rd ODI: Namibia vs Ireland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "73590968-f424-45e3-8c3a-1ce5ed046564",
+          "_entityId": "e522d16a-0079-4e41-a0db-edef19a2cd58",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275412",
+          "title": "Namibia vs Ireland - 3rd ODI - 10/27/2026",
+          "slug": "match-275412",
+          "neutralSlug": "match-275412",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275412",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275412",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/27/2026",
+            "matchType": "ODI",
+            "matchNumber": "3rd ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "82323211-4b35-424e-ac5a-dc97539277fb",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-27T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.39Z",
+      "contentDate": "2026-10-16T12:56:31.39Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd ODI-Namibia-v-Ireland-1st-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/y4vnyitg0v7gyqpy4xnm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y4vnyitg0v7gyqpy4xnm",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "3rd-odi-namibia-v-ireland-1st-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "57b6a7e9-7506-4514-9775-e2ff83281d76",
+      "_entityId": "1682c55f-0628-4d22-9309-dd028e79bdff",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-odi-namibia-vs-ireland-2nd-innings",
+      "slug": "3rd-odi-namibia-vs-ireland-2nd-innings",
+      "title": "3rd ODI: Namibia vs Ireland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "73590968-f424-45e3-8c3a-1ce5ed046564",
+          "_entityId": "e522d16a-0079-4e41-a0db-edef19a2cd58",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275412",
+          "title": "Namibia vs Ireland - 3rd ODI - 10/27/2026",
+          "slug": "match-275412",
+          "neutralSlug": "match-275412",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275412",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275412",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/27/2026",
+            "matchType": "ODI",
+            "matchNumber": "3rd ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a601e1cd-cec8-4c6d-967b-a561dd8c743a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-27T11:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.344Z",
+      "contentDate": "2026-10-16T12:56:31.344Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd ODI-Namibia-v-Ireland-2nd-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dv2cl3k9ejlrtjefip2z",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dv2cl3k9ejlrtjefip2z",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "3rd-odi-namibia-v-ireland-2nd-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "ddab1b30-9c6f-4772-9a51-ab240be1a498",
+      "_entityId": "59c316d6-6182-4160-ade2-18de4aa5e6e5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-1st-innings",
+      "slug": "4th-odi-namibia-vs-ireland-1st-innings",
+      "title": "4th ODI: Namibia vs Ireland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "dbda9274-4f94-4ca2-8548-55615cda9190",
+          "_entityId": "185b9301-eb1c-45aa-951f-061a41e5f33c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275414",
+          "title": "Namibia vs Ireland - 4th ODI - 10/30/2026",
+          "slug": "match-275414",
+          "neutralSlug": "match-275414",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275414",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275414",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "ODI",
+            "matchNumber": "4th ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "0cca2c28-c998-473a-a1bc-2e4b6189f627",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.354Z",
+      "contentDate": "2026-10-16T12:56:31.354Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "4th ODI-Namibia-v-Ireland-1st-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hcx8ue7chxxqk57qdqyj",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hcx8ue7chxxqk57qdqyj",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "4th-odi-namibia-v-ireland-1st-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "189be1e3-cccf-4150-98c3-8cd8bed1d028",
+      "_entityId": "dd8409a9-1c32-4e90-8e8f-4bdc246e1cc5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-2nd-innings",
+      "slug": "4th-odi-namibia-vs-ireland-2nd-innings",
+      "title": "4th ODI: Namibia vs Ireland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "dbda9274-4f94-4ca2-8548-55615cda9190",
+          "_entityId": "185b9301-eb1c-45aa-951f-061a41e5f33c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275414",
+          "title": "Namibia vs Ireland - 4th ODI - 10/30/2026",
+          "slug": "match-275414",
+          "neutralSlug": "match-275414",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275414",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275414",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "ODI",
+            "matchNumber": "4th ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "be6e363c-7142-4dc1-9a15-8ebf78002994",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T11:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.437Z",
+      "contentDate": "2026-10-16T12:56:31.437Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "4th ODI-Namibia-v-Ireland-2nd-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/amvedvs1scfh4eol6ol8",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/amvedvs1scfh4eol6ol8",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "4th-odi-namibia-v-ireland-2nd-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "acede4d6-b7fe-41d3-9c15-2501dbebdde5",
+      "_entityId": "f08b64f0-acb5-412e-9f52-bd62fa01ae61",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-odi-namibia-vs-ireland-1st-innings",
+      "slug": "5th-odi-namibia-vs-ireland-1st-innings",
+      "title": "5th ODI: Namibia vs Ireland (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d9b91e39-f664-4129-9bb1-154d96f293d3",
+          "_entityId": "36a3e69f-3eeb-4dea-a939-595916a67322",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275415",
+          "title": "Namibia vs Ireland - 5th ODI - 11/1/2026",
+          "slug": "match-275415",
+          "neutralSlug": "match-275415",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275415",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275415",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "ODI",
+            "matchNumber": "5th ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "4fb8b68e-6065-4ced-9995-74ddb5527f80",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T07:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.372Z",
+      "contentDate": "2026-10-16T12:56:31.372Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "5th ODI-Namibia-v-Ireland-1st-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kaubagqili84ogn1f3h6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kaubagqili84ogn1f3h6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "5th-odi-namibia-v-ireland-1st-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0e3df8f9-07ee-4265-8ffa-760a909b20ea",
+      "_entityId": "d640c064-fe1d-4a2e-8d1b-0763e356d911",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/5th-odi-namibia-vs-ireland-2nd-innings",
+      "slug": "5th-odi-namibia-vs-ireland-2nd-innings",
+      "title": "5th ODI: Namibia vs Ireland (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
+          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
+          "title": "Ireland in Namibia, 5 ODI Series, 2026",
+          "slug": "tournament-15830",
+          "neutralSlug": "tournament-15830",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15830",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15830",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d9b91e39-f664-4129-9bb1-154d96f293d3",
+          "_entityId": "36a3e69f-3eeb-4dea-a939-595916a67322",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275415",
+          "title": "Namibia vs Ireland - 5th ODI - 11/1/2026",
+          "slug": "match-275415",
+          "neutralSlug": "match-275415",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275415",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275415",
+            "teamA": "Namibia",
+            "teamB": "Ireland",
+            "teamAid": "20",
+            "teamBid": "13",
+            "teamAshort": "NAM",
+            "teamBshort": "IRE",
+            "stage": "Series",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "ODI",
+            "matchNumber": "5th ODI",
+            "seriesId": "15830",
+            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
+            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
+            "seriesType": "Series",
+            "tourId": "12773",
+            "tourName": "Ireland tour of Namibia, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "namibia-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "76f6f068-73a8-4dfa-99df-1554f70e7594",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T11:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "NA",
+            "ZW",
+            "NP",
+            "LK",
+            "BD",
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-16T12:56:31.341Z",
+      "contentDate": "2026-10-16T12:56:31.341Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "5th ODI-Namibia-v-Ireland-2nd-Innings",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ss2qcabfqh4vfmt81h7o",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ss2qcabfqh4vfmt81h7o",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "5th-odi-namibia-v-ireland-2nd-innings",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-odi-namibia-v-ireland-2nd-innings"
       },
       "entityCode": "video"
     }
