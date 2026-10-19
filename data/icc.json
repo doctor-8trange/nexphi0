@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:04 PM 19-10-2026",
-  "total_matches": 18,
+  "last_updated": "06:15:05 PM 19-10-2026",
+  "total_matches": 27,
   "live_matches": 2,
-  "upcoming_matches": 16,
+  "upcoming_matches": 25,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -1118,6 +1118,312 @@
     },
     {
       "type": "customentity",
+      "_translationId": "55b41501-e505-42ee-9c47-01f6f7b05220",
+      "_entityId": "9249a70f-d974-4c67-af29-fefa677e5099",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zambia-v-lesotho",
+      "slug": "zambia-v-lesotho",
+      "title": "Zambia v Lesotho",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8505bdd6-b26d-4d81-aab9-b76960af95f4",
+          "_entityId": "57a58911-7fc9-4907-88ff-bb9fbc1331ef",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274936",
+          "title": "Zambia vs Lesotho - Match 8 - 10/23/2026",
+          "slug": "match-274936",
+          "neutralSlug": "match-274936",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274936",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274936",
+            "teamA": "Zambia",
+            "teamB": "Lesotho",
+            "teamAid": "1718",
+            "teamBid": "1795",
+            "teamAshort": "ZAM",
+            "teamBshort": "LES",
+            "stage": "League",
+            "matchDateLocal": "10/23/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 8",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "zambia-vs-lesotho",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5201245b-fb35-408c-aa2f-11a1814c1fa0",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-23T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:39:40.553Z",
+      "contentDate": "2026-10-19T12:39:40.553Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match8",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ozf5wsdumhnhkcosf57p",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ozf5wsdumhnhkcosf57p",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match8",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match8"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0dace859-5d4d-44a0-88f3-a4cceff7f7d9",
+      "_entityId": "8641f37b-58cf-4849-93c8-fc82e1d84494",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nigeria-v-mozambique",
+      "slug": "nigeria-v-mozambique",
+      "title": "Nigeria v Mozambique",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "cc7030ca-17e1-4517-a300-3f8680b90f10",
+          "_entityId": "96e78ecd-216c-4f93-9fba-86db97b1c168",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274935",
+          "title": "Nigeria vs Mozambique - Match 7 - 10/23/2026",
+          "slug": "match-274935",
+          "neutralSlug": "match-274935",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274935",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274935",
+            "teamA": "Nigeria",
+            "teamB": "Mozambique",
+            "teamAid": "1671",
+            "teamBid": "1779",
+            "teamAshort": "NGR",
+            "teamBshort": "MOZ",
+            "stage": "League",
+            "matchDateLocal": "10/23/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "nigeria-vs-mozambique",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c8464a20-265b-4ad2-b942-b92b8917ca48",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-23T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:34:00.548Z",
+      "contentDate": "2026-10-19T12:34:00.548Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match7",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zscl6o8bncitpqwb0scg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zscl6o8bncitpqwb0scg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match7-x7298",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match7-x7298"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "3f97596d-6d97-4c0c-ad76-92cbd973dae6",
+      "_entityId": "03240059-af44-4243-9ccf-2af386d0209c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gambia-v-uganda",
+      "slug": "gambia-v-uganda",
+      "title": "Gambia v Uganda",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8d2ebff5-8ddd-4661-ad4b-00e8fe0c46d7",
+          "_entityId": "eea85305-202a-4c30-b546-d1edd030afe8",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274937",
+          "title": "Gambia vs Uganda - Match 9 - 10/23/2026",
+          "slug": "match-274937",
+          "neutralSlug": "match-274937",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274937",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274937",
+            "teamA": "Gambia",
+            "teamB": "Uganda",
+            "teamAid": "1824",
+            "teamBid": "29",
+            "teamAshort": "GAM",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "10/23/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 9",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "gambia-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9487957e-5851-49db-b2aa-734dd33a502c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "15000000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-23T12:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:36:11.763Z",
+      "contentDate": "2026-10-19T12:36:11.763Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match9(1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/r26qxl0u2sqzew5y6laf",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r26qxl0u2sqzew5y6laf",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match9-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match9-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "713959c4-47bd-41b0-b9aa-6ee2ca0cd3fb",
       "_entityId": "ea562400-89c0-4bdf-8bfa-9d001b8e157a",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-odi-namibia-vs-ireland-1st-innings",
@@ -1225,6 +1531,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "cb7fa246-c535-4ab1-b81c-5f7e53af6d21",
+      "_entityId": "9c0b7e9b-8781-47f2-b620-de1bd7d30a2f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/uganda-v-mozambique",
+      "slug": "uganda-v-mozambique",
+      "title": "Uganda v Mozambique",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "8a65c721-75bf-42b5-9da7-2f0585c1cd0a",
+          "_entityId": "d6b88060-670b-471e-bea8-ef614c720bb5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274938",
+          "title": "Uganda vs Mozambique - Match 10 - 10/24/2026",
+          "slug": "match-274938",
+          "neutralSlug": "match-274938",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274938",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274938",
+            "teamA": "Uganda",
+            "teamB": "Mozambique",
+            "teamAid": "29",
+            "teamBid": "1779",
+            "teamAshort": "UGA",
+            "teamBshort": "MOZ",
+            "stage": "League",
+            "matchDateLocal": "10/24/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 10",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "uganda-vs-mozambique",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ca7c0446-239f-4953-8411-28e22670de11",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-24T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:36:41.276Z",
+      "contentDate": "2026-10-19T12:36:41.276Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match10(1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xg9rdzleowk156msrxfe",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xg9rdzleowk156msrxfe",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match10-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match10-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "9fce4be8-9c16-4477-8f24-8ce02b5a0446",
       "_entityId": "411060b2-6d02-4547-aa96-b4951257c0b0",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-odi-namibia-vs-ireland-2nd-innings",
@@ -1327,6 +1735,516 @@
         "overriddenFormats": [],
         "slug": "2nd-odi-namibia-v-ireland-2nd-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/2nd-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9efadced-7a3e-49c6-996e-c62bf09fd38c",
+      "_entityId": "7171f84b-38d1-42d5-91d4-93b767c7a88f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/lesotho-v-nigeria",
+      "slug": "lesotho-v-nigeria",
+      "title": "Lesotho v Nigeria",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "974f1a22-1476-4d15-9228-fdc2220a3d0c",
+          "_entityId": "ba5869a8-2509-4c8b-a5be-90082e03942f",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274940",
+          "title": "Lesotho vs Nigeria - Match 12 - 10/24/2026",
+          "slug": "match-274940",
+          "neutralSlug": "match-274940",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274940",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274940",
+            "teamA": "Lesotho",
+            "teamB": "Nigeria",
+            "teamAid": "1795",
+            "teamBid": "1671",
+            "teamAshort": "LES",
+            "teamBshort": "NGR",
+            "stage": "League",
+            "matchDateLocal": "10/24/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 12",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "lesotho-vs-nigeria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "07465c47-9799-4338-a0b6-d44408f4e873",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-24T12:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:37:53.815Z",
+      "contentDate": "2026-10-19T12:37:53.815Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match12",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/luvyiquj0dd2ojh2sox9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/luvyiquj0dd2ojh2sox9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match12",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match12"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "11d11c4b-044d-4ff2-837d-2ec747a2ffc3",
+      "_entityId": "891a5802-d299-4aa9-8fbc-b9adf390436f",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gambia-v-zambia",
+      "slug": "gambia-v-zambia",
+      "title": "Gambia v Zambia",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "4f4f3da0-ad4d-48bc-beb1-d032ee8d4b5f",
+          "_entityId": "fbfbc8b3-9bdb-4cc1-b2be-1ab956ef0218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274939",
+          "title": "Gambia vs Zambia - Match 11 - 10/24/2026",
+          "slug": "match-274939",
+          "neutralSlug": "match-274939",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274939",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274939",
+            "teamA": "Gambia",
+            "teamB": "Zambia",
+            "teamAid": "1824",
+            "teamBid": "1718",
+            "teamAshort": "GAM",
+            "teamBshort": "ZAM",
+            "stage": "League",
+            "matchDateLocal": "10/24/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 11",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "gambia-vs-zambia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9f86682a-441a-44dd-b26f-b5764639264e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-24T12:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:37:16.201Z",
+      "contentDate": "2026-10-19T12:37:16.201Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match11",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ji1ijo9xehtj2xuuzfyd",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ji1ijo9xehtj2xuuzfyd",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match11",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match11"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "46d31ca6-6991-442b-9115-7ed6c4dc3c79",
+      "_entityId": "9362dad6-eaf0-4b2e-bd59-c4b385322448",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mozambique-v-zambia",
+      "slug": "mozambique-v-zambia",
+      "title": "Mozambique v Zambia",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "bb605254-21ff-4d16-a3a9-53155e2010d3",
+          "_entityId": "d71b9a9b-912c-4a1a-bbc3-cdc3cb79f44a",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274942",
+          "title": "Mozambique vs Zambia - Match 14 - 10/25/2026",
+          "slug": "match-274942",
+          "neutralSlug": "match-274942",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274942",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274942",
+            "teamA": "Mozambique",
+            "teamB": "Zambia",
+            "teamAid": "1779",
+            "teamBid": "1718",
+            "teamAshort": "MOZ",
+            "teamBshort": "ZAM",
+            "stage": "League",
+            "matchDateLocal": "10/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 14",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "mozambique-vs-zambia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e5c3a487-28d6-4d91-81c7-0260431cba6e",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-25T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:38:37.859Z",
+      "contentDate": "2026-10-19T12:38:37.859Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match14",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d3kkalfna7ljom6nxtyq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d3kkalfna7ljom6nxtyq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match14",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match14"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "224445d7-e401-416f-bc03-2d29d2ed1ea7",
+      "_entityId": "fe6115f3-e973-4dd3-8048-e0dc4e1d0aab",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gambia-v-lesotho",
+      "slug": "gambia-v-lesotho",
+      "title": "Gambia v Lesotho",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "23e2bac2-a63c-4b3c-a953-d0dc96518076",
+          "_entityId": "e3ffd0a1-9119-4e8c-bf69-084e0adda8e2",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274941",
+          "title": "Gambia vs Lesotho - Match 13 - 10/25/2026",
+          "slug": "match-274941",
+          "neutralSlug": "match-274941",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274941",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274941",
+            "teamA": "Gambia",
+            "teamB": "Lesotho",
+            "teamAid": "1824",
+            "teamBid": "1795",
+            "teamAshort": "GAM",
+            "teamBshort": "LES",
+            "stage": "League",
+            "matchDateLocal": "10/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 13",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "gambia-vs-lesotho",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "91441c43-dc85-4306-b656-5640a58d0ab8",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-25T08:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:38:15.337Z",
+      "contentDate": "2026-10-19T12:38:15.337Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match13",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/obiynwq5t8bfy1wd6zjn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/obiynwq5t8bfy1wd6zjn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match13",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match13"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "d7bbbbe4-45dd-4577-b368-61c5b9b7b4b9",
+      "_entityId": "0c6e358b-536c-44c6-97ee-ca7e2d25c543",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nigeria-v-uganda",
+      "slug": "nigeria-v-uganda",
+      "title": "Nigeria v Uganda",
+      "tags": [
+        {
+          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
+          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
+          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+          "slug": "tournament-15813",
+          "neutralSlug": "tournament-15813",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15813",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15813",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "31274c02-c078-461f-a2cb-cc04294312eb",
+          "_entityId": "5191dffb-bd8a-4ef5-9e0e-2386e145e8c5",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274943",
+          "title": "Nigeria vs Uganda - Match 15 - 10/25/2026",
+          "slug": "match-274943",
+          "neutralSlug": "match-274943",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274943",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "274943",
+            "teamA": "Nigeria",
+            "teamB": "Uganda",
+            "teamAid": "1671",
+            "teamBid": "29",
+            "teamAshort": "NGR",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "10/25/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 15",
+            "seriesId": "15813",
+            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12756",
+            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "nigeria-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "9627acbb-00ee-450e-bd36-31f7f05da916",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-25T12:50:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Pritam Varadkar",
+      "lastUpdatedDate": "2026-10-19T12:39:26.159Z",
+      "contentDate": "2026-10-19T12:39:26.159Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match15",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dz2u12i8twho6ce8r8k9",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dz2u12i8twho6ce8r8k9",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-mt20-28-africassubr-qualc-nig-match15",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match15"
       },
       "entityCode": "video"
     },
