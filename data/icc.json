@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:15:05 PM 19-10-2026",
-  "total_matches": 57,
-  "live_matches": 2,
-  "upcoming_matches": 55,
+  "last_updated": "19-10-2026 19:30",
+  "total_matches": 67,
+  "live_matches": 0,
+  "upcoming_matches": 67,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,274 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "5289938e-b6b7-4e1b-8b2a-5ce68a0630ca",
-      "_entityId": "678a6085-95e7-40e9-84ee-494d2627cc16",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-oman-2nd-innings-nepali",
-      "slug": "nepal-v-oman-2nd-innings-nepali",
-      "title": "Nepal v Oman (2nd Innings) (NEPALI)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "7cc74e2c-a4fd-4146-afe3-47db228ce61a",
-          "_entityId": "c5547abd-8af0-430c-9749-7644d413ddbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273765",
-          "title": "Oman vs Nepal - Match 139 - 10/19/2026",
-          "slug": "match-273765",
-          "neutralSlug": "match-273765",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273765",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273765",
-            "teamA": "Oman",
-            "teamB": "Nepal",
-            "teamAid": "28",
-            "teamBid": "637",
-            "teamAshort": "OMA",
-            "teamBshort": "NEP",
-            "stage": "League",
-            "matchDateLocal": "10/19/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 139",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "oman-vs-nepal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c405afdf-75e9-4b26-947d-9c4f63e62da4",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-19T09:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-19T09:42:22.774Z",
-      "contentDate": "2026-10-08T18:26:30.786Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-OMAN-OCT_Match6-NEPALI (2)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/p3v1kc9ktf8cvfqgbqnr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/p3v1kc9ktf8cvfqgbqnr",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-oman-oct-match6-nepali-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match6-nepali-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, October 19, 2026, 3:15:03 PM",
-        "expire_date": "Monday, October 19, 2026, 11:15:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792431908~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fc710983011750025ad09441669eb4e308ba2ca0d7901b72b47e7d6b11a8f24f/manifest.mpd?vcfilter=c405afdf-75e9-4b26-947d-9c4f63e62da4&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "5fc6d29b-2bbb-41e5-8f88-f8c50f2f3e28",
-      "_entityId": "c77acd84-1295-4450-a165-4f421b7ce90c",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nepal-v-oman-2nd-innings",
-      "slug": "nepal-v-oman-2nd-innings",
-      "title": "Nepal v Oman (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "7cc74e2c-a4fd-4146-afe3-47db228ce61a",
-          "_entityId": "c5547abd-8af0-430c-9749-7644d413ddbe",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273765",
-          "title": "Oman vs Nepal - Match 139 - 10/19/2026",
-          "slug": "match-273765",
-          "neutralSlug": "match-273765",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-273765",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "273765",
-            "teamA": "Oman",
-            "teamB": "Nepal",
-            "teamAid": "28",
-            "teamBid": "637",
-            "teamAshort": "OMA",
-            "teamBshort": "NEP",
-            "stage": "League",
-            "matchDateLocal": "10/19/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 139",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "oman-vs-nepal",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "17094442-5815-4a7b-8489-b0000c57b7ec",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-19T09:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-19T09:42:20.019Z",
-      "contentDate": "2026-10-06T12:19:12.563Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-OMAN-OCT_Match3 (2)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/d8ebcozmungznpi0k509",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d8ebcozmungznpi0k509",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-oman-oct-match3-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-oman-oct-match3-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Monday, October 19, 2026, 3:15:07 PM",
-        "expire_date": "Monday, October 19, 2026, 11:15:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792431910~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=37a7454e1a41cb7e99ff58aac46dccd8b4d14f0d09d5f0b989cb293a5833e452/manifest.mpd?vcfilter=17094442-5815-4a7b-8489-b0000c57b7ec&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
@@ -2964,6 +2697,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "816915b5-94a5-4c03-b563-8535035206af",
+      "_entityId": "621e6039-908e-4524-b912-47dd0d356656",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-netherlands-1st-innings",
+      "slug": "united-arab-emirates-v-netherlands-1st-innings",
+      "title": "United Arab Emirates v Netherlands (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f9122a77-ddd8-4860-8ed4-e4f437a30c19",
+          "_entityId": "856cb8b1-67f1-4980-89dc-5c2dec6f5ad6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275767",
+          "title": "United Arab Emirates vs Netherlands - Match 140 - 10/25/2026",
+          "slug": "match-275767",
+          "neutralSlug": "match-275767",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275767",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275767",
+            "teamA": "United Arab Emirates",
+            "teamB": "Netherlands",
+            "teamAid": "21",
+            "teamBid": "15",
+            "teamAshort": "UAE",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "10/25/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 140",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "baf485b3-8795-491e-b7cc-ede695ed6feb",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-25T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:48:31.372Z",
+      "contentDate": "2026-10-19T13:48:31.372Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x3th2nlvfw8wdjhwaidm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x3th2nlvfw8wdjhwaidm",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "f3752c64-ce16-4618-ba7b-630734573662",
       "_entityId": "6c5ee164-3865-44c1-a20f-c2d0decb1fe6",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-papua-new-guinea-1st-innings",
@@ -3372,6 +3207,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "3c9dbffd-cf06-48ac-89a6-b32deab30091",
+      "_entityId": "a336123d-adb0-4dfb-a677-8b3424d7f7b2",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-netherlands-2nd-innings",
+      "slug": "united-arab-emirates-v-netherlands-2nd-innings",
+      "title": "United Arab Emirates v Netherlands (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f9122a77-ddd8-4860-8ed4-e4f437a30c19",
+          "_entityId": "856cb8b1-67f1-4980-89dc-5c2dec6f5ad6",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275767",
+          "title": "United Arab Emirates vs Netherlands - Match 140 - 10/25/2026",
+          "slug": "match-275767",
+          "neutralSlug": "match-275767",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275767",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275767",
+            "teamA": "United Arab Emirates",
+            "teamB": "Netherlands",
+            "teamAid": "21",
+            "teamBid": "15",
+            "teamAshort": "UAE",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "10/25/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 140",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3425c937-1f19-4c30-ae9e-1a11e0fda01a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-25T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:48:55.461Z",
+      "contentDate": "2026-10-19T13:48:55.461Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match1 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/exgnvrvyigpp9oh7es58",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/exgnvrvyigpp9oh7es58",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match1-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match1-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "f71c45af-8a16-4190-be5a-c5d161aa4de2",
       "_entityId": "4dbd8415-e313-44e5-b81f-bfa7dcdb7144",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-papua-new-guinea-2nd-innings",
@@ -3673,6 +3610,108 @@
         "overriddenFormats": [],
         "slug": "icc26-mt20-28-africassubr-qualc-nig-match15",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match15"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "7249f38c-5469-4355-a309-b400e567166d",
+      "_entityId": "35d3293c-2caf-4b52-aca2-e69aeadef655",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-oman-1st-innings",
+      "slug": "netherlands-v-oman-1st-innings",
+      "title": "Netherlands v Oman (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "400c8c84-7c3f-42d0-ac61-5f05e7945caf",
+          "_entityId": "1fde6270-71cc-4bb9-8e5f-db22c7da36ad",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275768",
+          "title": "Netherlands vs Oman - Match 141 - 10/27/2026",
+          "slug": "match-275768",
+          "neutralSlug": "match-275768",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275768",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275768",
+            "teamA": "Netherlands",
+            "teamB": "Oman",
+            "teamAid": "15",
+            "teamBid": "28",
+            "teamAshort": "NED",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "10/27/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 141",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "netherlands-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "3c26ff47-cd8d-49b3-ab5a-988893820ac6",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-27T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:52:28.538Z",
+      "contentDate": "2026-10-19T13:52:28.538Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x5uoygeibvaarq0jkly4",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x5uoygeibvaarq0jkly4",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match2"
       },
       "entityCode": "video"
     },
@@ -3984,6 +4023,108 @@
         "overriddenFormats": [],
         "slug": "3rd-odi-namibia-v-ireland-1st-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "7aebbf76-47f1-45b5-99f4-5907c05e9f94",
+      "_entityId": "b6a2af63-c735-4cf6-b4cc-175b45d35abd",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-oman-2nd-innings",
+      "slug": "netherlands-v-oman-2nd-innings",
+      "title": "Netherlands v Oman (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "400c8c84-7c3f-42d0-ac61-5f05e7945caf",
+          "_entityId": "1fde6270-71cc-4bb9-8e5f-db22c7da36ad",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275768",
+          "title": "Netherlands vs Oman - Match 141 - 10/27/2026",
+          "slug": "match-275768",
+          "neutralSlug": "match-275768",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275768",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275768",
+            "teamA": "Netherlands",
+            "teamB": "Oman",
+            "teamAid": "15",
+            "teamBid": "28",
+            "teamAshort": "NED",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "10/27/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 141",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "netherlands-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "f3d624d3-bd4d-463a-8ef6-d81b81334efe",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-27T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:52:45.921Z",
+      "contentDate": "2026-10-19T13:52:45.921Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match2 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mtmete74ontsci7areyt",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mtmete74ontsci7areyt",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match2-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match2-1"
       },
       "entityCode": "video"
     },
@@ -4708,6 +4849,210 @@
     },
     {
       "type": "customentity",
+      "_translationId": "8cfaf04e-5b32-4c85-94fc-3457a93fa5de",
+      "_entityId": "80da8fbe-e9c6-40cf-a885-896265d0315d",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-oman-1st-innings",
+      "slug": "united-arab-emirates-v-oman-1st-innings",
+      "title": "United Arab Emirates v Oman (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f5628315-ed54-4922-ae6c-659808dddbbc",
+          "_entityId": "7654cfcc-e1e5-4e39-ae03-fb026367cc5a",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275769",
+          "title": "United Arab Emirates vs Oman - Match 142 - 10/29/2026",
+          "slug": "match-275769",
+          "neutralSlug": "match-275769",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275769",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275769",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "10/29/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 142",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "ba30a0fa-b595-4934-b608-a81491f23811",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-29T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:53:40.705Z",
+      "contentDate": "2026-10-19T13:53:40.705Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqwynqbvxhwkx7ikkptv",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqwynqbvxhwkx7ikkptv",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match3"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "98c7a24f-d611-40b3-aa0c-16bbf8fab96e",
+      "_entityId": "c7479013-76a5-48a1-88ef-daf4af1b0196",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-oman-2nd-innings",
+      "slug": "united-arab-emirates-v-oman-2nd-innings",
+      "title": "United Arab Emirates v Oman (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "f5628315-ed54-4922-ae6c-659808dddbbc",
+          "_entityId": "7654cfcc-e1e5-4e39-ae03-fb026367cc5a",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275769",
+          "title": "United Arab Emirates vs Oman - Match 142 - 10/29/2026",
+          "slug": "match-275769",
+          "neutralSlug": "match-275769",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275769",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275769",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "10/29/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 142",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e930612b-2908-4bd9-a515-bad858446d33",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-29T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:54:01.574Z",
+      "contentDate": "2026-10-19T13:54:01.574Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match3 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fyiinpxqmtpa91fxuhjw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fyiinpxqmtpa91fxuhjw",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match3-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match3-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "e3d11246-b9d7-4e86-829e-9a401f94102d",
       "_entityId": "31cf08af-5a35-4637-9cd7-485db6fbf6c5",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/jersey-v-denmark-1st-innings",
@@ -5330,6 +5675,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "393241f0-6596-4280-8373-8c98b134275c",
+      "_entityId": "65717b4c-6c22-4171-9e78-ad408af98f98",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-united-arab-emirates-1st-innings",
+      "slug": "netherlands-v-united-arab-emirates-1st-innings",
+      "title": "Netherlands v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b8f70133-c803-49fc-8731-3739fddfed87",
+          "_entityId": "5dfe177f-0419-4600-90ac-f5d89bad1c29",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275770",
+          "title": "United Arab Emirates vs Netherlands - Match 143 - 10/31/2026",
+          "slug": "match-275770",
+          "neutralSlug": "match-275770",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275770",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275770",
+            "teamA": "United Arab Emirates",
+            "teamB": "Netherlands",
+            "teamAid": "21",
+            "teamBid": "15",
+            "teamAshort": "UAE",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 143",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c550c096-1066-4984-abfd-3ae7f32153da",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:55:33.718Z",
+      "contentDate": "2026-10-19T13:55:33.718Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/npc3zfxylqwbdm0ifwki",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match4"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "0e559553-00a1-4e29-a3e8-15acbcd73721",
       "_entityId": "25438df1-e7f2-46b2-9559-ec2d150c91f7",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-jersey-1st-innings",
@@ -5529,6 +5976,108 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-cla-ken-oct-match14",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match14"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "fd64ddb9-a9a6-42db-8a06-41a9a76955ec",
+      "_entityId": "384a1033-68a9-4f17-b314-b721e807d18b",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-united-arab-emirates-2nd-innings",
+      "slug": "netherlands-v-united-arab-emirates-2nd-innings",
+      "title": "Netherlands v United Arab Emirates (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b8f70133-c803-49fc-8731-3739fddfed87",
+          "_entityId": "5dfe177f-0419-4600-90ac-f5d89bad1c29",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275770",
+          "title": "United Arab Emirates vs Netherlands - Match 143 - 10/31/2026",
+          "slug": "match-275770",
+          "neutralSlug": "match-275770",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275770",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275770",
+            "teamA": "United Arab Emirates",
+            "teamB": "Netherlands",
+            "teamAid": "21",
+            "teamBid": "15",
+            "teamAshort": "UAE",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 143",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1afefde6-f9cc-4968-b7bf-dd9284312542",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:55:55.438Z",
+      "contentDate": "2026-10-19T13:55:55.438Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match4 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/z27ygrztwjo6bxujbzq6",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z27ygrztwjo6bxujbzq6",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match4-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match4-1"
       },
       "entityCode": "video"
     },
@@ -5947,6 +6496,414 @@
         "overriddenFormats": [],
         "slug": "5th-odi-namibia-v-ireland-2nd-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6b17c726-8384-4a92-9c34-1c746a63c20a",
+      "_entityId": "841cea5a-bfd2-42ef-9bff-9d16ef3e2a64",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-netherlands-1st-innings",
+      "slug": "oman-v-netherlands-1st-innings",
+      "title": "Oman v Netherlands (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e18ed653-74a3-4e93-be99-a5a958b32253",
+          "_entityId": "997ae7c6-8b69-4819-b7e8-98cae9787509",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275771",
+          "title": "Oman vs Netherlands - Match 144 - 11/2/2026",
+          "slug": "match-275771",
+          "neutralSlug": "match-275771",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275771",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275771",
+            "teamA": "Oman",
+            "teamB": "Netherlands",
+            "teamAid": "28",
+            "teamBid": "15",
+            "teamAshort": "OMA",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "11/2/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 144",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e44e366a-fca1-4919-b599-c362add5b866",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-02T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:56:50.128Z",
+      "contentDate": "2026-10-19T13:56:50.128Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match5",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/y8km8cjfiy9icigu83be",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y8km8cjfiy9icigu83be",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match5",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match5"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "594ce950-1352-4a90-b78f-589ee0be515f",
+      "_entityId": "6972a570-6353-4295-9871-261c71095c93",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-netherlands-2nd-innings",
+      "slug": "oman-v-netherlands-2nd-innings",
+      "title": "Oman v Netherlands (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e18ed653-74a3-4e93-be99-a5a958b32253",
+          "_entityId": "997ae7c6-8b69-4819-b7e8-98cae9787509",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275771",
+          "title": "Oman vs Netherlands - Match 144 - 11/2/2026",
+          "slug": "match-275771",
+          "neutralSlug": "match-275771",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275771",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275771",
+            "teamA": "Oman",
+            "teamB": "Netherlands",
+            "teamAid": "28",
+            "teamBid": "15",
+            "teamAshort": "OMA",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "11/2/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 144",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1368869f-0774-4914-bf72-4b1216df3b9c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-02T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:57:06.692Z",
+      "contentDate": "2026-10-19T13:57:06.692Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match5 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/blzdrprccni1b0fkdpee",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/blzdrprccni1b0fkdpee",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match5-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match5-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "a3069a3e-aba5-4996-a3c8-8152daa437e9",
+      "_entityId": "e2fb4891-699d-45a8-b186-44b41cbd7d50",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings",
+      "slug": "oman-v-united-arab-emirates-1st-innings",
+      "title": "Oman v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0c6e0dad-fe47-4148-90f4-d696e10b10d7",
+          "_entityId": "6c030022-4d94-427e-8a15-e77c69eccb28",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275772",
+          "title": "United Arab Emirates vs Oman - Match 145 - 11/4/2026",
+          "slug": "match-275772",
+          "neutralSlug": "match-275772",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275772",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275772",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "11/4/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 145",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e3a42908-36fa-4895-98f5-13c0817026c9",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-04T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:57:43.146Z",
+      "contentDate": "2026-10-19T13:57:43.146Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match6",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ka014qsjtpyi55ii8kfm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ka014qsjtpyi55ii8kfm",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match6"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "971949c6-110b-4585-b6e0-ff1926e80311",
+      "_entityId": "ab56c05f-2c4a-4a10-ab6b-3e1af80dd061",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
+      "slug": "oman-v-united-arab-emirates-2nd-innings",
+      "title": "Oman v United Arab Emirates (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0c6e0dad-fe47-4148-90f4-d696e10b10d7",
+          "_entityId": "6c030022-4d94-427e-8a15-e77c69eccb28",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275772",
+          "title": "United Arab Emirates vs Oman - Match 145 - 11/4/2026",
+          "slug": "match-275772",
+          "neutralSlug": "match-275772",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275772",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275772",
+            "teamA": "United Arab Emirates",
+            "teamB": "Oman",
+            "teamAid": "21",
+            "teamBid": "28",
+            "teamAshort": "UAE",
+            "teamBshort": "OMA",
+            "stage": "League",
+            "matchDateLocal": "11/4/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 145",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-oman",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d41a233d-015f-46c4-a811-63c33a97aa98",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-04T09:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:58:02.093Z",
+      "contentDate": "2026-10-19T13:58:02.093Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match6 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pvp94bhzn7rdkalcg2ua",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pvp94bhzn7rdkalcg2ua",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match6-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match6-1"
       },
       "entityCode": "video"
     }
