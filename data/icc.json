@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:00:05 PM 19-10-2026",
-  "total_matches": 49,
+  "last_updated": "07:15:05 PM 19-10-2026",
+  "total_matches": 57,
   "live_matches": 2,
-  "upcoming_matches": 47,
+  "upcoming_matches": 55,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -4708,6 +4708,210 @@
     },
     {
       "type": "customentity",
+      "_translationId": "e3d11246-b9d7-4e86-829e-9a401f94102d",
+      "_entityId": "31cf08af-5a35-4637-9cd7-485db6fbf6c5",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/jersey-v-denmark-1st-innings",
+      "slug": "jersey-v-denmark-1st-innings",
+      "title": "Jersey v Denmark (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "83b381c3-91ca-42c5-b602-747fe4b2ba69",
+          "_entityId": "265e6f52-1622-495f-8abd-0915e73aaf68",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275483",
+          "title": "Jersey vs Denmark - Match 43 - 10/30/2026",
+          "slug": "match-275483",
+          "neutralSlug": "match-275483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275483",
+            "teamA": "Jersey",
+            "teamB": "Denmark",
+            "teamAid": "1481",
+            "teamBid": "26",
+            "teamAshort": "JSY",
+            "teamBshort": "DEN",
+            "stage": "League",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 43",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "jersey-vs-denmark",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "8499792c-e958-4275-a53c-3ce36223b393",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T06:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:36:16.744Z",
+      "contentDate": "2026-10-19T13:36:16.744Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match13",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/psc1bfilnrsnfljjdcyw",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/psc1bfilnrsnfljjdcyw",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match13",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match13"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "8ff9deec-8cf0-406b-9d3e-c5c5320aacc2",
+      "_entityId": "d5cc8a92-52fa-4dcd-bf46-48e5d863f702",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-kuwait-1st-innings",
+      "slug": "papua-new-guinea-v-kuwait-1st-innings",
+      "title": "Papua New Guinea v Kuwait (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b6aca316-f913-42e9-b351-bc6b90f52bf8",
+          "_entityId": "4ffe5934-a7bc-4b0e-bc81-f094586fe232",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275482",
+          "title": "Papua New Guinea vs Kuwait - Match 42 - 10/30/2026",
+          "slug": "match-275482",
+          "neutralSlug": "match-275482",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275482",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275482",
+            "teamA": "Papua New Guinea",
+            "teamB": "Kuwait",
+            "teamAid": "750",
+            "teamBid": "1797",
+            "teamAshort": "PNG",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 42",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "papua-new-guinea-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a1560c47-a668-487d-b52f-1ea2f04b2389",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T06:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:34:18.571Z",
+      "contentDate": "2026-10-19T13:34:18.571Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match12",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cvvneqgfwotrupagbykz",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cvvneqgfwotrupagbykz",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match12",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match12"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "ddab1b30-9c6f-4772-9a51-ab240be1a498",
       "_entityId": "59c316d6-6182-4160-ade2-18de4aa5e6e5",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-1st-innings",
@@ -4815,6 +5019,210 @@
     },
     {
       "type": "customentity",
+      "_translationId": "8fa9ea2c-cd64-4371-a6b0-c361dd0c1144",
+      "_entityId": "a078f204-1650-45fa-8772-c30de466cce7",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/jersey-v-denmark-2nd-innings",
+      "slug": "jersey-v-denmark-2nd-innings",
+      "title": "Jersey v Denmark (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "83b381c3-91ca-42c5-b602-747fe4b2ba69",
+          "_entityId": "265e6f52-1622-495f-8abd-0915e73aaf68",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275483",
+          "title": "Jersey vs Denmark - Match 43 - 10/30/2026",
+          "slug": "match-275483",
+          "neutralSlug": "match-275483",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275483",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275483",
+            "teamA": "Jersey",
+            "teamB": "Denmark",
+            "teamAid": "1481",
+            "teamBid": "26",
+            "teamAshort": "JSY",
+            "teamBshort": "DEN",
+            "stage": "League",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 43",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "jersey-vs-denmark",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "7ace080e-6607-44db-acb0-54534ec45e2d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T10:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:36:42.939Z",
+      "contentDate": "2026-10-19T13:36:42.939Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match13 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rfvl0nxagbecprxgurim",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rfvl0nxagbecprxgurim",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match13-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match13-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "17da0523-28f1-4596-a51a-ab8b621de2a1",
+      "_entityId": "de3e44bb-9c95-4f1a-b24e-9ecb03b2307e",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-kuwait-2nd-innings",
+      "slug": "papua-new-guinea-v-kuwait-2nd-innings",
+      "title": "Papua New Guinea v Kuwait (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b6aca316-f913-42e9-b351-bc6b90f52bf8",
+          "_entityId": "4ffe5934-a7bc-4b0e-bc81-f094586fe232",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275482",
+          "title": "Papua New Guinea vs Kuwait - Match 42 - 10/30/2026",
+          "slug": "match-275482",
+          "neutralSlug": "match-275482",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275482",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275482",
+            "teamA": "Papua New Guinea",
+            "teamB": "Kuwait",
+            "teamAid": "750",
+            "teamBid": "1797",
+            "teamAshort": "PNG",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "10/30/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 42",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "papua-new-guinea-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "b04c8bfc-238e-4c2e-b8ea-267bc6d1515c",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-30T10:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:34:44.235Z",
+      "contentDate": "2026-10-19T13:34:44.235Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match12 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kgzuqdtyvunbsbaz8i9r",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kgzuqdtyvunbsbaz8i9r",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match12-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match12-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "189be1e3-cccf-4150-98c3-8cd8bed1d028",
       "_entityId": "dd8409a9-1c32-4e90-8e8f-4bdc246e1cc5",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-2nd-innings",
@@ -4917,6 +5325,414 @@
         "overriddenFormats": [],
         "slug": "4th-odi-namibia-v-ireland-2nd-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-odi-namibia-v-ireland-2nd-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "0e559553-00a1-4e29-a3e8-15acbcd73721",
+      "_entityId": "25438df1-e7f2-46b2-9559-ec2d150c91f7",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-jersey-1st-innings",
+      "slug": "qatar-v-jersey-1st-innings",
+      "title": "Qatar v Jersey (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1fcc6620-7d05-4450-ac3a-501ffa5af952",
+          "_entityId": "acc1e1c8-3487-4aba-8e85-6786bd59b842",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275485",
+          "title": "Qatar vs Jersey - Match 45 - 10/31/2026",
+          "slug": "match-275485",
+          "neutralSlug": "match-275485",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275485",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275485",
+            "teamA": "Qatar",
+            "teamB": "Jersey",
+            "teamAid": "1763",
+            "teamBid": "1481",
+            "teamAshort": "QAT",
+            "teamBshort": "JSY",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 45",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "qatar-vs-jersey",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "5164e0ca-5166-4a1a-96b1-3b55a3ffecd1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T06:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:38:56.028Z",
+      "contentDate": "2026-10-19T13:38:56.028Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match15",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uwzpphjqrrvkuzjsooqz",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uwzpphjqrrvkuzjsooqz",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match15",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match15"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "68127e90-1a80-4787-a88a-d1b67ec48465",
+      "_entityId": "c14569de-a24c-4a08-b1bd-604d824883a7",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-papua-new-guinea-1st-innings",
+      "slug": "kenya-v-papua-new-guinea-1st-innings",
+      "title": "Kenya v Papua New Guinea (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0b61d858-368e-46ad-9d26-a48cd72fceda",
+          "_entityId": "f15cb432-71e4-48f9-96de-7f2310c98982",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275484",
+          "title": "Kenya vs Papua New Guinea - Match 44 - 10/31/2026",
+          "slug": "match-275484",
+          "neutralSlug": "match-275484",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275484",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275484",
+            "teamA": "Kenya",
+            "teamB": "Papua New Guinea",
+            "teamAid": "14",
+            "teamBid": "750",
+            "teamAshort": "KEN",
+            "teamBshort": "PNG",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 44",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "kenya-vs-papua-new-guinea",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T06:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:37:52.035Z",
+      "contentDate": "2026-10-19T13:37:52.035Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match14",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uqhfjb7gjpuqepa0yt3u",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uqhfjb7gjpuqepa0yt3u",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match14",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match14"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6df39426-7d3f-4ae2-9b36-be1a1311aaf0",
+      "_entityId": "f533caa6-4e4e-4c42-bc5e-93e4ff53fd7a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-jersey-2nd-innings",
+      "slug": "qatar-v-jersey-2nd-innings",
+      "title": "Qatar v Jersey (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1fcc6620-7d05-4450-ac3a-501ffa5af952",
+          "_entityId": "acc1e1c8-3487-4aba-8e85-6786bd59b842",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275485",
+          "title": "Qatar vs Jersey - Match 45 - 10/31/2026",
+          "slug": "match-275485",
+          "neutralSlug": "match-275485",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275485",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275485",
+            "teamA": "Qatar",
+            "teamB": "Jersey",
+            "teamAid": "1763",
+            "teamBid": "1481",
+            "teamAshort": "QAT",
+            "teamBshort": "JSY",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 45",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "qatar-vs-jersey",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d8afefb5-b1b2-4e86-b4ee-abeadfa2c2e7",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T10:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:39:11.106Z",
+      "contentDate": "2026-10-19T13:39:11.106Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match15 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sozkttgn7cfxhpz3qirx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sozkttgn7cfxhpz3qirx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match15-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match15-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "132ed050-0f9b-4230-85da-3ba459f71ec4",
+      "_entityId": "cb54e5e3-ad27-4147-971c-8a1522a6a7cb",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-papua-new-guinea-2nd-innings",
+      "slug": "kenya-v-papua-new-guinea-2nd-innings",
+      "title": "Kenya v Papua New Guinea (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0b61d858-368e-46ad-9d26-a48cd72fceda",
+          "_entityId": "f15cb432-71e4-48f9-96de-7f2310c98982",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275484",
+          "title": "Kenya vs Papua New Guinea - Match 44 - 10/31/2026",
+          "slug": "match-275484",
+          "neutralSlug": "match-275484",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275484",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275484",
+            "teamA": "Kenya",
+            "teamB": "Papua New Guinea",
+            "teamAid": "14",
+            "teamBid": "750",
+            "teamAshort": "KEN",
+            "teamBshort": "PNG",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 44",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "kenya-vs-papua-new-guinea",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "a63c46f2-2821-4fb9-b79d-a7fbb698af1d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T10:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-10-19T13:38:06.324Z",
+      "contentDate": "2026-10-19T13:38:06.324Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match14 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vxqgr6pf5onb8zdu3ykq",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vxqgr6pf5onb8zdu3ykq",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match14-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match14-1"
       },
       "entityCode": "video"
     },
