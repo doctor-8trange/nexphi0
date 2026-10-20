@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:15:08 PM 20-10-2026",
-  "total_matches": 66,
-  "live_matches": 2,
+  "last_updated": "09:45:04 PM 20-10-2026",
+  "total_matches": 65,
+  "live_matches": 1,
   "upcoming_matches": 64,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792529106~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=955206e4cc9ed91f499f83cfcf5e246f4033555644914e56bfdb211625ccbd43/manifest.mpd?vcfilter=bbf86e4c-fd34-4af3-8752-770df69460ad&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "6828a4ad-7730-44ad-a134-0794520676c9",
-      "_entityId": "eb79ca03-52d0-445e-9b63-ae644dde083d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/lesotho-v-mozambique",
-      "slug": "lesotho-v-mozambique",
-      "title": "Lesotho v Mozambique",
-      "tags": [
-        {
-          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
-          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "neutralSlug": "tournament-15813",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15813",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "4349e632-02c8-4fbc-99cc-30b0c93655cd",
-          "_entityId": "9639583f-1655-4ad5-9a93-2cac315f1ec2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274930",
-          "title": "Lesotho vs Mozambique - Match 2 - 10/20/2026",
-          "slug": "match-274930",
-          "neutralSlug": "match-274930",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274930",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274930",
-            "teamA": "Lesotho",
-            "teamB": "Mozambique",
-            "teamAid": "1795",
-            "teamBid": "1779",
-            "teamAshort": "LES",
-            "teamBshort": "MOZ",
-            "stage": "League",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15813",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12756",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "lesotho-vs-mozambique",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "9c9148ea-67b8-46bf-997b-fe0a0c82cb66",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-20T12:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-20T12:30:24.975Z",
-      "contentDate": "2026-10-19T11:02:11.225Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/va4apkg20iaufysaazmj",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/va4apkg20iaufysaazmj",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-qualc-nig-match2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, October 20, 2026, 6:15:05 PM",
-        "expire_date": "Wednesday, October 21, 2026, 2:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792529109~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=173d3fba152feae5d087df28a4a338e6792684d510c72c2a677df9608e1a19bc/manifest.mpd?vcfilter=9c9148ea-67b8-46bf-997b-fe0a0c82cb66&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
