@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:30:06 PM 21-10-2026",
-  "total_matches": 60,
-  "live_matches": 1,
+  "last_updated": "21-10-2026 22:00",
+  "total_matches": 59,
+  "live_matches": 0,
   "upcoming_matches": 59,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "6d1d930f-aec9-4024-9521-d74550eab225",
-      "_entityId": "cefd61a5-e844-4e07-af45-967b0bac72f0",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zambia-v-nigeria",
-      "slug": "zambia-v-nigeria",
-      "title": "Zambia v Nigeria",
-      "tags": [
-        {
-          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
-          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "neutralSlug": "tournament-15813",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15813",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "b49dbde0-dd15-40d3-8fbc-3ad0a0b3d68f",
-          "_entityId": "2a5d698b-05f2-463c-9599-d7c8f9090424",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274934",
-          "title": "Zambia vs Nigeria - Match 6 - 10/21/2026",
-          "slug": "match-274934",
-          "neutralSlug": "match-274934",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274934",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274934",
-            "teamA": "Zambia",
-            "teamB": "Nigeria",
-            "teamAid": "1718",
-            "teamBid": "1671",
-            "teamAshort": "ZAM",
-            "teamBshort": "NGR",
-            "stage": "League",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 6",
-            "seriesId": "15813",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12756",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "zambia-vs-nigeria",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a1e7fd5d-5436-423e-b18f-d86c4244e6b9",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-21T12:50:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-21T12:30:21.615Z",
-      "contentDate": "2026-10-19T11:19:32.105Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lwmsgcovawwwpeimbbwk",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lwmsgcovawwwpeimbbwk",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-qualc-nig-match6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, October 21, 2026, 6:15:06 PM",
-        "expire_date": "Thursday, October 22, 2026, 2:15:09 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792615509~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5af6799d0ee6b8348b470384c315d5f0866452f37fd315b3caddf6310629b825/manifest.mpd?vcfilter=a1e7fd5d-5436-423e-b18f-d86c4244e6b9&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
