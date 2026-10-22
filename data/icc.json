@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:00:05 PM 22-10-2026",
-  "total_matches": 55,
-  "live_matches": 2,
+  "last_updated": "08:00:05 PM 22-10-2026",
+  "total_matches": 54,
+  "live_matches": 1,
   "upcoming_matches": 53,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,144 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792695606~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93f1c8130623cd9b819186c545e85dc2b491b0f22c775217f2bac45ec53ca3ac/manifest.mpd?vcfilter=057fce9f-760f-4fed-918c-e1743e719015&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "0072779a-a761-4309-9f7f-19432d0988ba",
-      "_entityId": "749e1928-67b7-4c57-a12c-fee50bf0a4c0",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-odi-namibia-vs-ireland-2nd-innings",
-      "slug": "1st-odi-namibia-vs-ireland-2nd-innings",
-      "title": "1st ODI: Namibia vs Ireland (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
-          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
-          "title": "Ireland in Namibia, 5 ODI Series, 2026",
-          "slug": "tournament-15830",
-          "neutralSlug": "tournament-15830",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15830",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15830",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "3affab75-95b7-4dc5-9f26-e44dd7a3e174",
-          "_entityId": "d03583f6-a033-43a9-897e-e5ba8b2d672f",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275410",
-          "title": "Namibia vs Ireland - 1st ODI - 10/22/2026",
-          "slug": "match-275410",
-          "neutralSlug": "match-275410",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275410",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275410",
-            "teamA": "Namibia",
-            "teamB": "Ireland",
-            "teamAid": "20",
-            "teamBid": "13",
-            "teamAshort": "NAM",
-            "teamBshort": "IRE",
-            "stage": "Series",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "ODI",
-            "matchNumber": "1st ODI",
-            "seriesId": "15830",
-            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
-            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
-            "seriesType": "Series",
-            "tourId": "12773",
-            "tourName": "Ireland tour of Namibia, 2026",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "namibia-vs-ireland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c76a480f-70d1-41d1-9ae6-a9632e0e970b",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-22T11:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "NA",
-            "ZW",
-            "NP",
-            "LK",
-            "BD",
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-22T11:17:30.594Z",
-      "contentDate": "2026-10-16T12:56:31.865Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "1st ODI-Namibia-v-Ireland-2nd-Innings",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wxzdw7endidjk2ujbdiw",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wxzdw7endidjk2ujbdiw",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "1st-odi-namibia-v-ireland-2nd-innings",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/1st-odi-namibia-v-ireland-2nd-innings"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 22, 2026, 5:00:03 PM",
-        "expire_date": "Friday, October 23, 2026, 1:00:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792697406~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6e53bafdc06fae1e0c49a2f93ea6407d90d218abf8aed944193825d81d29baad/manifest.mpd?vcfilter=c76a480f-70d1-41d1-9ae6-a9632e0e970b&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
