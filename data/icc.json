@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:45:06 PM 22-10-2026",
-  "total_matches": 59,
-  "live_matches": 4,
+  "last_updated": "04:00:02 PM 22-10-2026",
+  "total_matches": 58,
+  "live_matches": 3,
   "upcoming_matches": 55,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792680309~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3ca51476f245dcbc88ccb90cca6bb66868ad18f63b2c9a229f67718dc5de5b48/manifest.mpd?vcfilter=b7dcea50-443b-424b-8f43-23651f89912c&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "c16668e6-d444-4f09-a648-61998d13eb19",
-      "_entityId": "f9e5f811-0cb7-4e00-9d2a-0123a4870978",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-jersey-1st-innings",
-      "slug": "papua-new-guinea-v-jersey-1st-innings",
-      "title": "Papua New Guinea v Jersey (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "d29eb4c2-f13f-409e-92d5-a517a3b26706",
-          "_entityId": "80bcbc50-44c1-419a-be26-989fbe4b67c9",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275470",
-          "title": "Papua New Guinea vs Jersey - Match 32 - 10/22/2026",
-          "slug": "match-275470",
-          "neutralSlug": "match-275470",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275470",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275470",
-            "teamA": "Papua New Guinea",
-            "teamB": "Jersey",
-            "teamAid": "750",
-            "teamBid": "1481",
-            "teamAshort": "PNG",
-            "teamBshort": "JSY",
-            "stage": "League",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 32",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "papua-new-guinea-vs-jersey",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7d22177c-4d98-4c3b-96ca-5c0cd1df94bf",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-22T06:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-22T06:29:18.258Z",
-      "contentDate": "2026-10-19T13:11:01.67Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match2 copy",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/z1quqi7iyi5ltvwxdycr",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z1quqi7iyi5ltvwxdycr",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match2-copy",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match2-copy"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 22, 2026, 12:00:05 PM",
-        "expire_date": "Thursday, October 22, 2026, 8:00:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792679409~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=859cb7c9da43861105734ae2a2ee20040d746dab00c4aac71fdd23b4a08f37f4/manifest.mpd?vcfilter=7d22177c-4d98-4c3b-96ca-5c0cd1df94bf&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
