@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "08:00:05 PM 22-10-2026",
-  "total_matches": 54,
-  "live_matches": 1,
+  "last_updated": "22-10-2026 20:45",
+  "total_matches": 53,
+  "live_matches": 0,
   "upcoming_matches": 53,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,141 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "530eeba7-7b97-44b4-b3e4-858de36574cf",
-      "_entityId": "fffacbab-3297-4525-a076-609e9a004806",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-kuwait-2nd-innings",
-      "slug": "qatar-v-kuwait-2nd-innings",
-      "title": "Qatar v Kuwait (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a429de56-f16d-4bfb-8efa-5b9e200846d8",
-          "_entityId": "69da850a-7d57-4135-a46f-bd78a40bd9c7",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275473",
-          "title": "Qatar vs Kuwait - Match 33 - 10/22/2026",
-          "slug": "match-275473",
-          "neutralSlug": "match-275473",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275473",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275473",
-            "teamA": "Qatar",
-            "teamB": "Kuwait",
-            "teamAid": "1763",
-            "teamBid": "1797",
-            "teamAshort": "QAT",
-            "teamBshort": "KUW",
-            "stage": "League",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 33",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "qatar-vs-kuwait",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "057fce9f-760f-4fed-918c-e1743e719015",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-22T11:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-22T10:49:07.399Z",
-      "contentDate": "2026-10-19T13:13:33.055Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match3 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/m71roqdetnudlull3lto",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/m71roqdetnudlull3lto",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match3-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match3-copy-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 22, 2026, 4:30:03 PM",
-        "expire_date": "Friday, October 23, 2026, 12:30:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792695606~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93f1c8130623cd9b819186c545e85dc2b491b0f22c775217f2bac45ec53ca3ac/manifest.mpd?vcfilter=057fce9f-760f-4fed-918c-e1743e719015&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
