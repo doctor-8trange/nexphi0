@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:45:14 PM 23-10-2026",
-  "total_matches": 53,
-  "live_matches": 2,
+  "last_updated": "04:15:07 PM 23-10-2026",
+  "total_matches": 52,
+  "live_matches": 1,
   "upcoming_matches": 51,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "55b41501-e505-42ee-9c47-01f6f7b05220",
-      "_entityId": "9249a70f-d974-4c67-af29-fefa677e5099",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zambia-v-lesotho",
-      "slug": "zambia-v-lesotho",
-      "title": "Zambia v Lesotho",
-      "tags": [
-        {
-          "_translationId": "52483ed0-e173-48ea-bdc0-eb775dab863c",
-          "_entityId": "fac2e604-1ea6-4ebd-82d0-22f0d64f6218",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "neutralSlug": "tournament-15813",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15813",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "8505bdd6-b26d-4d81-aab9-b76960af95f4",
-          "_entityId": "57a58911-7fc9-4907-88ff-bb9fbc1331ef",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274936",
-          "title": "Zambia vs Lesotho - Match 8 - 10/23/2026",
-          "slug": "match-274936",
-          "neutralSlug": "match-274936",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-274936",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "274936",
-            "teamA": "Zambia",
-            "teamB": "Lesotho",
-            "teamAid": "1718",
-            "teamBid": "1795",
-            "teamAshort": "ZAM",
-            "teamBshort": "LES",
-            "stage": "League",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 8",
-            "seriesId": "15813",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesShortName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12756",
-            "tourName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3",
-            "seoName": "zambia-vs-lesotho",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "5201245b-fb35-408c-aa2f-11a1814c1fa0",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-23T08:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-23T08:11:30.89Z",
-      "contentDate": "2026-10-19T12:39:40.553Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_MT20-28-AfricasSubR-QualC_NIG-Match8",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ozf5wsdumhnhkcosf57p",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ozf5wsdumhnhkcosf57p",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-mt20-28-africassubr-qualc-nig-match8",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match8"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 23, 2026, 1:45:05 PM",
-        "expire_date": "Friday, October 23, 2026, 9:45:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792772110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=274e728fbb944ab8777fe112dde38f7ac66eac281a908432d89d3b3bba297c64/manifest.mpd?vcfilter=5201245b-fb35-408c-aa2f-11a1814c1fa0&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "0dace859-5d4d-44a0-88f3-a4cceff7f7d9",
