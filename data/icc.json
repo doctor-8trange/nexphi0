@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:02 PM 24-10-2026",
+  "last_updated": "06:15:10 PM 24-10-2026",
   "total_matches": 46,
-  "live_matches": 3,
-  "upcoming_matches": 43,
+  "live_matches": 5,
+  "upcoming_matches": 41,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -380,8 +380,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-24T11:14:22.923Z",
+      "lastUpdatedBy": "Nikhil Tambe",
+      "lastUpdatedDate": "2026-10-24T11:43:03.363Z",
       "contentDate": "2026-10-16T12:56:31.876Z",
       "featured": 0,
       "thumbnail": {
@@ -425,9 +425,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "9efadced-7a3e-49c6-996e-c62bf09fd38c",
@@ -501,7 +499,7 @@
       "fields": {
         "videoId": "07465c47-9799-4338-a0b6-d44408f4e873",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-24T12:50:00Z",
@@ -515,8 +513,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-10-19T12:37:53.815Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-24T12:30:16.568Z",
       "contentDate": "2026-10-19T12:37:53.815Z",
       "featured": 0,
       "thumbnail": {
@@ -528,7 +526,38 @@
         "slug": "icc26-mt20-28-africassubr-qualc-nig-match12",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match12"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 24, 2026, 6:15:03 PM",
+        "expire_date": "Sunday, October 25, 2026, 2:15:06 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792874706~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=932908162f5db5ac6cd78782d1aae367e7379b10ea9dec9e13ee39e6f82a7942/manifest.mpd?vcfilter=07465c47-9799-4338-a0b6-d44408f4e873&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -603,7 +632,7 @@
       "fields": {
         "videoId": "9f86682a-441a-44dd-b26f-b5764639264e",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-24T12:50:00Z",
@@ -617,8 +646,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Pritam Varadkar",
-      "lastUpdatedDate": "2026-10-19T12:37:16.201Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-24T12:30:24.574Z",
       "contentDate": "2026-10-19T12:37:16.201Z",
       "featured": 0,
       "thumbnail": {
@@ -630,8 +659,41 @@
         "slug": "icc26-mt20-28-africassubr-qualc-nig-match11",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-mt20-28-africassubr-qualc-nig-match11"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 24, 2026, 6:15:07 PM",
+        "expire_date": "Sunday, October 25, 2026, 2:15:09 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792874709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a93b2a283f15475b56a2532166b42d343540ba28e93721499e3924194bc2e672/manifest.mpd?vcfilter=9f86682a-441a-44dd-b26f-b5764639264e&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "816915b5-94a5-4c03-b563-8535035206af",
