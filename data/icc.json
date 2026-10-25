@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:45:06 PM 25-10-2026",
-  "total_matches": 34,
-  "live_matches": 2,
+  "last_updated": "08:00:06 PM 25-10-2026",
+  "total_matches": 33,
+  "live_matches": 1,
   "upcoming_matches": 32,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "f71c45af-8a16-4190-be5a-c5d161aa4de2",
-      "_entityId": "4dbd8415-e313-44e5-b81f-bfa7dcdb7144",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/denmark-v-papua-new-guinea-2nd-innings",
-      "slug": "denmark-v-papua-new-guinea-2nd-innings",
-      "title": "Denmark v Papua New Guinea (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "ba0ffc0c-64da-4d86-871d-d5d7659d4b27",
-          "_entityId": "664ef4cf-e047-40e7-9aa7-bd57c7a5fec8",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275477",
-          "title": "Denmark vs Papua New Guinea - Match 37 - 10/25/2026",
-          "slug": "match-275477",
-          "neutralSlug": "match-275477",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275477",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275477",
-            "teamA": "Denmark",
-            "teamB": "Papua New Guinea",
-            "teamAid": "26",
-            "teamBid": "750",
-            "teamAshort": "DEN",
-            "teamBshort": "PNG",
-            "stage": "League",
-            "matchDateLocal": "10/25/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 37",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "denmark-vs-papua-new-guinea",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7b8b7c4d-1189-4140-a71e-e4f7d217a4a4",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-25T10:45:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-25T12:32:19.979Z",
-      "contentDate": "2026-10-19T13:21:43.891Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match7 copy (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vetqykv0y3m2o3o2zvld",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vetqykv0y3m2o3o2zvld",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match7-copy-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match7-copy-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, October 25, 2026, 4:00:04 PM",
-        "expire_date": "Monday, October 26, 2026, 12:00:06 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792953006~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b8d13e0902dcb2bac6619afd41bd55485da7b11c210e759f4a008ae3c420eafc/manifest.mpd?vcfilter=7b8b7c4d-1189-4140-a71e-e4f7d217a4a4&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "d7bbbbe4-45dd-4577-b368-61c5b9b7b4b9",
