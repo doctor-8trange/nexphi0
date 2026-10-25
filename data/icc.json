@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:00:06 PM 25-10-2026",
-  "total_matches": 41,
-  "live_matches": 6,
+  "last_updated": "03:15:03 PM 25-10-2026",
+  "total_matches": 40,
+  "live_matches": 5,
   "upcoming_matches": 35,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "816915b5-94a5-4c03-b563-8535035206af",
-      "_entityId": "621e6039-908e-4524-b912-47dd0d356656",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-netherlands-1st-innings",
-      "slug": "united-arab-emirates-v-netherlands-1st-innings",
-      "title": "United Arab Emirates v Netherlands (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f9122a77-ddd8-4860-8ed4-e4f437a30c19",
-          "_entityId": "856cb8b1-67f1-4980-89dc-5c2dec6f5ad6",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275767",
-          "title": "United Arab Emirates vs Netherlands - Match 140 - 10/25/2026",
-          "slug": "match-275767",
-          "neutralSlug": "match-275767",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275767",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275767",
-            "teamA": "United Arab Emirates",
-            "teamB": "Netherlands",
-            "teamAid": "21",
-            "teamBid": "15",
-            "teamAshort": "UAE",
-            "teamBshort": "NED",
-            "stage": "League",
-            "matchDateLocal": "10/25/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 140",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-netherlands",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "baf485b3-8795-491e-b7cc-ede695ed6feb",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-25T05:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-25T05:09:13.207Z",
-      "contentDate": "2026-10-19T13:48:31.372Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-UAE-OCT_Match1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/x3th2nlvfw8wdjhwaidm",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x3th2nlvfw8wdjhwaidm",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-uae-oct-match1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, October 25, 2026, 10:45:06 AM",
-        "expire_date": "Sunday, October 25, 2026, 6:45:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792934109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b58f2146d01e4a31fa0092002aabb93fa15af4de0bdb434c870bb0f5d878bc53/manifest.mpd?vcfilter=baf485b3-8795-491e-b7cc-ede695ed6feb&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "f3752c64-ce16-4618-ba7b-630734573662",
