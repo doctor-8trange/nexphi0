@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:15:03 PM 25-10-2026",
+  "last_updated": "03:45:04 PM 25-10-2026",
   "total_matches": 40,
   "live_matches": 5,
   "upcoming_matches": 35,
@@ -765,7 +765,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-25T10:30:00Z",
+        "scheduledStartTime": "2026-10-25T10:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -776,8 +776,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:21:43.891Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-25T10:10:44.865Z",
       "contentDate": "2026-10-19T13:21:43.891Z",
       "featured": 0,
       "thumbnail": {
@@ -867,7 +867,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-25T10:30:00Z",
+        "scheduledStartTime": "2026-10-25T10:50:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -878,8 +878,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:19:19.73Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-25T10:10:21.382Z",
       "contentDate": "2026-10-19T13:19:19.73Z",
       "featured": 0,
       "thumbnail": {
