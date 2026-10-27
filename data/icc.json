@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "07:15:04 PM 27-10-2026",
-  "total_matches": 25,
-  "live_matches": 1,
+  "last_updated": "27-10-2026 20:30",
+  "total_matches": 24,
+  "live_matches": 0,
   "upcoming_matches": 24,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,146 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "57b6a7e9-7506-4514-9775-e2ff83281d76",
-      "_entityId": "1682c55f-0628-4d22-9309-dd028e79bdff",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/3rd-odi-namibia-vs-ireland-2nd-innings",
-      "slug": "3rd-odi-namibia-vs-ireland-2nd-innings",
-      "title": "3rd ODI: Namibia vs Ireland (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
-          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
-          "title": "Ireland in Namibia, 5 ODI Series, 2026",
-          "slug": "tournament-15830",
-          "neutralSlug": "tournament-15830",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15830",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15830",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "73590968-f424-45e3-8c3a-1ce5ed046564",
-          "_entityId": "e522d16a-0079-4e41-a0db-edef19a2cd58",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275412",
-          "title": "Namibia vs Ireland - 3rd ODI - 10/27/2026",
-          "slug": "match-275412",
-          "neutralSlug": "match-275412",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275412",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275412",
-            "teamA": "Namibia",
-            "teamB": "Ireland",
-            "teamAid": "20",
-            "teamBid": "13",
-            "teamAshort": "NAM",
-            "teamBshort": "IRE",
-            "stage": "Series",
-            "matchDateLocal": "10/27/2026",
-            "matchType": "ODI",
-            "matchNumber": "3rd ODI",
-            "seriesId": "15830",
-            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
-            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
-            "seriesType": "Series",
-            "tourId": "12773",
-            "tourName": "Ireland tour of Namibia, 2026",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "namibia-vs-ireland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a601e1cd-cec8-4c6d-967b-a561dd8c743a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-27T11:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "NA",
-            "ZW",
-            "NP",
-            "LK",
-            "BD",
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-27T11:20:36.983Z",
-      "contentDate": "2026-10-16T12:56:31.344Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "3rd ODI-Namibia-v-Ireland-2nd-Innings",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/dv2cl3k9ejlrtjefip2z",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dv2cl3k9ejlrtjefip2z",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "3rd-odi-namibia-v-ireland-2nd-innings",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-odi-namibia-v-ireland-2nd-innings"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, October 27, 2026, 5:00:03 PM",
-        "expire_date": "Wednesday, October 28, 2026, 1:00:07 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793129407~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fb0215380b278862b937a92031dce74847474142199fbe804097715aa11c4637/manifest.mpd?vcfilter=a601e1cd-cec8-4c6d-967b-a561dd8c743a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
