@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:15:15 PM 27-10-2026",
+  "last_updated": "12:45:09 PM 27-10-2026",
   "total_matches": 32,
-  "live_matches": 3,
-  "upcoming_matches": 29,
+  "live_matches": 4,
+  "upcoming_matches": 28,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -420,9 +420,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "df7bc927-1745-4b12-b4e8-517d219fe6da",
@@ -496,7 +494,7 @@
       "fields": {
         "videoId": "82323211-4b35-424e-ac5a-dc97539277fb",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-27T07:30:00Z",
@@ -515,8 +513,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-16T12:56:31.39Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-27T07:11:36.339Z",
       "contentDate": "2026-10-16T12:56:31.39Z",
       "featured": 0,
       "thumbnail": {
@@ -528,8 +526,41 @@
         "slug": "3rd-odi-namibia-v-ireland-1st-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-odi-namibia-v-ireland-1st-innings"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Tuesday, October 27, 2026, 12:45:05 PM",
+        "expire_date": "Tuesday, October 27, 2026, 8:45:08 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793114108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=224d666c6485615a3e9dadaa51e0d876c8c216153ed265b96554c67295494f16/manifest.mpd?vcfilter=82323211-4b35-424e-ac5a-dc97539277fb&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "7aebbf76-47f1-45b5-99f4-5907c05e9f94",
