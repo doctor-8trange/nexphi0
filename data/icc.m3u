@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 27-10-2026 15:30
+#DATE:- 27-10-2026 16:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="23dabeb3-5f6d-4b84-8781-d5171c362a35" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/t84pwdlb1dca375qvlsm" tvg-lang="English" group-title="Cricket",English | Kuwait v Jersey  (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793112312~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ced6c48e4d43f37d56f2735e116c85d31736f3a801850a391fde1207c87a8b5b/manifest.mpd?vcfilter=23dabeb3-5f6d-4b84-8781-d5171c362a35&
 #EXTINF:-1 tvg-id="82323211-4b35-424e-ac5a-dc97539277fb" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y4vnyitg0v7gyqpy4xnm" tvg-lang="English" group-title="Cricket",English | 3rd ODI: Namibia vs Ireland (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,3 +32,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793124005~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8ec0938a0f8fa450ec9b63e600be1f0a4adfb80b80fc4ceef67144c528fc7a03/manifest.mpd?vcfilter=f3d624d3-bd4d-463a-8ef6-d81b81334efe&
+#EXTINF:-1 tvg-id="2eaf8738-7de7-44a6-98e0-0f942f231d07" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bbpujcyxwa28hr6jjlwj" tvg-lang="English" group-title="Cricket",English | Kuwait v Jersey  (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793125805~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3a05f90653068971903eeb3217c2bfd3c80b6b3181ef3b1b115cf656f2c498a1/manifest.mpd?vcfilter=2eaf8738-7de7-44a6-98e0-0f942f231d07&
