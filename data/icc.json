@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "05:00:07 PM 27-10-2026",
-  "total_matches": 27,
-  "live_matches": 3,
+  "last_updated": "06:45:04 PM 27-10-2026",
+  "total_matches": 26,
+  "live_matches": 2,
   "upcoming_matches": 24,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793124005~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8ec0938a0f8fa450ec9b63e600be1f0a4adfb80b80fc4ceef67144c528fc7a03/manifest.mpd?vcfilter=f3d624d3-bd4d-463a-8ef6-d81b81334efe&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "bbd4568a-516c-4c7b-821f-ce8c9d68ddf8",
-      "_entityId": "002d167d-e936-4729-a12a-2142e25710d7",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-jersey-2nd-innings",
-      "slug": "kuwait-v-jersey-2nd-innings",
-      "title": "Kuwait v Jersey  (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "c8136147-6444-4b00-add9-1d8c2983da49",
-          "_entityId": "52676028-ff12-449b-acce-b40c52d2a123",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275479",
-          "title": "Kuwait vs Jersey - Match 39 - 10/27/2026",
-          "slug": "match-275479",
-          "neutralSlug": "match-275479",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275479",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275479",
-            "teamA": "Kuwait",
-            "teamB": "Jersey",
-            "teamAid": "1797",
-            "teamBid": "1481",
-            "teamAshort": "KUW",
-            "teamBshort": "JSY",
-            "stage": "League",
-            "matchDateLocal": "10/27/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 39",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "kuwait-vs-jersey",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "2eaf8738-7de7-44a6-98e0-0f942f231d07",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-27T10:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-27T10:20:15.138Z",
-      "contentDate": "2026-10-19T13:26:21.896Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match9 (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bbpujcyxwa28hr6jjlwj",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bbpujcyxwa28hr6jjlwj",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match9-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match9-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Tuesday, October 27, 2026, 4:00:02 PM",
-        "expire_date": "Wednesday, October 28, 2026, 12:00:05 AM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793125805~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3a05f90653068971903eeb3217c2bfd3c80b6b3181ef3b1b115cf656f2c498a1/manifest.mpd?vcfilter=2eaf8738-7de7-44a6-98e0-0f942f231d07&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
