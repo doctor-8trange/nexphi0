@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:30:06 PM 28-10-2026",
-  "total_matches": 22,
-  "live_matches": 2,
+  "last_updated": "04:45:06 PM 28-10-2026",
+  "total_matches": 21,
+  "live_matches": 1,
   "upcoming_matches": 20,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "c60d2d81-e41f-40ee-b9dc-53e428d21bc2",
-      "_entityId": "2b1bbf5f-26e6-4ae9-907c-7bb4b26770b7",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-denmark-2nd-innings",
-      "slug": "qatar-v-denmark-2nd-innings",
-      "title": "Qatar v Denmark (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "fea3822c-e540-4599-9c6e-983bb1d15e82",
-          "_entityId": "0b78c655-4c4e-405e-a383-921f8176894d",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275480",
-          "title": "Qatar vs Denmark - Match 40 - 10/28/2026",
-          "slug": "match-275480",
-          "neutralSlug": "match-275480",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275480",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275480",
-            "teamA": "Qatar",
-            "teamB": "Denmark",
-            "teamAid": "1763",
-            "teamBid": "26",
-            "teamAshort": "QAT",
-            "teamBshort": "DEN",
-            "stage": "League",
-            "matchDateLocal": "10/28/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 40",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "qatar-vs-denmark",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "9cdeadd3-4c7b-47f1-a906-2fe1b52b6e2a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "17700000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-28T09:35:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-28T09:31:55.413Z",
-      "contentDate": "2026-10-19T13:27:27.077Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match10 (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vvrbja9eejhtkqhpnj9k",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vvrbja9eejhtkqhpnj9k",
-        "format": "jpg",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match10-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match10-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, October 28, 2026, 3:15:05 PM",
-        "expire_date": "Wednesday, October 28, 2026, 11:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793209509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7e2717580179c53ff9f64b527384217f61676d62563c5cb84e8e3c1b0a47cf8a/manifest.mpd?vcfilter=9cdeadd3-4c7b-47f1-a906-2fe1b52b6e2a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "f049e07b-463f-4923-b1f7-3830d101ef53",
