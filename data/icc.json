@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:15:11 PM 28-10-2026",
-  "total_matches": 23,
-  "live_matches": 3,
+  "last_updated": "04:30:06 PM 28-10-2026",
+  "total_matches": 22,
+  "live_matches": 2,
   "upcoming_matches": 20,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "2ddaac3c-a8e0-42c4-8174-ccba46a1fc93",
-      "_entityId": "2f54cdd0-2e9b-4489-828c-df4f65650e8f",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kuwait-v-kenya-1st-innings",
-      "slug": "kuwait-v-kenya-1st-innings",
-      "title": "Kuwait v Kenya (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0765f4a9-0443-4200-b56a-f7fd6b5bf123",
-          "_entityId": "2132ca05-2d7b-4e52-ab12-04316464cf4e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275481",
-          "title": "Kuwait vs Kenya - Match 41 - 10/28/2026",
-          "slug": "match-275481",
-          "neutralSlug": "match-275481",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275481",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275481",
-            "teamA": "Kuwait",
-            "teamB": "Kenya",
-            "teamAid": "1797",
-            "teamBid": "14",
-            "teamAshort": "KUW",
-            "teamBshort": "KEN",
-            "stage": "League",
-            "matchDateLocal": "10/28/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 41",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "kuwait-vs-kenya",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "7c0abb5e-3ed5-44bc-9705-32528314c8e4",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-28T06:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-28T06:09:54.765Z",
-      "contentDate": "2026-10-19T13:28:20.697Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match11",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wjuxjx2qmvih3i5jy0jx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wjuxjx2qmvih3i5jy0jx",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match11",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match11"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, October 28, 2026, 11:45:04 AM",
-        "expire_date": "Wednesday, October 28, 2026, 7:45:08 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793196908~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=836f535be7fd4a27008c398f31dc87d37a43f503d6d01c87162f4a4d73b50a70/manifest.mpd?vcfilter=7c0abb5e-3ed5-44bc-9705-32528314c8e4&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "c60d2d81-e41f-40ee-b9dc-53e428d21bc2",
