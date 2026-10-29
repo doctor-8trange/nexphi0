@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:45:08 PM 29-10-2026",
-  "total_matches": 20,
-  "live_matches": 2,
+  "last_updated": "03:00:04 PM 29-10-2026",
+  "total_matches": 19,
+  "live_matches": 1,
   "upcoming_matches": 18,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "8cfaf04e-5b32-4c85-94fc-3457a93fa5de",
-      "_entityId": "80da8fbe-e9c6-40cf-a885-896265d0315d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-oman-1st-innings",
-      "slug": "united-arab-emirates-v-oman-1st-innings",
-      "title": "United Arab Emirates v Oman (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f5628315-ed54-4922-ae6c-659808dddbbc",
-          "_entityId": "7654cfcc-e1e5-4e39-ae03-fb026367cc5a",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275769",
-          "title": "United Arab Emirates vs Oman - Match 142 - 10/29/2026",
-          "slug": "match-275769",
-          "neutralSlug": "match-275769",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275769",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275769",
-            "teamA": "United Arab Emirates",
-            "teamB": "Oman",
-            "teamAid": "21",
-            "teamBid": "28",
-            "teamAshort": "UAE",
-            "teamBshort": "OMA",
-            "stage": "League",
-            "matchDateLocal": "10/29/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 142",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-oman",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "ba30a0fa-b595-4934-b608-a81491f23811",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-29T05:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-29T05:10:18.883Z",
-      "contentDate": "2026-10-19T13:53:40.705Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-UAE-OCT_Match3",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqwynqbvxhwkx7ikkptv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqwynqbvxhwkx7ikkptv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-uae-oct-match3",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match3"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, October 29, 2026, 10:45:02 AM",
-        "expire_date": "Thursday, October 29, 2026, 6:45:06 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793279706~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=aaf74dac7133f10f7493ef43594b72058b6a3c1fe952ef8cda8a7584907510c4/manifest.mpd?vcfilter=ba30a0fa-b595-4934-b608-a81491f23811&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "98c7a24f-d611-40b3-aa0c-16bbf8fab96e",
