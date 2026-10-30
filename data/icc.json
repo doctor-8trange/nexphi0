@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:05 AM 30-10-2026",
+  "last_updated": "09:45:05 AM 30-10-2026",
   "total_matches": 24,
   "live_matches": 1,
   "upcoming_matches": 23,
@@ -134,9 +134,9 @@
         "videoId": "c9cdc33b-5919-40fa-85b1-b507aba878d9",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3300000",
+        "videoEstimatedDuration": "3000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T04:25:00Z",
+        "scheduledStartTime": "2026-10-30T04:40:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -174,8 +174,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-30T00:42:30.574Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T04:03:12.01Z",
       "contentDate": "2026-10-29T16:16:39.164Z",
       "featured": 0,
       "thumbnail": {
@@ -203,7 +203,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T05:20:00Z",
+        "scheduledStartTime": "2026-10-30T05:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -241,8 +241,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-30T00:42:53.577Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T04:03:33.319Z",
       "contentDate": "2026-10-29T16:17:17.431Z",
       "featured": 0,
       "thumbnail": {
@@ -270,7 +270,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T06:15:00Z",
+        "scheduledStartTime": "2026-10-30T06:25:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -308,8 +308,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-30T00:43:10.336Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T04:03:53.621Z",
       "contentDate": "2026-10-29T16:17:56.776Z",
       "featured": 0,
       "thumbnail": {
@@ -541,7 +541,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T07:10:00Z",
+        "scheduledStartTime": "2026-10-30T07:20:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -579,8 +579,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-30T00:43:53.856Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T04:04:17.831Z",
       "contentDate": "2026-10-29T16:18:42.962Z",
       "featured": 0,
       "thumbnail": {
@@ -715,7 +715,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T08:05:00Z",
+        "scheduledStartTime": "2026-10-30T08:15:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -753,8 +753,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-30T00:44:32.171Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T04:04:41.942Z",
       "contentDate": "2026-10-29T16:19:21.957Z",
       "featured": 0,
       "thumbnail": {
