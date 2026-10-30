@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:45:04 PM 30-10-2026",
-  "total_matches": 17,
+  "last_updated": "04:00:07 PM 30-10-2026",
+  "total_matches": 16,
   "live_matches": 3,
-  "upcoming_matches": 14,
+  "upcoming_matches": 13,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,139 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "e3d11246-b9d7-4e86-829e-9a401f94102d",
-      "_entityId": "31cf08af-5a35-4637-9cd7-485db6fbf6c5",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/jersey-v-denmark-1st-innings",
-      "slug": "jersey-v-denmark-1st-innings",
-      "title": "Jersey v Denmark (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "83b381c3-91ca-42c5-b602-747fe4b2ba69",
-          "_entityId": "265e6f52-1622-495f-8abd-0915e73aaf68",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275483",
-          "title": "Jersey vs Denmark - Match 43 - 10/30/2026",
-          "slug": "match-275483",
-          "neutralSlug": "match-275483",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275483",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275483",
-            "teamA": "Jersey",
-            "teamB": "Denmark",
-            "teamAid": "1481",
-            "teamBid": "26",
-            "teamAshort": "JSY",
-            "teamBshort": "DEN",
-            "stage": "League",
-            "matchDateLocal": "10/30/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 43",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "jersey-vs-denmark",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "8499792c-e958-4275-a53c-3ce36223b393",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T06:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T06:25:30.169Z",
-      "contentDate": "2026-10-19T13:36:16.744Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match13",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/psc1bfilnrsnfljjdcyw",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/psc1bfilnrsnfljjdcyw",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match13",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match13"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 30, 2026, 12:00:10 PM",
-        "expire_date": "Friday, October 30, 2026, 8:00:15 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793370615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d5df963ce2b86ce753ab942784f4d17c9bb5a262a3286795b0b77a8a594e329/manifest.mpd?vcfilter=8499792c-e958-4275-a53c-3ce36223b393&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "ddab1b30-9c6f-4772-9a51-ab240be1a498",
@@ -425,9 +292,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "8fa9ea2c-cd64-4371-a6b0-c361dd0c1144",
@@ -501,7 +366,7 @@
       "fields": {
         "videoId": "7ace080e-6607-44db-acb0-54534ec45e2d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T10:15:00Z",
@@ -516,7 +381,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T10:10:06.507Z",
+      "lastUpdatedDate": "2026-10-30T10:15:14.802Z",
       "contentDate": "2026-10-19T13:36:42.939Z",
       "featured": 0,
       "thumbnail": {
@@ -528,8 +393,41 @@
         "slug": "icc26-cwc-cla-ken-oct-match13-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match13-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 4:00:04 PM",
+        "expire_date": "Saturday, October 31, 2026, 12:00:08 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793385008~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=055471edb85f3b091e4bf1e5df68521bbb0425cbf406741353bc07a4e65289d6/manifest.mpd?vcfilter=7ace080e-6607-44db-acb0-54534ec45e2d&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "189be1e3-cccf-4150-98c3-8cd8bed1d028",
