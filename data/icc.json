@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:06 AM 30-10-2026",
-  "total_matches": 22,
-  "live_matches": 1,
-  "upcoming_matches": 21,
+  "last_updated": "12:00:17 PM 30-10-2026",
+  "total_matches": 21,
+  "live_matches": 3,
+  "upcoming_matches": 18,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -24,106 +24,6 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "1549725d-5b66-4967-ada6-c7a5b5640db0",
-      "_entityId": "9266851c-46a7-40fd-8643-65b3d05bf928",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bangladesh-v-sri-lanka",
-      "slug": "bangladesh-v-sri-lanka",
-      "title": "Bangladesh v Sri Lanka",
-      "tags": [],
-      "fields": {
-        "videoId": "772aece8-c12b-4b8b-b55d-1bad4444e726",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T05:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T05:28:15.743Z",
-      "contentDate": "2026-10-29T16:17:17.431Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Match_TN_6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ymmfia8dctx6afgyhput",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ymmfia8dctx6afgyhput",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "match-tn-6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-tn-6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 30, 2026, 11:00:06 AM",
-        "expire_date": "Friday, October 30, 2026, 7:00:11 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793367011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=060801b237e2902d857a4a540fc1544e326b21f3ad1db4100fd85145a7bcd230/manifest.mpd?vcfilter=772aece8-c12b-4b8b-b55d-1bad4444e726&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "type": "customentity",
       "_translationId": "95d98048-dd35-484e-bff0-bbcd5e9491e0",
       "_entityId": "7a6ff5a6-d64a-472d-9523-64cbd7b5ddee",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/india-v-pakistan",
@@ -133,7 +33,7 @@
       "fields": {
         "videoId": "5d31896c-4d64-4b9a-b6e5-f66791bd212b",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T06:25:00Z",
@@ -175,7 +75,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T04:03:53.621Z",
+      "lastUpdatedDate": "2026-10-30T06:23:18.275Z",
       "contentDate": "2026-10-29T16:17:56.776Z",
       "featured": 0,
       "thumbnail": {
@@ -187,7 +87,38 @@
         "slug": "match-tn-7",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-tn-7"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 12:00:07 PM",
+        "expire_date": "Friday, October 30, 2026, 8:00:11 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793370611~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=878ea86eead781543105a073f6033ccdd162eb3e0ab1704f18fa2e7458c212cd/manifest.mpd?vcfilter=5d31896c-4d64-4b9a-b6e5-f66791bd212b&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -262,7 +193,7 @@
       "fields": {
         "videoId": "8499792c-e958-4275-a53c-3ce36223b393",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T06:30:00Z",
@@ -276,8 +207,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:36:16.744Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T06:25:30.169Z",
       "contentDate": "2026-10-19T13:36:16.744Z",
       "featured": 0,
       "thumbnail": {
@@ -289,7 +220,38 @@
         "slug": "icc26-cwc-cla-ken-oct-match13",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match13"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 12:00:10 PM",
+        "expire_date": "Friday, October 30, 2026, 8:00:15 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793370615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d5df963ce2b86ce753ab942784f4d17c9bb5a262a3286795b0b77a8a594e329/manifest.mpd?vcfilter=8499792c-e958-4275-a53c-3ce36223b393&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -364,7 +326,7 @@
       "fields": {
         "videoId": "a1560c47-a668-487d-b52f-1ea2f04b2389",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T06:30:00Z",
@@ -378,8 +340,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:34:18.571Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-30T06:25:24.548Z",
       "contentDate": "2026-10-19T13:34:18.571Z",
       "featured": 0,
       "thumbnail": {
@@ -391,8 +353,41 @@
         "slug": "icc26-cwc-cla-ken-oct-match12",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match12"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 12:00:14 PM",
+        "expire_date": "Friday, October 30, 2026, 8:00:18 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793370618~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e882252a92cefc1ffe4ba3da52960756adab63324e7e42d23c35bb6f24b5efe7/manifest.mpd?vcfilter=a1560c47-a668-487d-b52f-1ea2f04b2389&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "6733e1ec-dfc3-4807-93cc-db2e818e6a93",
