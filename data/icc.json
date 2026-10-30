@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:00:03 PM 30-10-2026",
-  "total_matches": 18,
+  "last_updated": "03:15:07 PM 30-10-2026",
+  "total_matches": 17,
   "live_matches": 3,
-  "upcoming_matches": 15,
+  "upcoming_matches": 14,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -140,139 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793370615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d5df963ce2b86ce753ab942784f4d17c9bb5a262a3286795b0b77a8a594e329/manifest.mpd?vcfilter=8499792c-e958-4275-a53c-3ce36223b393&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "8ff9deec-8cf0-406b-9d3e-c5c5320aacc2",
-      "_entityId": "d5cc8a92-52fa-4dcd-bf46-48e5d863f702",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-kuwait-1st-innings",
-      "slug": "papua-new-guinea-v-kuwait-1st-innings",
-      "title": "Papua New Guinea v Kuwait (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "b6aca316-f913-42e9-b351-bc6b90f52bf8",
-          "_entityId": "4ffe5934-a7bc-4b0e-bc81-f094586fe232",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275482",
-          "title": "Papua New Guinea vs Kuwait - Match 42 - 10/30/2026",
-          "slug": "match-275482",
-          "neutralSlug": "match-275482",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275482",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275482",
-            "teamA": "Papua New Guinea",
-            "teamB": "Kuwait",
-            "teamAid": "750",
-            "teamBid": "1797",
-            "teamAshort": "PNG",
-            "teamBshort": "KUW",
-            "stage": "League",
-            "matchDateLocal": "10/30/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 42",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "papua-new-guinea-vs-kuwait",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "a1560c47-a668-487d-b52f-1ea2f04b2389",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T06:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T06:25:24.548Z",
-      "contentDate": "2026-10-19T13:34:18.571Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match12",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/cvvneqgfwotrupagbykz",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cvvneqgfwotrupagbykz",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match12",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match12"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 30, 2026, 12:00:14 PM",
-        "expire_date": "Friday, October 30, 2026, 8:00:18 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793370618~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e882252a92cefc1ffe4ba3da52960756adab63324e7e42d23c35bb6f24b5efe7/manifest.mpd?vcfilter=a1560c47-a668-487d-b52f-1ea2f04b2389&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -425,9 +292,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "17da0523-28f1-4596-a51a-ab8b621de2a1",
@@ -501,7 +366,7 @@
       "fields": {
         "videoId": "b04c8bfc-238e-4c2e-b8ea-267bc6d1515c",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T09:30:00Z",
@@ -516,7 +381,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T09:25:07.149Z",
+      "lastUpdatedDate": "2026-10-30T09:30:20.95Z",
       "contentDate": "2026-10-19T13:34:44.235Z",
       "featured": 0,
       "thumbnail": {
@@ -528,8 +393,41 @@
         "slug": "icc26-cwc-cla-ken-oct-match12-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match12-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 3:15:03 PM",
+        "expire_date": "Friday, October 30, 2026, 11:15:08 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793382308~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4ddbb2af526df2e769ea53e70edc42604187d9c04e41afa0c90d9f6ce618625f/manifest.mpd?vcfilter=b04c8bfc-238e-4c2e-b8ea-267bc6d1515c&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "8fa9ea2c-cd64-4371-a6b0-c361dd0c1144",
