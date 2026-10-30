@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 30-10-2026 13:45
+#DATE:- 30-10-2026 14:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="8499792c-e958-4275-a53c-3ce36223b393" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/psc1bfilnrsnfljjdcyw" tvg-lang="English" group-title="Cricket",English | Jersey v Denmark (1st Innings)
@@ -22,16 +22,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793370618~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e882252a92cefc1ffe4ba3da52960756adab63324e7e42d23c35bb6f24b5efe7/manifest.mpd?vcfilter=a1560c47-a668-487d-b52f-1ea2f04b2389&
-#EXTINF:-1 tvg-id="20dbce30-b15a-49e7-9341-f0ea350b753c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/roeztbmqm4ietncm0cwk" tvg-lang="English" group-title="Cricket",English | South Africa v Afghanistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793374206~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73cab4a0c949cca5d33f326c21a545bce2b0ed7f2017febd3e719c9a6c36f17b/manifest.mpd?vcfilter=20dbce30-b15a-49e7-9341-f0ea350b753c&
 #EXTINF:-1 tvg-id="0cca2c28-c998-473a-a1bc-2e4b6189f627" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hcx8ue7chxxqk57qdqyj" tvg-lang="English" group-title="Cricket",English | 4th ODI: Namibia vs Ireland (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -42,3 +32,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793373306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4efaa91195864843974617aefa47429dad814be81f6ac27d2fd7ead68597fbbc/manifest.mpd?vcfilter=0cca2c28-c998-473a-a1bc-2e4b6189f627&
+#EXTINF:-1 tvg-id="2fe03cb3-bba7-46e7-847e-268832bdaec5" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hf4cspj8kni5oeuzvp7i" tvg-lang="English" group-title="Cricket",English | England v Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793377807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9bc728430e28df6bbc856652e316b1f30b620c26ca2c20b19ef2e777b2aee051/manifest.mpd?vcfilter=2fe03cb3-bba7-46e7-847e-268832bdaec5&
