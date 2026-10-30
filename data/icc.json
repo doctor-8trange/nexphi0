@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "04:45:04 PM 30-10-2026",
-  "total_matches": 15,
+  "last_updated": "05:15:08 PM 30-10-2026",
+  "total_matches": 14,
   "live_matches": 2,
-  "upcoming_matches": 13,
+  "upcoming_matches": 12,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,144 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "ddab1b30-9c6f-4772-9a51-ab240be1a498",
-      "_entityId": "59c316d6-6182-4160-ade2-18de4aa5e6e5",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-1st-innings",
-      "slug": "4th-odi-namibia-vs-ireland-1st-innings",
-      "title": "4th ODI: Namibia vs Ireland (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "e49ada0e-1c3f-4638-a9ab-02e4118153bd",
-          "_entityId": "3134d121-d926-4709-b3d2-c8feff0909c0",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
-          "title": "Ireland in Namibia, 5 ODI Series, 2026",
-          "slug": "tournament-15830",
-          "neutralSlug": "tournament-15830",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15830",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15830",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "dbda9274-4f94-4ca2-8548-55615cda9190",
-          "_entityId": "185b9301-eb1c-45aa-951f-061a41e5f33c",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275414",
-          "title": "Namibia vs Ireland - 4th ODI - 10/30/2026",
-          "slug": "match-275414",
-          "neutralSlug": "match-275414",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275414",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275414",
-            "teamA": "Namibia",
-            "teamB": "Ireland",
-            "teamAid": "20",
-            "teamBid": "13",
-            "teamAshort": "NAM",
-            "teamBshort": "IRE",
-            "stage": "Series",
-            "matchDateLocal": "10/30/2026",
-            "matchType": "ODI",
-            "matchNumber": "4th ODI",
-            "seriesId": "15830",
-            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026",
-            "seriesShortName": "IRE in NAM, 5 ODIs, 2026",
-            "seriesType": "Series",
-            "tourId": "12773",
-            "tourName": "Ireland tour of Namibia, 2026",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "namibia-vs-ireland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0cca2c28-c998-473a-a1bc-2e4b6189f627",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "NA",
-            "ZW",
-            "NP",
-            "LK",
-            "BD",
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T07:10:45.597Z",
-      "contentDate": "2026-10-16T12:56:31.354Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "4th ODI-Namibia-v-Ireland-1st-Innings",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hcx8ue7chxxqk57qdqyj",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hcx8ue7chxxqk57qdqyj",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "4th-odi-namibia-v-ireland-1st-innings",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-odi-namibia-v-ireland-1st-innings"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 30, 2026, 12:45:02 PM",
-        "expire_date": "Friday, October 30, 2026, 8:45:06 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793373306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4efaa91195864843974617aefa47429dad814be81f6ac27d2fd7ead68597fbbc/manifest.mpd?vcfilter=0cca2c28-c998-473a-a1bc-2e4b6189f627&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
     {
       "type": "customentity",
       "_translationId": "8fa9ea2c-cd64-4371-a6b0-c361dd0c1144",
@@ -292,9 +154,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "189be1e3-cccf-4150-98c3-8cd8bed1d028",
@@ -368,10 +228,10 @@
       "fields": {
         "videoId": "be6e363c-7142-4dc1-9a15-8ebf78002994",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14820000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "15000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T11:23:00Z",
+        "scheduledStartTime": "2026-10-30T11:20:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -388,7 +248,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T11:12:32.947Z",
+      "lastUpdatedDate": "2026-10-30T11:19:47.713Z",
       "contentDate": "2026-10-16T12:56:31.437Z",
       "featured": 0,
       "thumbnail": {
@@ -400,8 +260,41 @@
         "slug": "4th-odi-namibia-v-ireland-2nd-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4th-odi-namibia-v-ireland-2nd-innings"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 5:15:05 PM",
+        "expire_date": "Saturday, October 31, 2026, 1:15:08 AM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793389508~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=780a383e0646bb4605dd9901cd1943f9c8bf5cf36115edacf379d0ad651cfc9c/manifest.mpd?vcfilter=be6e363c-7142-4dc1-9a15-8ebf78002994&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "393241f0-6596-4280-8373-8c98b134275c",
