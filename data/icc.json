@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:45:03 PM 30-10-2026",
-  "total_matches": 20,
+  "last_updated": "02:00:06 PM 30-10-2026",
+  "total_matches": 19,
   "live_matches": 4,
-  "upcoming_matches": 16,
+  "upcoming_matches": 15,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -290,104 +290,6 @@
     },
     {
       "type": "customentity",
-      "_translationId": "6733e1ec-dfc3-4807-93cc-db2e818e6a93",
-      "_entityId": "119a9f1b-bb73-4d18-b1ce-627ad6b348b7",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/south-africa-v-afghanistan",
-      "slug": "south-africa-v-afghanistan",
-      "title": "South Africa v Afghanistan",
-      "tags": [],
-      "fields": {
-        "videoId": "20dbce30-b15a-49e7-9341-f0ea350b753c",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-30T07:25:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T07:23:50.461Z",
-      "contentDate": "2026-10-29T16:18:42.962Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Match_TN_8",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/roeztbmqm4ietncm0cwk",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/roeztbmqm4ietncm0cwk",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "match-tn-8",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-tn-8"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Friday, October 30, 2026, 1:00:02 PM",
-        "expire_date": "Friday, October 30, 2026, 9:00:06 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793374206~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=73cab4a0c949cca5d33f326c21a545bce2b0ed7f2017febd3e719c9a6c36f17b/manifest.mpd?vcfilter=20dbce30-b15a-49e7-9341-f0ea350b753c&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
       "_translationId": "ddab1b30-9c6f-4772-9a51-ab240be1a498",
       "_entityId": "59c316d6-6182-4160-ade2-18de4aa5e6e5",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/4th-odi-namibia-vs-ireland-1st-innings",
@@ -523,9 +425,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "ccd19431-4678-4155-90dc-2a88d87a1e3e",
@@ -537,7 +437,7 @@
       "fields": {
         "videoId": "2fe03cb3-bba7-46e7-847e-268832bdaec5",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-30T08:25:00Z",
@@ -579,7 +479,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-30T08:11:41.312Z",
+      "lastUpdatedDate": "2026-10-30T08:22:19.638Z",
       "contentDate": "2026-10-29T16:19:21.957Z",
       "featured": 0,
       "thumbnail": {
@@ -591,8 +491,41 @@
         "slug": "match-tn-9",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/match-tn-9"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Friday, October 30, 2026, 2:00:03 PM",
+        "expire_date": "Friday, October 30, 2026, 10:00:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793377807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9bc728430e28df6bbc856652e316b1f30b620c26ca2c20b19ef2e777b2aee051/manifest.mpd?vcfilter=2fe03cb3-bba7-46e7-847e-268832bdaec5&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "8fa9ea2c-cd64-4371-a6b0-c361dd0c1144",
