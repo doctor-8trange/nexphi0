@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 30-10-2026 11:15
+#DATE:- 30-10-2026 12:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="772aece8-c12b-4b8b-b55d-1bad4444e726" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ymmfia8dctx6afgyhput" tvg-lang="English" group-title="Cricket",English | Bangladesh v Sri Lanka
+#EXTINF:-1 tvg-id="5d31896c-4d64-4b9a-b6e5-f66791bd212b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/eqeq6l2ciqujoyszsoda" tvg-lang="English" group-title="Cricket",English | India v Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,24 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793367011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=060801b237e2902d857a4a540fc1544e326b21f3ad1db4100fd85145a7bcd230/manifest.mpd?vcfilter=772aece8-c12b-4b8b-b55d-1bad4444e726&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793370611~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=878ea86eead781543105a073f6033ccdd162eb3e0ab1704f18fa2e7458c212cd/manifest.mpd?vcfilter=5d31896c-4d64-4b9a-b6e5-f66791bd212b&
+#EXTINF:-1 tvg-id="8499792c-e958-4275-a53c-3ce36223b393" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/psc1bfilnrsnfljjdcyw" tvg-lang="English" group-title="Cricket",English | Jersey v Denmark (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793370615~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d5df963ce2b86ce753ab942784f4d17c9bb5a262a3286795b0b77a8a594e329/manifest.mpd?vcfilter=8499792c-e958-4275-a53c-3ce36223b393&
+#EXTINF:-1 tvg-id="a1560c47-a668-487d-b52f-1ea2f04b2389" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cvvneqgfwotrupagbykz" tvg-lang="English" group-title="Cricket",English | Papua New Guinea v Kuwait (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793370618~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e882252a92cefc1ffe4ba3da52960756adab63324e7e42d23c35bb6f24b5efe7/manifest.mpd?vcfilter=a1560c47-a668-487d-b52f-1ea2f04b2389&
