@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:15:09 AM 31-10-2026",
+  "last_updated": "10:15:08 AM 31-10-2026",
   "total_matches": 13,
   "live_matches": 1,
   "upcoming_matches": 12,
@@ -24,11 +24,11 @@
   "live": [
     {
       "type": "customentity",
-      "_translationId": "b55e55ae-7223-4ca0-bf2d-a12ccf2fd6a7",
-      "_entityId": "8d2d041c-4d20-4324-8b74-ead6f3b41cde",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-1st-semi-final-bangladesh-v-south-africa",
-      "slug": "hong-kong-sixes-1st-semi-final-bangladesh-v-south-africa",
-      "title": "1st Semi-final: Bangladesh v South Africa",
+      "_translationId": "1b1faa5c-67bc-4017-b844-eeac005ec51d",
+      "_entityId": "464282f6-eab9-41d0-a09b-ed463b3eb6fa",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-semi-final-england-v-india",
+      "slug": "2nd-semi-final-england-v-india",
+      "title": "2nd Semi-final: England v India",
       "tags": [
         {
           "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
@@ -53,29 +53,29 @@
           "fields": []
         },
         {
-          "_translationId": "f8829071-b336-4e6e-8bb8-8101d923c30f",
-          "_entityId": "c7931663-0899-41c7-a169-bd134374ada3",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275384",
-          "title": "Bangladesh vs South Africa - Bowl 1st Semi-Final - 10/31/2026",
-          "slug": "match-275384",
-          "neutralSlug": "match-275384",
+          "_translationId": "f4ac7a5a-fa46-45b5-8f74-4fea09a97e4b",
+          "_entityId": "e0365143-d569-45d9-8c6a-8b9ef1e03918",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275385",
+          "title": "England vs T.B.C. - Bowl 2nd Semi-Final - 10/31/2026",
+          "slug": "match-275385",
+          "neutralSlug": "match-275385",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-275384",
+            "SourceId": "match-275385",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "275384",
-            "teamA": "Bangladesh",
-            "teamB": "South Africa",
-            "teamAid": "2",
-            "teamBid": "7",
-            "teamAshort": "BAN",
-            "teamBshort": "SA",
+            "matchId": "275385",
+            "teamA": "England",
+            "teamB": "T.B.C.",
+            "teamAid": "3",
+            "teamBid": "",
+            "teamAshort": "ENG",
+            "teamBshort": "TBC",
             "stage": "Semi Final",
             "matchDateLocal": "10/31/2026",
             "matchType": "S6",
-            "matchNumber": "Bowl 1st Semi-Final",
+            "matchNumber": "Bowl 2nd Semi-Final",
             "seriesId": "15828",
             "seriesName": "Hong Kong Sixes, 2026",
             "seriesShortName": "HK Sixes, 2026",
@@ -84,7 +84,7 @@
             "tourName": "Hong Kong Sixes, 2026",
             "competitionType": "S6 Domestic - m",
             "competitionTypeId": "142",
-            "seoName": "bangladesh-vs-south-africa",
+            "seoName": "england-vs-t-b-c-",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -93,12 +93,12 @@
         }
       ],
       "fields": {
-        "videoId": "c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd",
+        "videoId": "08a914c8-f7dc-4b69-a32e-52c607bf5904",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "3300000",
+        "videoEstimatedDuration": "3000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T03:40:00Z",
+        "scheduledStartTime": "2026-10-31T04:40:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -137,23 +137,23 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T03:38:55.703Z",
-      "contentDate": "2026-10-30T13:49:22.328Z",
+      "lastUpdatedDate": "2026-10-31T04:38:00.586Z",
+      "contentDate": "2026-10-31T04:18:00Z",
       "featured": 0,
       "thumbnail": {
-        "title": "Bowl-Semifinal-1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yyb9ntjvijdvrocl4v54",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yyb9ntjvijdvrocl4v54",
+        "title": "Bowl-semi-final-2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/oiqpcx8zbl5rw0s5pb6i",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/oiqpcx8zbl5rw0s5pb6i",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "bowl-semifinal-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bowl-semifinal-1"
+        "slug": "bowl-semi-final-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bowl-semi-final-2"
       },
       "entityCode": "video",
       "playback": {
         "Status_code": 302,
-        "create_date": "Saturday, October 31, 2026, 9:15:05 AM",
-        "expire_date": "Saturday, October 31, 2026, 5:15:10 PM",
+        "create_date": "Saturday, October 31, 2026, 10:15:05 AM",
+        "expire_date": "Saturday, October 31, 2026, 6:15:09 PM",
         "headers": [
           "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
           "Referer: https://www.icc-cricket.com/",
@@ -166,7 +166,7 @@
           }
         ],
         "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793447110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4793d7983e658faa63f8f139e289aff5ea30ecdb9667fa0394743dcce2343277/manifest.mpd?vcfilter=c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd&",
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793450709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9f587d0f86476ade28a484c947bd37e1b6dc9efd03661e014965e3c3bf89b1ba/manifest.mpd?vcfilter=08a914c8-f7dc-4b69-a32e-52c607bf5904&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
