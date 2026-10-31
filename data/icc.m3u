@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 31-10-2026 11:30
+#DATE:- 31-10-2026 12:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="c550c096-1066-4984-abfd-3ae7f32153da" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (1st Innings)
@@ -22,3 +22,33 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793454310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2f243bff9c06d254caab3537666ae35ca383ee6633db4d1086da9380ceb37d0c/manifest.mpd?vcfilter=1c9095cf-963b-4670-8f34-30633734a5a9&
+#EXTINF:-1 tvg-id="67fc4a06-2b09-4598-b822-a79c3ec1e5c2" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fihtfh4yyp4pqbxpiqcv" tvg-lang="English" group-title="Cricket",English | Hong Kong International Sixes 2026-Plate, 2nd Semi-final: Hong Kong, China v Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793457010~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1fb3821a47ac8f862f8e65ae4581b6ade2d3e99c4ebe0393b8ce6aca6f94895a/manifest.mpd?vcfilter=67fc4a06-2b09-4598-b822-a79c3ec1e5c2&
+#EXTINF:-1 tvg-id="5164e0ca-5166-4a1a-96b1-3b55a3ffecd1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uwzpphjqrrvkuzjsooqz" tvg-lang="English" group-title="Cricket",English | Qatar v Jersey (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793457013~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4838bd2d4f140bc4f34532b991a53ace6f64286dd9163e12247853117bd145f4/manifest.mpd?vcfilter=5164e0ca-5166-4a1a-96b1-3b55a3ffecd1&
+#EXTINF:-1 tvg-id="55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uqhfjb7gjpuqepa0yt3u" tvg-lang="English" group-title="Cricket",English | Kenya v Papua New Guinea (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793457015~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=988985a7cf1b1e732b86eece121e52af06cfe7fa2d8cdf373eb69959b17afc70/manifest.mpd?vcfilter=55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4&
