@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "01:00:10 PM 31-10-2026",
-  "total_matches": 14,
+  "last_updated": "01:45:06 PM 31-10-2026",
+  "total_matches": 13,
   "live_matches": 4,
-  "upcoming_matches": 10,
+  "upcoming_matches": 9,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -423,168 +423,6 @@
     },
     {
       "type": "customentity",
-      "_translationId": "7770595d-9c50-4688-8d2c-a0e38cadc9b6",
-      "_entityId": "d9c9f3a7-f5e0-4578-965b-2f45a47acc46",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-semi-final-australia-v-uae",
-      "slug": "1st-semi-final-australia-v-uae",
-      "title": "Hong Kong International Sixes 2026-Cup, 1st Semi-final: Australia v UAE",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "d2240081-8bc3-414b-ae7c-562e4f79f615",
-          "_entityId": "6c673f47-d523-4e74-a22a-f3904bce432b",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275388",
-          "title": "Australia vs United Arab Emirates - 1st Semi-Final - 10/31/2026",
-          "slug": "match-275388",
-          "neutralSlug": "match-275388",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275388",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275388",
-            "teamA": "Australia",
-            "teamB": "United Arab Emirates",
-            "teamAid": "1",
-            "teamBid": "21",
-            "teamAshort": "AUS",
-            "teamBshort": "UAE",
-            "stage": "Semi Final",
-            "matchDateLocal": "10/31/2026",
-            "matchType": "S6",
-            "matchNumber": "1st Semi-Final",
-            "seriesId": "15828",
-            "seriesName": "Hong Kong Sixes, 2026",
-            "seriesShortName": "HK Sixes, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12772",
-            "tourName": "Hong Kong Sixes, 2026",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "seoName": "australia-vs-united-arab-emirates",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "6380aea6-5654-42ff-bb05-263e3b53d59a",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T07:25:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T07:15:55.042Z",
-      "contentDate": "2026-10-31T04:56:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Cup-semi-final-1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wzknzrb0yeafw84srme9",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wzknzrb0yeafw84srme9",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "cup-semi-final-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-semi-final-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, October 31, 2026, 1:00:06 PM",
-        "expire_date": "Saturday, October 31, 2026, 9:00:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793460610~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2a3278489b1cf3261de5f6181b1a7daedd5b891434faa1bd17c13687f6483699/manifest.mpd?vcfilter=6380aea6-5654-42ff-bb05-263e3b53d59a&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
-    {
-      "type": "customentity",
       "_translationId": "2d2a32fe-8455-4aca-a34e-29572091ed93",
       "_entityId": "fd2068dd-8633-4e08-b434-34baa55fc36d",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-semi-final-scotland-v-afghanistan",
@@ -656,7 +494,7 @@
       "fields": {
         "videoId": "0f269146-c9a6-41cc-929f-5b9d39521af1",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-31T08:20:00Z",
@@ -698,7 +536,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T05:48:31.695Z",
+      "lastUpdatedDate": "2026-10-31T08:10:02.689Z",
       "contentDate": "2026-10-31T04:57:00Z",
       "featured": 0,
       "thumbnail": {
@@ -710,8 +548,41 @@
         "slug": "cup-semi-final-2",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-semi-final-2"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 31, 2026, 1:45:02 PM",
+        "expire_date": "Saturday, October 31, 2026, 9:45:06 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793463306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7e5ae9abb2c4be0d6d180cf7be7b18ffa0618900626bb5477df4d9a44f28768c/manifest.mpd?vcfilter=0f269146-c9a6-41cc-929f-5b9d39521af1&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "fd64ddb9-a9a6-42db-8a06-41a9a76955ec",
