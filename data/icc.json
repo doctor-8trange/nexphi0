@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:45:03 PM 31-10-2026",
-  "total_matches": 13,
+  "last_updated": "03:00:07 PM 31-10-2026",
+  "total_matches": 12,
   "live_matches": 4,
-  "upcoming_matches": 9,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -362,7 +362,7 @@
         "videoId": "55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4",
         "workflow": "LIVE",
         "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
+        "videoEstimatedDuration": "18000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-31T06:30:00Z",
         "offer": "Registered",
@@ -376,7 +376,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T06:25:42.035Z",
+      "lastUpdatedDate": "2026-10-31T09:21:42.917Z",
       "contentDate": "2026-10-19T13:37:52.035Z",
       "featured": 0,
       "thumbnail": {
@@ -421,168 +421,6 @@
         }
       }
     },
-    {
-      "type": "customentity",
-      "_translationId": "2d2a32fe-8455-4aca-a34e-29572091ed93",
-      "_entityId": "fd2068dd-8633-4e08-b434-34baa55fc36d",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-semi-final-scotland-v-afghanistan",
-      "slug": "2nd-semi-final-scotland-v-afghanistan",
-      "title": "Hong Kong International Sixes 2026-Cup, 2nd Semi-final: Scotland v Afghanistan",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "fc319e60-d848-4b12-8262-fe9c5b6e5e40",
-          "_entityId": "c987b865-e832-455f-a586-e367417ec078",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275389",
-          "title": "Scotland vs Afghanistan - 2nd Semi-Final - 10/31/2026",
-          "slug": "match-275389",
-          "neutralSlug": "match-275389",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275389",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275389",
-            "teamA": "Scotland",
-            "teamB": "Afghanistan",
-            "teamAid": "16",
-            "teamBid": "1188",
-            "teamAshort": "SCO",
-            "teamBshort": "AFG",
-            "stage": "Semi Final",
-            "matchDateLocal": "10/31/2026",
-            "matchType": "S6",
-            "matchNumber": "2nd Semi-Final",
-            "seriesId": "15828",
-            "seriesName": "Hong Kong Sixes, 2026",
-            "seriesShortName": "HK Sixes, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12772",
-            "tourName": "Hong Kong Sixes, 2026",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "seoName": "scotland-vs-afghanistan",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "0f269146-c9a6-41cc-929f-5b9d39521af1",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3300000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T08:20:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T08:10:02.689Z",
-      "contentDate": "2026-10-31T04:57:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Cup-semi-final-2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/wdhkxjsyv0mf6r6pd7io",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wdhkxjsyv0mf6r6pd7io",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "cup-semi-final-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-semi-final-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, October 31, 2026, 1:45:02 PM",
-        "expire_date": "Saturday, October 31, 2026, 9:45:06 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793463306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7e5ae9abb2c4be0d6d180cf7be7b18ffa0618900626bb5477df4d9a44f28768c/manifest.mpd?vcfilter=0f269146-c9a6-41cc-929f-5b9d39521af1&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "fd64ddb9-a9a6-42db-8a06-41a9a76955ec",
@@ -656,7 +494,7 @@
       "fields": {
         "videoId": "1afefde6-f9cc-4968-b7bf-dd9284312542",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-31T09:30:00Z",
@@ -670,8 +508,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:55:55.438Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T09:28:08.226Z",
       "contentDate": "2026-10-19T13:55:55.438Z",
       "featured": 0,
       "thumbnail": {
@@ -683,8 +521,41 @@
         "slug": "icc26-cwc-l2-uae-oct-match4-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match4-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 31, 2026, 3:00:03 PM",
+        "expire_date": "Saturday, October 31, 2026, 11:00:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793467807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf8ac16e2f14a1f8c68767070cd66dee8db9ac57ac37c8dc980479d17a9c2440/manifest.mpd?vcfilter=1afefde6-f9cc-4968-b7bf-dd9284312542&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "6df39426-7d3f-4ae2-9b36-be1a1311aaf0",
