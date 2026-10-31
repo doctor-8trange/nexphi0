@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "12:15:06 PM 31-10-2026",
-  "total_matches": 15,
+  "last_updated": "01:00:10 PM 31-10-2026",
+  "total_matches": 14,
   "live_matches": 4,
-  "upcoming_matches": 11,
+  "upcoming_matches": 10,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -140,166 +140,6 @@
         ],
         "is_redirect": true,
         "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793452510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4ed88a8020f841462ab183490b513ba71c3b6a05516981e19e3d48726fd2794f/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "7c9488fb-5240-41a5-ad01-ad44858ca15f",
-      "_entityId": "ff887fa1-61a0-4158-8dd1-cc531ec55617",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/plate-2nd-semi-final-hong-kong-china-v-pakistan",
-      "slug": "plate-2nd-semi-final-hong-kong-china-v-pakistan",
-      "title": "Hong Kong International Sixes 2026-Plate, 2nd Semi-final: Hong Kong, China v Pakistan",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "2cffbe75-158d-452f-9a7d-f89cfbca0a07",
-          "_entityId": "038fd98a-4f35-41f3-9a79-f3421139bff2",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275387",
-          "title": "Hong Kong, China vs Pakistan - Plate Semi Final 2 - 10/31/2026",
-          "slug": "match-275387",
-          "neutralSlug": "match-275387",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275387",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275387",
-            "teamA": "Hong Kong, China",
-            "teamB": "Pakistan",
-            "teamAid": "19",
-            "teamBid": "6",
-            "teamAshort": "HK",
-            "teamBshort": "PAK",
-            "stage": "Semi Final",
-            "matchDateLocal": "10/31/2026",
-            "matchType": "S6",
-            "matchNumber": "Plate Semi Final 2",
-            "seriesId": "15828",
-            "seriesName": "Hong Kong Sixes, 2026",
-            "seriesShortName": "HK Sixes, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12772",
-            "tourName": "Hong Kong Sixes, 2026",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "seoName": "hong-kong-china-vs-pakistan",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "67fc4a06-2b09-4598-b822-a79c3ec1e5c2",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T06:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T06:29:31.018Z",
-      "contentDate": "2026-10-31T04:55:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Plate-semi-final-2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fihtfh4yyp4pqbxpiqcv",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fihtfh4yyp4pqbxpiqcv",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "plate-semi-final-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/plate-semi-final-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Saturday, October 31, 2026, 12:00:06 PM",
-        "expire_date": "Saturday, October 31, 2026, 8:00:10 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793457010~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1fb3821a47ac8f862f8e65ae4581b6ade2d3e99c4ebe0393b8ce6aca6f94895a/manifest.mpd?vcfilter=67fc4a06-2b09-4598-b822-a79c3ec1e5c2&",
         "keys": {
           "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
           "jwk": {
@@ -580,9 +420,7 @@
           }
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "type": "customentity",
       "_translationId": "7770595d-9c50-4688-8d2c-a0e38cadc9b6",
@@ -656,7 +494,7 @@
       "fields": {
         "videoId": "6380aea6-5654-42ff-bb05-263e3b53d59a",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "3000000",
         "v_has_data": true,
         "scheduledStartTime": "2026-10-31T07:25:00Z",
@@ -698,7 +536,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T05:43:48.522Z",
+      "lastUpdatedDate": "2026-10-31T07:15:55.042Z",
       "contentDate": "2026-10-31T04:56:00Z",
       "featured": 0,
       "thumbnail": {
@@ -710,8 +548,41 @@
         "slug": "cup-semi-final-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-semi-final-1"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 31, 2026, 1:00:06 PM",
+        "expire_date": "Saturday, October 31, 2026, 9:00:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793460610~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2a3278489b1cf3261de5f6181b1a7daedd5b891434faa1bd17c13687f6483699/manifest.mpd?vcfilter=6380aea6-5654-42ff-bb05-263e3b53d59a&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "2d2a32fe-8455-4aca-a34e-29572091ed93",
