@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 31-10-2026 14:45
+#DATE:- 31-10-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="c550c096-1066-4984-abfd-3ae7f32153da" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (1st Innings)
@@ -32,7 +32,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793457015~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=988985a7cf1b1e732b86eece121e52af06cfe7fa2d8cdf373eb69959b17afc70/manifest.mpd?vcfilter=55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4&
-#EXTINF:-1 tvg-id="0f269146-c9a6-41cc-929f-5b9d39521af1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wdhkxjsyv0mf6r6pd7io" tvg-lang="English" group-title="Cricket",English | Hong Kong International Sixes 2026-Cup, 2nd Semi-final: Scotland v Afghanistan
+#EXTINF:-1 tvg-id="1afefde6-f9cc-4968-b7bf-dd9284312542" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z27ygrztwjo6bxujbzq6" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -41,4 +41,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793463306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7e5ae9abb2c4be0d6d180cf7be7b18ffa0618900626bb5477df4d9a44f28768c/manifest.mpd?vcfilter=0f269146-c9a6-41cc-929f-5b9d39521af1&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793467807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf8ac16e2f14a1f8c68767070cd66dee8db9ac57ac37c8dc980479d17a9c2440/manifest.mpd?vcfilter=1afefde6-f9cc-4968-b7bf-dd9284312542&
