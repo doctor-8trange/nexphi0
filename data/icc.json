@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:15:03 PM 31-10-2026",
+  "last_updated": "03:30:03 PM 31-10-2026",
   "total_matches": 11,
   "live_matches": 3,
   "upcoming_matches": 8,
@@ -425,108 +425,6 @@
   "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "6df39426-7d3f-4ae2-9b36-be1a1311aaf0",
-      "_entityId": "f533caa6-4e4e-4c42-bc5e-93e4ff53fd7a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-jersey-2nd-innings",
-      "slug": "qatar-v-jersey-2nd-innings",
-      "title": "Qatar v Jersey (2nd Innings)",
-      "tags": [
-        {
-          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
-          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "neutralSlug": "tournament-8151",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-8151",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "1fcc6620-7d05-4450-ac3a-501ffa5af952",
-          "_entityId": "acc1e1c8-3487-4aba-8e85-6786bd59b842",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275485",
-          "title": "Qatar vs Jersey - Match 45 - 10/31/2026",
-          "slug": "match-275485",
-          "neutralSlug": "match-275485",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275485",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275485",
-            "teamA": "Qatar",
-            "teamB": "Jersey",
-            "teamAid": "1763",
-            "teamBid": "1481",
-            "teamAshort": "QAT",
-            "teamBshort": "JSY",
-            "stage": "League",
-            "matchDateLocal": "10/31/2026",
-            "matchType": "List A",
-            "matchNumber": "Match 45",
-            "seriesId": "8151",
-            "seriesName": "ICC CWC Challenge League A, 2024-26",
-            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
-            "seriesType": "Tournament",
-            "tourId": "6983",
-            "tourName": "ICC CWC Challenge League A, 2024-26",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5",
-            "seoName": "qatar-vs-jersey",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "d8afefb5-b1b2-4e86-b4ee-abeadfa2c2e7",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "10800000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T11:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T09:39:48.431Z",
-      "contentDate": "2026-10-19T13:39:11.106Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-CLA-KEN-OCT_Match15 (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sozkttgn7cfxhpz3qirx",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sozkttgn7cfxhpz3qirx",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-cla-ken-oct-match15-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match15-1"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
       "_translationId": "132ed050-0f9b-4230-85da-3ba459f71ec4",
       "_entityId": "cb54e5e3-ad27-4147-971c-8a1522a6a7cb",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-papua-new-guinea-2nd-innings",
@@ -624,6 +522,108 @@
         "overriddenFormats": [],
         "slug": "icc26-cwc-cla-ken-oct-match14-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match14-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6df39426-7d3f-4ae2-9b36-be1a1311aaf0",
+      "_entityId": "f533caa6-4e4e-4c42-bc5e-93e4ff53fd7a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-jersey-2nd-innings",
+      "slug": "qatar-v-jersey-2nd-innings",
+      "title": "Qatar v Jersey (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "3657cb37-5dd8-4106-a3bb-72b9c30095a5",
+          "_entityId": "3d23c111-7bcf-4890-b83f-07bfa09a09df",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
+          "title": "ICC CWC Challenge League A, 2024-26",
+          "slug": "tournament-8151",
+          "neutralSlug": "tournament-8151",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-8151",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "8151",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "1fcc6620-7d05-4450-ac3a-501ffa5af952",
+          "_entityId": "acc1e1c8-3487-4aba-8e85-6786bd59b842",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275485",
+          "title": "Qatar vs Jersey - Match 45 - 10/31/2026",
+          "slug": "match-275485",
+          "neutralSlug": "match-275485",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275485",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275485",
+            "teamA": "Qatar",
+            "teamB": "Jersey",
+            "teamAid": "1763",
+            "teamBid": "1481",
+            "teamAshort": "QAT",
+            "teamBshort": "JSY",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "List A",
+            "matchNumber": "Match 45",
+            "seriesId": "8151",
+            "seriesName": "ICC CWC Challenge League A, 2024-26",
+            "seriesShortName": "ICC CWC Challenge League A, 2024-26",
+            "seriesType": "Tournament",
+            "tourId": "6983",
+            "tourName": "ICC CWC Challenge League A, 2024-26",
+            "competitionType": "List A Domestic - m",
+            "competitionTypeId": "5",
+            "seoName": "qatar-vs-jersey",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "d8afefb5-b1b2-4e86-b4ee-abeadfa2c2e7",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "7200000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T12:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T09:49:12.329Z",
+      "contentDate": "2026-10-19T13:39:11.106Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-CLA-KEN-OCT_Match15 (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sozkttgn7cfxhpz3qirx",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sozkttgn7cfxhpz3qirx",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-cla-ken-oct-match15-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-cla-ken-oct-match15-1"
       },
       "entityCode": "video"
     },
