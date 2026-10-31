@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:30:05 AM 31-10-2026",
+  "last_updated": "10:45:09 AM 31-10-2026",
   "total_matches": 17,
-  "live_matches": 1,
-  "upcoming_matches": 16,
+  "live_matches": 2,
+  "upcoming_matches": 15,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -181,6 +181,139 @@
           }
         }
       }
+    },
+    {
+      "type": "customentity",
+      "_translationId": "393241f0-6596-4280-8373-8c98b134275c",
+      "_entityId": "65717b4c-6c22-4171-9e78-ad408af98f98",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-united-arab-emirates-1st-innings",
+      "slug": "netherlands-v-united-arab-emirates-1st-innings",
+      "title": "Netherlands v United Arab Emirates (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
+          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
+          "title": "ICC CWC League 2, 2023-27",
+          "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "6156",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "b8f70133-c803-49fc-8731-3739fddfed87",
+          "_entityId": "5dfe177f-0419-4600-90ac-f5d89bad1c29",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275770",
+          "title": "United Arab Emirates vs Netherlands - Match 143 - 10/31/2026",
+          "slug": "match-275770",
+          "neutralSlug": "match-275770",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275770",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275770",
+            "teamA": "United Arab Emirates",
+            "teamB": "Netherlands",
+            "teamAid": "21",
+            "teamBid": "15",
+            "teamAshort": "UAE",
+            "teamBshort": "NED",
+            "stage": "League",
+            "matchDateLocal": "10/31/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 143",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-netherlands",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "c550c096-1066-4984-abfd-3ae7f32153da",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-10-31T05:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T05:10:23.976Z",
+      "contentDate": "2026-10-19T13:55:33.718Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWC-L2-UAE-OCT_Match4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/npc3zfxylqwbdm0ifwki",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwc-l2-uae-oct-match4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match4"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Saturday, October 31, 2026, 10:45:05 AM",
+        "expire_date": "Saturday, October 31, 2026, 6:45:10 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793452510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4ed88a8020f841462ab183490b513ba71c3b6a05516981e19e3d48726fd2794f/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
   ],
   "upcoming": [
@@ -260,7 +393,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T05:20:00Z",
+        "scheduledStartTime": "2026-10-31T05:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -298,8 +431,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-31T04:54:00.598Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T05:01:15.901Z",
       "contentDate": "2026-10-31T04:53:00Z",
       "featured": 0,
       "thumbnail": {
@@ -310,108 +443,6 @@
         "overriddenFormats": [],
         "slug": "plate-semi-final-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/plate-semi-final-1"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "393241f0-6596-4280-8373-8c98b134275c",
-      "_entityId": "65717b4c-6c22-4171-9e78-ad408af98f98",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-united-arab-emirates-1st-innings",
-      "slug": "netherlands-v-united-arab-emirates-1st-innings",
-      "title": "Netherlands v United Arab Emirates (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "b8f70133-c803-49fc-8731-3739fddfed87",
-          "_entityId": "5dfe177f-0419-4600-90ac-f5d89bad1c29",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275770",
-          "title": "United Arab Emirates vs Netherlands - Match 143 - 10/31/2026",
-          "slug": "match-275770",
-          "neutralSlug": "match-275770",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275770",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275770",
-            "teamA": "United Arab Emirates",
-            "teamB": "Netherlands",
-            "teamAid": "21",
-            "teamBid": "15",
-            "teamAshort": "UAE",
-            "teamBshort": "NED",
-            "stage": "League",
-            "matchDateLocal": "10/31/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 143",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-netherlands",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "c550c096-1066-4984-abfd-3ae7f32153da",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T05:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-10-19T13:55:33.718Z",
-      "contentDate": "2026-10-19T13:55:33.718Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-UAE-OCT_Match4",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/npc3zfxylqwbdm0ifwki",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-uae-oct-match4",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match4"
       },
       "entityCode": "video"
     },
@@ -754,7 +785,7 @@
       "_entityId": "d9c9f3a7-f5e0-4578-965b-2f45a47acc46",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/1st-semi-final-australia-v-uae",
       "slug": "1st-semi-final-australia-v-uae",
-      "title": "1st Semi-final: Australia v UAE",
+      "title": "Cup, 1st Semi-final: Australia v UAE",
       "tags": [
         {
           "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
@@ -862,8 +893,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-31T04:57:03.208Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T05:04:50.33Z",
       "contentDate": "2026-10-31T04:56:00Z",
       "featured": 0,
       "thumbnail": {
@@ -883,7 +914,7 @@
       "_entityId": "fd2068dd-8633-4e08-b434-34baa55fc36d",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-semi-final-scotland-v-afghanistan",
       "slug": "2nd-semi-final-scotland-v-afghanistan",
-      "title": "2nd Semi-final: Scotland v Afghanistan",
+      "title": "Cup, 2nd Semi-final: Scotland v Afghanistan",
       "tags": [
         {
           "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
@@ -991,8 +1022,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-10-31T04:57:53.234Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-10-31T05:05:00.218Z",
       "contentDate": "2026-10-31T04:57:00Z",
       "featured": 0,
       "thumbnail": {
