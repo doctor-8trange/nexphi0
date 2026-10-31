@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:15:09 AM 31-10-2026",
+  "last_updated": "11:30:06 AM 31-10-2026",
   "total_matches": 16,
   "live_matches": 2,
   "upcoming_matches": 14,
@@ -785,7 +785,7 @@
       "_entityId": "fd2068dd-8633-4e08-b434-34baa55fc36d",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/2nd-semi-final-scotland-v-afghanistan",
       "slug": "2nd-semi-final-scotland-v-afghanistan",
-      "title": "Hong Kong International Sixes 2026 Cup, 2nd Semi-final: Scotland v Afghanistan",
+      "title": "Hong Kong International Sixes 2026-Cup, 2nd Semi-final: Scotland v Afghanistan",
       "tags": [
         {
           "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
@@ -855,7 +855,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-10-31T08:05:00Z",
+        "scheduledStartTime": "2026-10-31T08:20:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -894,7 +894,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-10-31T05:20:18.939Z",
+      "lastUpdatedDate": "2026-10-31T05:48:31.695Z",
       "contentDate": "2026-10-31T04:57:00Z",
       "featured": 0,
       "thumbnail": {
