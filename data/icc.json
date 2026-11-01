@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "06:45:07 AM 01-11-2026",
+  "last_updated": "08:15:07 AM 01-11-2026",
   "total_matches": 12,
   "live_matches": 1,
   "upcoming_matches": 11,
@@ -22,168 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "934cb20d-ea80-4b9a-83a6-e68229faf608",
-      "_entityId": "8b3e24e8-79db-47f3-ba60-1c526e1e964a",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-11th-place-play-off-bangladesh-v-india",
-      "slug": "hong-kong-sixes-11th-place-play-off-bangladesh-v-india",
-      "title": "Hong Kong Sixes: 11th Place Play-off - Bangladesh v India",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a7960817-a38c-431c-b859-9addb43e577d",
-          "_entityId": "752860c3-6fa6-4310-8f83-c591d8771745",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275390",
-          "title": "Bangladesh vs India - 11th Place Play-off - 11/1/2026",
-          "slug": "match-275390",
-          "neutralSlug": "match-275390",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275390",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275390",
-            "teamA": "Bangladesh",
-            "teamB": "India",
-            "teamAid": "2",
-            "teamBid": "4",
-            "teamAshort": "BAN",
-            "teamBshort": "IND",
-            "stage": "Playoffs",
-            "matchDateLocal": "11/1/2026",
-            "matchType": "S6",
-            "matchNumber": "11th Place Play-off",
-            "seriesId": "15828",
-            "seriesName": "Hong Kong Sixes, 2026",
-            "seriesShortName": "HK Sixes, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12772",
-            "tourName": "Hong Kong Sixes, 2026",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "seoName": "bangladesh-vs-india",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "cd4097e9-20be-49c5-8cbc-fa2b6bb92012",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "5100000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T01:10:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T01:03:06.315Z",
-      "contentDate": "2026-11-01T00:47:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "11th---12th-place-play-off",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xswuyyxabn8mtbklyhqm",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xswuyyxabn8mtbklyhqm",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "11th-12th-place-play-off",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/11th-12th-place-play-off"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, November 1, 2026, 6:45:03 AM",
-        "expire_date": "Sunday, November 1, 2026, 2:45:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793524507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d6ac072c39e7ec8ecf1d39e0ef8dfa98e4ced72d1e3c96631b87d8cd7e4b0389/manifest.mpd?vcfilter=cd4097e9-20be-49c5-8cbc-fa2b6bb92012&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "c04d13e3-8cc6-4ce0-87a4-d4667854b0de",
@@ -257,10 +95,10 @@
       "fields": {
         "videoId": "bb8bef80-1b30-4d7a-9827-a8181907c058",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3300000",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "3000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T02:35:00Z",
+        "scheduledStartTime": "2026-11-01T02:40:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -298,8 +136,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-11-01T00:51:52.411Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T02:38:13.692Z",
       "contentDate": "2026-11-01T00:51:00Z",
       "featured": 0,
       "thumbnail": {
@@ -311,8 +149,41 @@
         "slug": "7th-8th-place-play-off",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-8th-place-play-off"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, November 1, 2026, 8:15:03 AM",
+        "expire_date": "Sunday, November 1, 2026, 4:15:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793529907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1866f1d202079ad64427efb9153c438ae599707c3eaa3b4d8a5c61cbfa3e516e/manifest.mpd?vcfilter=bb8bef80-1b30-4d7a-9827-a8181907c058&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "239c325c-172c-47f9-84f8-0450060c7396",
@@ -439,6 +310,96 @@
         "overriddenFormats": [],
         "slug": "3rd-4th-place-play-off",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-4th-place-play-off"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "326d3abe-ee83-45d7-83eb-f74deeb706db",
+      "_entityId": "4a0e1923-2588-450e-9f87-b978b4432850",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-hk-sar-women-v-china-women",
+      "slug": "hong-kong-sixes-hk-sar-women-v-china-women",
+      "title": "Hong Kong Sixes: HK SAR Women v China Women",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "4e11414a-6829-4012-a804-4eee5edc73c1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3900000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T04:20:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "CC",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T02:41:20.293Z",
+      "contentDate": "2026-11-01T01:29:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Womens_Match",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bgxobpaqhnc6g15mbqib",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bgxobpaqhnc6g15mbqib",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "womens-match",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/womens-match"
       },
       "entityCode": "video"
     },
