@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "09:30:04 AM 01-11-2026",
+  "last_updated": "10:00:04 AM 01-11-2026",
   "total_matches": 11,
   "live_matches": 1,
   "upcoming_matches": 10,
@@ -190,7 +190,7 @@
       "_entityId": "4a0e1923-2588-450e-9f87-b978b4432850",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-hk-sar-women-v-china-women",
       "slug": "hong-kong-sixes-hk-sar-women-v-china-women",
-      "title": "Hong Kong Sixes: HK SAR Women v China Women",
+      "title": "Hong Kong Sixes: Hong Kong, China Women v China Women Stars",
       "tags": [
         {
           "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
@@ -219,9 +219,9 @@
         "videoId": "4e11414a-6829-4012-a804-4eee5edc73c1",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3300000",
+        "videoEstimatedDuration": "3000000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T04:35:00Z",
+        "scheduledStartTime": "2026-11-01T04:40:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -260,7 +260,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T03:51:32.603Z",
+      "lastUpdatedDate": "2026-11-01T04:22:04.474Z",
       "contentDate": "2026-11-01T01:29:00Z",
       "featured": 0,
       "thumbnail": {
