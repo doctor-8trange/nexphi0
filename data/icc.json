@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:15:09 AM 01-11-2026",
+  "last_updated": "10:45:05 AM 01-11-2026",
   "total_matches": 10,
   "live_matches": 1,
   "upcoming_matches": 9,
@@ -221,7 +221,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3300000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T05:20:00Z",
+        "scheduledStartTime": "2026-11-01T05:35:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -259,8 +259,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-11-01T01:07:26.357Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T05:08:55.873Z",
       "contentDate": "2026-11-01T01:07:00Z",
       "featured": 0,
       "thumbnail": {
@@ -348,9 +348,9 @@
         "videoId": "db26b50a-84ed-41ec-b84e-2f6de0599db0",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3300000",
+        "videoEstimatedDuration": "3600000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T06:15:00Z",
+        "scheduledStartTime": "2026-11-01T06:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -388,8 +388,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-11-01T01:02:22.689Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T05:09:31.209Z",
       "contentDate": "2026-11-01T01:02:00Z",
       "featured": 0,
       "thumbnail": {
@@ -477,9 +477,9 @@
         "videoId": "abaf8b84-5c5e-4c67-8c17-517b1b422df4",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3300000",
+        "videoEstimatedDuration": "3600000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T07:10:00Z",
+        "scheduledStartTime": "2026-11-01T07:30:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -517,8 +517,8 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Yash kokane",
-      "lastUpdatedDate": "2026-11-01T01:01:07.68Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T05:09:57.5Z",
       "contentDate": "2026-11-01T01:01:00Z",
       "featured": 0,
       "thumbnail": {
