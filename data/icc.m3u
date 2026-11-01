@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 01-11-2026 08:15
+#DATE:- 01-11-2026 09:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="bb8bef80-1b30-4d7a-9827-a8181907c058" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/obzzkmk5trfwc6s9kztg" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: 7th Place Play-off - Sri Lanka v Hong Kong, China
+#EXTINF:-1 tvg-id="392ca128-4da6-4ae9-84d7-9d35c55e8165" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/osmc5t3dc4ualenipgcg" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: 3rd Place Play-off - UAE v Scotland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,4 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793529907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1866f1d202079ad64427efb9153c438ae599707c3eaa3b4d8a5c61cbfa3e516e/manifest.mpd?vcfilter=bb8bef80-1b30-4d7a-9827-a8181907c058&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793533507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c728bed85cd5b6ecf16021df81a9f66a7449534e1efed26152621ae7235af6f1/manifest.mpd?vcfilter=392ca128-4da6-4ae9-84d7-9d35c55e8165&
