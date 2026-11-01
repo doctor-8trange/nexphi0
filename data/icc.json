@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "11:00:05 AM 01-11-2026",
-  "total_matches": 10,
+  "last_updated": "11:15:08 AM 01-11-2026",
+  "total_matches": 9,
   "live_matches": 1,
-  "upcoming_matches": 9,
+  "upcoming_matches": 8,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,129 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "326d3abe-ee83-45d7-83eb-f74deeb706db",
-      "_entityId": "4a0e1923-2588-450e-9f87-b978b4432850",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-hk-sar-women-v-china-women",
-      "slug": "hong-kong-sixes-hk-sar-women-v-china-women",
-      "title": "Hong Kong Sixes: Hong Kong, China Women v China Women Stars",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "4e11414a-6829-4012-a804-4eee5edc73c1",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "3000000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T04:40:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "CC",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T04:38:47.017Z",
-      "contentDate": "2026-11-01T01:29:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Womens_Match",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bgxobpaqhnc6g15mbqib",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bgxobpaqhnc6g15mbqib",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "womens-match",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/womens-match"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Sunday, November 1, 2026, 10:15:05 AM",
-        "expire_date": "Sunday, November 1, 2026, 6:15:09 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793537109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=14aecc74b995b21e3d69064aa4627ad3bf33d034f1ce5285030821c74d48e9f8/manifest.mpd?vcfilter=4e11414a-6829-4012-a804-4eee5edc73c1&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "1177bf99-e45b-4182-9648-d6350bdc9a84",
@@ -218,7 +95,7 @@
       "fields": {
         "videoId": "484cb4e7-1c4a-4418-8884-f58ffffb597a",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "3600000",
         "v_has_data": true,
         "scheduledStartTime": "2026-11-01T05:40:00Z",
@@ -260,7 +137,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T05:30:03.906Z",
+      "lastUpdatedDate": "2026-11-01T05:37:58.257Z",
       "contentDate": "2026-11-01T01:07:00Z",
       "featured": 0,
       "thumbnail": {
@@ -272,8 +149,41 @@
         "slug": "bowl-final",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bowl-final"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, November 1, 2026, 11:15:05 AM",
+        "expire_date": "Sunday, November 1, 2026, 7:15:08 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793540708~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf25479e1504633df5e2fd33989b91a5cb550269944dda10a49d813b25dcea6a/manifest.mpd?vcfilter=484cb4e7-1c4a-4418-8884-f58ffffb597a&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "95ee1abf-12b3-4523-92bd-e62d152bd286",
@@ -350,7 +260,7 @@
         "videoStatus": "Scheduled",
         "videoEstimatedDuration": "3600000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T06:30:00Z",
+        "scheduledStartTime": "2026-11-01T06:40:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -389,7 +299,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T05:09:31.209Z",
+      "lastUpdatedDate": "2026-11-01T05:30:22.154Z",
       "contentDate": "2026-11-01T01:02:00Z",
       "featured": 0,
       "thumbnail": {
@@ -400,135 +310,6 @@
         "overriddenFormats": [],
         "slug": "plate-final",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/plate-final"
-      },
-      "entityCode": "video"
-    },
-    {
-      "type": "customentity",
-      "_translationId": "6b42efe1-ba0b-4840-be25-0e64aa38df6d",
-      "_entityId": "2a3ef03d-50e1-44cf-a23b-64d6f08d62db",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-final-australia-v-afghanistan",
-      "slug": "hong-kong-sixes-final-australia-v-afghanistan",
-      "title": "Hong Kong Sixes: Final - Australia v Afghanistan",
-      "tags": [
-        {
-          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
-          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
-          "title": "Hong Kong Sixes, 2026",
-          "slug": "tournament-15828",
-          "neutralSlug": "tournament-15828",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15828",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15828",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "a5cc8a06-dc30-4bbb-9d29-248256288a09",
-          "_entityId": "463abce0-4af6-461f-90d1-5595ee297e1e",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275395",
-          "title": "Australia vs Afghanistan - Final - 11/1/2026",
-          "slug": "match-275395",
-          "neutralSlug": "match-275395",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275395",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275395",
-            "teamA": "Australia",
-            "teamB": "Afghanistan",
-            "teamAid": "1",
-            "teamBid": "1188",
-            "teamAshort": "AUS",
-            "teamBshort": "AFG",
-            "stage": "Final",
-            "matchDateLocal": "11/1/2026",
-            "matchType": "S6",
-            "matchNumber": "Final",
-            "seriesId": "15828",
-            "seriesName": "Hong Kong Sixes, 2026",
-            "seriesShortName": "HK Sixes, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12772",
-            "tourName": "Hong Kong Sixes, 2026",
-            "competitionType": "S6 Domestic - m",
-            "competitionTypeId": "142",
-            "seoName": "australia-vs-afghanistan",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "abaf8b84-5c5e-4c67-8c17-517b1b422df4",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "videoEstimatedDuration": "3600000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-01T07:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "HK",
-            "MY",
-            "SG",
-            "BN",
-            "MM",
-            "KH",
-            "CN",
-            "CX",
-            "TL",
-            "ID",
-            "JP",
-            "LA",
-            "MO",
-            "MN",
-            "FM",
-            "NC",
-            "PH",
-            "KR",
-            "TW",
-            "TH",
-            "VN",
-            "IN",
-            "PK",
-            "US",
-            "CA",
-            "ZA",
-            "WI",
-            "CC"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-01T05:09:57.5Z",
-      "contentDate": "2026-11-01T01:01:00Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "Cup-Final",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/danfguwzyc90jtpejbbn",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/danfguwzyc90jtpejbbn",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "cup-final",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-final"
       },
       "entityCode": "video"
     },
@@ -636,6 +417,135 @@
         "overriddenFormats": [],
         "slug": "5th-odi-namibia-v-ireland-1st-innings",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5th-odi-namibia-v-ireland-1st-innings"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6b42efe1-ba0b-4840-be25-0e64aa38df6d",
+      "_entityId": "2a3ef03d-50e1-44cf-a23b-64d6f08d62db",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-final-australia-v-afghanistan",
+      "slug": "hong-kong-sixes-final-australia-v-afghanistan",
+      "title": "Hong Kong Sixes: Final - Australia v Afghanistan",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "a5cc8a06-dc30-4bbb-9d29-248256288a09",
+          "_entityId": "463abce0-4af6-461f-90d1-5595ee297e1e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275395",
+          "title": "Australia vs Afghanistan - Final - 11/1/2026",
+          "slug": "match-275395",
+          "neutralSlug": "match-275395",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275395",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275395",
+            "teamA": "Australia",
+            "teamB": "Afghanistan",
+            "teamAid": "1",
+            "teamBid": "1188",
+            "teamAshort": "AUS",
+            "teamBshort": "AFG",
+            "stage": "Final",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "Final",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "australia-vs-afghanistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "abaf8b84-5c5e-4c67-8c17-517b1b422df4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3600000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T07:40:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T05:30:40.653Z",
+      "contentDate": "2026-11-01T01:01:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Cup-Final",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/danfguwzyc90jtpejbbn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/danfguwzyc90jtpejbbn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "cup-final",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-final"
       },
       "entityCode": "video"
     },
