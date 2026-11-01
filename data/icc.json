@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "31-10-2026 20:45",
-  "total_matches": 6,
-  "live_matches": 0,
-  "upcoming_matches": 6,
+  "last_updated": "06:45:07 AM 01-11-2026",
+  "total_matches": 12,
+  "live_matches": 1,
+  "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,8 +21,814 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [],
+  "live": [
+    {
+      "type": "customentity",
+      "_translationId": "934cb20d-ea80-4b9a-83a6-e68229faf608",
+      "_entityId": "8b3e24e8-79db-47f3-ba60-1c526e1e964a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-11th-place-play-off-bangladesh-v-india",
+      "slug": "hong-kong-sixes-11th-place-play-off-bangladesh-v-india",
+      "title": "Hong Kong Sixes: 11th Place Play-off - Bangladesh v India",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "a7960817-a38c-431c-b859-9addb43e577d",
+          "_entityId": "752860c3-6fa6-4310-8f83-c591d8771745",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275390",
+          "title": "Bangladesh vs India - 11th Place Play-off - 11/1/2026",
+          "slug": "match-275390",
+          "neutralSlug": "match-275390",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275390",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275390",
+            "teamA": "Bangladesh",
+            "teamB": "India",
+            "teamAid": "2",
+            "teamBid": "4",
+            "teamAshort": "BAN",
+            "teamBshort": "IND",
+            "stage": "Playoffs",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "11th Place Play-off",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "bangladesh-vs-india",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "cd4097e9-20be-49c5-8cbc-fa2b6bb92012",
+        "workflow": "LIVE",
+        "videoStatus": "Live",
+        "videoEstimatedDuration": "5100000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T01:10:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-01T01:03:06.315Z",
+      "contentDate": "2026-11-01T00:47:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "11th---12th-place-play-off",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xswuyyxabn8mtbklyhqm",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xswuyyxabn8mtbklyhqm",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "11th-12th-place-play-off",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/11th-12th-place-play-off"
+      },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Sunday, November 1, 2026, 6:45:03 AM",
+        "expire_date": "Sunday, November 1, 2026, 2:45:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793524507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d6ac072c39e7ec8ecf1d39e0ef8dfa98e4ced72d1e3c96631b87d8cd7e4b0389/manifest.mpd?vcfilter=cd4097e9-20be-49c5-8cbc-fa2b6bb92012&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
   "upcoming": [
+    {
+      "type": "customentity",
+      "_translationId": "c04d13e3-8cc6-4ce0-87a4-d4667854b0de",
+      "_entityId": "de832c58-3de6-4c43-ae9d-47ffe7ce5787",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-7th-place-play-off-sri-lanka-v-hong-kong-china",
+      "slug": "hong-kong-sixes-7th-place-play-off-sri-lanka-v-hong-kong-china",
+      "title": "Hong Kong Sixes: 7th Place Play-off - Sri Lanka v Hong Kong, China",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7870c0d3-298b-449f-9fe2-232bf8a9a97f",
+          "_entityId": "bf79389c-f32c-4c7c-9f31-b88d7e5486b0",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275391",
+          "title": "Sri Lanka vs Hong Kong, China - 7th Place Play-off - 11/1/2026",
+          "slug": "match-275391",
+          "neutralSlug": "match-275391",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275391",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275391",
+            "teamA": "Sri Lanka",
+            "teamB": "Hong Kong, China",
+            "teamAid": "8",
+            "teamBid": "19",
+            "teamAshort": "SL",
+            "teamBshort": "HK",
+            "stage": "Playoffs",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "7th Place Play-off",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "sri-lanka-vs-hong-kong-china",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "bb8bef80-1b30-4d7a-9827-a8181907c058",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T02:35:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T00:51:52.411Z",
+      "contentDate": "2026-11-01T00:51:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "7th---8th-place-play-off",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/obzzkmk5trfwc6s9kztg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/obzzkmk5trfwc6s9kztg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "7th-8th-place-play-off",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/7th-8th-place-play-off"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "239c325c-172c-47f9-84f8-0450060c7396",
+      "_entityId": "284c975a-875b-444d-aab1-254a56fef43c",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-3rd-place-play-off-uae-v-scotland",
+      "slug": "hong-kong-sixes-3rd-place-play-off-uae-v-scotland",
+      "title": "Hong Kong Sixes: 3rd Place Play-off - UAE v Scotland",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "28b8c07a-84c3-4648-8c18-fe3dbbe5e67b",
+          "_entityId": "55a538ac-027b-450f-8fdd-5ca2653ae8e3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275392",
+          "title": "United Arab Emirates vs Scotland - 3rd Place Play-off - 11/1/2026",
+          "slug": "match-275392",
+          "neutralSlug": "match-275392",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275392",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275392",
+            "teamA": "United Arab Emirates",
+            "teamB": "Scotland",
+            "teamAid": "21",
+            "teamBid": "16",
+            "teamAshort": "UAE",
+            "teamBshort": "SCO",
+            "stage": "Playoffs",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "3rd Place Play-off",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "united-arab-emirates-vs-scotland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "392ca128-4da6-4ae9-84d7-9d35c55e8165",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T03:30:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T00:59:36.991Z",
+      "contentDate": "2026-11-01T00:59:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "3rd---4th-place-play-off",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/osmc5t3dc4ualenipgcg",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/osmc5t3dc4ualenipgcg",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "3rd-4th-place-play-off",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/3rd-4th-place-play-off"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "1177bf99-e45b-4182-9648-d6350bdc9a84",
+      "_entityId": "ee177ee5-5ab7-4e64-909a-b08f072b6e61",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-bowl-final-england-v-south-africa",
+      "slug": "hong-kong-sixes-bowl-final-england-v-south-africa",
+      "title": "Hong Kong Sixes: Bowl, Final - England v South Africa",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "69a6f2ff-7920-4aca-840b-17c0f998e620",
+          "_entityId": "caaf4a7a-617f-4e22-8dc0-66a4e52609fd",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275393",
+          "title": "England vs South Africa - Bowl Final - 11/1/2026",
+          "slug": "match-275393",
+          "neutralSlug": "match-275393",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275393",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275393",
+            "teamA": "England",
+            "teamB": "South Africa",
+            "teamAid": "3",
+            "teamBid": "7",
+            "teamAshort": "ENG",
+            "teamBshort": "SA",
+            "stage": "Final",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "Bowl Final",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "england-vs-south-africa",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "484cb4e7-1c4a-4418-8884-f58ffffb597a",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T05:20:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T01:07:26.357Z",
+      "contentDate": "2026-11-01T01:07:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Bowl-final",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/sdvloxak0ypc6kurnhqu",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/sdvloxak0ypc6kurnhqu",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "bowl-final",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bowl-final"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "95ee1abf-12b3-4523-92bd-e62d152bd286",
+      "_entityId": "e3b97faf-d2f6-4d0b-8e05-d131de45d053",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-plate-final-oman-v-pakistan",
+      "slug": "hong-kong-sixes-plate-final-oman-v-pakistan",
+      "title": "Hong Kong Sixes: Plate, Final - Oman v Pakistan",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "e4ce8ea8-dacd-4617-9d20-2a0179184fba",
+          "_entityId": "11db885e-02bd-42ce-b7a4-d5799271382c",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275394",
+          "title": "Oman vs Pakistan - Plate Final - 11/1/2026",
+          "slug": "match-275394",
+          "neutralSlug": "match-275394",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275394",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275394",
+            "teamA": "Oman",
+            "teamB": "Pakistan",
+            "teamAid": "28",
+            "teamBid": "6",
+            "teamAshort": "OMA",
+            "teamBshort": "PAK",
+            "stage": "Final",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "Plate Final",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "oman-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "db26b50a-84ed-41ec-b84e-2f6de0599db0",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T06:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T01:02:22.689Z",
+      "contentDate": "2026-11-01T01:02:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Plate-final",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/mugvh7wff0xzspyfpxnn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mugvh7wff0xzspyfpxnn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "plate-final",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/plate-final"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "6b42efe1-ba0b-4840-be25-0e64aa38df6d",
+      "_entityId": "2a3ef03d-50e1-44cf-a23b-64d6f08d62db",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-sixes-final-australia-v-afghanistan",
+      "slug": "hong-kong-sixes-final-australia-v-afghanistan",
+      "title": "Hong Kong Sixes: Final - Australia v Afghanistan",
+      "tags": [
+        {
+          "_translationId": "62180fa1-c9c4-489b-a5b7-3b449be23af1",
+          "_entityId": "7d7bd268-8ecf-4015-a045-52a6b5cba00e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15828",
+          "title": "Hong Kong Sixes, 2026",
+          "slug": "tournament-15828",
+          "neutralSlug": "tournament-15828",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15828",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15828",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "a5cc8a06-dc30-4bbb-9d29-248256288a09",
+          "_entityId": "463abce0-4af6-461f-90d1-5595ee297e1e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275395",
+          "title": "Australia vs Afghanistan - Final - 11/1/2026",
+          "slug": "match-275395",
+          "neutralSlug": "match-275395",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275395",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275395",
+            "teamA": "Australia",
+            "teamB": "Afghanistan",
+            "teamAid": "1",
+            "teamBid": "1188",
+            "teamAshort": "AUS",
+            "teamBshort": "AFG",
+            "stage": "Final",
+            "matchDateLocal": "11/1/2026",
+            "matchType": "S6",
+            "matchNumber": "Final",
+            "seriesId": "15828",
+            "seriesName": "Hong Kong Sixes, 2026",
+            "seriesShortName": "HK Sixes, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12772",
+            "tourName": "Hong Kong Sixes, 2026",
+            "competitionType": "S6 Domestic - m",
+            "competitionTypeId": "142",
+            "seoName": "australia-vs-afghanistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "abaf8b84-5c5e-4c67-8c17-517b1b422df4",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "3300000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-01T07:10:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "HK",
+            "MY",
+            "SG",
+            "BN",
+            "MM",
+            "KH",
+            "CN",
+            "CX",
+            "TL",
+            "ID",
+            "JP",
+            "LA",
+            "MO",
+            "MN",
+            "FM",
+            "NC",
+            "PH",
+            "KR",
+            "TW",
+            "TH",
+            "VN",
+            "IN",
+            "PK",
+            "US",
+            "CA",
+            "ZA",
+            "WI",
+            "CC"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Yash kokane",
+      "lastUpdatedDate": "2026-11-01T01:01:07.68Z",
+      "contentDate": "2026-11-01T01:01:00Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "Cup-Final",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/danfguwzyc90jtpejbbn",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/danfguwzyc90jtpejbbn",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "cup-final",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/cup-final"
+      },
+      "entityCode": "video"
+    },
     {
       "type": "customentity",
       "_translationId": "acede4d6-b7fe-41d3-9c15-2501dbebdde5",
