@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 01-11-2026 13:15
+#DATE:- 01-11-2026 15:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="4fb8b68e-6065-4ced-9995-74ddb5527f80" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/kaubagqili84ogn1f3h6" tvg-lang="English" group-title="Cricket",English | 5th ODI: Namibia vs Ireland (1st Innings)
@@ -12,13 +12,3 @@
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793546108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=37e4f79255fb0bb4df65fefd2a038f9ec4ee434667312be3498a173cbe07e634/manifest.mpd?vcfilter=4fb8b68e-6065-4ced-9995-74ddb5527f80&
-#EXTINF:-1 tvg-id="abaf8b84-5c5e-4c67-8c17-517b1b422df4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/danfguwzyc90jtpejbbn" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: Final - Australia v Afghanistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793547908~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dd5434b0a252077be91e568480801b586c8d9c7a7cd492db2b55b2a6f4ad5b4a/manifest.mpd?vcfilter=abaf8b84-5c5e-4c67-8c17-517b1b422df4&
