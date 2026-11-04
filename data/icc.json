@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:30:04 PM 04-11-2026",
-  "total_matches": 2,
+  "last_updated": "02:45:08 PM 04-11-2026",
+  "total_matches": 1,
   "live_matches": 1,
-  "upcoming_matches": 1,
+  "upcoming_matches": 0,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,141 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "a3069a3e-aba5-4996-a3c8-8152daa437e9",
-      "_entityId": "e2fb4891-699d-45a8-b186-44b41cbd7d50",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-1st-innings",
-      "slug": "oman-v-united-arab-emirates-1st-innings",
-      "title": "Oman v United Arab Emirates (1st Innings)",
-      "tags": [
-        {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-6156",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "0c6e0dad-fe47-4148-90f4-d696e10b10d7",
-          "_entityId": "6c030022-4d94-427e-8a15-e77c69eccb28",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275772",
-          "title": "United Arab Emirates vs Oman - Match 145 - 11/4/2026",
-          "slug": "match-275772",
-          "neutralSlug": "match-275772",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275772",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275772",
-            "teamA": "United Arab Emirates",
-            "teamB": "Oman",
-            "teamAid": "21",
-            "teamBid": "28",
-            "teamAshort": "UAE",
-            "teamBshort": "OMA",
-            "stage": "League",
-            "matchDateLocal": "11/4/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 145",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
-            "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-oman",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "e3a42908-36fa-4895-98f5-13c0817026c9",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-04T05:30:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-04T05:09:50.57Z",
-      "contentDate": "2026-10-19T13:57:43.146Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_CWC-L2-UAE-OCT_Match6",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ka014qsjtpyi55ii8kfm",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ka014qsjtpyi55ii8kfm",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-uae-oct-match6",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match6"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, November 4, 2026, 10:45:02 AM",
-        "expire_date": "Wednesday, November 4, 2026, 6:45:06 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793798106~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=695f48a4eed425e6eb4c3561ee84c86e925a7794c95dc3d20bfe3c1f9449ba3c/manifest.mpd?vcfilter=e3a42908-36fa-4895-98f5-13c0817026c9&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "971949c6-110b-4585-b6e0-ff1926e80311",
@@ -230,7 +95,7 @@
       "fields": {
         "videoId": "d41a233d-015f-46c4-a811-63c33a97aa98",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "15480000",
         "v_has_data": true,
         "scheduledStartTime": "2026-11-04T09:12:00Z",
@@ -245,7 +110,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-04T08:52:48.455Z",
+      "lastUpdatedDate": "2026-11-04T09:10:23.694Z",
       "contentDate": "2026-10-19T13:58:02.093Z",
       "featured": 0,
       "thumbnail": {
@@ -257,7 +122,39 @@
         "slug": "icc26-cwc-l2-uae-oct-match6-1",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match6-1"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Wednesday, November 4, 2026, 2:45:04 PM",
+        "expire_date": "Wednesday, November 4, 2026, 10:45:07 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793812507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=11c098a21a1469bc89f92c503bb1b65cb33e33633504e3495f46790eef76f716/manifest.mpd?vcfilter=d41a233d-015f-46c4-a811-63c33a97aa98&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     }
-  ]
+  ],
+  "upcoming": []
 }
