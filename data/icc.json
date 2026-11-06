@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:45:08 PM 04-11-2026",
-  "total_matches": 1,
-  "live_matches": 1,
-  "upcoming_matches": 0,
+  "last_updated": "06-11-2026 15:00",
+  "total_matches": 7,
+  "live_matches": 0,
+  "upcoming_matches": 7,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -21,31 +21,32 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
+  "live": [],
+  "upcoming": [
     {
       "type": "customentity",
-      "_translationId": "971949c6-110b-4585-b6e0-ff1926e80311",
-      "_entityId": "ab56c05f-2c4a-4a10-ab6b-3e1af80dd061",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/oman-v-united-arab-emirates-2nd-innings",
-      "slug": "oman-v-united-arab-emirates-2nd-innings",
-      "title": "Oman v United Arab Emirates (2nd Innings)",
+      "_translationId": "eb764988-d00c-498c-bfdc-03dc9b1beb2c",
+      "_entityId": "713e8e30-d849-4cae-beda-06793a7970ca",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-scotland",
+      "slug": "papua-new-guinea-v-scotland",
+      "title": "Papua New Guinea v Scotland",
       "tags": [
         {
-          "_translationId": "61c301cc-f0bd-461c-ba0a-9cb5ac69deef",
-          "_entityId": "a5d22cb7-1425-4278-80dd-0847f5f32448",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
-          "title": "ICC CWC League 2, 2023-27",
-          "slug": "tournament-6156",
-          "neutralSlug": "tournament-6156",
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "tournament-6156",
+            "SourceId": "tournament-15842",
             "SourceName": "cricket"
           },
           "extraData": {
-            "tournamentId": "6156",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "tournament"
@@ -53,38 +54,38 @@
           "fields": []
         },
         {
-          "_translationId": "0c6e0dad-fe47-4148-90f4-d696e10b10d7",
-          "_entityId": "6c030022-4d94-427e-8a15-e77c69eccb28",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275772",
-          "title": "United Arab Emirates vs Oman - Match 145 - 11/4/2026",
-          "slug": "match-275772",
-          "neutralSlug": "match-275772",
+          "_translationId": "817f187a-ae61-4ff9-96fa-97847d52a0bb",
+          "_entityId": "435a7eb5-ac0e-4023-867d-7a1e3d0b2790",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275623",
+          "title": "Papua New Guinea vs Scotland - Match 2 - 11/12/2026",
+          "slug": "match-275623",
+          "neutralSlug": "match-275623",
           "externalSourceName": "cricket",
           "externalSourceReference": {
-            "SourceId": "match-275772",
+            "SourceId": "match-275623",
             "SourceName": "cricket"
           },
           "extraData": {
-            "matchId": "275772",
-            "teamA": "United Arab Emirates",
-            "teamB": "Oman",
-            "teamAid": "21",
-            "teamBid": "28",
-            "teamAshort": "UAE",
-            "teamBshort": "OMA",
-            "stage": "League",
-            "matchDateLocal": "11/4/2026",
-            "matchType": "ODI",
-            "matchNumber": "Match 145",
-            "seriesId": "6156",
-            "seriesName": "ICC CWC League 2, 2023-27",
-            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "matchId": "275623",
+            "teamA": "Papua New Guinea",
+            "teamB": "Scotland",
+            "teamAid": "1483",
+            "teamBid": "1132",
+            "teamAshort": "PNG",
+            "teamBshort": "SCO",
+            "stage": "Group",
+            "matchDateLocal": "11/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 2",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
             "seriesType": "Tournament",
-            "tourId": "4689",
-            "tourName": "ICC CWC League 2, 2023-27",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2",
-            "seoName": "united-arab-emirates-vs-oman",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "papua-new-guinea-vs-scotland",
             "championshipId": "",
             "championshipName": "",
             "externalTagType": "match"
@@ -93,12 +94,12 @@
         }
       ],
       "fields": {
-        "videoId": "d41a233d-015f-46c4-a811-63c33a97aa98",
+        "videoId": "55d2c239-f499-4317-9544-036f2071abca",
         "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "15480000",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
-        "scheduledStartTime": "2026-11-04T09:12:00Z",
+        "scheduledStartTime": "2026-11-12T05:00:00Z",
         "offer": "Registered",
         "type": "Event",
         "countryRestrictions": {
@@ -109,52 +110,632 @@
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-04T09:10:23.694Z",
-      "contentDate": "2026-10-19T13:58:02.093Z",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:19:33.043Z",
+      "contentDate": "2026-11-06T09:19:33.043Z",
       "featured": 0,
       "thumbnail": {
-        "title": "ICC26_CWC-L2-UAE-OCT_Match6 (1)",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pvp94bhzn7rdkalcg2ua",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pvp94bhzn7rdkalcg2ua",
+        "title": "ICC26_Womens-Emerging-Match-UAE-2",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/brdmizgccbq2bozg2cdh",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/brdmizgccbq2bozg2cdh",
         "format": "png",
         "overriddenFormats": [],
-        "slug": "icc26-cwc-l2-uae-oct-match6-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwc-l2-uae-oct-match6-1"
+        "slug": "icc26-womens-emerging-match-uae-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-2"
       },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, November 4, 2026, 2:45:04 PM",
-        "expire_date": "Wednesday, November 4, 2026, 10:45:07 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793812507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=11c098a21a1469bc89f92c503bb1b65cb33e33633504e3495f46790eef76f716/manifest.mpd?vcfilter=d41a233d-015f-46c4-a811-63c33a97aa98&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "9c24ef3a-3277-446f-96e4-05729f87f14b",
+      "_entityId": "00448199-6284-4f25-85f1-5ff6fdc1d7a0",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sri-lanka-v-ireland",
+      "slug": "sri-lanka-v-ireland",
+      "title": "Sri Lanka v Ireland",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "d582171a-8336-4ad0-83c6-e21f05ea60a2",
+          "_entityId": "0cee2af0-4ada-4698-97a6-336fdf816a23",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275621",
+          "title": "Sri Lanka vs Ireland - Match 1 - 11/12/2026",
+          "slug": "match-275621",
+          "neutralSlug": "match-275621",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275621",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275621",
+            "teamA": "Sri Lanka",
+            "teamB": "Ireland",
+            "teamAid": "1133",
+            "teamBid": "1125",
+            "teamAshort": "SL",
+            "teamBshort": "IRE",
+            "stage": "Group",
+            "matchDateLocal": "11/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 1",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "sri-lanka-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
-      }
+      ],
+      "fields": {
+        "videoId": "361f9b12-0eb4-4932-8d7c-3a7da6afadbd",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-12T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:18:55.557Z",
+      "contentDate": "2026-11-06T09:18:55.557Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-1",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pq93n2fuoy7awi9laslc",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pq93n2fuoy7awi9laslc",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "bf88ef4c-16f8-4bdf-acc9-edf764d5316d",
+      "_entityId": "947d7b51-56bb-417c-9b8b-8a692c2155c2",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-v-thailand",
+      "slug": "netherlands-v-thailand",
+      "title": "Netherlands v Thailand",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "36936aa6-b0d8-42a9-9f08-133336c6b767",
+          "_entityId": "da8b7e74-a3cd-4387-bc29-4e0cfe88c6b1",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275625",
+          "title": "Netherlands vs Thailand - Match 4 - 11/12/2026",
+          "slug": "match-275625",
+          "neutralSlug": "match-275625",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275625",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275625",
+            "teamA": "Netherlands",
+            "teamB": "Thailand",
+            "teamAid": "1123",
+            "teamBid": "1482",
+            "teamAshort": "NED",
+            "teamBshort": "THA",
+            "stage": "Group",
+            "matchDateLocal": "11/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 4",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "netherlands-vs-thailand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "faaa73c7-3f1f-4576-8f93-37faebfeccd1",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-12T09:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:20:41.285Z",
+      "contentDate": "2026-11-06T09:20:41.285Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-4",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/i6cgcpn1pek2ijso113z",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/i6cgcpn1pek2ijso113z",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-4",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-4"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "4db8f2a5-56b8-4d78-94f0-f7d9fcce5bf7",
+      "_entityId": "3928aaab-4eb3-4160-8d6b-4e6aa5a230fe",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/pakistan-v-bangladesh",
+      "slug": "pakistan-v-bangladesh",
+      "title": "Pakistan v Bangladesh",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "509f048b-27f8-4557-8afa-e4b4d3e1c104",
+          "_entityId": "2dec06b5-24ae-4543-a03a-7debfb1e5919",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275624",
+          "title": "Pakistan vs Bangladesh - Match 3 - 11/12/2026",
+          "slug": "match-275624",
+          "neutralSlug": "match-275624",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275624",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275624",
+            "teamA": "Pakistan",
+            "teamB": "Bangladesh",
+            "teamAid": "1130",
+            "teamBid": "1276",
+            "teamAshort": "PAK",
+            "teamBshort": "BAN",
+            "stage": "Group",
+            "matchDateLocal": "11/12/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 3",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "pakistan-vs-bangladesh",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "e13a02d0-3ff5-486e-b84e-59739ccc679d",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-12T09:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:20:07.389Z",
+      "contentDate": "2026-11-06T09:20:07.389Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-3",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rnumdq2ljm9xmcf34c66",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rnumdq2ljm9xmcf34c66",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-3",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-3"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "bcc7c3df-feeb-4060-8a44-1da38d87ce29",
+      "_entityId": "b000b793-d7b4-4198-a8c3-95b4389d106a",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-ireland",
+      "slug": "united-arab-emirates-v-ireland",
+      "title": "United Arab Emirates v Ireland",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "0398298a-9600-4eda-bd65-deeb1edd0427",
+          "_entityId": "3a7b0568-808b-4a15-a6a9-9f9aabc40504",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275627",
+          "title": "United Arab Emirates vs Ireland - Match 6 - 11/13/2026",
+          "slug": "match-275627",
+          "neutralSlug": "match-275627",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275627",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275627",
+            "teamA": "United Arab Emirates",
+            "teamB": "Ireland",
+            "teamAid": "1642",
+            "teamBid": "1125",
+            "teamAshort": "UAE",
+            "teamBshort": "IRE",
+            "stage": "Group",
+            "matchDateLocal": "11/13/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 6",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "united-arab-emirates-vs-ireland",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "076a2e62-e92d-4f13-8474-926916874f36",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-13T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:25:48.643Z",
+      "contentDate": "2026-11-06T09:25:48.643Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-6",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uarf2fuly4mzzwaiaqzz",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uarf2fuly4mzzwaiaqzz",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-6",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-6"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e6429e87-c6fd-4068-8be7-3d223fe984b0",
+      "_entityId": "df394ec6-aaa8-4bc4-87de-8731575bf5ff",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/scotland-v-sri-lanka",
+      "slug": "scotland-v-sri-lanka",
+      "title": "Scotland v Sri lanka",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7ae56ed2-399c-4241-a409-227a426eaa65",
+          "_entityId": "fdaa29b8-4ff8-4956-bd2c-b652add562da",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275626",
+          "title": "Scotland vs Sri Lanka - Match 5 - 11/13/2026",
+          "slug": "match-275626",
+          "neutralSlug": "match-275626",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275626",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275626",
+            "teamA": "Scotland",
+            "teamB": "Sri Lanka",
+            "teamAid": "1132",
+            "teamBid": "1133",
+            "teamAshort": "SCO",
+            "teamBshort": "SL",
+            "stage": "Group",
+            "matchDateLocal": "11/13/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 5",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "scotland-vs-sri-lanka",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "2eb65854-c33c-40af-bf64-44d1e4c0136f",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-13T05:00:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:25:15.754Z",
+      "contentDate": "2026-11-06T09:25:15.754Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-5",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/jfk4qcrxy3evlgip5th7",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jfk4qcrxy3evlgip5th7",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-5",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-5"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "965180bd-1bcb-4afe-a2aa-f03917d8e8fa",
+      "_entityId": "5f08a63f-3fa4-47a1-a1f0-d8fb611d6832",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/thailand-v-pakistan",
+      "slug": "thailand-v-pakistan",
+      "title": "Thailand v Pakistan",
+      "tags": [
+        {
+          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
+          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
+          "title": "ICC Women's Emerging Nations Trophy, 2026",
+          "slug": "tournament-15842",
+          "neutralSlug": "tournament-15842",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15842",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15842",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "04b388c7-4256-4b86-a143-6fa0e560c1c0",
+          "_entityId": "a630017d-261c-4724-99df-cdd2aa4dc708",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275628",
+          "title": "Thailand vs Pakistan - Match 7 - 11/13/2026",
+          "slug": "match-275628",
+          "neutralSlug": "match-275628",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275628",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "275628",
+            "teamA": "Thailand",
+            "teamB": "Pakistan",
+            "teamAid": "1482",
+            "teamBid": "1130",
+            "teamAshort": "THA",
+            "teamBshort": "PAK",
+            "stage": "Group",
+            "matchDateLocal": "11/13/2026",
+            "matchType": "T20",
+            "matchNumber": "Match 7",
+            "seriesId": "15842",
+            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12784",
+            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "thailand-vs-pakistan",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "1b53d98b-6b74-4ebf-aab9-b5a80542c7ae",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-11-13T09:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-06T09:26:23.953Z",
+      "contentDate": "2026-11-06T09:26:23.953Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_Womens-Emerging-Match-UAE-7",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zqiqwalds16cixwfigme",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqiqwalds16cixwfigme",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-womens-emerging-match-uae-7",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-7"
+      },
+      "entityCode": "video"
     }
-  ],
-  "upcoming": []
+  ]
 }
