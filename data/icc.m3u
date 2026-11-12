@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 12-11-2026 10:15
+#DATE:- 12-11-2026 14:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="55d2c239-f499-4317-9544-036f2071abca" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/brdmizgccbq2bozg2cdh" tvg-lang="English" group-title="Cricket",English | Papua New Guinea v Scotland
+#EXTINF:-1 tvg-id="faaa73c7-3f1f-4576-8f93-37faebfeccd1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/i6cgcpn1pek2ijso113z" tvg-lang="English" group-title="Cricket",English | Netherlands v Thailand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794487517~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f0011cd1334b4a33648d2b4ced0b8000040e0178efde9499d58d68402519d34e/manifest.mpd?vcfilter=55d2c239-f499-4317-9544-036f2071abca&
-#EXTINF:-1 tvg-id="361f9b12-0eb4-4932-8d7c-3a7da6afadbd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/v1793984941/prd/pq93n2fuoy7awi9laslc" tvg-lang="English" group-title="Cricket",English | Sri Lanka v Ireland
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794502813~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=92d31e69584ea0f3fe45e4b4d49028c5233dd52b063bd5ec97f5056ebbb66d3c/manifest.mpd?vcfilter=faaa73c7-3f1f-4576-8f93-37faebfeccd1&
+#EXTINF:-1 tvg-id="e13a02d0-3ff5-486e-b84e-59739ccc679d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rnumdq2ljm9xmcf34c66" tvg-lang="English" group-title="Cricket",English | Pakistan v Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794487525~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=92dccdd0ef6c85c0d085857c3629a33d8e67df3ed276fb66bd71835462863db7/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794502819~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=318bd969c526d7204e289d100f9c91575e51619c1165f03aa7df3992de4a2d21/manifest.mpd?vcfilter=e13a02d0-3ff5-486e-b84e-59739ccc679d&
