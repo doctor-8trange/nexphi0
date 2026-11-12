@@ -1,24 +1,3 @@
 #EXTM3U
-#DATE:- 12-11-2026 16:00
+#DATE:- 12-11-2026 17:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="faaa73c7-3f1f-4576-8f93-37faebfeccd1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/i6cgcpn1pek2ijso113z" tvg-lang="English" group-title="Cricket",English | Netherlands v Thailand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794502813~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=92d31e69584ea0f3fe45e4b4d49028c5233dd52b063bd5ec97f5056ebbb66d3c/manifest.mpd?vcfilter=faaa73c7-3f1f-4576-8f93-37faebfeccd1&
-#EXTINF:-1 tvg-id="e13a02d0-3ff5-486e-b84e-59739ccc679d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rnumdq2ljm9xmcf34c66" tvg-lang="English" group-title="Cricket",English | Pakistan v Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794502819~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=318bd969c526d7204e289d100f9c91575e51619c1165f03aa7df3992de4a2d21/manifest.mpd?vcfilter=e13a02d0-3ff5-486e-b84e-59739ccc679d&
