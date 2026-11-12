@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "10:15:25 AM 12-11-2026",
-  "total_matches": 20,
+  "last_updated": "02:30:19 PM 12-11-2026",
+  "total_matches": 18,
   "live_matches": 2,
-  "upcoming_matches": 18,
+  "upcoming_matches": 16,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -22,420 +22,6 @@
     "SERVER_STATUS": "NORMAL"
   },
   "live": [
-    {
-      "type": "customentity",
-      "_translationId": "eb764988-d00c-498c-bfdc-03dc9b1beb2c",
-      "_entityId": "713e8e30-d849-4cae-beda-06793a7970ca",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-scotland",
-      "slug": "papua-new-guinea-v-scotland",
-      "title": "Papua New Guinea v Scotland",
-      "tags": [
-        {
-          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
-          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
-          "title": "ICC Women's Emerging Nations Trophy, 2026",
-          "slug": "tournament-15842",
-          "neutralSlug": "tournament-15842",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15842",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15842",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "817f187a-ae61-4ff9-96fa-97847d52a0bb",
-          "_entityId": "435a7eb5-ac0e-4023-867d-7a1e3d0b2790",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275623",
-          "title": "Papua New Guinea vs Scotland - Match 2 - 11/12/2026",
-          "slug": "match-275623",
-          "neutralSlug": "match-275623",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275623",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275623",
-            "teamA": "Papua New Guinea",
-            "teamB": "Scotland",
-            "teamAid": "1483",
-            "teamBid": "1132",
-            "teamAshort": "PNG",
-            "teamBshort": "SCO",
-            "stage": "Group",
-            "matchDateLocal": "11/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 2",
-            "seriesId": "15842",
-            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12784",
-            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "papua-new-guinea-vs-scotland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "55d2c239-f499-4317-9544-036f2071abca",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-12T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "MX",
-            "CR",
-            "SV",
-            "GT",
-            "HN",
-            "NI",
-            "PA",
-            "AR",
-            "BO",
-            "BR",
-            "CL",
-            "CO",
-            "EC",
-            "PY",
-            "PE",
-            "UY",
-            "VE",
-            "CU",
-            "DO",
-            "HT",
-            "CA",
-            "US",
-            "IN",
-            "PK",
-            "LK",
-            "AO",
-            "BJ",
-            "BW",
-            "BF",
-            "BI",
-            "CV",
-            "CM",
-            "CF",
-            "TD",
-            "KM",
-            "CG",
-            "CD",
-            "CI",
-            "DJ",
-            "GQ",
-            "ER",
-            "ET",
-            "GA",
-            "GM",
-            "GH",
-            "GN",
-            "GW",
-            "KE",
-            "LS",
-            "LR",
-            "MG",
-            "MW",
-            "MU",
-            "MR",
-            "MZ",
-            "NA",
-            "NE",
-            "NG",
-            "RW",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SO",
-            "ZA",
-            "SS",
-            "SD",
-            "TZ",
-            "TG",
-            "UG",
-            "ZM",
-            "ZW",
-            "SZ",
-            "ML"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-12T04:41:25.463Z",
-      "contentDate": "2026-11-06T09:19:33.043Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Emerging-Match-UAE-2",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/brdmizgccbq2bozg2cdh",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/brdmizgccbq2bozg2cdh",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-emerging-match-uae-2",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-2"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, November 12, 2026, 10:15:04 AM",
-        "expire_date": "Thursday, November 12, 2026, 6:15:17 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794487517~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f0011cd1334b4a33648d2b4ced0b8000040e0178efde9499d58d68402519d34e/manifest.mpd?vcfilter=55d2c239-f499-4317-9544-036f2071abca&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "9c24ef3a-3277-446f-96e4-05729f87f14b",
-      "_entityId": "00448199-6284-4f25-85f1-5ff6fdc1d7a0",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sri-lanka-v-ireland",
-      "slug": "sri-lanka-v-ireland",
-      "title": "Sri Lanka v Ireland",
-      "tags": [
-        {
-          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
-          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
-          "title": "ICC Women's Emerging Nations Trophy, 2026",
-          "slug": "tournament-15842",
-          "neutralSlug": "tournament-15842",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15842",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15842",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "d582171a-8336-4ad0-83c6-e21f05ea60a2",
-          "_entityId": "0cee2af0-4ada-4698-97a6-336fdf816a23",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275621",
-          "title": "Sri Lanka vs Ireland - Match 1 - 11/12/2026",
-          "slug": "match-275621",
-          "neutralSlug": "match-275621",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275621",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275621",
-            "teamA": "Sri Lanka",
-            "teamB": "Ireland",
-            "teamAid": "1133",
-            "teamBid": "1125",
-            "teamAshort": "SL",
-            "teamBshort": "IRE",
-            "stage": "Group",
-            "matchDateLocal": "11/12/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 1",
-            "seriesId": "15842",
-            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12784",
-            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "sri-lanka-vs-ireland",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "361f9b12-0eb4-4932-8d7c-3a7da6afadbd",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-12T05:00:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "MX",
-            "CR",
-            "SV",
-            "GT",
-            "HN",
-            "NI",
-            "PA",
-            "AR",
-            "BO",
-            "BR",
-            "CL",
-            "CO",
-            "EC",
-            "PY",
-            "PE",
-            "UY",
-            "VE",
-            "CU",
-            "DO",
-            "HT",
-            "CA",
-            "US",
-            "IN",
-            "PK",
-            "LK",
-            "AO",
-            "BJ",
-            "BW",
-            "BF",
-            "BI",
-            "CV",
-            "CM",
-            "CF",
-            "TD",
-            "KM",
-            "CG",
-            "CD",
-            "CI",
-            "DJ",
-            "GQ",
-            "ER",
-            "ET",
-            "GA",
-            "GM",
-            "GH",
-            "GN",
-            "GW",
-            "KE",
-            "LS",
-            "LR",
-            "MG",
-            "MW",
-            "MU",
-            "MR",
-            "MZ",
-            "NA",
-            "NE",
-            "NG",
-            "RW",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SO",
-            "ZA",
-            "SS",
-            "SD",
-            "TZ",
-            "TG",
-            "UG",
-            "ZM",
-            "ZW",
-            "SZ",
-            "ML"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-12T04:41:21.399Z",
-      "contentDate": "2026-11-06T09:18:55.557Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Emerging-Match-UAE-1",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/v1793984941/prd/pq93n2fuoy7awi9laslc",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/v1793984941/prd/pq93n2fuoy7awi9laslc",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-emerging-match-uae-1",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-1"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Thursday, November 12, 2026, 10:15:16 AM",
-        "expire_date": "Thursday, November 12, 2026, 6:15:25 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794487525~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=92dccdd0ef6c85c0d085857c3629a33d8e67df3ed276fb66bd71835462863db7/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
-  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "bf88ef4c-16f8-4bdf-acc9-edf764d5316d",
@@ -509,7 +95,7 @@
       "fields": {
         "videoId": "faaa73c7-3f1f-4576-8f93-37faebfeccd1",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-11-12T09:15:00Z",
@@ -590,13 +176,14 @@
             "UG",
             "ZM",
             "ZW",
-            "SZ"
+            "SZ",
+            "ML"
           ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-11T19:02:56.62Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-12T08:55:30.902Z",
       "contentDate": "2026-11-06T09:20:41.285Z",
       "featured": 0,
       "thumbnail": {
@@ -608,7 +195,38 @@
         "slug": "icc26-womens-emerging-match-uae-4",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-4"
       },
-      "entityCode": "video"
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, November 12, 2026, 2:30:07 PM",
+        "expire_date": "Thursday, November 12, 2026, 10:30:13 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794502813~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=92d31e69584ea0f3fe45e4b4d49028c5233dd52b063bd5ec97f5056ebbb66d3c/manifest.mpd?vcfilter=faaa73c7-3f1f-4576-8f93-37faebfeccd1&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
     },
     {
       "type": "customentity",
@@ -683,7 +301,7 @@
       "fields": {
         "videoId": "e13a02d0-3ff5-486e-b84e-59739ccc679d",
         "workflow": "LIVE",
-        "videoStatus": "Scheduled",
+        "videoStatus": "Live",
         "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "2026-11-12T09:15:00Z",
@@ -764,13 +382,14 @@
             "UG",
             "ZM",
             "ZW",
-            "SZ"
+            "SZ",
+            "ML"
           ]
         }
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-11T19:04:30.243Z",
+      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedDate": "2026-11-12T08:55:25.993Z",
       "contentDate": "2026-11-06T09:20:07.389Z",
       "featured": 0,
       "thumbnail": {
@@ -782,8 +401,41 @@
         "slug": "icc26-womens-emerging-match-uae-3",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-3"
       },
-      "entityCode": "video"
-    },
+      "entityCode": "video",
+      "playback": {
+        "Status_code": 302,
+        "create_date": "Thursday, November 12, 2026, 2:30:13 PM",
+        "expire_date": "Thursday, November 12, 2026, 10:30:19 PM",
+        "headers": [
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+          "Referer: https://www.icc-cricket.com/",
+          "Origin: https://www.icc-cricket.com"
+        ],
+        "audioTracks": [
+          {
+            "id": "primary",
+            "displayName": "English"
+          }
+        ],
+        "is_redirect": true,
+        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794502819~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=318bd969c526d7204e289d100f9c91575e51619c1165f03aa7df3992de4a2d21/manifest.mpd?vcfilter=e13a02d0-3ff5-486e-b84e-59739ccc679d&",
+        "keys": {
+          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+          "jwk": {
+            "keys": [
+              {
+                "kty": "oct",
+                "k": "mGn4BLoY1-UIy_94GCkiHA",
+                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
+              }
+            ],
+            "type": "temporary"
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "type": "customentity",
       "_translationId": "bcc7c3df-feeb-4060-8a44-1da38d87ce29",
