@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 16-11-2026 14:32
+#DATE:- 16-11-2026 17:47
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="abfc2c4d-0330-4c6f-beea-6571759006a4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nyslvslpfovgzovzwrn5" tvg-lang="English" group-title="Cricket",English | United Arab Emirates v Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794848569~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=55cf3ed508e6e442cb3fa46e8bccdd8ff57c6d850377892afafed8f41d85a39c/manifest.mpd?vcfilter=abfc2c4d-0330-4c6f-beea-6571759006a4&
 #EXTINF:-1 tvg-id="b61b6d4e-5e33-4014-a982-4ceb56026685" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/v1793985781/prd/pgyalrxecpvsnc9c2xfo" tvg-lang="English" group-title="Cricket",English | Ireland v Papua New Guinea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
