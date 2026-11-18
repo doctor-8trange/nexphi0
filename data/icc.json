@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "02:32:51 PM 18-11-2026",
-  "total_matches": 56,
+  "last_updated": "03:32:45 PM 18-11-2026",
+  "total_matches": 58,
   "live_matches": 2,
-  "upcoming_matches": 54,
+  "upcoming_matches": 56,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -3294,6 +3294,108 @@
     },
     {
       "type": "customentity",
+      "_translationId": "4dfdbc34-c6fb-441d-b4d8-074121fcde49",
+      "_entityId": "50e2fa6b-a0c9-4bf5-96b7-63534c73afd1",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-italy-1st-innings",
+      "slug": "united-arab-emirates-v-italy-1st-innings",
+      "title": "United Arab Emirates v Italy (1st Innings)",
+      "tags": [
+        {
+          "_translationId": "ae83d627-0064-4361-a583-310c55e523a0",
+          "_entityId": "ba9d94cc-5816-403e-9f15-94d596aee62e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15866",
+          "title": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+          "slug": "tournament-15866",
+          "neutralSlug": "tournament-15866",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15866",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15866",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7f1f6bc3-d747-441a-9c20-1f5a045a399f",
+          "_entityId": "d18b2274-ceed-4f40-9676-8b4d06b2cac4",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276102",
+          "title": "United Arab Emirates vs Italy - Match 16 - 12/13/2026",
+          "slug": "match-276102",
+          "neutralSlug": "match-276102",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276102",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276102",
+            "teamA": "United Arab Emirates",
+            "teamB": "Italy",
+            "teamAid": "21",
+            "teamBid": "1298",
+            "teamAshort": "UAE",
+            "teamBshort": "ITA",
+            "stage": "League",
+            "matchDateLocal": "12/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 16",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-italy",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "8ab9d4ea-c2bf-471c-978a-e5cb17ca48a9",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-12-13T03:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-18T10:02:24.253Z",
+      "contentDate": "2026-11-17T13:28:54.889Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWCQ-Play-off-NEP-DEC_Match16 (2) (1)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fhiu75njbvgalujk8wer",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fhiu75njbvgalujk8wer",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwcq-play-off-nep-dec-match16-2-1",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwcq-play-off-nep-dec-match16-2-1"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
       "_translationId": "30506ba2-6c50-420b-97cd-b9aff7e10843",
       "_entityId": "6132690c-8a81-46f6-835f-c4b9bec587ac",
       "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/uganda-v-kuwait-1st-innings",
@@ -3391,6 +3493,108 @@
         "overriddenFormats": [],
         "slug": "icc26-cwcq-play-off-nep-dec-match15",
         "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwcq-play-off-nep-dec-match15"
+      },
+      "entityCode": "video"
+    },
+    {
+      "type": "customentity",
+      "_translationId": "e0e5dfac-0c3a-4a90-95af-fe31db9d6fe1",
+      "_entityId": "a6a2f430-4d62-43cf-b4d2-9d035845e803",
+      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/united-arab-emirates-v-italy-2nd-innings",
+      "slug": "united-arab-emirates-v-italy-2nd-innings",
+      "title": "United Arab Emirates v Italy (2nd Innings)",
+      "tags": [
+        {
+          "_translationId": "ae83d627-0064-4361-a583-310c55e523a0",
+          "_entityId": "ba9d94cc-5816-403e-9f15-94d596aee62e",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15866",
+          "title": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+          "slug": "tournament-15866",
+          "neutralSlug": "tournament-15866",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15866",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "tournamentId": "15866",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
+        },
+        {
+          "_translationId": "7f1f6bc3-d747-441a-9c20-1f5a045a399f",
+          "_entityId": "d18b2274-ceed-4f40-9676-8b4d06b2cac4",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276102",
+          "title": "United Arab Emirates vs Italy - Match 16 - 12/13/2026",
+          "slug": "match-276102",
+          "neutralSlug": "match-276102",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276102",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276102",
+            "teamA": "United Arab Emirates",
+            "teamB": "Italy",
+            "teamAid": "21",
+            "teamBid": "1298",
+            "teamAshort": "UAE",
+            "teamBshort": "ITA",
+            "stage": "League",
+            "matchDateLocal": "12/13/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 16",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "united-arab-emirates-vs-italy",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
+        }
+      ],
+      "fields": {
+        "videoId": "12776533-11ea-4b30-a433-6f7aef816105",
+        "workflow": "LIVE",
+        "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
+        "v_has_data": true,
+        "scheduledStartTime": "2026-12-13T07:15:00Z",
+        "offer": "Registered",
+        "type": "Event",
+        "countryRestrictions": {
+          "listType": "blacklist",
+          "countries": [
+            "IN"
+          ]
+        }
+      },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "Ninad Jadhav",
+      "lastUpdatedDate": "2026-11-18T10:02:37.04Z",
+      "contentDate": "2026-11-17T13:29:40.498Z",
+      "featured": 0,
+      "thumbnail": {
+        "title": "ICC26_CWCQ-Play-off-NEP-DEC_Match16 (2) (2)",
+        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hscedvmw7mbabhict856",
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hscedvmw7mbabhict856",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "icc26-cwcq-play-off-nep-dec-match16-2-2",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-cwcq-play-off-nep-dec-match16-2-2"
       },
       "entityCode": "video"
     },
