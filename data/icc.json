@@ -2,9 +2,9 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "03:32:45 PM 18-11-2026",
-  "total_matches": 58,
-  "live_matches": 2,
+  "last_updated": "18-11-2026 18:02",
+  "total_matches": 56,
+  "live_matches": 0,
   "upcoming_matches": 56,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
@@ -21,420 +21,7 @@
     "ALL_IN_ONE": "ON",
     "SERVER_STATUS": "NORMAL"
   },
-  "live": [
-    {
-      "type": "customentity",
-      "_translationId": "4d5479bc-65d5-45f8-948d-bd00651f8d6e",
-      "_entityId": "9a2562cb-d35a-404a-a607-7151b8bbc428",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bangladesh-vs-thailand",
-      "slug": "bangladesh-vs-thailand",
-      "title": "Bangladesh v Thailand",
-      "tags": [
-        {
-          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
-          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
-          "title": "ICC Women's Emerging Nations Trophy, 2026",
-          "slug": "tournament-15842",
-          "neutralSlug": "tournament-15842",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15842",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15842",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "f2d288ed-2a6d-42b1-bdb0-e421acaa9b6a",
-          "_entityId": "d11cabe7-8d24-4a81-822b-1016c3c508eb",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275641",
-          "title": "Bangladesh vs Thailand - Match 20 - 11/18/2026",
-          "slug": "match-275641",
-          "neutralSlug": "match-275641",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275641",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275641",
-            "teamA": "Bangladesh",
-            "teamB": "Thailand",
-            "teamAid": "1276",
-            "teamBid": "1482",
-            "teamAshort": "BAN",
-            "teamBshort": "THA",
-            "stage": "Group",
-            "matchDateLocal": "11/18/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 20",
-            "seriesId": "15842",
-            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12784",
-            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "bangladesh-vs-thailand",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "f0290586-3e56-4fd8-bc61-4a8278513418",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-18T09:15:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "MX",
-            "CR",
-            "SV",
-            "GT",
-            "HN",
-            "NI",
-            "PA",
-            "AR",
-            "BO",
-            "BR",
-            "CL",
-            "CO",
-            "EC",
-            "PY",
-            "PE",
-            "UY",
-            "VE",
-            "CU",
-            "DO",
-            "HT",
-            "CA",
-            "US",
-            "IN",
-            "PK",
-            "LK",
-            "AO",
-            "BJ",
-            "BW",
-            "BF",
-            "BI",
-            "CV",
-            "CM",
-            "CF",
-            "TD",
-            "KM",
-            "CG",
-            "CD",
-            "CI",
-            "DJ",
-            "GQ",
-            "ER",
-            "ET",
-            "GA",
-            "GM",
-            "GH",
-            "GN",
-            "GW",
-            "KE",
-            "LS",
-            "LR",
-            "MG",
-            "MW",
-            "MU",
-            "MR",
-            "MZ",
-            "NA",
-            "NE",
-            "NG",
-            "RW",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SO",
-            "ZA",
-            "SS",
-            "SD",
-            "TZ",
-            "TG",
-            "UG",
-            "ZM",
-            "ZW",
-            "SZ",
-            "ML"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-18T08:55:35.762Z",
-      "contentDate": "2026-11-06T09:49:47.492Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Emerging-Match-UAE-20",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/vkbmwbjuw3sxfxqwspx9",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vkbmwbjuw3sxfxqwspx9",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-emerging-match-uae-20",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-20"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, November 18, 2026, 2:32:45 PM",
-        "expire_date": "Wednesday, November 18, 2026, 10:32:48 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021368~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=05bd4b493075d240e78a61a857b171337812817c8a958b2f11d70b171f7b137a/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "ef6bca16-5033-405d-8275-61aba7a90beb",
-      "_entityId": "a1433b97-0919-4721-9a03-6e3ec9ef1c5b",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/netherlands-vs-zimbabwe",
-      "slug": "netherlands-vs-zimbabwe",
-      "title": "Netherlands v Zimbabwe",
-      "tags": [
-        {
-          "_translationId": "dded3791-fec9-436e-9afa-bb8bf28179cc",
-          "_entityId": "c9927f39-f4c5-4276-ae83-3f28e3097614",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15842",
-          "title": "ICC Women's Emerging Nations Trophy, 2026",
-          "slug": "tournament-15842",
-          "neutralSlug": "tournament-15842",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "tournament-15842",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "tournamentId": "15842",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "tournament"
-          },
-          "fields": []
-        },
-        {
-          "_translationId": "239d0a1b-07a2-402d-bc2e-b944e7978be1",
-          "_entityId": "511d6aed-4d2f-492f-99c1-435746698347",
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275640",
-          "title": "Netherlands vs Zimbabwe - Match 19 - 11/18/2026",
-          "slug": "match-275640",
-          "neutralSlug": "match-275640",
-          "externalSourceName": "cricket",
-          "externalSourceReference": {
-            "SourceId": "match-275640",
-            "SourceName": "cricket"
-          },
-          "extraData": {
-            "matchId": "275640",
-            "teamA": "Netherlands",
-            "teamB": "Zimbabwe",
-            "teamAid": "1123",
-            "teamBid": "1485",
-            "teamAshort": "NED",
-            "teamBshort": "ZIM",
-            "stage": "Group",
-            "matchDateLocal": "11/18/2026",
-            "matchType": "T20",
-            "matchNumber": "Match 19",
-            "seriesId": "15842",
-            "seriesName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesShortName": "ICC Women's Emerging Nations Trophy, 2026",
-            "seriesType": "Tournament",
-            "tourId": "12784",
-            "tourName": "ICC Women's Emerging Nations Trophy, 2026",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13",
-            "seoName": "netherlands-vs-zimbabwe",
-            "championshipId": "",
-            "championshipName": "",
-            "externalTagType": "match"
-          },
-          "fields": []
-        }
-      ],
-      "fields": {
-        "videoId": "6fcd44d2-69c5-43bd-880b-4e7bda3b8711",
-        "workflow": "LIVE",
-        "videoStatus": "Live",
-        "videoEstimatedDuration": "14400000",
-        "v_has_data": true,
-        "scheduledStartTime": "2026-11-18T09:15:00Z",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "MX",
-            "CR",
-            "SV",
-            "GT",
-            "HN",
-            "NI",
-            "PA",
-            "AR",
-            "BO",
-            "BR",
-            "CL",
-            "CO",
-            "EC",
-            "PY",
-            "PE",
-            "UY",
-            "VE",
-            "CU",
-            "DO",
-            "HT",
-            "CA",
-            "US",
-            "IN",
-            "PK",
-            "LK",
-            "AO",
-            "BJ",
-            "BW",
-            "BF",
-            "BI",
-            "CV",
-            "CM",
-            "CF",
-            "TD",
-            "KM",
-            "CG",
-            "CD",
-            "CI",
-            "DJ",
-            "GQ",
-            "ER",
-            "ET",
-            "GA",
-            "GM",
-            "GH",
-            "GN",
-            "GW",
-            "KE",
-            "LS",
-            "LR",
-            "MG",
-            "MW",
-            "MU",
-            "MR",
-            "MZ",
-            "NA",
-            "NE",
-            "NG",
-            "RW",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SO",
-            "ZA",
-            "SS",
-            "SD",
-            "TZ",
-            "TG",
-            "UG",
-            "ZM",
-            "ZW",
-            "SZ",
-            "ML"
-          ]
-        }
-      },
-      "createdBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
-      "lastUpdatedDate": "2026-11-18T08:55:35.499Z",
-      "contentDate": "2026-11-06T09:49:22.454Z",
-      "featured": 0,
-      "thumbnail": {
-        "title": "ICC26_Womens-Emerging-Match-UAE-19",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/uijrxxkourhizixpz7g2",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uijrxxkourhizixpz7g2",
-        "format": "png",
-        "overriddenFormats": [],
-        "slug": "icc26-womens-emerging-match-uae-19",
-        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/icc26-womens-emerging-match-uae-19"
-      },
-      "entityCode": "video",
-      "playback": {
-        "Status_code": 302,
-        "create_date": "Wednesday, November 18, 2026, 2:32:48 PM",
-        "expire_date": "Wednesday, November 18, 2026, 10:32:51 PM",
-        "headers": [
-          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-          "Referer: https://www.icc-cricket.com/",
-          "Origin: https://www.icc-cricket.com"
-        ],
-        "audioTracks": [
-          {
-            "id": "primary",
-            "displayName": "English"
-          }
-        ],
-        "is_redirect": true,
-        "playbackUrl": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021371~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=9c7de5336397964af9b8bc05ec4fdc24a96eac5d95dc69daa6b28d58c97f5bf3/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711&",
-        "keys": {
-          "hex": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-          "jwk": {
-            "keys": [
-              {
-                "kty": "oct",
-                "k": "mGn4BLoY1-UIy_94GCkiHA",
-                "kid": "Ob0wLN7tNxCon7AE0jKrZw"
-              }
-            ],
-            "type": "temporary"
-          }
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "type": "customentity",
@@ -5361,6 +4948,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "42938992-cad5-4efb-affd-c8ffc2b201ff",
+          "_entityId": "34e2b713-c7fc-4558-a873-4a914b7d1aee",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276114",
+          "title": "Italy vs Jersey - Match 28 - 12/21/2026",
+          "slug": "match-276114",
+          "neutralSlug": "match-276114",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276114",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276114",
+            "teamA": "Italy",
+            "teamB": "Jersey",
+            "teamAid": "1298",
+            "teamBid": "1481",
+            "teamAshort": "ITA",
+            "teamBshort": "JSY",
+            "stage": "League",
+            "matchDateLocal": "12/21/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 28",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "italy-vs-jersey",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5381,7 +5007,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:52:50.312Z",
+      "lastUpdatedDate": "2026-11-18T10:04:16.019Z",
       "contentDate": "2026-11-17T13:52:50.312Z",
       "featured": 0,
       "thumbnail": {
@@ -5526,6 +5152,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "42938992-cad5-4efb-affd-c8ffc2b201ff",
+          "_entityId": "34e2b713-c7fc-4558-a873-4a914b7d1aee",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276114",
+          "title": "Italy vs Jersey - Match 28 - 12/21/2026",
+          "slug": "match-276114",
+          "neutralSlug": "match-276114",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276114",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276114",
+            "teamA": "Italy",
+            "teamB": "Jersey",
+            "teamAid": "1298",
+            "teamBid": "1481",
+            "teamAshort": "ITA",
+            "teamBshort": "JSY",
+            "stage": "League",
+            "matchDateLocal": "12/21/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 28",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "italy-vs-jersey",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5546,7 +5211,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:53:10.834Z",
+      "lastUpdatedDate": "2026-11-18T10:04:37.345Z",
       "contentDate": "2026-11-17T13:53:10.834Z",
       "featured": 0,
       "thumbnail": {
@@ -5691,6 +5356,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "0b8bcef2-2c45-4826-a8fe-efb8adc980df",
+          "_entityId": "3f517de2-a675-477a-80d5-f478add2b7c3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276112",
+          "title": "Canada vs Uganda - Match 26 - 12/20/2026",
+          "slug": "match-276112",
+          "neutralSlug": "match-276112",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276112",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276112",
+            "teamA": "Canada",
+            "teamB": "Uganda",
+            "teamAid": "12",
+            "teamBid": "29",
+            "teamAshort": "CAN",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "12/20/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 26",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5711,7 +5415,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:55:45.58Z",
+      "lastUpdatedDate": "2026-11-18T10:05:56.969Z",
       "contentDate": "2026-11-17T13:55:45.58Z",
       "featured": 0,
       "thumbnail": {
@@ -5754,6 +5458,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "d7d5f8f6-e250-46a8-927b-543fbbe2956a",
+          "_entityId": "9e5b2be0-f657-4efd-87b5-680475a365f7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276113",
+          "title": "Nepal vs Kuwait - Match 27 - 12/21/2026",
+          "slug": "match-276113",
+          "neutralSlug": "match-276113",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276113",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276113",
+            "teamA": "Nepal",
+            "teamB": "Kuwait",
+            "teamAid": "637",
+            "teamBid": "1797",
+            "teamAshort": "NEP",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "12/21/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 27",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5774,7 +5517,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:54:49.24Z",
+      "lastUpdatedDate": "2026-11-18T10:05:14.52Z",
       "contentDate": "2026-11-17T13:54:49.24Z",
       "featured": 0,
       "thumbnail": {
@@ -5817,6 +5560,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "0b8bcef2-2c45-4826-a8fe-efb8adc980df",
+          "_entityId": "3f517de2-a675-477a-80d5-f478add2b7c3",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276112",
+          "title": "Canada vs Uganda - Match 26 - 12/20/2026",
+          "slug": "match-276112",
+          "neutralSlug": "match-276112",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276112",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276112",
+            "teamA": "Canada",
+            "teamB": "Uganda",
+            "teamAid": "12",
+            "teamBid": "29",
+            "teamAshort": "CAN",
+            "teamBshort": "UGA",
+            "stage": "League",
+            "matchDateLocal": "12/20/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 26",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-uganda",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5837,7 +5619,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:56:05.52Z",
+      "lastUpdatedDate": "2026-11-18T10:05:56.966Z",
       "contentDate": "2026-11-17T13:56:05.52Z",
       "featured": 0,
       "thumbnail": {
@@ -5880,6 +5662,45 @@
             "externalTagType": "tournament"
           },
           "fields": []
+        },
+        {
+          "_translationId": "d7d5f8f6-e250-46a8-927b-543fbbe2956a",
+          "_entityId": "9e5b2be0-f657-4efd-87b5-680475a365f7",
+          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-276113",
+          "title": "Nepal vs Kuwait - Match 27 - 12/21/2026",
+          "slug": "match-276113",
+          "neutralSlug": "match-276113",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-276113",
+            "SourceName": "cricket"
+          },
+          "extraData": {
+            "matchId": "276113",
+            "teamA": "Nepal",
+            "teamB": "Kuwait",
+            "teamAid": "637",
+            "teamBid": "1797",
+            "teamAshort": "NEP",
+            "teamBshort": "KUW",
+            "stage": "League",
+            "matchDateLocal": "12/21/2026",
+            "matchType": "ODI",
+            "matchNumber": "Match 27",
+            "seriesId": "15866",
+            "seriesName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "seriesShortName": "ICC CWC Qualifiers Playoff, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12806",
+            "tourName": "ICC Cricket World Cup Qualifiers Playoff, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "nepal-vs-kuwait",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
@@ -5900,7 +5721,7 @@
       },
       "createdBy": "icc-forge-diva-connector-worker-client",
       "lastUpdatedBy": "Ninad Jadhav",
-      "lastUpdatedDate": "2026-11-17T13:55:12.453Z",
+      "lastUpdatedDate": "2026-11-18T10:05:14.513Z",
       "contentDate": "2026-11-17T13:55:12.453Z",
       "featured": 0,
       "thumbnail": {
